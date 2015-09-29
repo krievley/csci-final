@@ -1,7 +1,7 @@
 xquery version "3.0" encoding "UTF-8";
 
 declare variable $col_path := request:get-attribute('collection_path');
-declare variable $col := collection('/db/apps/cscie18-assignment2/data');
+declare variable $col := collection($col_path);
 
 <result>
     {
@@ -33,5 +33,4 @@ declare variable $col := collection('/db/apps/cscie18-assignment2/data');
     <variable
         label="exist.prefix"
         value="{request:get-attribute('exist.prefix')}"/>
-
 </result>
