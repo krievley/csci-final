@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112001" class_number="14841" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 186">Circadian Biology: From Cellular Oscillators to Sleep Regulation</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>Properties, mechanisms, and functional roles of circadian (daily) rhythms in organisms ranging from unicells to mammals. Cellular and molecular components, regulation of gene expression and physiological functions, genetic and biochemical analyses of circadian rhythms, and neurobiology of the mammalian circadian pacemaker. Mathematics and modeling of oscillatory systems and applications to circadian rhythms. Experimental studies of human rhythms, including the sleep-wake cycle and hormone rhythms, with applications to sleep disorders.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Biological Labs 1058 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e100805a1310" role="1" seniority_sort="1">
+                <display_name>Charles Czeisler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

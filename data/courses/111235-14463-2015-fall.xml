@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111235" class_number="14463" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="KOREAN 130A">Pre-advanced Korean</title>
+            <exam_group>FAS08_A</exam_group>
+            <notes>Classes meet five days a week, additional discussion sections to be arranged.  </notes>
+            <prereq>Recommended: Korean 120b or equivalent.</prereq>
+            <description>Continuation of intermediate Korean, to consolidate the student's knowledge of the grammatical structures of Korean with an aim to increase their abilities to communicate using Korean in a wide range of familiar and everyday topics, current societal events, and factual and concrete topics relating to personal interests. After successful completion of third-year Korean, students are expected to be able to describe and narrate about concrete and factual topics of personal and general interest.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="KOREAN">Korean</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="Sever 307 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e62470a1310" role="1" seniority_sort="1">
+                <display_name>Heeyeong Jung</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

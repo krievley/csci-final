@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16510" school_id="fas" section="207" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>Written from the late eighteenth to the late nineteenth century in the United States, slave narratives represented the story from slavery to freedom, the escape from the South to the North, and the intellectual journey towards literacy and public speaking. This course examines some famous representatives of the genre and the complex questions it provoked as well as post-Civil Rights modifications of such narratives. In the first weeks, we will investigate the popular  Narrative of the Life of Frederick Douglass  (1845) as well as the sensational and widely read account of William and  Ellen Craft&amp;rsquo;s flight to Boston, Running a Thousand Miles for Freedom  (1860). We will analyze what roles literacy and rhetoric played in these texts, and hone in on the relationship between the black American writers of slave narratives and their white editors, who oversaw what was published, edited the narratives, vouched for their truth-value, and appended them with documents. In our second unit, we will focus on Toni Morrison&amp;rsquo;s  Beloved  (1987) to look at how modern writers modified and updated the genre after the 1960s. How did African American authors rewrite the slave narratives and their conventions? How do their portrayals of the slave community and the language of slavery differ from their predecessors? Finally, we will examine how the genre of the slave narrative changes in the hands of a white director. How does Quentin Tarantino&amp;rsquo;s  Django Unchained  (2012), Oscar-nominated yet also denounced as incendiary, modify the genre and the interaction between white editors and black American slaves? Our primary readings will be accompanied by seminal essays on the slave narratives, their literary development, and their high current cultural stakes.  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Sever 201 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e190883a1310" role="1" seniority_sort="1">
+                <display_name>Peter Becker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160656" class_number="16306" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1401">Computational Cognitive Neuroscience</title>
+            <prereq>Recommended: Students be comfortable with a numerical programming language (e.g., Python, Matlab, R). Psychology concentrators should have taken SLS 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, SLS15, or MCB 80</prereq>
+            <description>&amp;quot;What I cannot create, I do not understand.&amp;quot; This course applies Richard Feynman&amp;#39;s dictum to the brain, by teaching students how to simulate brain function with computer programs. Special emphasis will be placed on how neurobiological mechanisms give rise to cognitive processes like learning, memory, attention, decision-making, and object perception. Students will learn how to understand experimental data through the lens of computational models, and ultimately how to build their own models. No course prerequisites are required, but students should be comfortable with a numerical programming language (such as Python, Matlab, R). Elementary mathematical concepts will be covered throughout the course.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e86008a1310" role="1" seniority_sort="1">
+                <display_name>Samuel Gershman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

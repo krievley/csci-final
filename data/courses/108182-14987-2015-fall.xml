@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108182" class_number="14987" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1425">Greek Exegesis of John</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes> Expected to be offered again in 2014-15. Offered jointly with the Divinity School as 1538.</notes>
+            <prereq>Recommended: Two semesters of Greek are required; the course might fulfill the requirement for a fourth semester of Greek.</prereq>
+            <description>The course will be devoted to a close reading and interpretation of the Gospel of John. The Greek text will be discussed with specific attention paid to literary structures, textual critical issues, historical context, and history of interpretation.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e30866a1310" role="1" seniority_sort="1">
+                <display_name>Giovanni Bazzana</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110382" class_number="10960" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCILIVSY 26">The Toll of Infection: Understanding Disease in Scientific, Social, and Cultural Contexts</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes>If student interest exceeds the course limit, a random lottery will be conducted. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results.  See the course website for more details.   </notes>
+            <description>This course will review the devastating impact of representative infectious diseases on wars, politics, economics, religion, public health, and society as reflected in history, literature, and the arts. We will study how infections spawned revolutionary epidemiologic and scientific advances in detection, treatment, and prevention. We will address the gaps between discovery and implementation, including ethical, social, economic, and health systems barriers to progress. We will confront challenges posed by microbial mutation (e.g., antibiotic resistance, evasion of immunity, and adaptation of animal viruses to humans). By weaving together knowledge from science and the humanities, students will understand the historical and contemporary impact of infections and potential solutions to the challenges they pose.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCILIVSY">Science of Living Systems</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Holden Chapel Classroom (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e143958a1310" role="1" seniority_sort="1">
+                <display_name>Donald Goldmann</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

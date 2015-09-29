@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="135598" class_number="11925" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 181">Engineering Thermodynamics</title>
+            <exam_group>FAS01_A</exam_group>
+            <prereq>Recommended: One semester of calculus-based college-level physics. Chemistry at the high school Advanced Placement level.</prereq>
+            <description>Introduction to classical engineering thermodynamics. Topics: Zeroth Law and temperature. Properties of single-component gases, liquids, and solids. Equations of state for ideal and simple nonideal substances. First Law, heat and heat transfer, work, internal energy, enthalpy. Second Law, Third Law, entropy, free energy, exergy. Heat engines and important engineering applications such as refrigerators, power cycles. Properties and simple models of solutions. Phase and chemical equilibrium in multicomponent systems; chemical potential. Electrochemistry, batteries, fuel cells. Laboratory included.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Pierce 209 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e89841a1310" role="1" seniority_sort="1">
+                <display_name>Zhigang Suo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

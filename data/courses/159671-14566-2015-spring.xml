@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159671" class_number="14566" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 50A">Poetry of the Long 18th Century</title>
+            <description>An introduction to reading poetry, by means of the wide variety of verse written in Britain during the long eighteenth century. We will begin with Milton&amp;rsquo;s Paradise Lost, then turn to lofty hymns, vicious satires, and lyrics of startling beauty. In addition to familiarizing students with the forms, techniques, and themes of poetry in English, this course will involve substantial use of the treasures in Houghton Library, and it will emphasize the communal aspect of reading poems: students will gather in small groups each week to read aloud to each other. Poets include Dryden, Pope, Barbauld, Blake, Wordsworth, and Keats.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57912a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Osadetz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

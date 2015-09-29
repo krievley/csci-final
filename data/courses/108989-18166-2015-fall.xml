@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108989" class_number="18166" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2652">The Psychology of Cooperation</title>
+            <exam_group>FAS09_C</exam_group>
+            <prereq>Recommended: The Psychology Department requires undergraduates to complete Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>Why and how do humans cooperate? What are the origins of these behaviors in human development and evolution? In this course we discuss how research in psychology, behavioral economics and primatology can provide insight into the foundation of human cooperation. This includes the study of empathy, altruism, fairness, and collaboration.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:29:00" location="" start_time="15:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15678a1310" role="1" seniority_sort="1">
+                <display_name>Felix Warneken</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

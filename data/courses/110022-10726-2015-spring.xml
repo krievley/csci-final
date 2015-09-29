@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110022" class_number="10726" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 186">Statistical Methods for Evaluating Causal Effects</title>
+            <prereq>Recommended: Statistics 100; Mathematics 21a, b or permission of instructor.</prereq>
+            <description>Statistical methods for inferring causal effects from data from randomized experiments or observational studies. Students will develop expertise to assess the credibility of causal claims and the ability to apply the relevant statistical methods for causal analyses. Examples from many disciplines: economics, education, other social sciences, epidemiology, and biomedical science. Evaluations of job training programs, educational voucher schemes, changes in laws such as minimum wage laws, medical treatments, smoking, military service.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e21753a1310" role="1" seniority_sort="1">
+                <display_name>Donald Rubin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

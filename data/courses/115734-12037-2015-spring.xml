@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115734" class_number="12037" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 129">Number Fields</title>
+            <prereq>Prerequisite: Mathematics 123</prereq>
+            <description>Algebraic number theory: number fields, unique factorization of ideals, finiteness of class group, structure of unit group, Frobenius elements, local fields, ramification, weak approximation, adeles, and ideles.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e56035a1310" role="1" seniority_sort="1">
+                <display_name>Barry Mazur</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

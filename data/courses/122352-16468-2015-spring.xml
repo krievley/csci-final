@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122352" class_number="16468" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CATALAN 20">Catalan Language and Culture: a Multimedia Approach</title>
+            <notes> Conducted in Catalan. Not open to auditors. May not be taken Pass/Fail by undergraduates, but may be taken Sat/Unsat by GSAS students.</notes>
+            <prereq>Prerequisite: Catalan Ba</prereq>
+            <description>Intermediate course introducing students to Catalan culture and boosting their oral and written skills through a wide range of resources, such as Internet, television, radio, and press. Students will get a taste of various aspects of Catalan culture: art, cinema, music, literature, traditions, cuisine, history, and more.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="CATALAN">Catalan</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

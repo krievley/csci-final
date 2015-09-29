@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160457" class_number="16267" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MEDLATIN 207">Medieval Latin Encounters of Christianity and Islam</title>
+            <description>How did medieval Christians writing in Latin perceive Islam and its adherents? What knowledge did they possess, and how did they acquire it? How did they engage with Islam in various Latin literary forms, and to what end? These questions and many others will be at the center of this graduate seminar, in which students will read large amounts of medieval Latin prose and poetry spanning from the ninth to the fifteenth centuries in a variety of genres, from epic poetry to polemical treatise, including texts that were pivotal in shaping the perception of Islam in the Early Modern period and beyond. Designed for graduate students with a solid background in Latin (familiarity with medieval Latin not required), this seminar will allow students to develop a thorough knowledge of a topic that remains relevant to this day.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="MEDLATIN">Medieval Latin</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e119940a1310" role="1" seniority_sort="1">
+                <display_name>Julian Yolles</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160574" class_number="16156" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1043">History of U.S. Imperialism, 1900-present</title>
+            <notes> Instructor:  Holger Droessler</notes>
+            <description>This lecture course explores the rise of the United States from a hemispheric to a global power over the course of the twentieth century. Two world wars, a global depression, the Cold War, and a series of smaller but no less violent conflicts dominated U.S. foreign relations during that time. The course concludes with an outlook on America&amp;rsquo;s role in a world marked by the rising influence of China and India as well as non-governmental actors. Throughout our discussions, we will pay special attention to the ways in which everyday people colluded and collided with U.S. imperialism.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e160422a1310" role="1" seniority_sort="1">
+                <display_name>Holger Droessler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

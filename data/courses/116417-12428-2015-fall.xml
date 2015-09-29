@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116417" class_number="12428" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2640R">The Understand Seminar</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Open to graduate students involved in research in the instructor's laboratory, and to select juniors and seniors.
+
+For information about joining the lab, email the instructor before the start of the term at mahzarin_banaji@harvard.edu</notes>
+            <description>Topic to be announced.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:29:00" location="William James 1510 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e27458a1310" role="1" seniority_sort="1">
+                <display_name>Mahzarin Banaji</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

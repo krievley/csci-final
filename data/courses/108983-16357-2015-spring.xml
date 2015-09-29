@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108983" class_number="16357" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 194R">Special Topics</title>
+            <notes> Students from other departments are welcome.</notes>
+            <description>Music and Violence.&amp;nbsp; Music can be a form of weapon or torture; a mediating force in a process of conflict resolution; a force complicit with violence; storehouse of memory and/or process of healing for survivors of violence; a mode of resistance against a violent regime; and a creative process of alliance-building, among many others. This seminar explores the various intersections of music and violence, considered broadly&amp;mdash;from mass political conflict to everyday violence that is structural, symbolic, and otherwise&amp;mdash;, and the emerging body of scholarship within ethnomusicology over the last decade dedicated to the subject. At the heart of seminar discussions will be an investigation into the role of expressive culture in reflecting, generating, and sustaining political and other social movements, and the question of how sound and music enable us to think creatively through the relationship between critical attention, compassion, and commitment.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

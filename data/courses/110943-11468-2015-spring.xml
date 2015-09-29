@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110943" class_number="11468" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ESPP 91R">Supervised Reading and Research</title>
+            <notes>Paul Moorcroft and Members of the Committee. Hours to be arranged.  Intended for junior and senior concentrators in Environmental Science and Public Policy; open to sophomore concentrators only under exceptional circumstances. Permission of the Head Tutor is required for enrollment. May be counted for concentration only with the special permission of the Head Tutor.</notes>
+            <description>Supervised reading and research on topics not covered by regular courses of instruction. Students must complete a registration form, including permission from their faculty sponsor, with the concentration office before course enrollment. A final paper describing the research/reading completed during the term is due in duplicate to the Head Tutor on the first day of reading period.</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e61922a1310" role="1" seniority_sort="1">
+                <display_name>Paul Moorcroft</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

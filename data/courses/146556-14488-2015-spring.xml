@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146556" class_number="14488" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 121CG">Shakespeare After Hamlet</title>
+            <notes> This course, when taken for letter grade, meets the Department of English Shakespeares Common Ground requirement. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>Written at the midpoint of Shakespeare's career (1600-01), Hamlet marks the culmination of an experiment in representing the inner life with remarkable human sympathy. Hamlet also marks the beginning, in the comedies as much as in the famous tragedies, Othello, King Lear, and Macbeth, of a new and disturbing interest in the human mysteries of sadism, power, eroticism and loss.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e25666a1310" role="1" seniority_sort="1">
+                <display_name>Gordon Teskey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

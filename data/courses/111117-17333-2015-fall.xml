@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111117" class_number="17333" school_id="fas" section="34" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 3000">Direction of Doctoral Dissertations</title>
+            <notes> May also be taken with other instructors, when authorized by the Chair.</notes>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>16</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e31856a1310" role="1" seniority_sort="1">
+                <display_name>Parimal G. Patil</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

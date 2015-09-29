@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117327" class_number="12499" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MODMDEST 200A">Approaches to Middle Eastern Studies</title>
+            <notes> Taught by members of the department. Required for students pursuing the AM in Middle Eastern Studies. Primarily for first-term students in the AM in Middle Eastern Studies program, although open to Graduate students in related fields.</notes>
+            <description>Interdisciplinary seminar serves as an introduction to the major disciplines constituting Middle Eastern Studies, including history, political science, anthropology, literature and Islamic Studies. Faculty affiliated with Center for Middle Eastern Studies serve as guest lecturers.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MODMDEST">Modern Middle East</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="38 Kirkland St 208 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e331a1310" role="1" seniority_sort="1">
+                <display_name>William Granara</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

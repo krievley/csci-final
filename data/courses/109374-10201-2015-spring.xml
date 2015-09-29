@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109374" class_number="10201" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 22">Design Survivor: Experiential Lessons in Designing for Desirability</title>
+            <notes> Permission required for all students.</notes>
+            <description>Multi-disciplinary course for students interested in designing products and services that are simple, irresistible, delightful, cool, covetable, viral, and, increasingly in today's day and age, much more likely to be successful. Students study real world cases of how organizations (e.g., Apple, Gucci, Swarovski) strategically design for desirability. In weekly design challenges, students use analogical transfer to apply these insights to diverse industries and target markets (e.g., health literacy campaigns, declining technologies, the future of luxury). Weekly critique panels with experts enable students to develop their own design point of view and to finish with a diverse design portfolio.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e218328a1310" role="1" seniority_sort="1">
+                <display_name>Bethanne Altringer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

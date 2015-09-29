@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160610" class_number="16615" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ITAL 117">Cinema of Migration</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes> Offered in English.</notes>
+            <description>An exploration of Italian films that confront the themes of emigration and immigration in the 20th and 21st centuries.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Robinson 107 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e160525a1310" role="1" seniority_sort="1">
+                <display_name>Adam Muri-Rosenthal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

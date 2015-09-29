@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156518" class_number="14255" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 153">Laboratory Electronics</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Engineering Sciences 153 is also offered as Physics 123. Students may not take both for credit. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+            <description>A lab-intensive introduction to electronic circuit design. Develops circuit intuition and debugging skills through daily hands-on lab exercises, each preceded by class discussion, with minimal use of mathematics and physics. Moves quickly from passive circuits, to discrete transistors, then concentrates on operational amplifiers, used to make a variety of circuits including integrators, oscillators, regulators, and filters. The digital half of the course treats analog-digital interfacing, emphasizes the use of microcontrollers and programmable logic devices (PLDs).</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:29:00" location="Science Ctr 206 (FAS)" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e5517a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Hayes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

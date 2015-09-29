@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156427" class_number="11440" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 115">Mathematical Modeling</title>
+            <notes> Engineering Sciences 115 is also offered as Applied Mathematics 115. Students may not take both for credit. Undergraduate Engineering Students should enroll in Engineering Sciences 115.</notes>
+            <prereq>Recommended: Mathematics at least at the level of Applied Mathematics 21a, b but preferably at the level of Applied Mathematics 105 (formerly Applied Mathematics 105b). Additional skills in analysis, algebra, probability, statistics and computer programming will increase the value of the course to students.</prereq>
+            <description>Abstracting the essential components and mechanisms from a natural system to produce a mathematical model, which can be analyzed with a variety of formal mathematical methods, is perhaps the most important, but least understood, task in applied mathematics. This course approaches a number of problems without the prejudice of trying to apply a particular method of solution. Topics drawn from biology, economics, engineering, physical and social sciences.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60979a1310" role="1" seniority_sort="1">
+                <display_name>Ariel Amir</display_name>
+            </person>
+            <person id="d1e88740a1310" role="1" seniority_sort="2">
+                <display_name>Sarah Iams</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

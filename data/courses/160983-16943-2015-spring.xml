@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160983" class_number="16943" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2359R">Lab Research and Studies in the Cognitive Neuroscience of Vision, Perception,  and Cognition.</title>
+            <description>Open to graduate and undergraduate students working in the instructor&amp;#39;s laboratory.&amp;nbsp;For information on joining this lab, please contact Prof. Xu at yaodaxu@fas.harvard.edu</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e87894a1310" role="1" seniority_sort="1">
+                <display_name>Yaoda Xu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

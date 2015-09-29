@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121041" class_number="14822" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHNSLIT 245R">Topics in Sinophone Studies - Modern Chinese Fiction on the Periphery</title>
+            <description>Survey of modern Chinese fiction and narratology from Taiwan, Hong Kong, and the Chinese Diaspora: polemics of the canon, dialogues between national and regional imaginaries, and literary cultures in the Sinophone world.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSLIT">Chinese Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e29642a1310" role="1" seniority_sort="1">
+                <display_name>David Der-Wei Wang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

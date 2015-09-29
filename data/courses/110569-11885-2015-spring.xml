@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110569" class_number="11885" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 91R">Supervised Reading Course for Undergraduates</title>
+            <notes>David Morin and members of the Department  A list of possible faculty sponsors and their fields is available in Lyman 238 and on the Physics Department's website. Course enrollment forms may be obtained from Lyman 238.</notes>
+            <description>Open to selected concentrators in Physics, Chemistry and Physics, and other fields who wish to do supervised reading and studying of special topics in physics. Ordinarily such topics do not include those covered in a regular course of the Department. Honor grades in Physics 15 and a number of intermediate-level courses are ordinarily required. The student must be accepted by a member of the faculty.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e53929a1310" role="1" seniority_sort="1">
+                <display_name>David J. Morin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

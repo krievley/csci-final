@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127989" class_number="14291" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELLBIO 304QC">Introduction to Human Gross Anatomy</title>
+            <notes> Open to graduate students only.</notes>
+            <description>Lectures, laboratory dissections, and prosections to explore the gross structure and function of the human body. Provide a foundation to acquire practical skills in recognizing, dissecting, and differentiating key anatomical structures.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="18:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19281a1310" role="1" seniority_sort="1">
+                <display_name>David Cardozo</display_name>
+            </person>
+            <person id="d1e342413a1310" role="1" seniority_sort="2">
+                <display_name>Gerald Greenhouse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

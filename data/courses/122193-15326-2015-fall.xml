@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122193" class_number="15326" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 41BR">Photographic Inquiry: Studio Course</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interested students must attend the first meeting of class to speak with teaching staff about enrollment procedure.</notes>
+            <prereq>Recommended: At least one half-course in photography or permission of the instructor.</prereq>
+            <description>Class emphasis will be on developing visual ideas for a self-directed photographic project. Class will be structured around regular critiques, individual meetings, readings, class discussions and museum visits. Students will create a group of photographs for a final project that are the result of a sustained, self-directed creative process.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Carpenter B19 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e232343a1310" role="1" seniority_sort="1">
+                <display_name>Sharon Harper</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

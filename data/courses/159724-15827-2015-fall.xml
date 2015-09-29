@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159724" class_number="15827" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 30F">Taxi Driver and/in American Film History</title>
+            <exam_group>FAS08_I</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>A key work of the modern American cinema, Martin Scorsese&amp;#39;s TAXI DRIVER will be closely examined from a variety of approaches: &amp;nbsp;in terms of film history, both US and international; in relation to genre; with regards to the historical moment of its release, especially the end of the Vietnam War; in connection with parallel movements in the visual arts, such as photo-realism. &amp;nbsp;The seminar will work together to prepare a highly detailed, shot-by-shot breakdown and analysis of the film.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e213502a1310" role="1" seniority_sort="1">
+                <display_name>Richard Pena</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

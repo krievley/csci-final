@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107613" class_number="10235" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1415">Analytic Frameworks for Policy</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Jointly offered with the Kennedy School as API-302.</notes>
+            <prereq>Recommended: Economics 1011a or permission of instructor.</prereq>
+            <description>This course develops abilities in using analytic frameworks in the formulation and assessment of public policies. It considers a variety of analytic techniques, particularly those directed toward uncertainty and interactive decision problems. It emphasizes the application of techniques to policy analysis, not formal derivations. Students encounter case studies, methodological readings, modeling of current events, the computer, a final exam, and challenging problem sets.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Littauer Bldg 130 (HKS)" start_time="10:15:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e30208a1310" role="1" seniority_sort="1">
+                <display_name>Richard Zeckhauser</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

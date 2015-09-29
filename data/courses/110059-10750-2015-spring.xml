@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110059" class_number="10750" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APMTH 126">Statistics and Inference in Biology</title>
+            <prereq>Recommended: Mathematics 19a/b or Mathematics 21a/b.</prereq>
+            <description>We often deal with incomplete information when going about our lives: recognizing a friend's face covered by a shadow, having a phone conversation where the reception is poor, reading a document with lots of spelling and grammatical errors. In such circumstances, we make good guesses to process and understand the data. How do we do this? What kind of mathematical framework do we need to interpret noisy and incomplete data? This course will develop a set of statistical tools that will help us solve such poorly posed problems. We will draw on examples from primary literature in biology to study optical illusions, text recognition, sequence alignment, decoding cryptographs, processing of chemo-attractive signals to find food, and survival strategies of bacteria in unpredictable environments to motivate the underlying mathematical framework.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e112461a1310" role="1" seniority_sort="1">
+                <display_name>Sharad Ramanathan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

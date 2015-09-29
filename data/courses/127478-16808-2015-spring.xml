@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127478" class_number="16808" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELLBIO 301QC">The Epidemiology and Molecular Pathology of Cancer</title>
+            <notes>Expected to be offered in January 2016. Dates TBA.  This is an intensive January course. Curriculum Fellow: Megan Mittelstadt, 617-432-7498.</notes>
+            <description>This January course will provide students with an in-depth introduction to the epidemiology and molecular pathology of cancer. We will explore multiple types of cancer, including breast, colon, lung, prostate and brain, through a series of lectures and hands-on practice tutorials. These tutorials will include training in molecular pathology techniques, state of the art image analysis of human biomarkers, tissue processing, immunohistochemistry, and tumor histology. In addition, the epidemiology, genetics and relevant signal transduction pathways of cancer will be highlighted.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="16:59:00" location="" start_time="09:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e480473a1310" role="1" seniority_sort="1">
+                <display_name>Massimo Loda</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

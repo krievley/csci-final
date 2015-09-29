@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110241" class_number="10857" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEM 110">Small Molecules and Biological Processes</title>
+            <description>Small molecules are extraordinarily useful tools to investigate biological processes, perturb cell states and treat human diseases. They are complementary to many biological techniques (e.g. expression of mutant proteins, RNAi, genome editing and antibodies) in that they are fast-acting, typically cell permeable, easily reversible, and they can engage multiple targets simultaneously. In this course, we will discuss how these useful small molecules are discovered, how they have revealed deep insights into biological processes, and how they are employed as therapeutics.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e42184a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Shair</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

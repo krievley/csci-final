@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160547" class_number="16236" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 2443">Marriage, Family and Community in the New*Testment and Today</title>
+            <exam_group>FAS02_B</exam_group>
+            <description>										Today&amp;rsquo;s debates over marriage and family often appeal not only to concepts such as human rights and sexual ethics but also to the &amp;ldquo;American institution of marriage&amp;rdquo; and its biblical foundations. Such appeals present &amp;quot; heterosexual marriage&amp;quot; as something that is an unchanging institution and has simply always been so. Moreover, they neglect both the centrality of power relations to first century discussions of marriage and the ways in which these discussions survive in the present. Against this backdrop, the course will examine the understandings of marriage and household in the formation of Early Christian communities and consider their impact within contemporary discussions of violence against wo/men, same sex marriage, or global sexual slavery. To that end, we will ask how New* Testament traditions of obedience and subordination still shape our understandings not only of community and church, but also marriage and other human relationships. At the same time we will also explore traditions of equality, mutuality and love also inscribed in New* Testament texts.			&amp;nbsp;</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>44</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="Andover 119 (HDS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e55139a1310" role="1" seniority_sort="1">
+                <display_name>Elisabeth Schussler Fiorenza</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

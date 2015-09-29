@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160188" class_number="15272" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1971">Time and Place in the History of American Capitalism</title>
+            <description>This course examines the connections between the rapid political and economic changes of the nineteenth to twenty-first centuries and the everyday experience of time and place. How have the imperatives to invest, save, consume, earn a living, and make a profit influenced the experience of the day, general conceptions of time, and life in urban and rural spaces for different groups of people? While our focus will be the modern United States, we will also think comparatively through narratives from Europe, Asia, and the Middle East. Topics include the workday, financial speculation, migration, the harvest cycle, unemployment, nightlife, and sleep.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e488916a1310" role="1" seniority_sort="1">
+                <display_name>Samantha Iyer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

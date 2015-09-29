@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119697" class_number="14823" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPNHIST 115">Religion and Society in Edo and Meiji Japan</title>
+            <notes> Offered jointly with the Divinity School as 3957.</notes>
+            <prereq>Recommended: General knowledge of Japanese history and religion is helpful.</prereq>
+            <description>Examination of religion and society in Japan from 1600-1912, beginning with an era of state control over religious institutions and religious affiliations of the populace, followed by the demise of the Edo-period system and diversification of religious practice in context of rapid social change, modernization, and imperialism during the Meiji period. Separate section for students able to utilize primary sources in Japanese will explore the Maruzen Meiji Microfilm collection in the Harvard-Yenching Library.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNHIST">Japanese History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19422a1310" role="1" seniority_sort="1">
+                <display_name>Helen Hardacre</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

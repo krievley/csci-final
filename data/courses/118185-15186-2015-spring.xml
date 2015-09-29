@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118185" class_number="15186" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 167">Introduction to Electroacoustic Music</title>
+            <prereq>Recommended: One course in theory/composition or permission of instructor.</prereq>
+            <description>Composition and performance with analogue and digital electronic media. Projects realized using recording gear and computers; study of relevant aspects of acoustic and electronic theory; repertoire since 1948 of musique concr&amp;egrave;te, acousmatic, and live-electronic music; synthesis, sampling, digital recording, and live performance techniques. Hands-on work will culminate in a final performance of individual projects.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e45737a1310" role="1" seniority_sort="1">
+                <display_name>Hans Tutschku</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

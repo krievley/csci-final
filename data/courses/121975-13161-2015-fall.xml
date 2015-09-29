@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121975" class_number="13161" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APPHY 217">Applications of Modern Optics</title>
+            <exam_group>FAS01_A</exam_group>
+            <prereq>Recommended: An undergraduate course in electromagnetism and quantum mechanics.</prereq>
+            <description>Optical systems and lasers have recently revolutionized both technology and basic research. We cover simple models of light-matter interactions, Fourier optics and holography, light scattering, and optics in biology: single-molecule studies, optical coherence tomography, nonlinear imaging techniques.</description>
+            <department code="APPHYS">Applied Physics</department>
+            <course_group code="APPHY">Applied Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Pierce 100F (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e28629a1310" role="1" seniority_sort="1">
+                <display_name>Lene Hau</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

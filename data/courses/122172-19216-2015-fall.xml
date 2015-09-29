@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122172" class_number="19216" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GREEK AC">Review and Reading</title>
+            <notes> No auditors. May be taken Pass/Fail.</notes>
+            <description>For students with more than one year of formal training in Greek who do not place into Greek Ba. The course will combine a review of morphology and syntax with readings from prose authors. Students are prepared for Greek Bb or Ba.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

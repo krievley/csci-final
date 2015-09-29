@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156676" class_number="11583" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ESPP 90X">Current Issues in U.S. Environmental Law</title>
+            <exam_group>FAS05_C</exam_group>
+            <description>This course examines some of the main U.S. environmental laws, the methods of regulation and enforcement represented by those laws, and current controversies regarding their implementation and development. Each week's class will be divided between a discussion of key cases and regulations implementing a particular law and an in-depth examination of a case study involving the law under examination.</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:29:00" location="Pierce 100F (SEAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e139791a1310" role="1" seniority_sort="1">
+                <display_name>Shaun Goho</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

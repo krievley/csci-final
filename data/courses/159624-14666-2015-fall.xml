@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159624" class_number="14666" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 256">Dynamics, Stability and Noncommutative Algebra</title>
+            <exam_group>FAS03_A</exam_group>
+            <description>An introduction leading up to current research, to notions and results in the theory of dynamical systems, in particular Teichmuller theory, and their analogs or generalizations in non-commutative (derived) algebraic geometry in the sense of Kontsevich.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Science Ctr 310 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e215546a1310" role="1" seniority_sort="1">
+                <display_name>Fabian Haiden</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

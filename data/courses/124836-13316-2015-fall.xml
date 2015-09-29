@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124836" class_number="13316" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 2034">Ethics Economics, and Law</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> Offered jointly with the Law School as LAW - 2076. Meets at the Law School. Open to GSAS students with permission of the instructor.</notes>
+            <description>Explores controversies about the use of markets and market reasoning in areas such as organ sales, procreation, environmental regulation, immigration policy, military service, voting, health care, education, and criminal justice. The seminar will examine arguments for and against cost-benefit analysis, the monetary valuation of life and the risk of death, and the use of economic reasoning in public policy and law.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="18:59:00" location="Wasserstein 3016 (HLS)" start_time="17:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e82959a1310" role="1" seniority_sort="1">
+                <display_name>Michael Sandel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

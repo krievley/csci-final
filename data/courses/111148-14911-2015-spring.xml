@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111148" class_number="14911" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="GREEK 201">Reading Greek</title>
+            <notes> Intended for graduate students in Classical Philology as preparation for the general examinations.</notes>
+            <description>Readings of Greek prose and poetry ranging from archaic to imperial, with emphasis on quick comprehension of syntactic, stylistic, and generic features.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e42545a1310" role="1" seniority_sort="1">
+                <display_name>Gregory Nagy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

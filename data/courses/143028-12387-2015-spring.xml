@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143028" class_number="12387" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 97Z">Sophomore Tutorial in Social Anthropology</title>
+            <notes> Required of all concentrators. Weekly 2-hour sections to be arranged.</notes>
+            <description>The course is designed as a foundational course with the specific purpose of introducing the principal social theorists whose work has been crucial to the discipline of social anthropology, that is: Marx, Durkheim, Weber, and Foucault. The first objective is to delineate the broad outlines of their thought and the central questions that informed their intellectual and political interventions. The second objective is to provide a solid grounding in the key concepts as well as the theoretical and methodological contributions of these social theorists. Finally, we will seek to demonstrate how contemporary anthropological theory continues to engage with their work.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e6478a1310" role="1" seniority_sort="1">
+                <display_name>Asad Ahmed</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159836" class_number="16257" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 33C">Borges, Garcia Marquez, Bolano and Other Classics of Modern Latin American Literature</title>
+            <exam_group>FAS15_D</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course introduces students to some of the most important Latin American literary works produced during the twentieth century. We will explore the ways in which these novels, short-stories, essays and poems interrogate the historical traumas, political contexts and aesthetic potential of the region between 1920s and 1980s. We will shed light on their place in the historical and cultural formation of the literary canon, as well as on the concept of &amp;lsquo;classic&amp;rsquo;. The goal of this seminar is two-fold. On the one hand, it introduces students to the Latin American literary and critical tradition through some of the best and most interesting literary and critical works (each novel or grouping of short stories and poems are paired with an important critical essay that situates them historically and aesthetically). On the other, it provides them with the fundamental skills of literary analysis (close reading, conceptual and historical framing, continuities and discontinuities with the aesthetic tradition), and that is why I have selected a relatively small number of readings, in order to have time to work through them, discuss them and have some flexibility to extend the classes we dedicate to a given author when our discussions merit it.&amp;nbsp;</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Boylston 335 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e64754a1310" role="1" seniority_sort="1">
+                <display_name>Mariano Siskind</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

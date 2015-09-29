@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159837" class_number="15839" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 41R">Media in American Politics</title>
+            <exam_group>FAS15_E</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course considers the degree to which Americans&amp;#39; political opinions and actions are influenced by the media as well as the influence of the media on public policy. Topics to be covered include the history of the mass media, recent trends in the media, theories of media effects, the implications for politics of changes in media (e.g., the rise of the Internet, social media and partisan media), the ways in which the news shapes the public&amp;#39;s perceptions of the political world, campaign communication, how the media affect the manner in which public officials govern, and the general role of the media in the democratic process.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Sever 111 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e214378a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Baum</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

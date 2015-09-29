@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110244" class_number="10859" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GENETIC 343">Zebrafish Cardiovascular Development and Regeneration</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e134447a1310" role="1" seniority_sort="1">
+                <display_name>Charles Burns</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

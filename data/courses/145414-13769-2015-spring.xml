@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145414" class_number="13769" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 230">Genomics of Species Evolution</title>
+            <prereq>Recommended: Permission of instructor. Instructor's permission. It is recommended that a basic evolution or population genetics course will have been taken (e.g. OEB 53 or OEB 242).</prereq>
+            <description>This discussion-based course will survey modern ideas about speciation, and how they have changed as a result of genomic approaches. As well as readings and discussions in class, the course will utilize live online video sessions with major players in the field of evolutionary genomics and speciation.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

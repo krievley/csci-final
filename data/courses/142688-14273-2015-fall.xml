@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142688" class_number="14273" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 155R">Biology of Insects</title>
+            <exam_group>FAS08_K</exam_group>
+            <notes> Permission of instructor.</notes>
+            <description>An introduction to the major groups of insects. The life history, morphology, physiology, and ecology of the main taxa are examined through a combination of lecture, lab, and field exercises. Topics include the phylogeny of terrestrial arthropods with a review of the extant orders, an analysis of abiotic and biotic factors regulating populations, including water balance, temperature, migration, parasitism, mutualism, sociality, insect/plant interactions, medical entomology, and the use of insects in biological control.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="14:59:00" location="Museum of Comp Zool 101 (FAS)" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e131697a1310" role="1" seniority_sort="1">
+                <display_name>Naomi Pierce</display_name>
+            </person>
+            <person id="d1e131700a1310" role="1" seniority_sort="2">
+                <display_name>Michael Canfield</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

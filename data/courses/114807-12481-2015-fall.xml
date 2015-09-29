@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114807" class_number="12481" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 252R">Advanced Topics in Programming Languages</title>
+            <exam_group>FAS03_A</exam_group>
+            <prereq>Recommended: Computer Science 152 or permission of the instructor.</prereq>
+            <description>Seminar course exploring recent research in programming languages. Topics vary from year to year. Students read and present research papers, undertake a research project.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Maxwell Dworkin 323 (SEAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e106343a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Chong</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

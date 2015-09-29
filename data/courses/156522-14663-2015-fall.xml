@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156522" class_number="14663" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 198">American Film Noir</title>
+            <exam_group>FAS12_F</exam_group>
+            <notes>The first meeting of this class will be on Wednesday, September 2 at 1pm in the Carpenter Center Lecture Hall.&amp;nbsp;  This course has mandatory weekly film screenings on Mondays from 1pm to 3:30pm.</notes>
+            <description>This lecture offers a critical survey of American film noir, the cycle of dark, fatalistic crime films that flourished in Hollywood during the period between 1940 and 1960 and remains deeply influential today. Focusing on the close study of key films, the course will explore the dominant iconography, tropes and patterns within them in the specific socio-cultural contexts of post-war America and deeper changes at work within the Hollywood studio system and American popular culture.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="Carpenter 401 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e61447a1310" role="1" seniority_sort="1">
+                <display_name>Haden Guest</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

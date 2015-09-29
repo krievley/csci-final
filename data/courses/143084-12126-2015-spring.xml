@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143084" class_number="12126" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 3420">Seminar for Advanced New Testament Students</title>
+            <notes>Meets biweekly  A course available to Th.M., Th.D., and Ph.D. candidates, and qualified MTS and M.Div. students with permission of the instructor. Required for Th.M. candidates in the field and for Th.D. and Ph.D. candidates until the term following successful completion of general exams. Offered jointly with the Divinity School as 1980.</notes>
+            <prereq>Recommended: Intermediate competency in at least one of the following ancient languages is required: Greek, Latin, Coptic. Meets biweekly.</prereq>
+            <description>Topic for 2015-16: Spirit Possession and Exorcism in Early Christ Movement. The course will examine the plentiful materials concerning spirit possession and exorcism, which by all accounts played a significant role in the early stages of the Christ movement. The course will attend to the methodological shortcomings of traditional historical and exegetical understandings of these phenomena. By utilizing insights drawn from contemporary anthropological, sociological, and cognitive studies, the course will attempt to look at spirit possession not simply negatively as a symptom of psychopathology or a reaction to social marginalization, but positively as a locale of identity formation, as an expression of agency, and a way of knowing. Biweekly presentation of research projects.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e30866a1310" role="1" seniority_sort="1">
+                <display_name>Giovanni Bazzana</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

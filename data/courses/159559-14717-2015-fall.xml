@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159559" class_number="14717" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1013">Pacific Crossroads: Histories of Asian America</title>
+            <exam_group>FAS15_A</exam_group>
+            <description>This course examines comparative histories of modern transpacific movement and migration between Asia and the Americas, under the scope of multiple colonizations and imperial expansions.&amp;nbsp; We will study empire and colonialisms impact transnational movements of ideas, commodities, and people, tracing how movements also occur within and between colonial spaces and across hemispheres. By connecting transnational histories of Asia, including the Philippines, as well as Pacific Islands, like Guam, Samoa, and Hawai&amp;rsquo;i to the &amp;ldquo;Americas,&amp;rdquo; this course explores how legacies of empire shaped and continue to shape forms of Asian migration, global formations, and diaspora.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Sever 307 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e36855a1310" role="1" seniority_sort="1">
+                <display_name>Genevieve Clutario</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

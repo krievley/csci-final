@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160952" class_number="18217" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH CFMR">Fiction Writing: Workshop</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes> Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+            <description>An introductory fiction workshop, in which students will explore elements of craft such as character, point of view, setting, detail, style, etc. The first weeks will be devoted to fiction readings (TBA) and creative exercises; most of the semester will be spent workshopping student fiction. The final project involves significant revision of a story.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="18:59:00" location="Barker 269 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e160672a1310" role="1" seniority_sort="1">
+                <display_name>Claire Messud</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

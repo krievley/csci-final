@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160955" class_number="18219" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 2211">Archaeology and Heritage</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>The links between archaeology, cultural heritage, and nation building have been fundamentally important to archaeological practice since the origins of the discipline. The uses and abuses of archaeology by the state over the past fifty years have been criticized by all manner of social scientists, journalists, local communities and indigenous people in countries across the globe, in dozens of books, hundreds of articles, and The International Journal of Heritage Studies. Archaeological practice and heritage management continue to be the topic of lively theoretical and legal debates by multiple stakeholders with competing claims to the past. The ideological uses and commodification of archaeological heritage by diverse factions has led many archaeologists to become actively involved in creating sustainable solutions that promote responsible heritage stewardship in this dynamic context. The members of the seminar will read and discuss theoretical schema, practice and critiques from the Americas and the Old World in examining innovative approaches to archaeological heritage management. The focus in this seminar will be on finding a &amp;lsquo;third way&amp;rsquo; to address the valid claims of local communities and indigenous peoples, vis-&amp;agrave;-vis the ways central governments construct their own origin myths and legitimation of the state through archaeological research and its presentation to the public.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e45920a1310" role="1" seniority_sort="1">
+                <display_name>William Fash</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

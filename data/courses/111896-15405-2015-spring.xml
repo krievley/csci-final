@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111896" class_number="15405" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 15B">Introductory Electromagnetism</title>
+            <notes> Principles of Scientific Inquiry (PSI) is the laboratory component of Physics 15b. Topics include experimental design, model testing, error analysis, basic programming, oral presentations, and scientific writing. PSI will meet weekly throughout the semester. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.</notes>
+            <prereq>Recommended: Physics 15a, Physics 16, or written permission of the Head Tutor in Physics. Mathematics preparation at least at the level of Mathematics 21a taken concurrently is required. Vector calculus, (div, grad and curl) are used extensively--in principle, this is taught in the course. Students taking Mathematics 21a concurrently will likely find that some concepts are introduced in Physics 15b before they have seen them in Mathematics 21a. Some students may wish to postpone Physics 15b until they have completed Mathematics 21a.</prereq>
+            <description>Electricity and magnetism. Topics include electrostatics, electric currents, magnetic field, electromagnetic induction, Maxwell's equations, electromagnetic radiation, and electric and magnetic fields in materials.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e151373a1310" role="1" seniority_sort="1">
+                <display_name>Girma Hailu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

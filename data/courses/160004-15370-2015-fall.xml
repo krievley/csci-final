@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160004" class_number="15370" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 90SR">Shakespeare's Rome: Seminar</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>This course investigates Shakespeare&amp;rsquo;s lifelong engagement with the literature, politics, and culture of ancient Rome. It will give careful attention to the three &amp;quot;Roman Plays&amp;quot; -&amp;nbsp;Julius Caesar, Antony and Cleopatra,&amp;nbsp;and&amp;nbsp;Coriolanus&amp;nbsp;- but will also consider the larger role of classical antiquity in Shakespeare&amp;rsquo;s development and achievement as a dramatist.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Barker 024 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e57359a1310" role="1" seniority_sort="1">
+                <display_name>Leah Whittington</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

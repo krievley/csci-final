@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125200" class_number="13727" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCRB 167">Stem Cells and Regeneration in the Pathobiology and Treatment of Human Disease</title>
+            <notes>George Daley and members of the Department  </notes>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10; MCB 52 or MCB 54.</prereq>
+            <description>Stem cells are the basis for tissue maintenance and repair, thus, are essential elements of normal organ and tissue physiology. Stem cells are also targets for disease processes and through transplantation are important therapeutic agents. This course will allow advanced undergraduates to explore how stem cells and tissue regeneration impact human disease pathogenesis and how stem cells might be exploited to advance new therapies for disease.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e247829a1310" role="1" seniority_sort="1">
+                <display_name>George Daley</display_name>
+            </person>
+            <person id="d1e257797a1310" role="1" seniority_sort="2">
+                <display_name>Leonard Zon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

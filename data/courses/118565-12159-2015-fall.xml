@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118565" class_number="12159" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 3505A">Colloquium in American Religious History</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes>TBD , Instructor to be determined (spring term)  Open, with instructor's permission, to doctoral students in other fields of religious studies or American studies. Course meets bi-weekly. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit. Offered jointly with the Divinity School as 2390A.</notes>
+            <description>Presentation and discussion of the research of doctoral candidates in American religious history.&amp;nbsp;Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:59:00" location="Andover Braun Rm (HDS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e135573a1310" role="1" seniority_sort="1">
+                <display_name>Catherine Brekus</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

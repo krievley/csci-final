@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127573" class_number="14104" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 61N">Advanced Spanish Language and Culture: The Ethics of Business</title>
+            <notes>Interested students must apply in writing to Dr. Guti&amp;eacute;rrez no later than August 21, 2015 (Fall Term) or January 15, 2016 (Spring Term). Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students.  &amp;nbsp;  Adriana Gutierrez and members of the Department  Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students.</notes>
+            <prereq>Recommended: A score between 751 and 780 on the SAT II test or Harvard Placement test, a Spanish 50-level course, or permission of course head. Students are allowed to take a maximum of two courses at the 60-level in Spanish, not including Spanish 60.</prereq>
+            <description>An advanced language and culture class that examines literature and films portraying the political, sociological, financial and environmental impact of multinational companies doing business in Latin America. Students' linguistic competency is developed through discussion of the ethics of business, grammar reviews, and weekly writing assignments. Students will also choose a specific project for a business in Latin America and research its possible outcome and social, political, and environmental consequences.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

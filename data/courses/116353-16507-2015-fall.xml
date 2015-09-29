@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16507" school_id="fas" section="204" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>Ernest Hemingway and Virginia Woolf&amp;mdash;few authors of the twentieth century have been as celebrated and as influential as these two great literary stylists. Yet it&amp;rsquo;s also hard to imagine two authors more unlike. For many readers, Hemingway epitomizes the writer-as-sportsman or adventurer, and his stripped-down writing seems to advocate a masculine ethic of tight-lipped toughness and restraint. By contrast, Woolf is often regarded today as the century&amp;rsquo;s great female writer and forerunner of contemporary feminism; her writing&amp;mdash;ethereal, abstract, impressionistic&amp;mdash;seems to embody a distinctively female aesthetic. In this course, we will read Woolf and Hemingway together, side by side; and in the essays we write, we will investigate what really distinguishes them&amp;mdash;in terms of gender and art (among other things)&amp;mdash;and consider how modernist literature may be configured between the opposing values these two icons have come to represent. Primary texts will include short stories by Hemingway, critical essays and short fiction by Woolf, Hemingway&amp;rsquo;s novel  A Farewell to Arms , and Woolf&amp;rsquo;s novel  Mrs. Dalloway .  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="09:59:00" location="Barker 114 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172711a1310" role="1" seniority_sort="1">
+                <display_name>Christina Becker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123564" class_number="14591" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 90CL">Comic Literature through the Middle Ages: Seminar</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>An introduction to various kinds of literature broadly construed as comic, including drama, fabliaux, Latin lyrics, Chaucer, Middle Scots poetry and other genres up to Rabelais and Shakespeare. Non-English works read in a facing-page translation. With the help of Huizinga, Bakhtin, and later critics, students develop an understanding of what constitutes humor from this period, as well as the serious ``institutions'' that invite a comic reflex.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Barker 211 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e59730a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Donoghue</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

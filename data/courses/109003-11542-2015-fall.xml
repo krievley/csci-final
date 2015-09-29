@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109003" class_number="11542" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 166">What is Enlightenment?: Science, Religion, and the Making of Modernity</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes> Offered jointly with the Divinity School as 3302.</notes>
+            <description>From Immanuel Kant's answer to this question in 1784 to Michel Foucault's engagement with the same question and answer in 1984, two centuries had passed and much water had flowed under the bridge. From the inception of its ideals in the Anglo-Saxon world in the seventeenth century at the hands of Spinoza, John Locke and Isaac Newton, to its development in France in the eighteenth century by Voltaire, Montesquieu and Rousseau and culmination with the writings of Immanuel Kant, the Enlightenment developed into an important intellectual movement which helped shape modernity and its repercussions in the contemporary world. This course will trace the history of Enlightenment in primary sources, enriched by a collection of secondary readings, and will explore contemporary reflections on Enlightenment from various schools of thought, ranging from romanticism to marxism, and from feminism to postmodernism. Some of the themes addressed include the politics of the Enlightenment, philosophy and morality, rationalism and empiricism, science and education, and religion and toleration.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Science Ctr 252 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25865a1310" role="1" seniority_sort="1">
+                <display_name>Soha Bayoumi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

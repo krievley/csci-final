@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156677" class_number="11642" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 2614">Sexuality and Political Economy</title>
+            <description>This course provides students with a basic conceptual language for understanding the complex relations between sexuality, capitalism, power, and the cultural politics of globalization. Throughout the past four decades, sexuality became an important topic of interdisciplinary debate that resulted in a vast and complex array of studies and perspectives. After Michel Foucaul'ts The History of Sexuality, the role of modern forms of power that work to discipline subjects and regulate populations has become central to how scholars conceptualize sexuality. By comparison, however, the relation between sexuality and the capitalist economy remains relatively undertheorized. How do the processes by which subjects produce, commodify, and consume goods shape desires, affects, and sexual subjectivities? What are the relations between commodities, discourses of sexuality, and the erotic practices of concrete historical actors? And what do we learn about globalization when we think of sexuality as a central domain of economic production, social reproduction, and political belonging?</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

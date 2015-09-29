@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123135" class_number="13494" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 350">Teaching Colloquium</title>
+            <notes>Hours to be arranged   Required of all third-year graduate students.</notes>
+            <description>The craft of teaching (discussion, lectures, tutorials, course descriptions, syllabi). This colloquium, designed for third-year graduate students, also considers issues related to the field exam, prospectus, and other aspects of advanced graduate study in English.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

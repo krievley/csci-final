@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="155996" class_number="11179" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 2474">Christian Ethics, Persuasion, and Power II</title>
+            <notes>Expected to be given in subsequent spring semesters of odd-numbered years. Offered jointly with the Divinity School as 2394.   Tu., 12&amp;#8211;2 and hour to be arranged.   Expected to be given in subsequent spring semesters of odd-numbered years. Offered jointly with the Divinity School as 2394.</notes>
+            <description>Whatever else it might be, European "modernity" is a transformation in Christian projects for ethics. Controversies over Reformation can conceal how far both Protestant and Roman Catholic writers begin to make modern assumptions about moral learning or to exercise modern forms of control over moral subjects. The course will try to trace some of this transformation and the increasingly radical reactions to it without pretending to any completion. Readings will include major texts from the Reformation through the 19th century.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e52865a1310" role="1" seniority_sort="1">
+                <display_name>Mark Jordan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

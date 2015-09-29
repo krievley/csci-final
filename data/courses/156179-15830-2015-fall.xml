@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156179" class_number="15830" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 31G">The Pleasures of Japanese Poetry: Reading, Writing, and Translation</title>
+            <exam_group>FAS14_H</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Reads classical waka, its modern descendant the tanka, and examples of linked verse (renga) and modern poems in free and prose-poem forms. (And haiku too!) Focuses on themes such as desire, renunciation, time, memory, war, death, sorrow, and receptivity. Students keep a diary of their encounters with the new poetry, practice the art of sequencing, and make their own translations based on literal renderings and explanations of Japanese originals.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Yenching Library 213 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e19469a1310" role="1" seniority_sort="1">
+                <display_name>Edwin Cranston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

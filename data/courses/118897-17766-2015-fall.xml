@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118897" class_number="17766" school_id="fas" section="014" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 399">Direction of Doctoral Dissertations</title>
+            <notes> May not be counted toward course requirements for the PhD degree.</notes>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e185747a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin Buchloh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159924" class_number="15108" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 98MC">Protest and the State</title>
+            <description>Social protests challenging state policy, legitimacy and leadership have become a central feature of American political life. This tutorial explores major protest episodes in the United States, emphasizing historical trajectories and social movement precedents to contemporary episodes. Five major trajectories will be considered: (1) the abolitionist movement of the 19th century, the Civil Rights Movement of the 1950s and 1960s, and the contemporary &amp;quot;Black Lives Matter&amp;quot; movement; (2) the movement around the American Anti-Imperialist League in the 1890s, the anti-Indochina wars movement in the 1960s/1970s, and the anti-Iraq war movement in the 2000s; (3) the US labor movement in the 1920s, the alter-globalization movement of the 1990s/2000s, and Occupy Wall Street in the 2010s; (4) the nativist movement of the second half of the 1800s, the Moral Majority movement in the 1980s, and the contemporary Tea Party movement; and (5) the American suffragist movement between 1840s-1920s, the women&amp;#39;s movement of the 1960s/1970s, and the LBGTQ movement of the 2000s. Students will conduct an independent research project on a movement of their choosing using the conceptual and methodological tools of sociology, including archival research, survey data analysis, content analysis, interviews, and ethnography.&amp;nbsp;</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e202386a1310" role="1" seniority_sort="1">
+                <display_name>Danilo Mandic</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

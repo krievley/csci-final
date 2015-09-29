@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110053" class_number="15648" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1430">The Politics of Personal Data</title>
+            <notes>american_subfield  </notes>
+            <description>Course examines legal, political, social, commercial and technical struggles for control over personal data in our globally connected data-rich world. Case studies include data sharing mandated by the state, traded for personal services, and controlled by individuals. Analyses demonstrate ways to think about clashes and the interplay between technology design and policy. Includes a data lab component, but course is accessible to all students willing to experiment with new technologies and participate in class discussions.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e79929a1310" role="1" seniority_sort="1">
+                <display_name>Latanya Sweeney</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

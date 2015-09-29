@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109425" class_number="15258" school_id="fas" section="003" term_code="fall">
+        <catalog_info>
+            <title short_title="ARABIC BA">Intermediate Arabic I</title>
+            <exam_group>FAS10_B</exam_group>
+            <notes>If this 12 noon section is full, please register for section 004, also at 12noon.  Not open to auditors. Cannot be taken pass/fail. Offered jointly with the Divinity School as 4360.</notes>
+            <prereq>Recommended: Arabic AA/AB series, or equivalent.</prereq>
+            <description>A thorough review and continuation of literary (classic and modern) Arabic grammar with emphasis on reading, writing, speaking and listening comprehension. Course materials draw from both classical and modern Arabic literature and culture. Required textbook: Al-Kitaab fii Ta'allum al-Arabiyya, Part II with DVDs, 2nd edition.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="12:59:00" location="Sever 302 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e8507a1310" role="1" seniority_sort="1">
+                <display_name>Nour Barmada</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

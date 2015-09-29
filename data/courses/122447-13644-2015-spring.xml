@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122447" class_number="13644" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 32V">The Art of Storytelling</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>People everywhere tell stories to express both the verities and contradictions found in experiences of everyday life. Based on storytelling traditions, a narrator shapes the story to reflect his or her own intentions, making it personally expressive as well as publicly meaningful to a particular audience. This seminar examines the nature of storytelling, its enduring appeal, and its ability to adapt to multiple technologies (print, film, internet). Participants engage in the storytelling process itself.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

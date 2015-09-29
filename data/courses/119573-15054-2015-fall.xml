@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119573" class_number="15054" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 2160">Politics and Economics</title>
+            <exam_group>FAS06_E</exam_group>
+            <description>Covers the political economy of policymaking and institutional change. Readings include a mixture of foundational approaches and recent research, covering a variety of methodological perspectives. The topical emphasis is on democracy, accountability, inequality, redistribution, and growth.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="CGIS Knafel K401 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e80022a1310" role="1" seniority_sort="1">
+                <display_name>James Alt</display_name>
+            </person>
+            <person id="d1e84581a1310" role="1" seniority_sort="2">
+                <display_name>Torben Iversen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

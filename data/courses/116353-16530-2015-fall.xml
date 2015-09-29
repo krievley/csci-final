@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16530" school_id="fas" section="227" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>The United States is a country fascinated with crime stories. But why do crime novels attract us? What do they reveal about where we come from, what we believe in, and who we are? This course will explore these and other related questions by studying fictional and nonfictional accounts of crimes committed in the United States by its citizens. In our first unit, we&amp;rsquo;ll consider how our notions about who criminals are change over time by examining the historical case of Lizzie Borden. The case, narrated by early crime writer Edmund Pearson, represents an infamous instance of miscarriage of justice in American history. In the following unit, we&amp;rsquo;ll explore how our ideas about criminality can change even within a single narrative. We&amp;rsquo;ll do so by looking at how two different media &amp;mdash;fiction and film&amp;mdash; portray the same crime story. Using both Dashiell Hammett&amp;rsquo;s novel  The Maltese Falcon  and the film version directed by John Huston and starring Humphrey Bogart, we&amp;rsquo;ll discuss how criminal identities shift in surprising ways in this story set in early twentieth century San Francisco. Finally, in our third unit, students will research a crime that occurred in their hometown, and think about how that crime might have been shaped by the town&amp;rsquo;s specific culture. Here students will draw on theoretical discussions about culture and criminality and uncover materials from the public record.  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="Memorial Hall 302 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e171470a1310" role="1" seniority_sort="1">
+                <display_name>Lindsay Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

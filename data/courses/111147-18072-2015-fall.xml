@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111147" class_number="18072" school_id="fas" section="014" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 333">Preparation for the Topical Examination</title>
+            <description>Required in both fall and spring terms of all third-year graduate students in the Department.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e69594a1310" role="1" seniority_sort="1">
+                <display_name>Susanna Rinard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

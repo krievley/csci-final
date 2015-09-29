@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156952" class_number="16183" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 352">Microscopy</title>
+            <description>This course presents the fundamental concepts that underlie modern light microscopy in a rigorous but non-mathematical way for biological applications. The students will learn about the four major frameworks for light (ray optics, wave optics, electromagnetism, and quantum optics). The ways lenses work, the theory of resolution, and the optical design of the compound microscope will be described. The course will also describe the photo-physical principles that underlie fluorescence and genetically encoded fluorescent proteins, and light detector and imaging strategies. Scanning (confocal and 2P), light sheet and super-resolution microcopies will also be described. We will end with a tour of the Harvard Center of Biological Imaging.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e121568a1310" role="1" seniority_sort="1">
+                <display_name>Jeff W. Lichtman</display_name>
+            </person>
+            <person id="d1e427615a1310" role="1" seniority_sort="2">
+                <display_name>Douglas Richardson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

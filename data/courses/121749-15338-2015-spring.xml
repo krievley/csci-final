@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121749" class_number="15338" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LATIN 112B">History of Latin Literature II</title>
+            <description>We will read extensive selections from major authors of the late Republic and Principate across a range of genres, from Vergil to Boethius, and satire to historiography, and consider their form and content against their historical contexts. Class will consist of a mixture of prepared translation from Latin and introductory lectures, while a weekly section will allow students to deepen their grammatical understanding of the texts. Designed for those with a good foundation of Latin grammar and vocabulary, students will be exposed to a robust amount of Latin prose and poetry, and at the end of the course will have acquired a solid grasp on Latin literary history.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e119940a1310" role="1" seniority_sort="1">
+                <display_name>Julian Yolles</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

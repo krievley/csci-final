@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142224" class_number="12554" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 53">Evolutionary Biology</title>
+            <prereq>Recommended: Life Sciences 1b or permission of instructor.</prereq>
+            <description>The course covers micro- and macro-evolution, ranging in its focus from population genetics through molecular evolution to the grand patterns of the fossil record. Topics emphasized include both natural and sexual selection, the ecological context of adaptation, genomic and developmental mechanisms of evolutionary innovation, speciation, phylogenetics, and evolutionary approaches to human problems.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e132123a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Berry</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

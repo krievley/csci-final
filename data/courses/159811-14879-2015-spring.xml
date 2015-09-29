@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159811" class_number="14879" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 3004B">Research Workshop in American Politics</title>
+            <description>A forum for the presentation and discussion of research in progress by graduate students (second year and above), faculty, and visiting scholars. Anyone working on contemporary American politics or on US political development welcome. Occasional presentations by invited speakers. Part two of a two part series.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>8</credits>
+        </catalog_info>
+    </course>
+</courses>

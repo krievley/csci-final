@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159887" class_number="16940" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 1225">Leaning In, Hooking Up: Visions of Feminism and Femininity in the 21st Century</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>What does it mean to &amp;ldquo;do&amp;rdquo; feminism, or to &amp;ldquo;be&amp;rdquo; a feminist in the 21st-century United States? What can we make of the dominant social expectations for a woman&amp;rsquo;s life? This course explores contemporary ideals of feminine success, including their physical, familial, professional, and political manifestations. We will engage with highly-contested topics&amp;mdash;including sexual violence and Title 9; work-life balance; the imperatives of self-care and presentation; and new models for sexuality, reproduction, family, motherhood, and domestic life&amp;mdash; using the tools of theory and cultural studies to interrogate their framing within popular discourse. Throughout, we will critique ideological formations of gender,&amp;nbsp;particularly as bounded by race, class, and sexuality.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Boylston 105 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e166985a1310" role="1" seniority_sort="1">
+                <display_name>Phyllis Thompson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

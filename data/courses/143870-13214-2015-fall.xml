@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143870" class_number="13214" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 190">Introduction to Materials Science and Engineering</title>
+            <exam_group>FAS07_B</exam_group>
+            <prereq>Recommended: Physical Sciences 12a,b, and Applied Mathematics 21a,b or Mathematics 21a,b.</prereq>
+            <description>Introduction to the structure, properties, and applications of materials. Crystal structure and defects. Phase transformations: phase diagrams, diffusion, nucleation and growth. Mechanisms of deformation and fracture. Effect of microstructure on properties. Examples from a variety of engineering applications.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Pierce 209 (SEAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e83561a1310" role="1" seniority_sort="1">
+                <display_name>Frans Spaepen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

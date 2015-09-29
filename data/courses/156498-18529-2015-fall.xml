@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156498" class_number="18529" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BCMP 311QC">Unmet Medical Needs and Translational Solutions</title>
+            <exam_group>FAS10_B</exam_group>
+            <notes> This course is application-based; applications are typically due in early March. This course will meet Mondays through Fridays in June. Dates TBA.</notes>
+            <description>The central goal of modern biomedical research is to understand the cause of human disease and to use this knowledge to develop approaches that lessen human suffering. The path from identifying an unmet medical need through the development of interventions that impact disease is a complex process demanding the best of medicine and science, strong project management, significant financial support, and persistence. In this course, students will learn to evaluate how unmet medical needs can be &amp;quot;translated&amp;quot; into new clinical practices. The course will feature assessment of unmet medical needs, case studies of successes and failures in translation, seminars from translational medicine experts, and workshops that engage students in substantive and intense discussions on current topics. Lecturers will include innovators who have successfully led the development of therapeutic interventions, leaders in basic science who have helped uncover the underlying causes of disease and investigators who have led clinical trials that lead to the approval of new interventions.&amp;nbsp;</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="16:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e68729a1310" role="1" seniority_sort="1">
+                <display_name>Jagesh Shah</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

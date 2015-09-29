@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113307" class_number="11239" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 300">Special Reading Programs and Research Problems for Advanced Students</title>
+            <notes>Peter J. Burgard 2217, Eric Rentschler 2325, Judith Ryan 1135, Maria Tatar 3645, and Markus Wilczek 5863  </notes>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e125357a1310" role="1" seniority_sort="1">
+                <display_name>Peter Burgard</display_name>
+            </person>
+            <person id="d1e42680a1310" role="1" seniority_sort="2">
+                <display_name>John T. Hamilton</display_name>
+            </person>
+            <person id="d1e125311a1310" role="1" seniority_sort="3">
+                <display_name>Racha Kirakosian</display_name>
+            </person>
+            <person id="d1e50006a1310" role="1" seniority_sort="4">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+            <person id="d1e5137a1310" role="1" seniority_sort="5">
+                <display_name>Eric Rentschler</display_name>
+            </person>
+            <person id="d1e42409a1310" role="1" seniority_sort="6">
+                <display_name>Judith Ryan</display_name>
+            </person>
+            <person id="d1e16929a1310" role="1" seniority_sort="7">
+                <display_name>Nicole Suetterlin</display_name>
+            </person>
+            <person id="d1e123623a1310" role="1" seniority_sort="8">
+                <display_name>Maria Tatar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

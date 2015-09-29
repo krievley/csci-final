@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159989" class_number="15333" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TDM 129DB">Physical Acting: Movement and Its Motivation</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes> Taught by Visiting Lecturer Jeanne Slater. For the initial class the students should come prepared to present a monologue.  The monologue can represent any period and should be between 1 to 2 minutes in length.  *In the event that the class is over maximum capacity the monologue will serve as an audition for enrollment.</notes>
+            <description>(Taught by Visiting Lecturer Jeanne Slater.) This course is designed to allow the actor to explore physicality and physical storytelling in a wide variety of ways.&amp;nbsp;&amp;nbsp; The ultimate goal is for the actor to be able to utilize his/her body in the most expressive, specific, communicative and imaginative way possible.&amp;nbsp; The class will work through a series of projects, each one building on the ideas and discoveries of the one before it.&amp;nbsp; The first of these projects will work with the most basic ideas of physical expression.&amp;nbsp; Each successive project will ask the actor to incorporate a new element (i.e. music, scene partner, dialogue, etc.) into their storytelling.&amp;nbsp; The class is lab-based and interactive; students are asked to work together on projects in pairs or groups, regularly observe each others work and actively participate in discussions of the ideas, issues, solutions and discoveries that are explored throughout the semester.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e198638a1310" role="1" seniority_sort="1">
+                <display_name>Jeanne Slater</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

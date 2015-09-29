@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109319" class_number="10162" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 23P">Physics, Math and Puzzles</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes>Section I: W., 4:30&amp;#8211;6:30; Section II: F., 4-6   Friday class will be added if needed, TBD.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Principles of modern physics are based on simple but at the same time deep concepts. Many of these concepts are naturally encountered when solving mathematical puzzles. The aim of this seminar is to illustrate the connection between physics and mathematics and use simple ideas and puzzles to shed light on this relation. We will also draw upon ideas encountered in the context of string theory and higher dimensional realizations of our universe. Recommended for students deeply interested in both physics and mathematics.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="18:29:00" location="Jefferson 453 (FAS)" start_time="16:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e5241a1310" role="1" seniority_sort="1">
+                <display_name>C. Vafa</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

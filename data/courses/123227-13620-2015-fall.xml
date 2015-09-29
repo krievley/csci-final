@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123227" class_number="13620" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 114">Analysis II: Measure, Integration and Banach Spaces</title>
+            <exam_group>FAS01_A</exam_group>
+            <prereq>Recommended: Mathematics 23a,b or 25a,b or 55a,b or 112; or an equivalent background in mathematics.</prereq>
+            <description>Lebesgue measure and integration; general topology; introduction to L p spaces, Banach and Hilbert spaces, and duality.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Science Ctr 222 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e235194a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Gardiner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

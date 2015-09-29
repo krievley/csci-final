@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156140" class_number="15365" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 139">Economic Sociology: Global Perspectives</title>
+            <exam_group>FAS15_A</exam_group>
+            <description>Sociology offers a unique perspective on economic behavior and institutions. Exploring the foundational concepts of economic sociology with examples from all over the world, this course treats the following questions, among others: How do sociological perspectives on organizations, networks, power and inequality challenge widely held assumptions about economic behavior? How can seemingly disparate cases from around the globe enrich our conceptual understanding of economy and society? Has the economy become more global over time and, if so, how? What role does finance capital play in the current dynamics and future direction of the global economy? Starting with the evolution of economic organizations, the course covers topics such as social embeddedness, markets and networks, power, labor market, globalization, economic development, and financial markets.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="William James 450 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e141572a1310" role="1" seniority_sort="1">
+                <display_name>Burak Eskici</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

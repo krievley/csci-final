@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120238" class_number="13496" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 289">Biologically-inspired Multi-agent Systems</title>
+            <notes> Geared toward graduate students of all levels as well as advanced undergraduates. Preference given to graduate students or upper-level concentrators.</notes>
+            <prereq>Recommended: Experience with algorithms (e.g. Computer Science 124) and programming (e.g. Computer Science 51).</prereq>
+            <description>Surveys biologically-inspired approaches to designing distributed systems. Focus is on algorithms, analysis, and programming paradigms. Topics: swarm intelligence, amorphous computing, immune-inspired systems, synthetic biology. Discussion of research papers and a research project required.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e258594a1310" role="1" seniority_sort="1">
+                <display_name>Radhika Nagpal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

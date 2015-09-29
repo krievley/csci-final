@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159730" class_number="15255" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 144">Medical Technologies in Historical Perspective</title>
+            <exam_group>FAS12_C</exam_group>
+            <description>The course examines the ways in which various medical technologies shaped and were shaped by physician and nurse practices and goals as well as ideas about patient care in American medicine from the 19th-century to the present. We will look at how the meanings attached to medical technologies grew out of specific historical, social, political and medical contexts. Medical technologies examined include: imaging machines; clinical, diagnostic and genetic tests; reproductive technologies; and artificial organs.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Science Ctr 469 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e74938a1310" role="1" seniority_sort="1">
+                <display_name>Evelynn Hammonds</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

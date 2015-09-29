@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107400" class_number="10149" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CELLBIO 306QC">Teaching 100: The Theory and Science of Teaching</title>
+            <exam_group>FAS15_E</exam_group>
+            <notes>Course meets&amp;nbsp;October 1, 2015 through November 19, 2015.  The course has been designed as a companion to Genetics 302qc: Teaching 101, but neither course is a prerequisite of the other.</notes>
+            <description>For many graduate students, teaching will be part of their career, whether as mentoring, formal classroom teaching, or outreach. In addition, the theory and research evidence accumulating in the disciplines of cognitive psychology, neuroscience, and from STEM classrooms, has turned the question of, &amp;#39;How do we best teach science?&amp;#39; into its own scientific discipline. The Theory and Science of Teaching focuses on understanding why certain teaching methods are effective by examining the scientific research and theoretical frameworks that support these methods. We will read and discuss foundational educational and cognitive psychology texts and primary literature, and then develop an annotated lesson plans that allows us to put these ideas into practice.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7093a1310" role="1" seniority_sort="1">
+                <display_name>Johanna Gutlerner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

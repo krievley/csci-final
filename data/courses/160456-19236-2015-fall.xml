@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160456" class_number="19236" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CLASPHIL 224">Epigraphy and Religion</title>
+            <description>This course will examine a wide variety of Greek and Latin inscriptions reflecting on the religious beliefs and practices of the Greek East and Latin West from the Archaic Period to Late Antiquity, and in doing so will illustrate different approaches to interpreting documentary and sub-literary sources.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASPHIL">Classical Philology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

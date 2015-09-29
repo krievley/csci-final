@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110160" class_number="16568" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2332HFCA">Early-Stage Research and Discussions on Economic Development</title>
+            <exam_group>FAS13_E</exam_group>
+            <notes> Primarily, but not exclusively, for doctoral students in economics who have passed their oral examinations.</notes>
+            <description>Participants discuss recent research in economic development and present their own work in progress. Popularly known as the Development Tea. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.	&amp;nbsp;</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Workshop</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:29:00" location="Littauer Ctr 219 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e529a1310" role="1" seniority_sort="1">
+                <display_name>Nathan Nunn</display_name>
+            </person>
+            <person id="d1e532a1310" role="1" seniority_sort="2">
+                <display_name>Melissa Dell</display_name>
+            </person>
+            <person id="d1e535a1310" role="2" seniority_sort="3">
+                <display_name>Michael Kremer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160159" class_number="15234" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98PF">Rethinking Transnational Feminism</title>
+            <notes> This course will be lotteried.</notes>
+            <description>Can we speak of a global or transnational feminism? Attending to questions prompted by both globalization and cosmopolitanism, this course explores themes, issues, and problems raised by global feminist aspirations in political thought. We will develop a genealogy of feminist attempts to think in a cosmopolitan, international, and transnational vein from the 18th through 20th centuries. While resisting the lure of relativism, we will appraise 21st century articulations of global feminism by taking centrally human plurality, solidarity, and contingent democratic practices rooted in particular local contexts within a global frame.&amp;nbsp;</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e379375a1310" role="1" seniority_sort="1">
+                <display_name>Angela Maione</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

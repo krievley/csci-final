@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160673" class_number="16796" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ITAL 134">Situated Minds: Total Toxicity and Other Modernist Embodiment</title>
+            <exam_group>FAS12_C</exam_group>
+            <description>The course uses Davide Manuli&amp;rsquo;s experimental film &amp;#39;La leggenda di Kaspar Hauser&amp;#39; (2012) and two premises provocatively worked out from Cognitive Science and Deconstruction (the universe stinks, and the subject is totally toxic) to establish five units of work (Imposturing, Unreason, Potency, Hunger, and First-Last Subjects) based on five Italian master fictions (Verga&amp;rsquo;s &amp;#39;Mastro-Don Gesualdo&amp;#39;, 1889; Pirandello&amp;rsquo;s &amp;#39;Uno nessuno centomila&amp;#39;, 1926; Svevo&amp;rsquo;s &amp;#39;La coscienza di Zeno&amp;#39;, 1923; Gadda&amp;rsquo;s &amp;#39;La cognizione del dolore&amp;#39;, 1963-1970; Tommasi di Lampedusa&amp;rsquo;s &amp;#39;Il Gattopardo&amp;#39;, 1958). Alchemy, biochemistry and the new media technology &amp;ndash; radio and cinema primarily &amp;ndash; will aid the provocation by taking it literally, i.e., organ by organ, to the heart of the Modernist challenge to this Cosmos. Classes will be conducted mostly in English, and will consist of a mix of lectures, close reading labs, and seminar presentations.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="Boylston G07 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e74097a1310" role="1" seniority_sort="1">
+                <display_name>Federica Pedriali</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146792" class_number="11942" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 243">Foundational Fiction and Film</title>
+            <notes>Conducted in Spanish.   Conducted in Spanish.</notes>
+            <description>Through novels that helped to consolidate nation-states in Latin America, explores modernity as personal and public lessons in laissez-faire. Sequels in film, telenovelas, performances show tenacity of genre. Links between creativity and citizenship. Theorists include Anderson, Foucault, Arendt, Lukacs, Flaubert.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

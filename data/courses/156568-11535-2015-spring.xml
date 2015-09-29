@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156568" class_number="11535" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 105">Marie de France and ChrÃ©tien de Troyes or the Beginning of Modern Fiction</title>
+            <notes> Course in French. Reading in Modern French.</notes>
+            <description>We will read the complete works of the most famous French authors of the twelfth century: Marie de France's Lais, Fables, and Purgatory of St. Patrick; ChrÃ©tien de Troyes's five Arthurian romances, two love songs, and adaptation of Ovid's story of Philomela. We will also read other contemporary narrative works, helping us to reflect on the role of fiction in medieval culture and in our own culture.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

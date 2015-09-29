@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117760" class_number="15249" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 208">Contemporary Theory and Research</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes> Required of and limited to second-year graduate students in Sociology.</notes>
+            <description>Covers the development of sociology as a discipline in the US and the rise of distinct schools of sociological theory. Assesses the role of mechanisms in sociological theory and explores the use of theory in empirical research.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="William James 450 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e80941a1310" role="1" seniority_sort="1">
+                <display_name>Robert Sampson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

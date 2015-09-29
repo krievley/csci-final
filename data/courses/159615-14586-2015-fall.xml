@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159615" class_number="14586" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 90AU">Australian Indigenous Literature: Seminar</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>This course is an introduction to the diversity and difference of Aboriginal forms of writing across the cultural spectrum, including oral and traditional forms, non-fiction, life narrative, visual narrative, fiction, poetry and contemporary media. Concepts of &amp;lsquo;country,&amp;rsquo; first contact, exoticism, protest, terra nullius, testimony, assimilation, and sovereignty are explored. The course also introduces modes of reading, theories of racial literacy, first-nation critical contexts, cultural syncretism, and vocabularies of interpretation appropriate to an understanding of the texts and forms studied.&amp;nbsp;</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Sever 104 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e202131a1310" role="1" seniority_sort="1">
+                <display_name>Philip Mead</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

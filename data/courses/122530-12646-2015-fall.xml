@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122530" class_number="12646" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 99A">Laboratory Research for Honors Thesis</title>
+            <notes>Ordinarily may not be taken as a fifth course. Indivisible for students enrolling in the fall term. Students intending to enroll in the fall are required to submit a written proposal to the instructor. Students may enter the course at midyear only with the permission of the instructor. The thesis proposal must be approved by the instructor and Head Tutor prior to enrolling in MCB 99.  </notes>
+            <description>For honors candidates writing a thesis in Molecular and Cellular Biology.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e230998a1310" role="1" seniority_sort="1">
+                <display_name>Martin Samuels</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

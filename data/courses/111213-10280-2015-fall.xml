@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111213" class_number="10280" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2010C">Economic Theory</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes>Enrollment is strictly limited to PhD students in the Economics Department, Business Economics program, and PEG program. Qualified Harvard undergraduates may also enroll. No other students may take the course for credit or as auditors.   Tu., Th., 1-2:30, and a 90-minute weekly section to be arranged.   Enrollment is strictly limited to PhD students in the Economics Department, Business Economics program, and PEG program. Qualified Harvard undergraduates may also enroll. No other students may take the course for credit or as auditors.</notes>
+            <description>Topics include discrete-time and continuous-time dynamic programming, consumption, investment, economic growth, and business cycles.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Sever 103 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e45263a1310" role="1" seniority_sort="1">
+                <display_name>Robert Barro</display_name>
+            </person>
+            <person id="d1e15779a1310" role="2" seniority_sort="2">
+                <display_name>David Laibson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

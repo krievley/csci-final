@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126907" class_number="13760" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 36P">To Far Places: Literature of Journey and Quest</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Considers largely fictional, mythic, or epic literature involving travel, quest, pilgrimage, sojourning, and enduring themes and questions this literature raises: parting/return, separation/reintegration, homelessness/homecoming, loneliness/companionship, orientation/disorientation, internal/external, place/space, apprenticeship, trial, growth, aesthetic vision, courage, and death. Includes works such as Gilgamesh, Tolkien's Hobbit, Homer's Odyssey, Basho's Narrow Road to Oku, Endo's Deep River, Hesse's Siddhartha, Calvino's Invisible Cities, Hersey's A Single Pebble, Frazier's Cold Mountain, Johnson's Middle Passage, `Attar's Conference of the Birds, McCarthy's The Road. Open to Freshmen only.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>1</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e51263a1310" role="1" seniority_sort="1">
+                <display_name>William A. Graham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

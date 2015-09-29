@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118262" class_number="15804" school_id="fas" section="114" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 10">Introduction to Expository Writing</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>In order to enroll in Expository Writing 10, you must have had an Expos 10 advising session at the Writing Program.  After taking Expository Writing 10, a student must pass Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>A rigorous, intensive elective that helps students prepare for the demands of college writing. In small classes, students work closely with instructors on developing and organizing ideas, analyzing sources, and writing clear, engaging essays. Students also meet frequently in individual conferences with instructors to discuss their work. Assignments are based on sources from a range of disciplines and genres.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Sever 112 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e158138a1310" role="1" seniority_sort="1">
+                <display_name>Jane Rosenzweig</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

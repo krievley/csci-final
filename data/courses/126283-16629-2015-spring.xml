@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126283" class_number="16629" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 3500">Direction of the Doctoral Dissertation</title>
+            <notes> Consult the appropriate member of the department.</notes>
+            <prereq>Course open to Graduate Students Only</prereq>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e109277a1310" role="2" seniority_sort="1">
+                <display_name>Peter Ellison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

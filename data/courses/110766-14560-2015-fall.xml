@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110766" class_number="14560" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 110">Introduction to Probability</title>
+            <exam_group>FAS13_A</exam_group>
+            <prereq>Recommended: Mathematics 18 or above (may be taken concurrently).</prereq>
+            <description>A comprehensive introduction to probability. Basics: sample spaces and events, conditional probability, and Bayes' Theorem. Univariate distributions: density functions, expectation and variance, Normal, t, Binomial, Negative Binomial, Poisson, Beta, and Gamma distributions. Multivariate distributions: joint and conditional distributions, independence, transformations, and Multivariate Normal. Limit laws: law of large numbers, central limit theorem. Markov chains: transition probabilities, stationary distributions, convergence.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Science Ctr Hall B (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6033a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Blitzstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

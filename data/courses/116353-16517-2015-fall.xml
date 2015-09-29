@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16517" school_id="fas" section="214" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>The world of sports is one of the most dynamic and complete microcosms of American life. Since the advent of big-money professional and &amp;ldquo;amateur&amp;rdquo; athletics at the dawn of the 20th century, sports has had to confront a range of important issues: race, gender, labor versus ownership, drugs, money, violence, and economic freedom. Sports has also, at its best, represented an egalitarian ideal: the only barrier to excellence is one&amp;#39;s own talent and commitment. At moments when sports has advanced this ideal (Jackie Robinson, Title IX) it can push society forward. When, however, people or communities lose perspective on the place and meaning of sports, the results can be disastrous or even tragic (Jerry Sandusky, performance enhancing drug scandals). We will address these issues through a series of extracts from court cases, articles, and documentary films that will provide us with a nuanced view of sports. Using these sources, students will craft essays that present powerful arguments about the role and place of sports within American life.  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="Memorial Hall 029 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172607a1310" role="1" seniority_sort="1">
+                <display_name>Brian Fobi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

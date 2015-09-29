@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107675" class_number="10266" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 980W">Policy Options in Health and Environmental Economics</title>
+            <prereq>Recommended: Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prereq>
+            <description>The seminar will focus on policy issues in two areas; health economics, and environmental economics. We will read papers on an assortment of policy options and formulate frameworks for analyzing their likely impacts on outcomes of interest. Examples from health care include the analysis of mergers in hospital markets and the choice of capitation vs fee for service contracts. Examples from environmental economics include the choice between tradeable pollution permits and pollution taxes. Where possible we will use data and do the analysis quantitatively. Some knowledge of microeconomic and statistical tools, particularly those related to industrial organization, will be assumed.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e89506a1310" role="1" seniority_sort="1">
+                <display_name>Ariel Pakes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159919" class_number="15090" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 985QB">Research in Applied Microeconomics, Labor, and Environmental Economics</title>
+            <description>Workshop for seniors writing theses. Especially for applied work in microeconomics, environmental, or natural resource economics, but open to all fields. Emphasis on choice of research topics, methodology, and data sources. Course requires written and oral presentations of work in progress leading toward completion of a major research paper or senior honors thesis. Part two of a two part series.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e33618a1310" role="2" seniority_sort="1">
+                <display_name>Rebecca Toseland</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

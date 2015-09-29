@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156219" class_number="16370" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 291">Nano Micro Macro: Adaptive Material Laboratory</title>
+            <exam_group>FAS17_D</exam_group>
+            <notes> Offered jointly with the Design School.  For more information see &lt;a href="http://www.gsd.harvard.edu/cgi-bin/courses/details.cgi?term=201520&amp;course=SCI-06477"&gt;www.gsd.harvard.edu/cgi-bin/courses/details.cgi?term=201520&amp;course=SCI-06477&lt;/a&gt;.</notes>
+            <description>This course explores research methods and techniques through the analyses of emerging energy-efficient materials and systems and their applications in buildings. It serves as an interdisciplinary platform for engineers, materials and computer scientists to interact with the design students and develop new products. The course introduces ideas-to-innovation processes in a hands-on, project/product focused manner that balance engineering concepts with promising, real-world opportunities. Switching back and forth between guided discovery and focused development, between bottom-up and top-down thinking, and market analyses, the course helps students establish generalizable frameworks as researchers and innovators with a focus on new and emerging technologies.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e143252a1310" role="1" seniority_sort="1">
+                <display_name>Martin Bechthold</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

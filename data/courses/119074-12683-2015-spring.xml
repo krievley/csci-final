@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119074" class_number="12683" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 223R">Neo-Riemannian Analysis</title>
+            <notes> Open to undergraduates with permission of instructor.</notes>
+            <description>Neo-Riemannian Analysis. Explores the new body of transformational analytical techniques usually grouped as ``Neo-Riemannian Theory.'' Analysis of pertinent musical passages, discussion of key texts (Riemann, Lewin, Hyer, Cohn, Kopp), context and limits of these ideas.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60096a1310" role="1" seniority_sort="1">
+                <display_name>Suzannah Clark</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

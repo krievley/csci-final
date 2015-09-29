@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156061" class_number="14738" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 181A">Asian American Literature</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>This course is both a survey of Asian American literature and an introduction to ongoing debates about what constitutes Asian American literature. How do we determine that a literary work is "Asian American" when the term has been continuously revised and expanded since it came into common usage in the late 1960s? How important are considerations of a work's thematic concerns, its relationship to specific cultural forms and traditions, or its author's biography?</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e58143a1310" role="1" seniority_sort="1">
+                <display_name>Ju Yon Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

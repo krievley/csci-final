@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111790" class_number="11933" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPAN 106B">Kambun</title>
+            <notes>Prerequisite:&amp;nbsp; Japanese 106a or equivalent.  This course will be taught in Spring 2016 by Sachiko Kawai, EALC College Fellow.</notes>
+            <description>Introduction to Kambun.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPAN">Japanese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e166784a1310" role="1" seniority_sort="1">
+                <display_name>Sachiko Kawai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

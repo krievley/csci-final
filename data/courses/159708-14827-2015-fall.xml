@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159708" class_number="14827" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 81">Fundamentals of Neuroscience</title>
+            <exam_group>FAS08_A</exam_group>
+            <notes> This course serves as a more rigorous alternative to MCB 80 and is primarily intended for students who intend to concentrate in neurobiology or who intend to pursue neurobiology as a secondary field.  MCB 81 may not be taken for credit by students who have taken MCB 80.</notes>
+            <prereq>Recommended: A strong quantitative background is desirable but not strictly required.</prereq>
+            <description>An intensive introduction to topics in neuroscience, ranging from the inner workings of neurons, to the function of small neuronal networks, to the function of brain systems that give rise to perception, thought, emotion, cognition and action. &amp;nbsp;The course will emphasize student-directed learning and will follow an &amp;quot;inverted&amp;quot; structure: students will be expected to watch lecture videos and complete exercises outside of class, and classroom time will be primarily reserved for discussion and in-class exercises.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="Northwest Bldg 205 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e284a1310" role="1" seniority_sort="1">
+                <display_name>David Cox</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

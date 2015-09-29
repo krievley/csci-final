@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114008" class_number="14168" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 287BR">Topics in String Theory</title>
+            <prereq>Recommended: Physics 287a.</prereq>
+            <description>A selection of topics from current areas of research on string theory.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="14:59:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e153416a1310" role="1" seniority_sort="1">
+                <display_name>Xi Yin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

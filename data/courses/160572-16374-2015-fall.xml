@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160572" class_number="16374" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 13G">From Wastelands to Wal-Mart: U.S. Labor History in Global Perspective</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes> Instructor:  Holger Droessler</notes>
+            <description>People did not discover America, they made it. The goal of this reading seminar is to introduce students to the history of working people in North America and beyond. We will begin with labor systems among Native American societies prior to European contact and will conclude with current debates about the future of work and capitalism in the United States and elsewhere. Topics to be discussed include theories of labor and capital, settler colonialism, indentured servitude, slavery, socialism, the New Deal, the service economy, and global inequality.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Robinson 105 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e160422a1310" role="1" seniority_sort="1">
+                <display_name>Holger Droessler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

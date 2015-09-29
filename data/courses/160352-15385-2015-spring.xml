@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160352" class_number="15385" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1160">Data Science and Behavioral Economics: Application to Systems Medicine</title>
+            <description>Large data sets, combined with advances in &amp;quot;data science&amp;quot;, have generated new insights into complex empirical phenomena. We explore how these developments can be transformative for clinical medicine, and for human health and well-being. Since human judgment is at the core of medicine, we draw on insights from behavioral science to explore human decision making and understanding of medicine. We develop the implications of these concepts for health policy and for clinical topics such as cause of death, complications and aging.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

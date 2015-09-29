@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108839" class_number="11272" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SYSTBIO 212">Communication of Science</title>
+            <exam_group>FAS14_G</exam_group>
+            <notes> This is a required course for first year Systems Biology students.</notes>
+            <description>Students will work collaboratively with faculty and one another on critical science communication skills including crafting graphics, writing fellowships, and giving oral presentations.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15047a1310" role="1" seniority_sort="1">
+                <display_name>Galit Lahav</display_name>
+            </person>
+            <person id="d1e15050a1310" role="1" seniority_sort="2">
+                <display_name>Angela Depace</display_name>
+            </person>
+            <person id="d1e15053a1310" role="1" seniority_sort="3">
+                <display_name>Allon Klein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

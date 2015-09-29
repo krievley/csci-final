@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146540" class_number="14683" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 160W">Consciousness in Fiction (formerly English 90lv)</title>
+            <exam_group>FAS18_F</exam_group>
+            <description>A look at the complex ways in which writers represent their characters&amp;rsquo; thought in texts by Austen, Flaubert, James, Tolstoy, Chekhov, Giovanni Verga, and Woolf. More broadly, traces the development of stream-of-consciousness, from Austen&amp;rsquo;s incipient mastery of free indirect style, through Flaubert&amp;rsquo;s more sophisticated use of it, to Woolf&amp;rsquo;s full-blown inner monologues, seeing this development as not merely a fact of English and American literature, but as a phenomenon of world literature and an element of our modernity.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Harvard Hall 104 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e57313a1310" role="1" seniority_sort="1">
+                <display_name>James Wood</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

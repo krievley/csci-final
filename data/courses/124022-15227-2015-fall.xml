@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124022" class_number="15227" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 288">The Ancients and the Moderns: Modern Critical Theory and the Classics</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>Explores the impact of classical literature and culture on the formation of modern critical theory. Topics include: construction of power; trafficability of art; ritual theory; sexuality; gender studies; irony; orality and literacy.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Dana Palmer 102 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42454a1310" role="1" seniority_sort="1">
+                <display_name>Panagiotis Roilos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

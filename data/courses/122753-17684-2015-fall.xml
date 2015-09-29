@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122753" class_number="17684" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2570R">Intergroup Relations: Research Seminar</title>
+            <exam_group>FAS12_G</exam_group>
+            <description>The seminar provides students with research experience concerning different forms of intergroup relations, including the social psychology of interracial and interethnic conflict and prejudice. Graduate and undergraduate students meet on a weekly basis to discuss ongoing research on psychological mechanisms involved in power, stereotyping, inequality, identity, and ideology. Undergraduate enrollees will work under the supervision of a graduate student in the design and conduct of lab-based and survey experiments, and the input, coding and early analysis of empirical data. Undergraduate enrollees will also attend biweekly critical discussions of research articles in the field, and will have the opportunity to develop and receive feedback on their own research ideas.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:29:00" location="William James 1465 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e73727a1310" role="1" seniority_sort="1">
+                <display_name>James Sidanius</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

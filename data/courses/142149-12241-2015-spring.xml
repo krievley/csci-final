@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142149" class_number="12241" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 167">Adventure and Fantasy Simulation, 1871-2036: Seminar</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with the instructor about course enrollment procedure.  Offered jointly with the Graduate School of Design as 4305.</notes>
+            <prereq>Recommended: VES 107, VES 160, and VES 166, or permission of the instructor.</prereq>
+            <description>Visual constituents of high adventure since the late Victorian era, emphasizing wandering woods, rogues, tomboys, women adventurers, faerie antecedents, halflings, crypto-cartography, Third-Path turning, martial arts, and post-1937 fantasy writing as integrated into contemporary photography, advertising, video, computer-generated simulation, and designed life forms.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e248813a1310" role="1" seniority_sort="1">
+                <display_name>John Stilgoe</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

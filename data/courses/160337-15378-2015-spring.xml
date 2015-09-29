@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160337" class_number="15378" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98PK">The Public and Its Problems: Democratic Theory in Practice</title>
+            <notes> This course will be lotteried.</notes>
+            <description>This course provides an in-depth introduction to contemporary democratic theory through both the lenses of its proponents (in their many forms) and its most trenchant critics.&amp;nbsp; The course will be organized historically, tracing forms and schools of democratic and anti-democratic theory through the 20th Century, with a constant eye towards historical precedents by focusing each week around particularly intransigent problems for democratic governance (e.g. labor disputes, penal organization).&amp;nbsp; Ultimately, the course aims to provide the student with both a detailed sense of the map of the contemporary terrain of democratic theory, and also a sense of why certain schools of proponents and critics coalesced around the public problems that they did.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e466046a1310" role="1" seniority_sort="1">
+                <display_name>Ian N. Storey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

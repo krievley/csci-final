@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108816" class_number="16134" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RSRA 298A">Master's Thesis Reading and Research</title>
+            <exam_group>FAS14_G</exam_group>
+            <notes> This course must be taken for a letter grade.</notes>
+            <description>Interdisciplinary proseminar designed to orient master&amp;#39;s degree students in Regional Studies-Russia, Eastern Europe, and Central Asia to theoretical and methodological approaches in the field, including research design for academic and policy research. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.	&amp;nbsp;</description>
+            <department code="REECA">Russia, Eastern Europe, and Central Asia</department>
+            <course_group code="RSRA">Russia, Eastern Europe, and Central Asia</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:59:00" location="CGIS South S354 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e13105a1310" role="1" seniority_sort="1">
+                <display_name>Alexandra Mary Vacroux</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

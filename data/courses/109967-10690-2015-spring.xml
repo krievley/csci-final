@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109967" class_number="10690" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 144">Symmetries and Geometry in Quantum Mechanics</title>
+            <description>This course will review the role of symmetries in quantum mechanics. Topics include atomic and molecular symmetries, crystallographic symmetries, spontaneous symmetry breaking and phase transitions, geometrical Berry phases, topological aspects of condensed matter systems. Mathematical basics of group theory will be taught as needed to give students an understanding of the topics covered.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e91923a1310" role="1" seniority_sort="1">
+                <display_name>Eugene Demler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

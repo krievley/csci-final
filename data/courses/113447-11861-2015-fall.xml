@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113447" class_number="11861" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 151BR">Nonfiction Video Projects</title>
+            <exam_group>FAS08_J</exam_group>
+            <notes>In exceptional cases, a student will be permitted to take the course without having filmed over the summer, but the student must have a specific proposal for a documentary that can be both shot and edited during the term. An interview with the instructor is required for admission.   FIRST MEETING NOTE: Wednesday, Sept. 2 from 1pm-2pm in Sever B10.&amp;nbsp;   &amp;nbsp;  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <prereq>Recommended: At least one VES course in live-action film or video.</prereq>
+            <description>Working from a proposal approved in advance by the instructor, each student plans, shoots, and edits a documentary video of his or her design. Shooting should take place over the summer and editing during the fall term. Readings and screenings augment individual work.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Sever B10 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15106a1310" role="1" seniority_sort="1">
+                <display_name>Alfred Guzzetti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

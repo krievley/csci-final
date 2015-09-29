@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116069" class_number="12216" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 1420">Human Evolutionary Anatomy</title>
+            <notes>M., W., F., at 10, and a weekly section to be arranged.   </notes>
+            <prereq>Recommended: Life Sciences 2 or with permission of instructor.</prereq>
+            <description>How did the human body evolve, and how does it develop, grow and function? This course provides an integrative regional overview of human anatomy, with an emphasis on the musculo-skeletal system, and a comparative approach to the evolution of modern anatomy. Additional topics include: skeletal and dental development; gross anatomy of the nervous and circulatory systems; comparative limb anatomy; and comparative cranial anatomy.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e213554a1310" role="2" seniority_sort="1">
+                <display_name>Katherine D. Zink</display_name>
+            </person>
+            <person id="d1e144059a1310" role="2" seniority_sort="2">
+                <display_name>Neil Roach</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

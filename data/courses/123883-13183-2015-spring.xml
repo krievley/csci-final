@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123883" class_number="13183" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 60R">Reading Course for Senior Honors Candidates</title>
+            <notes> Limited to candidates for honors in Mathematics who obtain the permission of both the faculty member under whom they want to work and the Director of Undergraduate Studies. May not count for concentration in Mathematics without special permission from the Director of Undergraduate Studies. Graded Sat/Unsat only.</notes>
+            <description>Advanced reading in topics not covered in courses.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e69272a1310" role="1" seniority_sort="1">
+                <display_name>Jacob Lurie</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

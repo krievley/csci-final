@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126937" class_number="13784" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SYSTBIO 370">Advanced Topics in Systems Biology: Reading Seminar</title>
+            <description>A series of reading and discussion seminars, each running for a half term (7 weeks). Two seminars, which can be taken in different terms, are required for credit.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

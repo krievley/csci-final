@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113976" class_number="13955" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 99R">Tutorial - Senior Year</title>
+            <notes>See Course Notes  Hours to be arranged: &amp;nbsp;Gregory Tucci and members of the Department  Spring: &amp;nbsp;Tu, TH at 1:00 pm  Open to seniors accredited by the Department as honors candidates. Students enrolled in Chemistry 99r have the option of writing a thesis. Written permission of the research adviser must be filed at the office of the Associate Director of Undergraduate Studies in Chemistry. Any student enrolling in this course must register the name of his or her research mentor with the course head whose signature must appear on each student's study card.</notes>
+            <description>Research under the direction of, or approved by, a member of the faculty of the Department of Chemistry.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e88307a1310" role="1" seniority_sort="1">
+                <display_name>Gregory C. Tucci</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

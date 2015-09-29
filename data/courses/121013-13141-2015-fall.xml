@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121013" class_number="13141" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 308">Workshop on Economic Sociology</title>
+            <exam_group>FAS06_F</exam_group>
+            <description>Presentations and discussions of new research by members of the community and visiting scholars. Students are exposed to the major paradigms in the field, and see how research articles are developed and refined.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:29:00" location="William James 1550 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e78869a1310" role="1" seniority_sort="1">
+                <display_name>Frank Dobbin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

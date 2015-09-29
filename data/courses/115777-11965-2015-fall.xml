@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115777" class_number="11965" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH CRR">Fiction Writing: Workshop</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes> Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+            <description>An introduction to fundamental aspects (technical and conceptual) of writing fiction, beginning with short exercises and moving toward the completion and revision of original work. Readings include Munro, Welty, D&amp;icirc;az, Lahiri, and others, and explore how practicing writers negotiate character, narrative structure, setting, voice, etc. Individual reading assignments are also devised on a per project basis. As the term continues, increasing amounts of time are devoted to the discussion of student work.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="18:59:00" location="Barker 218 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e20942a1310" role="1" seniority_sort="1">
+                <display_name>Bret Johnston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

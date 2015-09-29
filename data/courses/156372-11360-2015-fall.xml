@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156372" class_number="11360" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2395">Health, Inequality and Development</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Offered jointly with the Harvard School of Public Health.</notes>
+            <description>The course will be focused on an examination of the constitutive role of health in human development, and its instrumental role in economic development.&amp;nbsp; It will include discussion of the conceptual issues and measurement problems in health studies, and also in assessing inequalities in health and healthcare.&amp;nbsp; The correspondence and dissonance in the links between income inequality and health inequality will be investigated, and the challenge of instituting universal health care in poor countries will be examined. &amp;nbsp;</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:20:00" location="Kresge 200 (HSPH)" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e93a1310" role="1" seniority_sort="1">
+                <display_name>Amartya Sen</display_name>
+            </person>
+            <person id="d1e148375a1310" role="1" seniority_sort="2">
+                <display_name>Sudhir Anand</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

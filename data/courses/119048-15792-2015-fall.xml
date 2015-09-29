@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119048" class_number="15792" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 173">Introduction to Electronic and Photonic Devices</title>
+            <exam_group>FAS15_A</exam_group>
+            <prereq>Recommended: Applied Physics 50a and b, Physics 11a and b (no longer offered), or Physics 15a and b, Physical Sciences 12a and b, or equivalent (mechanics; electromagnetism); undergraduate level quantum mechanics highly useful, but not required.</prereq>
+            <description>This course will focus on physical principles underlying semiconductor devices: electrons and holes in semiconductors , energies and bandgaps, transport properties of electrons and holes, p-n junctions, transistors, light emitting diodes, lasers, solar cells and thermoelectric devices.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Maxwell Dworkin G125 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e108849a1310" role="1" seniority_sort="1">
+                <display_name>Evelyn Hu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

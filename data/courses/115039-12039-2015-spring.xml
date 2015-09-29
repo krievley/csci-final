@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115039" class_number="12039" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 230BR">Advanced Differential Geometry</title>
+            <prereq>Recommended: Knowledge of the material in Mathematics 230a.</prereq>
+            <description>A continuation of Mathematics 230a. Topics in differential geometry: Analysis on manifolds. Laplacians. Hodge theory. Spin structures. Clifford algebras. Dirac operators. Index theorems. Applications.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

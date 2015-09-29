@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111175" class_number="14494" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 3">The True and the Good</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief.</notes>
+            <description>The course introduces students to philosophical argumentation and writing. It is organized around a range of central philosophical questions, concerning the nature of right and wrong, free will and responsibility, the relation between self, mind, and nature, and god and death. We&amp;#39;ll pay particular attention to how answers to one question interact with answers to the others. No previous experience with philosophy is required.Note: This course, when taken for letter grade, meets the General Education requirement for Culture and Belief.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Emerson 210 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e44734a1310" role="1" seniority_sort="1">
+                <display_name>Bernhard Nickel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

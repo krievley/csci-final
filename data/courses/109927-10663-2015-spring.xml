@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109927" class_number="10663" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 97B">"What is Intellectual History?"</title>
+            <description>Intellectual historians study almost every period, place, and theme in human history: from classical times to the present, from Asia to the Americas, by examining philosophy and religion, social and political thought, literature and art, and other expressions of human agency and intention that range from ancient epics to graphic novels. This section will draw examples from a wide range of moments and regions to ask how intellectual history has developed as a field, what methods it uses, and how it can be distinguished from other forms of history even as it informs debates of interest to all historians.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38868a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Jewett</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

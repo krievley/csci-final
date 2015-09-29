@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126004" class_number="14844" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CULTBLF 35">Classical Mythology</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Incest and parricide, cannibalism and self-blinding: classical mythology has fascinated artists, writers, and thinkers throughout western civilization, and this course will serve as an introduction to this strange and brilliant world. We will move from the very first works of Greek literature through to the classic Greek tragedies and the Roman tales in Ovid's Metamorphoses. Along the way, we will confront the question of what "mythology" is and how it works, and we will discuss how these traditional stories changed over time to fit different cultural circumstances. We will also consider ancient rationalizations of myth, the relationship of myth and politics, and the reception of classical myth in the modern world.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e120171a1310" role="1" seniority_sort="1">
+                <display_name>Brigitte Libby</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

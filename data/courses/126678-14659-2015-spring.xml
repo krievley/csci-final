@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126678" class_number="14659" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 74L">The New Deal and American Liberalism</title>
+            <description>This course studies the responses to the Great Depression that formed the New Deal. Particular attention will be paid to the connection of between policy development and the rise of American Liberalism. Major topics include Social Security, economic redistribution, Keynesianism, social planning, regulatory reform, conservative critiques of the New Deal and others.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e104267a1310" role="1" seniority_sort="1">
+                <display_name>Brett Flehinger</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

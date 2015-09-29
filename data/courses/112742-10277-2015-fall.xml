@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112742" class_number="10277" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 176">Biochemistry of Membranes</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes>M., W., 2&amp;#8211;4, M., at 4   </notes>
+            <prereq>Recommended: MCB 60 or MCB 52 and MCB 54 are recommended but not required.</prereq>
+            <description>A course on the properties of biological membranes, essential elements for cell individuality, communication between cells, and energy transduction. Topics include: membrane structure; membrane protein synthesis, insertion in the bilayer and targeting; transporters, pumps and channels; electron transport, H+ gradients and ATP synthesis; membrane receptors, G proteins and signal transduction; membrane fusion.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Northwest Bldg B108 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e143200a1310" role="1" seniority_sort="1">
+                <display_name>Guido Guidotti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118883" class_number="12379" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 20">Introduction to African Languages and Cultures</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Societies of the World.</notes>
+            <description>This introduction to African languages and cultures explores how sub-Saharan Africans use language to understand, organize, and transmit (culture, history, etc.) indigenous knowledge to successive generations. Language serves as a road map to comprehending how social, political, and economic institutions and processes develop: from kinship structures and the evolution of political offices to trade relations and the transfer of environmental knowledge. As a Social Engagement course, AAAS 20 will wed scholarly inquiry and academic study to practical experience and personal involvement in the community. Students will be given the opportunity to study Africans, their languages, and their cultures from the ground up, not only through textbooks and data sets but through personal relationships, cultural participation, and inquisitive explorations of local African heritage communities. Throughout the semester you will be asked to employ video production, ethnographic research, creative writing, "social-portraiture," GIS mapping, and linguistic study as you engage with Africans, their languages, and their cultures. By examining linguistic debates and cultural traditions and interrogating their import in the daily lives of Boston-area Africans, we hope to bridge the divide between grand theories and everyday practices, between intellectual debates and the lived experiences of individuals, between the American academy and the African world. Ultimately, this course aims to place Africans themselves in the center of the academic study of Africa.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Emerson 210 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7845a1310" role="1" seniority_sort="1">
+                <display_name>John Mugane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

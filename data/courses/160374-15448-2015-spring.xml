@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160374" class_number="15448" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94PL">Topics in American Public Law</title>
+            <description>This course will explore topics in American public law, with a focus on how insights from political theory and political science can inform legal doctrine.&amp;nbsp; Topics will include judicial review and the role of the court,&amp;nbsp;theories of legal interpretation,&amp;nbsp;the First Amendment&amp;#39;s treatment of speech and religion, and different conceptions of equality under law.&amp;nbsp; In addition to a final research paper, students will be required to complete short weekly assignments.Background in American constitutional law is helpful, and preference for discretionary slots will be given to students who have taken Gov 1510 or otherwise have relevant background in the topic</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e458902a1310" role="1" seniority_sort="1">
+                <display_name>Jonathan Gould</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

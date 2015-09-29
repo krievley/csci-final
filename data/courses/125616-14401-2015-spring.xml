@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125616" class_number="14401" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SLAVIC 147">Soviet Film After Stalin</title>
+            <description>Considers the intersection of film and politics during the &amp;quot;thaw&amp;quot; years after Stalin&amp;#39;s death, as well as themes of sexuality, gender, and violence in Russian culture of the 1960s and 1970s. Examines several films by Kalatozov, Tarkovsky, Paradjanov, and Shepitko which are well known for their innovation in form and narrative.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e111119a1310" role="1" seniority_sort="1">
+                <display_name>Justin Weir</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

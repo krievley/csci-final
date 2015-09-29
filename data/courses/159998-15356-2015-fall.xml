@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159998" class_number="15356" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 287S">China in Twelve Artworks</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>The seminar is a prelude to the full-fledged Gen Ed course to be offered in the spring. Exclusively drawn from the Harvard Art Museums&amp;#39; collection, the twelve artworks range from a Shang dynasty bronze vessel to early twentieth-century painted fan. The seminar selects, sorts out, and filters relevant background readings, identify key issues embedded in the materials, and researches related works that substantiate the central storyline inherent to the twelve key artworks.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Sackler Museum 119" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e29595a1310" role="1" seniority_sort="1">
+                <display_name>Eugene Wang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

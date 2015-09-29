@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110526" class_number="14506" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 262">Statistical Physics</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Students may wish to take Applied Physics 284 when this course is bracketed.</notes>
+            <prereq>Recommended: Physics 143a and Physics 181 or Engineering Sciences 181.</prereq>
+            <description>Basic principles of statistical physics and thermodynamics, with applications including: the equilibrium properties of classical and quantum gases, phase transitions and critical phenomena, as illustrated by the liquid-gas transition and simple magnetic models. Universality, scaling and renormalization group. Introduction to non-equilibrium physics.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Jefferson 256 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e112416a1310" role="1" seniority_sort="1">
+                <display_name>Erel Levine</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159741" class_number="16547" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 40F">Sex, Terror, and Technology: The Constitutional Law of Love and Hate</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>All of us live in a world that would be unrecognizable to those who wrote the Constitution. Nearly everything&amp;mdash;from the technology we use to communicate and connect with (or spy on) one another to society&amp;rsquo;s attitudes towards sex and speech&amp;mdash;has changed, but the Constitution still governs. Over time, new generations of lawyers, judges, and activists have read stronger conceptions of privacy, liberty, equality and personal dignity into this enduring document. Each change has triggered new controversy. This seminar will explore how constitutional law copes with&amp;mdash;at times resisting and at times facilitating&amp;mdash;dramatic social and cultural transformations.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e473938a1310" role="1" seniority_sort="1">
+                <display_name>Laurence H. Tribe</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

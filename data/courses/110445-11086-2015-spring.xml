@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110445" class_number="11086" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 97H">"What is Urban History?"</title>
+            <description>This section will explore the methods historians have used to understand the political, economic, and social development of cities and urban life over the past four centuries. How have historians approached the study of metropolitan regions and their inhabitants? What methods have they used to examine the ways in which social and spatial forms differ by time and place? How does urban history provide a unique vantage to analyze issues of class, ethnicity, migration, race, and gender? Readings and discussions will give special attention to cities and transformations in the United States, but we will draw comparative examples from the histories of urban centers across the globe.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38913a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth Hinton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

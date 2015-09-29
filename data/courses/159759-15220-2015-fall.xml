@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159759" class_number="15220" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PERSIAN 155">"Beginnings": Prefaces and Exordiums in Classical Persian Literature</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Instructor: Justine Landau</notes>
+            <prereq>Recommended: At least two years of Persian or equivalent.</prereq>
+            <description>Readings from major Persian poetic and prose works from the 10th to the 15th century, with a focus on prefaces and exordiums. Spanning across genres, from epic, lyric and narrative verse to didactic andarz, scientific treatise and historiography, the course will explore the various possible openings of classical Persian texts and survey the functions and techniques of literary thresholds. Authors will include FerdowsÄ«, KeykaÌvuÌs, NeáºÄmÄ«, JoveyniÌ, RÅ«mÄ« and JÄmÄ«.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="PERSIAN">Persian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Semitic Museum 201" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e199909a1310" role="1" seniority_sort="1">
+                <display_name>Justine Landau</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

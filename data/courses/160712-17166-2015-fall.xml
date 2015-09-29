@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160712" class_number="17166" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BIOSTAT 273">Programming I</title>
+            <exam_group>FAS18_I</exam_group>
+            <notes>This course is offered in the Fall 2 term at the School of Public Health.  </notes>
+            <description>Introduces general computer programming to students with little prior programming experiences. Taught in a computing lab, the course consists of lectures, demonstrations and hands-on exercises. Example topics include language syntax, flow control, and basic data structures.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:20:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e200407a1310" role="1" seniority_sort="1">
+                <display_name>Dandi Qiao</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

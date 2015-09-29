@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112631" class_number="16334" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 244R">Networks Design Projects</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes> Preference given to upper-class undergraduates or graduate students in computer science or in business who are proficient in computer programming or in business software.</notes>
+            <prereq>Recommended: Programming experience (CS 50 should be fine) and interest in the subject matter. Importantly, CS 143 is NOT a prerequisite. Labs and extra support will provide intensive preparation in the first weeks of the semester to help students quickly obtain the networking background necessary to excel in the course.</prereq>
+            <description>The contents and course requirements are similar to those of Computer Science 144r, with the exception that students enrolled in Computer Science 244r are expected to do substantial system implementation and perform graduate-level work.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Maxwell Dworkin 119 (SEAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e54107a1310" role="1" seniority_sort="1">
+                <display_name>H. Kung</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

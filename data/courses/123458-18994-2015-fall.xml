@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123458" class_number="18994" school_id="fas" section="003" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 99ZA">Thesis Tutorial in Social Anthropology - Senior Year</title>
+            <description>This is a full year research and writing seminar limited to senior honors candidates. The course is intended to provide students with practical guidance and advice during the thesis writing process through structured assignments and peer feedback on work-in-progress. It is intended to supplement not replace faculty thesis advising (with the requirement of consulting regularly with the advisor built into the assignments) and, most importantly, allow students to share their work and experiences with other thesis writers in a collegial and supportive environment. The seminar will be run jointly by the Department of Anthropology Assistant Director of Undergraduate Studies and the Writing Tutor. Part one of a two part series.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="19:59:00" location="Tozzer 416 (FAS)" start_time="18:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e91743a1310" role="1" seniority_sort="1">
+                <display_name>Ramyar Rossoukh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

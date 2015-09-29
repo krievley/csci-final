@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156944" class_number="14929" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG ACD">Intensive Beginning Portuguese</title>
+            <notes>The on-line request form is available on the Portuguese Acd iSite and must be submitted by January 22, 2016.  May not be used to fulfill the language requirement and may not be taken Pass/Fail or Sat/Unsat. Not open to auditors. Students must participate in an interview with the Portuguese Acd course head and receive permission to enroll in the course.</notes>
+            <prereq>Recommended: An advanced knowledge of at least one other foreign language but no knowledge of Portuguese.</prereq>
+            <description>This intensive Beginning Portuguese course provides an accelerated introduction to Portuguese with emphasis on interpersonal communication and interpreting and producing language in written and oral forms. Goals include building students' vocabulary, fluency, proficiency, and confidence. Students are exposed to Brazilian Portuguese and culture through music, cinema, and various media sources. The course covers the equivalent of a full first-year of Portuguese language study.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:29:00" location="" start_time="15:30:00"/>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="" start_time="15:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e97122a1310" role="1" seniority_sort="1">
+                <display_name>Viviane Gontijo</display_name>
+            </person>
+            <person id="d1e97122a1310" role="1" seniority_sort="1">
+                <display_name>Viviane Gontijo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

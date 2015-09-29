@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117237" class_number="12491" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1745">Corporate Finance</title>
+            <notes>Tu., Th., 1-2:30, and a weekly section to be arranged.   </notes>
+            <prereq>Recommended: Economics 1010a1, 1010a2, or 1011a, Mathematics 20, and Statistics 100.</prereq>
+            <description>Introduction to corporate finance, including capital budgeting, capital structure of firms, dividend policy, corporate governance, and takeovers. Prerequisites for this course include&amp;nbsp;Economics 1010a1, 1010a2, or 1011a, Mathematics 20, and Statistics 100.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e374341a1310" role="1" seniority_sort="1">
+                <display_name>Matteo Maggiori</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

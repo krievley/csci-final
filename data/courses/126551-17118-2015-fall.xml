@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126551" class_number="17118" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 14">Cognitive Neuroscience</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes> This course counts toward foundational requirements for Psychology and should be taken before courses at the 1000 level or higher.</notes>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 or the equivalent of introductory psychology (e.g.  Psych AP=5 op IB =7) before enrolling in this course</prereq>
+            <description>How do our brains give rise to our minds? Specifically, how are mental processes related to neural activity? This course will explore these questions, as well as the methods by which cognitive neuroscience seeks to answer them. We will focus on processes within perception, attention, memory, language, action, emotion, and social cognition, and methods including neuroimaging, neuropsychology, and electrophysiology.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="William James B1 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e24922a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Schacter</display_name>
+            </person>
+            <person id="d1e24925a1310" role="1" seniority_sort="2">
+                <display_name>George Alvarez</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

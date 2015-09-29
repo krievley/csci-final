@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109926" class_number="10662" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 97A">"What is the History of Medicine?"</title>
+            <description>The emergence of the science of medicine and its professionalization have been integral aspects of human history. The history of medicine allows us to trace the various traditions that have come together to create "modern medicine." In this section, students will examine the human endeavor to be healthy and to cure disease. The practice of medicine draws on changing ideas about the natural world and the body. It also demands interventions in the physical environment so as to maximize public health, and readily incorporates transformative technologies from other sectors of human society. Students will be asked to reflect on the interaction of medicine and culture through questions such as: How did western powers use biomedicine in the context of empire? How do non-western cultures appropriate and indigenize biomedicine?</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e41224a1310" role="1" seniority_sort="1">
+                <display_name>Emmanuel Akyeampong</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

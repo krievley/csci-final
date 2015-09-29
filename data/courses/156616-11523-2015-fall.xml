@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156616" class_number="11523" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2098">Topics in Economic Theory</title>
+            <exam_group>FAS16_A</exam_group>
+            <notes>Instructor: Matthew Jackson.  </notes>
+            <description>Learn how to model social and economic networks and their impact on human behavior. How do networks form, why do they exhibit certain patterns, and how does their structure impact diffusion, learning, and other behaviors? We bring together models and techniques from sociology, economics, math, physics, statistics, and computer science to answer these questions.&amp;nbsp; The course is aimed at a graduate level, but accessible for advanced undergraduates who have are comfortable with matrix algebra and statistics.&amp;nbsp; The course begins with some empirical background on social and economic networks, and an overview of concepts used to describe and measure networks. Next, the course covers a set of models of how networks form, including random network models as well as strategic formation models, and statistical models for working with data.&amp;nbsp;&amp;nbsp; The course then discusses a series of models of how the structure of social networks impacts human behavior, including contagion, diffusion, learning, and peer influences.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="09:59:00" location="Harvard Hall 103 (FAS)" start_time="08:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e163956a1310" role="1" seniority_sort="2">
+                <display_name>Matthew Jackson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

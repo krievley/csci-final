@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118559" class_number="12152" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 143R">The Art of the Court of Constantinople: Proseminar</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>Concentrates on art and architecture created for the court of Constantinople from the 9th to the 12th century. Focuses on objects and monuments, exploring their role in political, religious, and personal events.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Sackler Museum 406" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e170939a1310" role="1" seniority_sort="1">
+                <display_name>Ioli Kalavrezou</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

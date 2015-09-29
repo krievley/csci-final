@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123453" class_number="12790" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 91ZR">Supervised Reading and Research and Research in Social Anthropology</title>
+            <description>Special study of selected topics in Anthropology, given on an individual basis and directly supervised by a member of the Department. May be taken for a letter grade or Pass/Fail. To enroll, a student must submit to the Anthropology Undergraduate Office, Tozzer 103B, a course form signed by the adviser under whom s/he wishes to study and a proposed plan of study. Anthro 91zr form available from the Undergrad Office, or the department website.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e91743a1310" role="1" seniority_sort="1">
+                <display_name>Ramyar Rossoukh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126205" class_number="13822" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="US-WORLD 19">American Food: A Global History</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Europeans ``discovered'' America in search of foodstuffs, specifically spices. And food has been central to the American experience from the starving time in early Virginia to the problem of obesity in the United States today. But what is American about American food? How have individual food choices and national food policies connected Americans to the larger world, both the social worlds of other human beings and the natural world of all other living beings?</description>
+            <department code="GENED">General Education</department>
+            <course_group code="US-WORLD">United States in the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e37126a1310" role="1" seniority_sort="1">
+                <display_name>Joyce Chaplin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119807" class_number="13008" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BIOPHYS 205">Computational and Functional Genomics</title>
+            <prereq>Recommended: Molecular Biology (MCB 52 or equivalent), solid understanding of basic probability and statistics.</prereq>
+            <description>Experimental functional genomics, computational prediction of gene function, and properties and models of complex biological systems. The course will primarily involve critical reading and discussion rather than lectures.</description>
+            <department code="BIPH">Biophysics</department>
+            <course_group code="BIOPHYS">Biophysics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e27361a1310" role="1" seniority_sort="1">
+                <display_name>Martha Bulyk</display_name>
+            </person>
+            <person id="d1e130172a1310" role="1" seniority_sort="2">
+                <display_name>Suzanne Gaudet</display_name>
+            </person>
+            <person id="d1e129712a1310" role="2" seniority_sort="4">
+                <display_name>Shamil Sunyaev</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

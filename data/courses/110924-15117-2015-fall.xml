@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110924" class_number="15117" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SLAVIC 98A">Junior Tutorial for Slavic Concentrators (Russian)</title>
+            <exam_group>FAS08_G</exam_group>
+            <notes> Required of junior concentrators in Slavic Literatures and Cultures. Other students may enroll (see Slavic 158). Reading knowledge of Russian is required. Students who wish to concentrate on a different Slavic language may arrange a separate tutorial.</notes>
+            <description>Part one of a two part series. Fall term offers an opportunity to read Nikolai Gogol&amp;rsquo;s short fiction in the original while also reflecting on challenges for translation into English that Gogol&amp;rsquo;s language and style pose. We will explore contextual issues and productive critical approaches and pay close attention to Gogol&amp;rsquo;s narrative strategies, structural solutions, and the form and function of Gogolian humor. Weekly readings of short fiction will be placed in the context of larger theoretical issues (language, interpretation, narrative, translation, etc.). Students will prepare two short translations of their own and discuss functions of different text elements in short position papers and interpretive essays. We will also consider some film adaptations of Gogol&amp;rsquo;s works and discuss their success or failure in rendering the texts&amp;rsquo; important features.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Barker 114 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e148889a1310" role="1" seniority_sort="1">
+                <display_name>Oleh Kotsyuba</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

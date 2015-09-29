@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159675" class_number="14728" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 297V">The Art of Jazz</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>This course explores the relationship between jazz and visual arts. &amp;nbsp;Students will also be working on an exhibition on this topic, opening in Spring 2016.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Sackler Museum 406" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e73038a1310" role="1" seniority_sort="1">
+                <display_name>Suzanne Blier</display_name>
+            </person>
+            <person id="d1e210915a1310" role="1" seniority_sort="2">
+                <display_name>David Bindman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

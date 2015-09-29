@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159859" class_number="14958" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="UKRAN 200B">Ukrainian Studies: Seminar</title>
+            <description>Interdisciplinary seminar in Ukrainian studies with broad regional and comparative perspective. Faculty and invited scholars discuss a variety of topics in the humanities and social sciences. Background readings and follow-up discussions help students put the specific lectures in broader context. Students also conduct an individually tailored reading and research project under the guidance of a faculty advisor and in consultation with other resident specialists. &amp;nbsp;Part two of a two part series.</description>
+            <department code="UKRA">Ukrainian Studies</department>
+            <course_group code="UKRAN">Ukrainian Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

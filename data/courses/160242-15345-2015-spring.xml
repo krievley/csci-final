@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160242" class_number="15345" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1048">Medieval Britain and Ireland, c. AD 800-1600</title>
+            <description>This course provides an overview of the development of societies in Britain and Ireland from the Viking Age to the Reformation (c. AD 800-1600), using evidence from archaeology, buildings and iconography. Coverage includes: the impact of the Scandinavians; the West Saxon Kingdom of England, the Hiberno-Norse kingdoms of Ireland and the polities of Wales and Scotland; the Norman Conquests of the 11th and 12th centuries; and the development of near-global networks in the &amp;lsquo;Old World&amp;rsquo; in the later medieval period, culminating in the Black Death and its aftermath. The course finishes with the Reformation and the birth of Atlantic empires.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38508a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Loveluck</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

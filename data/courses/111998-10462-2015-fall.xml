@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111998" class_number="10462" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2723">Asset Pricing I</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes> Offered jointly with the Business School as 4209.</notes>
+            <prereq>Prerequisite: Economics 2010a OR Economics 2020a</prereq>
+            <description>An introduction to financial economics emphasizing discrete-time models and empirical applications. Reviews basic asset pricing theory. Discusses empirical topics including predictability of stock and bond returns, the equity premium puzzle, and intertemporal equilibrium models.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Sever 110 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e49683a1310" role="1" seniority_sort="1">
+                <display_name>John Campbell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

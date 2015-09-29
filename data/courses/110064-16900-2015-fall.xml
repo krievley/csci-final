@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110064" class_number="16900" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1355">The Adolescent Brain</title>
+            <exam_group>FAS14_F</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18, Science of Living Systems 15, or MCB 80 before enrolling in this course.</prereq>
+            <description>This course will introduce students to the dynamics of brain development during the second decade of life. This course will examine key changes in structural, functional, connectivity, and neurochemical changes that take place in the brain during adolescence. We will assess how these changes influence several domains of the adolescent mind, including self-control, risky decision making, changes in daily emotions and moods, the onset of psychiatric illnesses (such as mood and anxiety disorders), and sensitivity to social evaluation.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Northwest Bldg 243 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6137a1310" role="1" seniority_sort="1">
+                <display_name>Leah Somerville</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

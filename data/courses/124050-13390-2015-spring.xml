@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124050" class_number="13390" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CLS-STDY 97B">Roman Culture and Civilization</title>
+            <notes> Concentrators are required to take either one or two semesters of Classical Studies 97, depending on their concentration track.</notes>
+            <description>This course has three components: a chronological survey of Roman history from the beginnings to Late Antiquity; thematic explorations of key features of culture and daily life in Rome as well as other parts of Roman Italy and the provinces (including religion, law and government, elite society, Romanization, urban topography, etc.); and an introduction to the tools and methods available for research on the Roman world, with an emphasis on material culture and documentary sources.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLS-STDY">Classical Studies</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e120125a1310" role="1" seniority_sort="1">
+                <display_name>Gil Renberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

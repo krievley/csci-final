@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116469" class_number="15094" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH ACD">Intensive Beginning Spanish: Special Course</title>
+            <exam_group>FAS10_B</exam_group>
+            <notes> Not open to auditors. May not be used to fulfill the language requirement. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Interested students should contact Dr. Liander by e-mail no later than August 25, 2014 for fall term enrollment and no later than December 9, 2014 for spring term enrollment. Upon the recommendation of the course head, students who have performed at a superior level in this course may enroll in any course for which they are linguistically prepared. 
+
+This course is taught by members of the Department.</notes>
+            <description>A beginning class for students with no previous formal training in Spanish but with competence in at least one foreign language. Emphasis on communication skills. Language instruction supplemented by cultural and literary readings and film.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="09:59:00" location="Sever 212 (FAS)" start_time="09:00:00"/>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Sever 212 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e106779a1310" role="1" seniority_sort="1">
+                <display_name>Maria Celeste Moreno Palmero</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160520" class_number="15753" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 147">The Changing Concept of Race in America: From Jefferson to Genomics</title>
+            <description>This course explores changing concepts of race in American science and medicine, and examines the historical meanings and uses of these concepts in U.S. society from the 18th century to the present. The course asks the following questions: How have diverse scientific and medical disciplines historically defined, measured, and produced knowledge about &amp;ldquo;race&amp;rdquo;? How have scientific and medical concepts of race historically interrelated with key political, economic, and social institutions? How do current 21st century genomic concepts of race fit into this larger history of race and science?&amp;nbsp;</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e74938a1310" role="1" seniority_sort="1">
+                <display_name>Evelynn Hammonds</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

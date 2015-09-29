@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109471" class_number="10389" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 31E">Money and Other Virtual Realities</title>
+            <exam_group>FAS06_E</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>What is money? Its practical importance is plain, but its essence is a mystery. In different places, at different times, it has assumed such wildly varying forms as shells and paper notes, cigarettes and computer data-a fact that reminds us that money isn't any fixed, concrete thing, a tangible object in the world, but rather a sort of virtual reality, something whose presence and power depends entirely on human perception. What makes money seem so powerful and real? We will study this puzzle by exploring how various other domains-such as painting, digital media, and magic performance-make their illusions seem so compelling. The class will involve regular practical activities: we will not only read about and discuss the theory of how virtual realities like money work, but also experiment with various hands-on applications of theory. These experiments will range from exercises in verbal and non-verbal persuasion, to the creative use of digital media for convincing presentations, and the design of mystifying magic tricks. No prior knowledge of economics, or experience with media or magic is required; the only prerequisites are curiosity and a spirit of adventure.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="CGIS Knafel K108 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e3357a1310" role="1" seniority_sort="1">
+                <display_name>Shigehisa Kuriyama</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

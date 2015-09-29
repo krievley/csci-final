@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127212" class_number="15471" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEBREW 205">The Psalms</title>
+            <exam_group>FAS16_A</exam_group>
+            <notes> Offered jointly with the Divinity School as 1107.</notes>
+            <description>A study of the book of Psalms, with special attention to its structure, principal genres, and interpretation, as well as to its continuing liturgical and devotional uses. Close reading of selected psalms.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="HEBREW">Hebrew</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="09:59:00" location="Andover 102 (HDS)" start_time="08:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e299835a1310" role="1" seniority_sort="1">
+                <display_name>Michael Coogan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

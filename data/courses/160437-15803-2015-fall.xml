@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160437" class_number="15803" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="GREEK 122">Sophocles</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes> Prerequisite: Greek Bb or equivalent.</notes>
+            <description>Close reading of Sophocles&amp;rsquo; Ajax and Philoctetes, with special attention to the representation of Homeric heroes (in particular Odysseus), and the dramatic, literary, and linguistic conventions of the tragic genre.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Boylston 237 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e93414a1310" role="1" seniority_sort="1">
+                <display_name>Carlo Vessella</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

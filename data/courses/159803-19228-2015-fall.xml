@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159803" class_number="19228" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CLASPHIL 232">The &lt;i&gt;Annals&lt;/i&gt; of Tacitus</title>
+            <description>The seminar will focus on the Annals in their historiographical, stylistic, narratological, and ideological contexts.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASPHIL">Classical Philology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

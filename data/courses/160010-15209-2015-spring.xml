@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160010" class_number="15209" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 288P">Poetry in the Digital Environment: Seminar</title>
+            <description>This course allows graduate students preparing themselves for careers in secondary and college teaching and associated fields to explore, and to make their own contributions to, the emerging digital pedagogy in American poetry.&amp;nbsp; Study of such canonical American poets as Wheatley, Whitman, Dickinson, Frost, Hughes, Brooks, Williams, O&amp;rsquo;Hara, Rich, and Howe as well as of the folk and popular poetries of particular historical moments (from Yankee Doodle to Tin Pan Alley and hip hop) will be complemented by practical training in lesson planning and content development, classroom and on-camera presentation. Other topics include platform design and video editing, live and remote discussion and annotation, blended learning and the importance of libraries. Some attention will be given to the theory, economics and politics of classic liberal education in the age of the internet. &amp;nbsp;</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57958a1310" role="1" seniority_sort="1">
+                <display_name>Elisa New</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

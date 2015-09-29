@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160006" class_number="15377" school_id="fas" section="0010" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 267Y">The Poetry of W.B. Yeats: Seminar</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>A study of Yeats&amp;#39;s poetry as it evolved from his early epic aims through his colloquial late verse, with special attention to formal questions.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Barker 018 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e57498a1310" role="1" seniority_sort="1">
+                <display_name>Helen Vendler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

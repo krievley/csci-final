@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111353" class_number="10688" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 4">Introduction to Composition</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes> May not be counted for concentration credit.</notes>
+            <prereq>Recommended: Some prior experience in music theory or permission of the instructor.</prereq>
+            <description>Open to students with little or no prior experience in composition. Explores ways of thinking about and organizing basic compositional elements such as melody, harmony, rhythm and instrumental color, as well as developing skills of score preparation and analytical listening. The primary focus of the course is a series of short compositional exercises, culminating in a somewhat longer final project. Workshop performances of students' music take place throughout the term.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Music PH4 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47048a1310" role="1" seniority_sort="1">
+                <display_name>Osnat Netzer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

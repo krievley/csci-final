@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108829" class_number="11264" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 27I">Global Health: Comparative Analysis of Healthcare Delivery Systems</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes>Sanjay Saini  </notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This interactive seminar will allow students to obtain greater understanding of global health issues through critical comparative analysis of healthcare systems of selected countries from the developed, emerging and developing world. Weekly sessions will comprise of student-led discussion that revolves around an important healthcare issue. Domain expert guest speakers will be included allowing students to network with thought leaders. Student will explore in-depth a topic of their choice and prepare a manuscript for publication in a peer-reviewed medical journal.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Sever 106 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e23319a1310" role="1" seniority_sort="1">
+                <display_name>Sanjay Saini</display_name>
+            </person>
+            <person id="d1e23322a1310" role="1" seniority_sort="2">
+                <display_name>Garry Choy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

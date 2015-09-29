@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114050" class_number="14272" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RSEA 300">Thesis Research and Writing</title>
+            <notes>Michael Szonyi and members of the Faculty  Committee recommends this course be taken in the Fall semester of the G2 year.  Only one course graded SAT/UNSAT may be used to fulfill the RSEA course requirement.</notes>
+            <description>Candidates for the A.M. degree in Regional Studies_East Asia may undertake A.M. thesis reading and research in an approved area of their choice under the direction of a member of the Faculty.</description>
+            <department code="RSEA">Regional Studies - East Asia</department>
+            <course_group code="RSEA">Regional Studies - East Asia</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>16</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e31337a1310" role="1" seniority_sort="1">
+                <display_name>Michael Szonyi</display_name>
+            </person>
+            <person id="d1e35675a1310" role="2" seniority_sort="2">
+                <display_name>Ryuichi Abe</display_name>
+            </person>
+            <person id="d1e8042a1310" role="2" seniority_sort="3">
+                <display_name>Theodore Bestor</display_name>
+            </person>
+            <person id="d1e19469a1310" role="2" seniority_sort="4">
+                <display_name>Edwin Cranston</display_name>
+            </person>
+            <person id="d1e31290a1310" role="2" seniority_sort="5">
+                <display_name>Nara Dillon</display_name>
+            </person>
+            <person id="d1e29784a1310" role="2" seniority_sort="6">
+                <display_name>Carter Eckert</display_name>
+            </person>
+            <person id="d1e28449a1310" role="2" seniority_sort="7">
+                <display_name>Mark Elliott</display_name>
+            </person>
+            <person id="d1e30960a1310" role="2" seniority_sort="8">
+                <display_name>Rowan Flad</display_name>
+            </person>
+            <person id="d1e20033a1310" role="2" seniority_sort="9">
+                <display_name>Andrew Gordon</display_name>
+            </person>
+            <person id="d1e53418a1310" role="2" seniority_sort="10">
+                <display_name>Janet Gyatso</display_name>
+            </person>
+            <person id="d1e19422a1310" role="2" seniority_sort="11">
+                <display_name>Helen Hardacre</display_name>
+            </person>
+            <person id="d1e29737a1310" role="2" seniority_sort="12">
+                <display_name>Nicholas Harkness</display_name>
+            </person>
+            <person id="d1e31242a1310" role="2" seniority_sort="13">
+                <display_name>Michael Herzfeld</display_name>
+            </person>
+            <person id="d1e31195a1310" role="2" seniority_sort="14">
+                <display_name>David Howell</display_name>
+            </person>
+            <person id="d1e19657a1310" role="2" seniority_sort="15">
+                <display_name>Alastair Johnston</display_name>
+            </person>
+            <person id="d1e31101a1310" role="2" seniority_sort="16">
+                <display_name>William Kirby</display_name>
+            </person>
+            <person id="d1e20994a1310" role="2" seniority_sort="17">
+                <display_name>Sun Joo Kim</display_name>
+            </person>
+            <person id="d1e3357a1310" role="2" seniority_sort="18">
+                <display_name>Shigehisa Kuriyama</display_name>
+            </person>
+            <person id="d1e19610a1310" role="2" seniority_sort="19">
+                <display_name>Wai-Yee Li</display_name>
+            </person>
+            <person id="d1e3209a1310" role="2" seniority_sort="20">
+                <display_name>Jie Li</display_name>
+            </person>
+            <person id="d1e31054a1310" role="2" seniority_sort="21">
+                <display_name>Melissa M. McCormick</display_name>
+            </person>
+            <person id="d1e156394a1310" role="2" seniority_sort="22">
+                <display_name>Felicity Lufkin</display_name>
+            </person>
+            <person id="d1e19516a1310" role="2" seniority_sort="23">
+                <display_name>Yukio Lippit</display_name>
+            </person>
+            <person id="d1e28072a1310" role="2" seniority_sort="24">
+                <display_name>Ian J. Miller</display_name>
+            </person>
+            <person id="d1e43738a1310" role="2" seniority_sort="25">
+                <display_name>Mary Steedly</display_name>
+            </person>
+            <person id="d1e29360a1310" role="2" seniority_sort="26">
+                <display_name>Susan Pharr</display_name>
+            </person>
+            <person id="d1e29407a1310" role="2" seniority_sort="27">
+                <display_name>Elizabeth Perry</display_name>
+            </person>
+            <person id="d1e29689a1310" role="2" seniority_sort="28">
+                <display_name>Xiaofei Tian</display_name>
+            </person>
+            <person id="d1e9111a1310" role="2" seniority_sort="29">
+                <display_name>Karen Thornber</display_name>
+            </person>
+            <person id="d1e29642a1310" role="2" seniority_sort="30">
+                <display_name>David Der-Wei Wang</display_name>
+            </person>
+            <person id="d1e29454a1310" role="2" seniority_sort="31">
+                <display_name>Leonard W. J. van der Kuijp</display_name>
+            </person>
+            <person id="d1e29548a1310" role="2" seniority_sort="32">
+                <display_name>Tomiko Yoda</display_name>
+            </person>
+            <person id="d1e29595a1310" role="2" seniority_sort="33">
+                <display_name>Eugene Wang</display_name>
+            </person>
+            <person id="d1e27927a1310" role="2" seniority_sort="34">
+                <display_name>Alexander Zahlten</display_name>
+            </person>
+            <person id="d1e322341a1310" role="2" seniority_sort="35">
+                <display_name>Alison Jones</display_name>
+            </person>
+            <person id="d1e28402a1310" role="2" seniority_sort="36">
+                <display_name>C.-T. James Huang</display_name>
+            </person>
+            <person id="d1e26836a1310" role="2" seniority_sort="37">
+                <display_name>Susan Greenhalgh</display_name>
+            </person>
+            <person id="d1e80895a1310" role="2" seniority_sort="38">
+                <display_name>Paul Chang</display_name>
+            </person>
+            <person id="d1e28355a1310" role="2" seniority_sort="39">
+                <display_name>Si Nae Park</display_name>
+            </person>
+            <person id="d1e158040a1310" role="2" seniority_sort="40">
+                <display_name>Nicole Newendorp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

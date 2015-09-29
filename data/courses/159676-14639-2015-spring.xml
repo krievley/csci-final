@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159676" class_number="14639" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 218">Methods for Quantitative Data Analysis</title>
+            <description>This course reviews several of the core methods for analyzing data: data visualization and statistical graphics, simple programming with data, studying data dispersion, statistical inference under model uncertainty and related topics. The lectures will examine the real-world challenges of data analysis and explore how statistical methods can be used to learn from data, and draw valid statistical inferences. &amp;nbsp;The approach will be heavily applied involving data analysis with Stata and R. Students will develop their own empirical projects applying the methods from the course.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="18:59:00" location="" start_time="17:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e79191a1310" role="1" seniority_sort="1">
+                <display_name>Bruce Western</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160526" class_number="15772" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 258">Ancient Interpretation of the Bible</title>
+            <notes> To be jointly offered with the Divinity School.</notes>
+            <description>This is a course about READING; specifically about the different ways in which a single book, the Bible, has been read through the centuries, particularly in the ancient and early medieval periods by Jews and Christians. No book in the history of Western culture has been read more intensively that the Bible, and the main emphasis of the course will fall on close readings of major ancient Jewish and Christian interpreters of the Bible, with a view to considering their exegetical approaches historically as well as through the lens of contemporary critical and hermeneutical theory. We will also consider how the respective religious and theological beliefs of these interpreters shaped and were shaped by the ways they read Scripture. As a consequence, this will also be a course about the early development of Judaism and Christianity although the focus will always be on the interpretation of the bible. All readings will be in English translation, and will include Dead Sea Scrolls selections, Philo, Rabbinic Midrash and Medieval Jewish Commentaries, the New Testament, Origen and other early Christian commentators, Augustine, Luther, and as a concluding coda, Spinoza. The course is open to both undergraduates and graduate students; there will be extra sessions for the graduate students.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e199609a1310" role="1" seniority_sort="1">
+                <display_name>David Stern</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

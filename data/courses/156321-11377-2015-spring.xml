@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156321" class_number="11377" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ISLAMCIV 211">Jurisprudence of the SCC of Egypt, 2011 thru 2014: Aspects of Constitutional Doctrine</title>
+            <notes> Offered jointly with the Divinity School as 3494.</notes>
+            <description>The aim of this seminar is to study the SCC's role in the transition processes between the presidencies of Nasser and Mubarak, on the one hand, the presidencies of Mubarak to Mursi and from Mursi to the situation of 2014. Under all these regimes the SCC 's task is to guarantee the state's abidance by its constitutional obligations in the field of legal procedure and democratic principles. In a first step we will compare the tasks assigned to the highest courts of the different branches of the judiciary in Egypt and the way in which the SCC is integrated into this hierarchy of this courts. In a second step we will study the way in which the SCC in the past acted as guarantor of constitutional norms with special consideration of Human Rights, the interpretation of Islamic Law as a constitutional source of national legislation and the state's prerogative of ruling under rules of emergence. Finally, we will focus on the role of the SCC as actor in the transition from the Mubarak to the Mursi presidency and from the Mursi regime to the regime under the control of the military that came into existence between July 2013 and February 2014. For the first and the second part we will mainly rely on the texts of the constitutions of 1971 and 1980 and on secondary literature on the court's jurisprudence. The third part will mainly be based on the texts of the constitutions of 2012 and 2014, on the political calendar of the years 2011-2014 and on BJ's translations of some of the most important decisions of the SCC during the 2011-2014 period and the analysis of their function in the transition process.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e25472a1310" role="1" seniority_sort="1">
+                <display_name>Baber Johansen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

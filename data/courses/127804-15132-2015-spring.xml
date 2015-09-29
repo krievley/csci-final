@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127804" class_number="15132" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="ARABIC BB">Intermediate Arabic II</title>
+            <notes> Not open to auditors. Cannot be taken pass/fail. Offered jointly with the Divinity School as 4361.</notes>
+            <prereq>Recommended: Arabic AA/AB series, and Arabic BA, or equivalent.</prereq>
+            <description>A continuation of Arabic Ba. Textbook: Al-Kitaab, volume II, 2nd edition.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e8507a1310" role="1" seniority_sort="1">
+                <display_name>Nour Barmada</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

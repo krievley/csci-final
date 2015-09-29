@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125242" class_number="12692" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LING 200">Second Language Acquisition</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> This course must be taken for letter grade.</notes>
+            <description>An overview of second-language teaching and learning focused on theoretical models, learning objectives, developmental stages, materials design, and the use of new technology in teaching. The course explores the nature of second language acquisition, focused specifically on the needs of graduate students teaching a second language.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Robinson 107 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e14486a1310" role="1" seniority_sort="1">
+                <display_name>Steven Clancy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

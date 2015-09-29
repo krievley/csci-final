@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124912" class_number="14909" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AESTHINT 33">Ancient Fictions: The Ancient Novel in Context</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>The novel is often thought of as a distinctively modern form, but Greco-Roman antiquity had its own version. Fictional prose narratives about adventure and romance in exotic lands were immensely popular in antiquity. We will explore this tradition by reading the five surviving Greek novels, the Golden Ass of the Roman Apuleius, and selected other texts, along with works by contemporary theorists and critics. Topics include: definitions of the "novel"; ancient representations of desire; gender and class politics; relationships between secular and religious narratives.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Boylston 110 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42815a1310" role="1" seniority_sort="1">
+                <display_name>David Elmer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

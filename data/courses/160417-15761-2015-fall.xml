@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160417" class_number="15761" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 132X">The Black Power Debates: Politics, Philosophy, and Culture</title>
+            <exam_group>FAS06_E</exam_group>
+            <description>From the mid-1960s through the 1970s, the political and cultural lives of African-Americans were riven by an extraordinary moment of radicalism, experimentation, and transformation known as the Black Power Movement. Our popular memory of this era, with its iconography of Afros, guns, and riots, has unfortunately obscured many of the most challenging political and ethical dilemmas it brought to the fore, as well as more serious assessments of why Black Power emerged and what, if anything, political struggle under this sign achieved. This course, therefore, will return to primary sources from this era, as well as retrospective reflections, in order to engage the complex philosophical, political, economic, and cultural arguments that animated the passionate debates, intensive struggles, and tragic violence this movement engendered, at home and abroad. This task is especially important in our contemporary moment, where &amp;ldquo;Black Lives Matter&amp;rdquo; activists make frequent reference to Black Power icons and American cities are experiencing violent unrest. The course will cover such topics as the philosophy and sociology of nationalism; political violence, riots, and non-violent protest; political theology and soulcraft; critiques of integrationism; aesthetics and politics; &amp;ldquo;identity&amp;rdquo; politics; and feminist, liberal, conservative, and leftist criticisms of Black Power. For advanced undergraduates and graduate students with some knowledge of post-World War II African-American history.&amp;nbsp;</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Barker 230 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e90688a1310" role="1" seniority_sort="1">
+                <display_name>Brandon Terry</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

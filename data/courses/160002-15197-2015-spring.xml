@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160002" class_number="15197" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 278W">Photography in Weimar Germany, and in Exile, 1919-1959</title>
+            <description>&amp;nbsp;The seminar, offered to graduate students and advanced qualified undergraduate art history majors, will study the development of photographic practices in Weimar Germany, from 1918-1933, and trace a number of selected case studies of photographers in exile in the US, Latin American countries and France after 1933.Focusing on the opposition between the key movements of New Objectivity and New Vision, the seminar will study the theoretical and artistic and cultural implications of this opposition, with August Sander and Laszlo Moholy Nagy serving as the key opponents.Particular emphasis will be given to the large number of female photographers working both as artists and producers for the milieu of advertisement and fashion. In particular figures like Lotte Jacobi, Grete Stern and Ellen Auerbach, Gisele Freund, Anne Biermann and Ilse Bing,&amp;nbsp; will be at the center of our studies tracing the differentiations in their oeuvres between Weimar and their production in&amp;nbsp; Exile.The seminar will read the major theoretical and critical literature on photography to emerge from the Weimar debates as much as it will carefully study the increasingly detailed monographic accounts that have been published over the past ten years on the work of these photographers.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e185747a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin Buchloh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

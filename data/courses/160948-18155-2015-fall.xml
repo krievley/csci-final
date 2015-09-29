@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160948" class_number="18155" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 90WW">Nineteenth-Century Women Writers</title>
+            <exam_group>FAS15_E</exam_group>
+            <description>This seminar explores nineteenth-century writing by British, Caribbean, and South African women who explored a variety of contemporary problems including the woman question, courtship and marriage practices, sexuality and reproduction, racial politics, the institution of slavery, and colonial occupation. We will read novels by Mary Shelley, Jane Austen, Charlotte Bront&amp;euml;, Elizabeth Gaskell, M.E. Braddon, and Olive Schreiner, and shorter works by Mary Prince, George Eliot, Mary Seacole, Florence Nightingale, Christina Rossetti, and others. We will also read contemporary feminist theories that contest the concept of woman and will discuss ways of conceptualizing women&amp;#39;s writing without resorting to gender essentialism.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Memorial Hall 202 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e287677a1310" role="1" seniority_sort="1">
+                <display_name>Danielle Coriale</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

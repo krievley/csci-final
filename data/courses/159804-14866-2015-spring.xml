@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159804" class_number="14866" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 99B">Tutorial - Senior Year</title>
+            <description>Open to concentrators writing an honors thesis under faculty supervision. Students are expected to enroll for the entire year. Permission of the Director of Undergraduate Studies is required. Part two of a two-part series.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e16929a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Suetterlin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130245" class_number="10978" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 182">Science Fiction</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>High points, innovations, and explorations in science fiction as a prose genre from the late 19th century to the present: likely readings include Mark Twain, H. G. Wells, Charlotte Perkins Gilman, Robert A. Heinlein, James Tiptree, Jr. (Alice Sheldon), Octavia Butler, William Gibson, Cordwainer Smith, Richard Powers, and more. (Not a course in television or film.)</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Harvard Hall 201 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e23075a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Louis Burt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

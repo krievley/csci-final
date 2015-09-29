@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119143" class_number="14725" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1964">International History: Empires, State Systems, and International Organizations</title>
+            <notes> History 1964 and 1965 are designed particularly for advanced undergraduates in the international history track of the concentration and graduate students preparing a general examination field in the history of international relations, Seminar credit can be earned by completion of an appropriate research paper and presentation to graduate members of the class.</notes>
+            <description>A comparative approach to the history of international relations, including theories of war and peace; imperial, hegemonic and other orders; the protection of minorities and human rights; and the enforcement of transnational norms. Readings will include theoretical as well as historical texts.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e35075a1310" role="1" seniority_sort="1">
+                <display_name>Niall Ferguson</display_name>
+            </person>
+            <person id="d1e7198a1310" role="2" seniority_sort="2">
+                <display_name>Charles Maier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

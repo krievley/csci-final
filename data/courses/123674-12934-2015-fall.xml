@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123674" class_number="12934" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LIFESCI 2">Evolutionary Human Physiology and Anatomy</title>
+            <exam_group>FAS08_A</exam_group>
+            <notes>M., W., F., at 1, and three hours of laboratory/discussion weekly.   This course replaces OEB 102. This course, when taken for a letter grade, meets the General Education requirement in Science of Living Systems. This course may not be taken Pass/Fail.</notes>
+            <description>Why is the human body the way that it is? This course explores human anatomy and physiology from an integrated framework, combining functional, comparative, and evolutionary perspectives on how organisms work. Major topics, which follow a life-course framework, include embryogenesis, metabolism and energetics, growth and development, movement and locomotion, food and digestion, stress and disease, and reproduction. Also considered is the relevance of human biology to contemporary issues in human health and biology.</description>
+            <department code="LSCI">Life Sciences</department>
+            <course_group code="LIFESCI">Life Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="Science Ctr Hall C (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e191073a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Biewener</display_name>
+            </person>
+            <person id="d1e113417a1310" role="2" seniority_sort="2">
+                <display_name>Daniel Lieberman</display_name>
+            </person>
+            <person id="d1e185199a1310" role="2" seniority_sort="3">
+                <display_name>George Lauder</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

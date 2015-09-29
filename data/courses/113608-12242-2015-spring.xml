@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113608" class_number="12242" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 113">Analysis I: Complex Function Theory</title>
+            <prereq>Anti-Req: Not to be taken in addition to Mathematics 55b.</prereq>
+            <description>Analytic functions of one complex variable: power series expansions, contour integrals, Cauchy's theorem, Laurent series and the residue theorem. Some applications to real analysis, including the evaluation of indefinite integrals. An introduction to some special functions.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e211508a1310" role="1" seniority_sort="1">
+                <display_name>Horng-Tzer Yau</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

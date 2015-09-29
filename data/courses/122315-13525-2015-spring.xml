@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122315" class_number="13525" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 975">Contemporary Issues in Psychology: Intensive Cross-level Analyses for Cognitive Neuroscience and Evo</title>
+            <notes>Hours to be arranged   Mahzarin Banaji and members of the Department  This course is taught entirely in sections, so a required first meeting of this course will be held the first day of classes; see Registrar's first meeting list for time and location. Students may take this course before formally declaring Psychology as their concentration.</notes>
+            <prereq>Recommended: Science of Living Systems 20 (or equivalent) or concurrent enrollment. Stat 101 or PSY 1900 as a pre- or corequisite.</prereq>
+            <description>Examines selected issues of relevance to social and cognitive neuroscience addressed in contemporary psychological research, and is normally required for students in the Social and Cognitive Neuroscience track of Psychology. Special attention to examining topics from a variety of perspectives, to reading primary sources in the field, and to developing thinking, writing, research, and discussion skills. This tutorial, or Psychology 971, is required of concentrators upon entering the concentration, normally in the sophomore year. Letter-graded.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6193a1310" role="1" seniority_sort="1">
+                <display_name>Jill Hooley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

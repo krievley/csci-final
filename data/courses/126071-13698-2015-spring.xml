@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126071" class_number="13698" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 157">The Hermaphroditic Imagination</title>
+            <notes> Conducted in French.</notes>
+            <description>While official scientific and social positions in the nineteenth century uphold rigid distinctions between women and men, the imaginary life of the period is haunted by the hermaphrodite and other figures that play on the margins of sexual division, challenging the separation of the spheres. We'll read and discuss hermaphroditic fictions chosen from Balzac, George Sand, Gautier, Flaubert, Zola, and Rachilde.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

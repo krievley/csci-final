@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127539" class_number="16811" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 351HFA">Film Study Center Non-Fiction Filmmaking Workshop</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes> Admission Limited to Critical Media Practice graduate students and Film Study Center fellows.</notes>
+            <description>A graduate workshop for Film Study Center non-fiction film and video projects.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="21:59:00" location="Sever 416 (FAS)" start_time="17:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e46012a1310" role="1" seniority_sort="1">
+                <display_name>Lucien Castaing-Taylor</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

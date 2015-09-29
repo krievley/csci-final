@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159877" class_number="15021" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2001B">Research in Behavior in Games and Markets</title>
+            <description>Presents current research in Theory, Behavioral Economics, and Experimental Economics.&amp;nbsp;Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15779a1310" role="1" seniority_sort="1">
+                <display_name>David Laibson</display_name>
+            </person>
+            <person id="d1e153073a1310" role="2" seniority_sort="2">
+                <display_name>Drew Fudenberg</display_name>
+            </person>
+            <person id="d1e15782a1310" role="2" seniority_sort="3">
+                <display_name>Tomasz Strzalecki</display_name>
+            </person>
+            <person id="d1e15776a1310" role="2" seniority_sort="4">
+                <display_name>Jerry Green</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

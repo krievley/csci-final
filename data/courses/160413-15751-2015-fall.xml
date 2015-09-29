@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160413" class_number="15751" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1974">Eurasia in the Twentieth Century</title>
+            <exam_group>FAS06_E</exam_group>
+            <description>The history of the southern borderlands of the Russian Empire/Soviet Union and the surrounding neighborhood (especially Iran and Afghanistan) from the collapse of the imperial order to September 11th. Main themes include the impact of Communism; inter-war experiments in nation-building; the Second World War; postwar international development and modernization; Communism and the rise of transnational political Islam; the 1980s (the Soviet war in Afghanistan, the Islamic Revolution in Iran, and Soviet demographic challenges); the emergence of new states after 1991 and the Eurasian Union as counter-project to the European order.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="CGIS South S450 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e201318a1310" role="1" seniority_sort="1">
+                <display_name>Timothy Nunan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

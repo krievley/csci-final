@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121692" class_number="12995" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APMTH 91R">Supervised Reading and Research</title>
+            <notes> May be taken as a half course in either term; normally may not be taken for more than two terms. Applications may be obtained at Pierce Hall 110. Students should consult their advisers and concentration literature for further information and guidance. Applications must be signed by the student, by the faculty member supervising the project (who will recommend the grade), and by the Director of Undergraduate Studies, who will sign the student's study card once the project and its method of evaluation have been approved.</notes>
+            <description>An individual project of guided reading and research culminating in a substantial paper or other piece of work which can be meaningfully evaluated to assign a letter grade; may not be taken on a PA/FL basis. Students engaged in preparation of a senior thesis ordinarily should take Applied Mathematics 99r instead.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e146335a1310" role="1" seniority_sort="1">
+                <display_name>Yiling Chen</display_name>
+            </person>
+            <person id="d1e88737a1310" role="1" seniority_sort="2">
+                <display_name>Margo Levine</display_name>
+            </person>
+            <person id="d1e88740a1310" role="1" seniority_sort="3">
+                <display_name>Sarah Iams</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

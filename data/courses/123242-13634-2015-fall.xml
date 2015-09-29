@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123242" class_number="13634" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 229X">Introduction to Analytic Number Theory</title>
+            <exam_group>FAS07_A</exam_group>
+            <prereq>Recommended: Knowledge of the material in Mathematics 113 and 123.</prereq>
+            <description>Fundamental methods, results, and problems of analytic number theory. Riemann zeta function and the Prime Number Theorem; Dirichlet's theorem on primes in arithmetic progressions; lower bounds on discriminants from functional equations; sieve methods, analytic estimates on exponential sums, and their applications.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Science Ctr 507 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e246867a1310" role="1" seniority_sort="1">
+                <display_name>Noam D. Elkies</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

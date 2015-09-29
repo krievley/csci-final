@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156536" class_number="15886" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH CFFR">Adapting Short Fiction to Film: Workshop</title>
+            <description>This workshop explores the principles of literary adaptation from short fiction to film. By viewing films and reading their screenplays and the source stories , we will consider what makes for a successful adaptation from print to film. We'll spend the majority of the class critiquing students' adaptations - either the first act of a feature-length script, or a complete short script (under thirty pages).</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e187103a1310" role="1" seniority_sort="1">
+                <display_name>Mark Poirier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

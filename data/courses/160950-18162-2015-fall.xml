@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160950" class_number="18162" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MED-SCI 315">Using RNA sequencing to improve the diagnosis of rare disease patients</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="MED-SCI">Medical Sciences</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e169530a1310" role="1" seniority_sort="1">
+                <display_name>Daniel MacArthur</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

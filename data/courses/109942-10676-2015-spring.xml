@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109942" class_number="10676" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94SAF">EJ Safra Undergraduate Ethics Fellowship Seminar</title>
+            <description>Topics in moral philosophy and political theory that illuminate normative issues in public and professional life. Prepares undergraduate fellows across the social sciences, natural sciences, and the humanities to pursue research on normative questions.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e252910a1310" role="1" seniority_sort="1">
+                <display_name>Arthur Applbaum</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

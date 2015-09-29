@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121187" class_number="13397" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LATIN BBM">Introduction to Latin Poetry (Late Antique and Medieval)</title>
+            <notes>Jan Ziolkowski and assistant  </notes>
+            <prereq>Recommended: Latin Ab, Aab, Ac, or equivalent.</prereq>
+            <description>Reading of selections of Medieval Latin poetry and introduction to quantitative meter and rhythmical poetry. Aims to facilitate the reading through study of short selections of post-classical poetry from authors such as Ambrose, Alcuin, Hrotsvit of Gandersheim, and Aquinas.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e98189a1310" role="1" seniority_sort="1">
+                <display_name>Jan Ziolkowski</display_name>
+            </person>
+            <person id="d1e433842a1310" role="2" seniority_sort="2">
+                <display_name>Tyler Flatt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

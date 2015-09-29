@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109353" class_number="10183" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 22">Philosophy of Psychology</title>
+            <description>An introduction to philosophical questions in psychology and the cognitive sciences: the nature of consciousness, the relation between perception, cognition, and introspection, the pertinence of language for rational thought, and the role of memory for personal identity and the self. We also examine related questions, such as how we can study the content of minds in non-human animals and assess the possibility of minds in robots, as well as how certain brain dysfunctions affect the mind and the self.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e329830a1310" role="1" seniority_sort="1">
+                <display_name>Guven Guzeldere</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

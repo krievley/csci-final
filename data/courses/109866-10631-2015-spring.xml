@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109866" class_number="10631" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MBB 980H">What Disease Teaches about Cognition</title>
+            <notes>Preference to juniors in MBB tracks or MBB secondary field.  </notes>
+            <description>Seeks to reconcile the complicated and messy problems of patients with brain disease with the concise analysis of precisely defined cognitive functions in normal subjects. Students will learn to overlap cognitive functions on to the brain in disease - at the gross dissection and imaging levels - and to understand some of the complex interactions of individual cognitive operations in disease. Includes dissection of a human brain, mapping on to imaging, dissection of multi-dimensional clinical disorders into their component functional parts.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="18:59:00" location="" start_time="17:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e332660a1310" role="1" seniority_sort="1">
+                <display_name>Michael Alexander</display_name>
+            </person>
+            <person id="d1e332663a1310" role="1" seniority_sort="2">
+                <display_name>William Milberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

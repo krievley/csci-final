@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128040" class_number="14125" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 130">Biomedical Entrepreneuring: Turning Ideas into Medicine</title>
+            <exam_group>FAS17_E</exam_group>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 52, or permission of the instructor.</prereq>
+            <description>Medicines and other therapeutics have revolutionized the treatment of many diseases. Few of us pause to consider how these products are developed from an initial discovery in the lab to the treatment of patients. This course will consider this journey by incorporating scientific, biotechnology, intellectual property, venture capital, and business perspectives. In addition to lectures, students will work on group projects to chart a strategy toward bringing a novel biomedical idea to the clinic.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="Sherman Fairchild G62 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e10022a1310" role="1" seniority_sort="1">
+                <display_name>Derrick Rossi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

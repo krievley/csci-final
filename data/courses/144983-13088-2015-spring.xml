@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144983" class_number="13088" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 96">Engineering Problem Solving and Design Project</title>
+            <notes> Preference given to SB candidates.</notes>
+            <description>Semester-long team project that provides engineering experience working with clients on real-world problems. Projects provide exposure to problem definition, performance measurement, quantitative analysis, modeling, generation of creative solutions, engineering design trade-offs, and documentation/communication skills. Ordinarily taken in the junior year.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Thursday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e220952a1310" role="1" seniority_sort="3">
+                <display_name>Fawwaz Habbal</display_name>
+            </person>
+            <person id="d1e15291a1310" role="1" seniority_sort="4">
+                <display_name>Christopher Lombardo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

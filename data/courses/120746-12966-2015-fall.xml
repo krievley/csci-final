@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120746" class_number="12966" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 25K">You Are What You Eat</title>
+            <exam_group>FAS06_E</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>What does food do to our bodies? What does a healthy diet entail? Explores and critically evaluates diet recommendations and knowledge about the role of diet in maintaining health. Discusses the obesity epidemic, with a focus on childhood obesity and the role of school lunch programs. Explores local resources including Harvard Community Gardens and Food Literacy Program and how meals are prepared at the Harvard University Dining Services. Discusses genetically modified foods and mindful cooking and eating. Will review the book "Eat, drink, and be healthy". Hands-on experience in nutrition education.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="18:29:00" location="Lamont Library 230 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e254757a1310" role="1" seniority_sort="1">
+                <display_name>Karin Michels</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

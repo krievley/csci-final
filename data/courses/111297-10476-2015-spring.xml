@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111297" class_number="10476" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 91R">Supervised Reading and Research</title>
+            <notes> May not ordinarily count for concentration in Mathematics.</notes>
+            <description>Programs of directed study supervised by a person approved by the Department.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e69272a1310" role="1" seniority_sort="1">
+                <display_name>Jacob Lurie</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

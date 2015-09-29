@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156404" class_number="11426" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 23G">Nature, Nurture, and Mental Illness</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>By the latest estimates, more than half of us will meet the criteria for a diagnosable mental illness at some point in our lives. Rates of many disorders -from autism and ADHD to eating disorders and depression-have apparently been increasing substantially in recent decades. What do we know about the causes of mental illness? This seminar will explore the role of nature, nurture, and culture in our understanding of mental illness. We will draw on a broad range of disciplines-from psychology, psychiatry and anthropology to genetics and neurobiology-to examine the roots of normal and abnormal behavior.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

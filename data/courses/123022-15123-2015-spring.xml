@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123022" class_number="15123" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEM 100R">Experimental Chemistry and Chemical Biology</title>
+            <notes> Note:  Chem 100r must be a student's only research commitment during the enrolled semester.
+
+Suitable for students either with or without extensive laboratory experience, but may not be taken concurrently with other research courses.
+
+Chemistry 30 or Chemistry 27, and permission of the instructor
+
+Open to freshmen, sophomores, juniors, and seniors, regardless of concentration, and suitable for students either with or without extensive laboratory experience.</notes>
+            <description>A laboratory course where students carry out research and gain exposure to the research process. &amp;nbsp;Projects will be drawn directly from faculty covering a range of methodologies in chemistry and chemical biology. &amp;nbsp;Students will regularly discuss their progress and write formal reports.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:29:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e14904a1310" role="1" seniority_sort="1">
+                <display_name>Austin Bennett Scharf</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

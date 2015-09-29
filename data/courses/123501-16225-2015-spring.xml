@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123501" class_number="16225" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94DN">Mapping Social and Environmental Space</title>
+            <description>This seminar will use mapping as a methodological technique to examine social and environmental issues. Students will be expected to use mapping software to examine spatial data for a location and topic of their choice for their final paper. Weekly discussions will be conducted in class on various mapping related topics. References will range from books like "How to lie with Maps" to current journal articles examining the use of GIS in social science.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

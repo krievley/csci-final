@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126992" class_number="13823" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94AL">Global Distributive Justice</title>
+            <description>This course examines how concerns about socio-economic justice apply beyond the limits of the domestic state. Do we have reason to care about equality at the international level? If so, should we care about the relative standing of individuals, or of nation-states? Who, if anyone, is responsible for addressing global inequalities? Topics covered include the moral relevance of borders, natural resource distribution, immigration policy, climate change, the international status of women, and global institutional design.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

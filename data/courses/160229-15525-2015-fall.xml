@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160229" class_number="15525" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 264">Planetary Magnetism and Dynamo Theory</title>
+            <description>An introduction to the generation of planetary magnetic fields by self-sustaining dynamo action. Magnetohydrodynamics: derivation of the induction equation from Maxwell&amp;rsquo;s equations; the perfectly-conducting limit and frozen-flux; flux expulsion;&amp;nbsp; diffusion and re-connection. Kinematic dynamo theory: Cowling&amp;rsquo;s theorem; existence proofs; the Bullard-Gellman formalism; mean-field theories; fast dynamos. Dynamical considerations: the Navier-Stokes equation; rotating magnetoconvection; Taylor states; torsional oscillations and MAC-waves. Thermodynamic considerations: energy and entropy equations; the core heat flux problem. Numerical dynamo models.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="Northwest Bldg 343 (FAS)" start_time="15:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e54483a1310" role="1" seniority_sort="1">
+                <display_name>Jeremy Bloxham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

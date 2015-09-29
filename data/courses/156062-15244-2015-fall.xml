@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156062" class_number="15244" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 44">Arrivals: British Literature 700-1700</title>
+            <exam_group>FAS18_F</exam_group>
+            <description>An introduction to major works of English literature from 700&amp;ndash;1700, with particular attention to the relationship between literary forms and the changes brought by conquest, religion, and cultural exchange. Key texts include Beowulf, The Canterbury Tales, Sir Gawain and the Green Knight, Doctor Faustus, and Paradise Lost. You will hone close reading skills, analyze poetic language, learn to read Middle English aloud, and develop your ability to write critical essays.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Emerson 307 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e138031a1310" role="1" seniority_sort="1">
+                <display_name>Joey McMullen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159785" class_number="15056" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BK">American Economic Fictions</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>This course considers the culture of American capitalism through an examination of a range of literary and historical texts.&amp;nbsp; As we explore the shifts in thinking about class, labor, business, and money from the early days of the republic through the present, we will ask how a wide variety of cultural producers engage with and critique economic thought.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Barker 114 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e206653a1310" role="1" seniority_sort="1">
+                <display_name>Angela Allan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

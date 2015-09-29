@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110622" class_number="19202" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GREEK AA">Beginning Greek</title>
+            <exam_group>FAS10_C</exam_group>
+            <notes> No auditors. May be taken pass/fail. Students with more than one year of formal instruction should take the Harvard placement test in Greek during Freshman Week and consult with the Course Head before enrolling.</notes>
+            <description>For students with very little or no previous instruction in Greek. Introduction to Greek grammar and reading of sentences and short passages.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+    </course>
+</courses>

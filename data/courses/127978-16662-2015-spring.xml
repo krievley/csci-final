@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127978" class_number="16662" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 46W">Leadership and Negotiation</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The critical problems threatening community safety and wellbeing, terrorism, climate change or access to health care, frequently look different to the diverse stakeholders who are party to them. Legislators, business owners, and disenfranchised group members don't always see the same things even when brought together to address the common problem they share. This course will explore how leaders negotiate these challenges so that their communities can make real progress.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e373591a1310" role="1" seniority_sort="1">
+                <display_name>Kimberlyn Leary</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

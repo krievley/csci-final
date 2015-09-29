@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122989" class_number="13353" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 97">Tutorial I</title>
+            <notes> Required of all concentrators, and for the secondary field in philosophy.  Phil 97 is not shopped.  Students who plan to take this course should submit their preferences to the Head Tutor's Office before the beginning of term.  Please consult the course web site for details and deadlines.</notes>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e44734a1310" role="1" seniority_sort="1">
+                <display_name>Bernhard Nickel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

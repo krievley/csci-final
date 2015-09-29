@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110855" class_number="11038" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 25B">Honors Linear Algebra and Real Analysis II</title>
+            <notes>There will be a heavy workload.&amp;nbsp;  Expect to spend a lot time doing mathematics.  This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Prerequisite: Mathematics 25A OR Mathematics 55A</prereq>
+            <description>A rigorous treatment of basic analysis. Topics include: convergence, continuity, differentiation, the Riemann integral, uniform convergence, the Stone-Weierstrass theorem, Fourier series, differentiation in several variables. Additional topics, including the classical results of vector calculus in two and three dimensions, as time allows.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e65326a1310" role="1" seniority_sort="1">
+                <display_name>Tasho Kaletha</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

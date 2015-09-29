@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128074" class_number="14910" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="CLS-STDY 110">Roman Literature in the Age of Augustus</title>
+            <description>The course will examine in translation Latin literature during the transition of the Roman republic to the regime of Augustus Caesar. Authors studied will include Virgil, Horace, Livy, Propertius and Ovid. Close attention will be paid to the political contexts of the literature of the period, and to the evolution of various literary genres during this artistically fertile period.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLS-STDY">Classical Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e70380a1310" role="1" seniority_sort="1">
+                <display_name>Richard Thomas</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127496" class_number="15067" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TAM 103BR">Advanced Tamil</title>
+            <notes> Not open to auditors.</notes>
+            <description>Continuation of Tamil 102. Covers topics of advanced grammar and is designed to further develop proficiency in speaking, listening, reading, and writing. Texts include modern literature, classical poetry, devotional literature, epic literature, and selections from minor literary forms. Films and other audiovisual materials will be used as well.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="TAM">Tamil</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="15:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e154916a1310" role="1" seniority_sort="1">
+                <display_name>Jonathan Ripley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122318" class_number="15363" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 165">Inequalities in Health Care</title>
+            <exam_group>FAS07_B</exam_group>
+            <description>Asks why certain social groups are at greater risk for more severe health problems (e.g., infant mortality, HIV/AIDS, cancer) and yet receive unequal health care in the US. Examines what best practices foster adequate delivery of healthcare services, mutual respect between patient and provider, and healthy living. Considers the role of government, the private sector, family and community.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Sever 308 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e212439a1310" role="1" seniority_sort="1">
+                <display_name>Mary Ruggie</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

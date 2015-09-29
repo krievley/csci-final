@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160051" class_number="15214" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2919B">International Society in Global Context:  Seminar</title>
+            <description>A year-long research and reading course on the history of international society in global context from the early modern period to the near present. Themes include international thought; imperial, national, and post national orders; and projects of &amp;ldquo;civilization,&amp;rdquo; development, and modernization in global context.&amp;nbsp; Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e33055a1310" role="1" seniority_sort="1">
+                <display_name>David Armitage</display_name>
+            </person>
+            <person id="d1e20036a1310" role="2" seniority_sort="2">
+                <display_name>Erez Manela</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

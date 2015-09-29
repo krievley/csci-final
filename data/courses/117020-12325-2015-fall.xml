@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117020" class_number="12325" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CULTBLF 30">A History of Photography</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes> Students who have taken Literature and Arts B-24 may not take this course for credit. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Modern society is unthinkable without the photograph, and yet we rarely have occasion to ponder what photographs are, what they do, and how they do it. In this course, we will consider photography from its origins to the digital era, paying particular attention to its role as an engine of belief in various cultural domains. Our goal will be to understand more incisively how photographs define and shape relations between their subjects and their viewers.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Art Museums Menschel Hall" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e34517a1310" role="1" seniority_sort="1">
+                <display_name>Robin Kelsey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

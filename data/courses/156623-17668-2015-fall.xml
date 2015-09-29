@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156623" class_number="17668" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2560R">Laboratory in Social Cognition</title>
+            <description>Laboratory methods and research seminar on social cognition, with emphasis on moral judgment and attributional processes. Provides experience with behavioral, formal and neuroscientific research methods.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:29:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e43049a1310" role="1" seniority_sort="1">
+                <display_name>Fiery Cushman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

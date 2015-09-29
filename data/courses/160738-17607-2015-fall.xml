@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160738" class_number="17607" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1390">Game Theory and Social Behavior</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes> In addition to the lectures, students will be required to attend weekly discussion groups. Optional math and programming tutorials will be offered biweekly for students who require additional assistance.</notes>
+            <description>We will apply an evolutionary framework - with the help of models from &amp;quot;game theory&amp;quot; and &amp;quot;evolutionary dynamics&amp;quot; - to explain social behavior typically considered the realm of psychologists and philosophers, such as why we speak indirectly, in what sense beauty is socially constructed, and where our moral intuitions come from.Game theory and evolutionary dynamics will be taught from scratch but will not be redundant to experienced students. Five problem sets will be required, which can be done in groups and will require basic programming and math. Tutorials will be available for students in need of additional assistance. Weekly readings will be assigned from various related disciplines, such as psychology, philosophy, economics, and animal behavior. The readings will help students answer weekly discussion prompts which will be discussed in weekly discussion sections. Students will also work on a final project (n groups, if desired) that advances either the theoretical or empirical component of the course material.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="1 Brattle Sq 616 (HKS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e306182a1310" role="1" seniority_sort="1">
+                <display_name>Moshe Hoffman</display_name>
+            </person>
+            <person id="d1e167134a1310" role="2" seniority_sort="2">
+                <display_name>Erez Yoeli</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

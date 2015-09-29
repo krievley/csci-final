@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160590" class_number="16567" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEBREW 245">The Book of Jeremiah: Composition and Reception</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> Offered jointly with the Divinity School as 1305.</notes>
+            <prereq>Recommended: Two years of Biblical Hebrew strongly recommended.</prereq>
+            <description>An examination of the shape and development of the Book of Jeremiah, including close reading of select portions in Hebrew, with attention to large scale strategies and elements of inner-scriptural interpretation. Some attention will also be given to representative selections illustrating the nature and scope of the differences between the Greek and Hebrew forms of the book (including Qumran fragments). The course will also consider the continued reception of the prophet and the book in a variety of other compositions, including Lamentations, Baruch, the Epistle of Jeremiah, and the Jeremiah Apocryphon.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="HEBREW">Hebrew</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="Divinity 211 (HDS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7799a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Teeter</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

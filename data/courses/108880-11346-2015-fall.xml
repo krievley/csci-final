@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108880" class_number="11346" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APPHY 50A">Physics as a Foundation for Science and Engineering, Part I</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> AP50a satisfies the premedical requirements and is equivalent in content and rigor to a standard introductory physics course for scientists and engineers (Physical Sciences 2, Physical Sciences 12a, Physics 15a), but focuses on the application of physics to real-world problems. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+            <prereq>Recommended: Mathematics preparation at least at the level of Mathematics 1b concurrently is required. However, some elementary ideas from multivariable calculus are used and students are encouraged to take Applied Mathematics 21a or Mathematics 21a concurrently. The mathematics content of Applied Physics 50a will be coordinated with Applied Mathematics 21a. This course can be taken concurrently with AM 21a to meet the calculus prerequisite. This course can be taken concurrently with AM 21a to meet the calculus prerequisite.</prereq>
+            <description>AP 50a is the first half of a one-year, team-based and project-based introduction to physics. This course teaches students to develop scientific reasoning and problem-solving skills. AP50a topics include: kinematics; linear and rotational motion; relativity; conservation of momentum and energy; forces; gravitation; and oscillations and waves. Multivariable and vector calculus is introduced and used extensively in the course. Students work in teams on three, month-long projects, each culminating in a project fair. The twice-weekly class periods are all inclusive: there are no separate labs or discussion sections.</description>
+            <department code="APPHYS">Applied Physics</department>
+            <course_group code="APPHY">Applied Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Pierce 301 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e26122a1310" role="1" seniority_sort="1">
+                <display_name>Federico Capasso</display_name>
+            </person>
+            <person id="d1e26125a1310" role="1" seniority_sort="2">
+                <display_name>Eric Mazur</display_name>
+            </person>
+            <person id="d1e26128a1310" role="2" seniority_sort="3">
+                <display_name>Kelly Miller</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

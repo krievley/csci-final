@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123834" class_number="13038" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AESTHINT 13">Cultural Agents</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes>Though the University will be on a &amp;quot;Monday&amp;quot; schedule, this course will still have its first lecture on Wednesday, September 2.  </notes>
+            <description>Explore the arts as social and professional resources! Whether you pursue medicine, law, engineering, business, government, etc., the arts will enhance your work and your citizenship. Active citizens construct opportunities for positive social change. A lecture series by a range of professionals demonstrates that change in practically any field depends on art. Theoretical readings (Schiller, Kant, Dewey, Freire, Gramsci, Ranci&amp;egrave;re, Mockus, Boal, Nussbaum, Pasolini, inter alia) are grounded in concrete cases of agency. The final project will be a design for a creative social intervention, including reflections on creating the design.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Boylston 110 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e62376a1310" role="1" seniority_sort="1">
+                <display_name>Doris Sommer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

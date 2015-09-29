@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114178" class_number="14883" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 15">Social Psychology</title>
+            <notes>This course counts toward foundational requirements for Psychology and should be taken before courses at the 1000 level or higher.  This course, when taken for a letter grade, meets the General Education requirement for Science of Living Systems. This course counts toward the foundational requirement for Psychology and should be taken before courses at the 1000 level or higher.</notes>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 or the equivalent of introductory psychology (e.g. Psych AP=5 or 1B=7) before enrolling in this course for all freshmen and for all students completing a concentration or secondary field in psychology.</prereq>
+            <description>An introduction to social psychological research and theory regarding everyday behavior, incorporating methods from the life sciences (neuroscience, genetics, evolutionary biology). Topics include: attitudes and social influence; obedience to authority; stereotyping, prejudice, and intergroup relations; emotion; interpersonal attraction; morality and prosocial behavior; and errors of everyday human judgment</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e43049a1310" role="1" seniority_sort="1">
+                <display_name>Fiery Cushman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="131583" class_number="10158" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 252">Coalescent Theory</title>
+            <exam_group>FAS17_A</exam_group>
+            <prereq>Recommended: OEB 242 or permission of instructor: calculus and statistics or probability.</prereq>
+            <description>The mathematics and computation of ancestral inference in population genetics. Theory relates observable genetic data to factors of evolution such as mutation, genetic drift, migration, natural selection, and population structure.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="Museum of Comp Zool 101 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e173475a1310" role="1" seniority_sort="1">
+                <display_name>John Wakeley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

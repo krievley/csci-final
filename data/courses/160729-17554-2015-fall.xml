@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160729" class_number="17554" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BZ">Harvard, Meritocracy, and the Making of Elites</title>
+            <exam_group>FAS13_G</exam_group>
+            <description>The belief that resources such as education and rewards such as high pay should go to the meritorious is so deeply ingrained in our culture that it provides much of the basic logic and vocabulary for making sense of inequality and hierarchy in everyday life. This course historicizes meritocracy as an ideal and practice by focusing on Harvard University since the Civil War. Throughout this period, Harvard has seen its role as training a meritorious elite to lead society. We will study the historical politics of this elitism in the context of class, race, gender, capitalism, and mass democracy.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Barker 128 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e4047a1310" role="1" seniority_sort="1">
+                <display_name>Ryan Acton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

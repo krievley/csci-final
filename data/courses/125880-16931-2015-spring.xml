@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125880" class_number="16931" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ASTRON 100">Methods of Observational Astronomy</title>
+            <notes> This course is offered each year.</notes>
+            <prereq>Prerequisite: Astronomy 16 OR Astronomy 17</prereq>
+            <description>In this course we will learn the basic tools of modern astronomical research, including telescopes, detectors, imaging, spectroscopy, and common software. Emphasis will be placed on both the theory behind telescopes and their use, and hands-on experience with real data. Using this basic knowledge we will analyze science-level astronomical data from a wide range of telescopes and review the basic properties of stars, galaxies, and other astronomical objects of interest. The course includes a trip to the F. L. Whipple Observatory on Mount Hopkins, Arizona, to gather data with various telescopes.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Laboratory</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e8095a1310" role="1" seniority_sort="1">
+                <display_name>Edo Berger</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

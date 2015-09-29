@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109836" class_number="14994" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 285M">South Asian Temple: Theory and Practice</title>
+            <exam_group>FAS13_G</exam_group>
+            <description>The main mode of production in Indian temple architecture is often explained through a strict diagram or vastupurusamandala, an idea extracted from Sanskrit artistic treaties (silpasastra or vastusastra) of varying dates. Going beyond this essentialist tendency, the seminar will explore design strategies adopted to create the most powerful sacred space for each religious and political community and examine the historical relationship between the circulation of such architectural (and artistic) knowledge and the production and use of an actual temple. In particular, we will explore the relationship between the architectural representation (as in architectural motif in sculpture and painting) and the architecture as built environment. &amp;nbsp;The regional focus for this semester will be on Deccan (i.e., cave temples). &amp;nbsp;While some prior knowledge of South and Southeast Asian art, history, or religion may be helpful, none is required for the successful completion of this course.&amp;nbsp;&amp;nbsp;&amp;nbsp;</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Sackler Museum 406" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e16321a1310" role="1" seniority_sort="1">
+                <display_name>Jinah Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="161075" class_number="20111" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="INDSTUDY 300">Independent Study for Research Scholars</title>
+            <notes> This course is graded Satisfactory/Unsatisfactory.</notes>
+            <description>This course is for GSAS, non-degree, Special Students.</description>
+            <department code="NODEPT"/>
+            <course_group code="INDSTUDY"/>
+            <course_type>Reading and Research</course_type>
+            <credits>16</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e293598a1310" role="1" seniority_sort="1">
+                <display_name>Sheila Thomas</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

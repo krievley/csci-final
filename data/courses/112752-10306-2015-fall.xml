@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112752" class_number="10306" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANE 131">Readings in the Septuagint</title>
+            <exam_group>FAS02_A</exam_group>
+            <notes> Offered jointly with the Divinity School as 4215.</notes>
+            <prereq>Recommended: One year of Greek.</prereq>
+            <description>This course aims to increase facility with Septuagint Greek by reading representative prose portions of the Septuagint and studying the peculiarities of the grammar inductively. The basics of Koine Greek will be reviewed as necessary.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ANE">Ancient Near East</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Divinity 213 (HDS)" start_time="12:01:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e193769a1310" role="1" seniority_sort="1">
+                <display_name>Richard Saley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

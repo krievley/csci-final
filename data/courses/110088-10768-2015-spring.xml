@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110088" class_number="10768" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 209R">Curation, Conservation and Programming</title>
+            <description>For research and independent projects in the archives, collections, and exhibitions of the Carpenter Center for the Visual Arts, the Harvard Film Archive, or the Harvard Museums and other campus arts institutions. Open only by petition to the Department; petitions should be presented during the term preceding enrollment, and must be signed by the instructor or staff member with whom the project is to be done.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

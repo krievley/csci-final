@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127134" class_number="13721" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 2712">Ethnographies of Food</title>
+            <exam_group>FAS15_D</exam_group>
+            <description>We will discuss the "food turn" in anthropology through reading contemporary (and classic) ethnographies of food in contexts of production, distribution, social exchange, gender, and science. Note: Undergraduates encouraged to participate.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Tozzer 416 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e8042a1310" role="1" seniority_sort="1">
+                <display_name>Theodore Bestor</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

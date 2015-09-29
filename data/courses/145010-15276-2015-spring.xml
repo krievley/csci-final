@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145010" class_number="15276" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 23B">Linear Algebra and Real Analysis II</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: Mathematics 23a.</prereq>
+            <description>A rigorous, integrated treatment of linear algebra and multivariable calculus. Topics: Riemann and Lebesgue integration, determinants, change of variables, volume of manifolds, differential forms, and exterior derivative. Stokes's theorem is presented both in the language of vector analysis (div, grad, and curl) and in the language of differential forms.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e53654a1310" role="1" seniority_sort="1">
+                <display_name>Paul Bamberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

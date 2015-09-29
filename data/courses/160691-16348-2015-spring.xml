@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160691" class_number="16348" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1563">Predicting the Future</title>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and PSY 15 before enrolling in this course.</prereq>
+            <description>Although converging evidence suggests that our brains are virtuoso predictors at the millisecond time-scale, people have a great deal of trouble simulating their future states. Why is it that we are so good at short-term predictions but fail to know how long it will take us to complete assignments, how embarrassing we&amp;rsquo;ll find our high school yearbook quotes, or how happy our choices will make us? This course attempts to answer these questions by examining prospection, our ability to simulate the future. Particular attention will be paid to systematic ways in which our predictions about the future go awry.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e199661a1310" role="1" seniority_sort="1">
+                <display_name>Christine Looser</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

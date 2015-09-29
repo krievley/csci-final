@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="140830" class_number="16255" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 130">Biology of Fishes</title>
+            <description>Fishes inhabit diverse aquatic environments including deep seas, intertidal zones, coral reefs, polar waters, the vast Amazonian basin, and great East African lakes. A single fish species may occupy diverse environments through extraordinary long distance horizontal and vertical migrations. To explore this unparalleled diversity, the course emphasizes bridging traditional academic boundaries with integrative analyses of the biology underlying rapid evolutionary radiations and stasis.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e185199a1310" role="1" seniority_sort="1">
+                <display_name>George Lauder</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

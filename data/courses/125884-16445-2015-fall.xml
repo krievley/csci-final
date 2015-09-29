@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125884" class_number="16445" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ASTRON 17">Galactic and Extragalactic Astronomy</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe. This course is offered each year.</notes>
+            <prereq>Prerequisite: An introductory course in mechanics, which may be taken concurrently, satisfied by Physics 15a, Physics16, or Physical Sciences 12a.REQ; Astronomy 17</prereq>
+            <description>This course provides an introduction to the physical principles describing galaxies and the composition and evolution of the Universe. Topics include the interstellar medium; star clusters; the structure and dynamics of the Milky Way; other galaxies; clusters of galaxies; active galaxies and quasars; cosmology; and the early universe. This course includes an observational component: In addition to observing galaxies with the Science Center Clay Telescope, students will use the millimeter-wavelength telescope at the Harvard-Smithsonian Center for Astrophysics to measure the rotation velocity of the Milky Way galaxy and to determine its mass.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Science Ctr 102 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e165375a1310" role="1" seniority_sort="1">
+                <display_name>John Johnson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114320" class_number="15020" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AKKAD AA">Introductory Akkadian</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Akkadian AA/AB is an indivisible year-long course. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</notes>
+            <description>An introduction to the Semitic language of Akkadian, primarily through the Old Babylonian dialect and cuneiform writing system as used during the time of Hammurabi (c. 1750 BCE). Students learn the fundamentals of grammar and the writing system, as well as the most common cuneiform signs in official and cursive script. Readings span a variety of genres, including private letters, judicial documents, literary and religious texts, divinatory compendia, legal code, and royal inscriptions. The course also briefly introduces students to examples of texts from other periods and dialects of the Akkadian language for cultural and comparative purposes. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="AKKAD">Akkadian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:59:00" location="Semitic Museum 304" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e95629a1310" role="1" seniority_sort="1">
+                <display_name>Gojko Barjamovic</display_name>
+            </person>
+            <person id="d1e95632a1310" role="2" seniority_sort="2">
+                <display_name>Jae-Hwan Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127069" class_number="15434" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 292">The Physics of Fiction: Pynchon, Narrative, Theory</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>This course focuses on an extraordinary body of work by Thomas Pynchon, including &amp;quot;Entropy,&amp;quot; &amp;quot;Crying of Lot 49,&amp;quot; &amp;quot;Gravity&amp;rsquo;s Rainbow,&amp;quot; and &amp;quot;Mason and Dixon.&amp;quot;&amp;nbsp; By studying this work we explore Pynchon&amp;rsquo;s vision of modernity, but also important themes in the history of science and in philosophy. We will grapple with communication, surveying, and weaponization of science in the twentieth century on the one hand, and with clashing accounts of explanation on the other. How (for example) does one explain the pattern of V2 rocket-bombs exploding around London in World War II? Do we learn about the location of future detonations from the ones that come earlier as Pavlov might have had it? Or is the world, at root, inextricably random, with events utterly independent one from the other as Poisson would say? Such reflections on the world--and they extend through identity, love, war, and materiality-- feed back into the very nature of writing itself, and in the final sessions of the seminar, we will turn to literary-philosophical questions such as this: How, in the absence of causality and continuity, does narrative itself function? What might be a postcausal (postmodern) novel? Along with Pynchon&amp;rsquo;s original text, we will read widely in the history of technology, warfare, science, literary theory, and philosophy.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Science Ctr 469 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e58527a1310" role="1" seniority_sort="1">
+                <display_name>Peter Galison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

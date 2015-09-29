@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160619" class_number="16690" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH 160">Aesthetics of Sensationalism: Crime and Violence in Latin American Culture</title>
+            <exam_group>FAS08_K</exam_group>
+            <notes> Note: Conducted in Spanish.</notes>
+            <prereq>Recommended: Prerequisite: Previous coursework in Spanish at the 90- or 100-level; or the permission of the course head.</prereq>
+            <description>Probes sensationalism as register of violent crimes and traumatic experiences in key moments of Latin American cultural history. Explores sensation as an object of knowledge: as a constructive break with or interruption of storytelling, narrative, discourse, etc. Readings and visual materials by Fernando Vallejo, Bola&amp;ntilde;o, Metinides, Moris, Kristeva, Burke, Kant, Deleuze, Adorno, Yudice, etc.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="14:29:00" location="Boylston 403 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e64979a1310" role="1" seniority_sort="1">
+                <display_name>Sergio Delgado</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

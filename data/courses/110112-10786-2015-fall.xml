@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110112" class_number="10786" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 10A">Harvard-Radcliffe Orchestra</title>
+            <exam_group>FAS06_D</exam_group>
+            <notes>Auditions: August 31 and September 1: 10:00 am - 8:00 pm; September 2: 9:00 am - 1:00 pm.&amp;nbsp; Two contrasting movements or pieces choosen by candidate.&amp;nbsp;  The course is graded SAT/UNSAT based on attendance and participation. This course may be taken repeatedly, but to receive credit the course must be taken in the Fall and Spring semesters consecutively. A maximum of four semesters (two years) may be counted as credit towards the degree.   The course is graded SAT/UNSAT based on attendance and participation. This course may be taken repeatedly, but to receive credit the course must be taken in the Fall and Spring semesters consecutively. A maximum of four semesters (two years) may be counted as credit towards the degree.</notes>
+            <prereq>Recommended: Auditions: August 31 and September 1: 10:00 am - 8:00 pm; September 2: 9:00 am - 1:00 pm.  Two contrasting movements or pieces chosen by candidate.</prereq>
+            <description>This is an experiential learning course. The ensemble gives several concerts each year, sometimes joining with the chorus to perform large-scale works. Students are required to attend all rehearsals and certain special Saturday "retreats" announced in advance. Students are expected to practice the music outside the rehearsal time. Grades are based on attendance and participation.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Studio</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Thursday" end_time="21:29:00" location="Memorial Hall SandersThtr(FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e12976a1310" role="1" seniority_sort="1">
+                <display_name>Federico Cortese</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

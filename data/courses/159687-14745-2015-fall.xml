@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159687" class_number="14745" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 173G">Drawing on Exhibition</title>
+            <exam_group>FAS15_D</exam_group>
+            <description>Course designed in preparation for a curricular exhibition of 18th &amp;amp;19th-century drawings to take place at Harvard Art Museums involving students. Explores the invention of drawing as a modern medium. Examines practices, theories, and debates on drawing. Offers hands-on experience of works of art and honing of curatorial skills through practice in exhibition design and discussions with experts. Materiality, technique, the aesthetic, philosophical, and institutional parameters of drawing, including the notions of line, touch, stain, surface, sight, time, instruction, reproduction, generation, curiosity, will be discussed among others.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Art Museums Fogg Study Ctr" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e171031a1310" role="1" seniority_sort="1">
+                <display_name>Ewa Lajer-Burcharth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160200" class_number="16659" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 42F">Crime and Punishment in the United States , 1800-2000</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course will examine the history of crime and punishment in the United States from the nineteenth through the twentieth century. We will examine early ideas about crime and punishment, and how they changed over the past two centuries. Topics will include the rise of the penitentiary, the rise and decline of the Southern convict lease system, progressive era penal knowledge and reform, and the criminalization of alcohol and drugs during the 1920s Prohibition era. Finally, &amp;nbsp;the rise of the system of mass incarceration since the 1970s will be discussed.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e40548a1310" role="1" seniority_sort="1">
+                <display_name>Lisa McGirr</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

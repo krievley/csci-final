@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156531" class_number="11466" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 115">Instruments &amp; Mechanical Marvels: Studies in the Material Culture of Science, 17th-20th Century</title>
+            <exam_group>FAS06_F</exam_group>
+            <description>This course is dedicated to the work of one historian of science who has considerably influenced our methods of studying and thinking about material culture. This Fall, we will focus on Simon Schaffer&amp;rsquo;s body of work, the 2013 Sarton medal recipient. His extensive scholarly, grand public, and media productions span the period between the 17th and the 20th century, offering a comprehensive look at things from a variety of perspectives: theoretical, technological, sociological, cultural, experimental, and museum studies. The classes will consist of half lecture, half discussion. We will try to answer this simple, yet loaded question: What is an instrument? There will be two short assignments and one final study of an instrument coming from the Collection of Historical Scientific Instruments.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Science Ctr 252 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e96454a1310" role="1" seniority_sort="1">
+                <display_name>Jean-Francois Gauvin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

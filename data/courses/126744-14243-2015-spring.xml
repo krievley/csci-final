@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126744" class_number="14243" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCRB 140">Developmental and Molecular Basis of Growth and Regeneration</title>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 54, or permission of the instructor.</prereq>
+            <description>This course will focus on the biology of organ growth and regeneration from a developmental perspective. How is the size and symmetry of our organs set? How does a regenerating animal sense that something is missing and eventually stop the regenerative process when tissues reform? We will learn about conserved developmental pathways that are necessary for adult regeneration and discuss how the aberrant activation of these pathways can lead to overgrowth disorders such as cancer.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e304790a1310" role="1" seniority_sort="1">
+                <display_name>Fernando Camargo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

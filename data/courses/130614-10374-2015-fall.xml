@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130614" class_number="10374" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="IMMUN 307QC">Cancer Immunology</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes>Course meets&amp;nbsp;November 2, 2015 through December 21, 2015.  </notes>
+            <description>There have been many exciting recent developments in the cancer immunology field, and multiple therapeutic approaches have shown efficacy against diverse types of cancer. This course will emphasize new mechanistic insights, in particular on the following topics: Mechanisms of spontaneous protective anti-tumor immunity; Key effector cell populations of anti-tumor immunity; Inflammation and tumor microenvironment; Immunosuppressive mechanisms in tumor immunity; Targeting of inhibitory receptors; Cancer vaccines; New approaches for delivery of immunotherapies into tumors.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e17604a1310" role="1" seniority_sort="11">
+                <display_name>Kai Wucherpfennig</display_name>
+            </person>
+            <person id="d1e8230a1310" role="2" seniority_sort="12">
+                <display_name>Cathy Wu</display_name>
+            </person>
+            <person id="d1e17610a1310" role="2" seniority_sort="13">
+                <display_name>Stephanie Dougan</display_name>
+            </person>
+            <person id="d1e8140a1310" role="2" seniority_sort="14">
+                <display_name>Michael Goldberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

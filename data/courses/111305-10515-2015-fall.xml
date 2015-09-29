@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111305" class_number="10515" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ASTRON 2">Celestial Navigation</title>
+            <exam_group>FAS04_C</exam_group>
+            <notes>Class meets during lunch each Tuesday in the Classroom and again just after dinner the same day in Phillips Auditorium.  Minimal lecturing; predominantly practical activities with individual attention from teaching staff. Math beyond high school trigonometry and geometry unnecessary. This course is offered each year.</notes>
+            <description>Never be lost again! Find your way on sea, land, or air by employing celestial and terrestrial techniques. Acquire expertise in using navigators' tools (sextant, compass, and charts) while learning the steps to the celestial dance of the sun, moon, stars, and planets. This 108-year-old course continues to rely on practical skills and collaborative problem-solving, while utilizing historical artifacts (instruments, maps, captains' logs) and student-built devices. Culminating in a day-long cruise to practice navigation skills.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="12:59:00" location="Observatory A 101 (FAS)" start_time="11:30:00"/>
+                <meeting days_of_week="Tuesday" end_time="21:59:00" location="Observatory D PA2 Aud (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43939a1310" role="1" seniority_sort="1">
+                <display_name>Philip Sadler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

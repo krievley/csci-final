@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124971" class_number="15708" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PLSH BA">Intermediate Polish I</title>
+            <exam_group>FAS12_A</exam_group>
+            <prereq>Recommended: Polish AB or placement at the B-level. Familiarity with fundamentals of Polish grammar, particularly case endings and elementary competence in spoken Polish.</prereq>
+            <description>Part one of a two part intermediate course in modern Polish language and culture for students with previous study of the language. Further development of vocabulary and oral expression within a comprehensive review of Polish grammar. All four major communicative skills (speaking, listening comprehension, reading, writing) are stressed as students learn to use the language both as a means of communication and as a tool for reading and research. Introduction to Polish literature through fiction and poetry, history and contemporary events, including readings from literary masterpieces from Polish literature from the era of the Renaissance to contemporary times including Jan Kochanowski, WisÅawa Szymborska, Zbigniew Herbert, CzesÅaw MiÅosz and others. Film clips and newspaper articles will introduce students to a variety of styles of contemporary Polish. Systematic study of word formation and other strategies are taught to help free students from excessive dependence on the dictionary and develop confidence in reading. Intermediate Polish I and Intermediate Polish II together prepare students for continued study of Polish in advanced-level courses and for study or travel abroad in Poland.&amp;nbsp;Please note that this course will meet for an additional hour of speaking practice that will be arranged the first week of classes. See language course notes on our website for information about sectioning, pass/fail, satisfactory/unsatisfactory, and auditing.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="PLSH">Polish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Barker 103 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e16692a1310" role="1" seniority_sort="1">
+                <display_name>Anna Baranczak</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

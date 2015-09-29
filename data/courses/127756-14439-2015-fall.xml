@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127756" class_number="14439" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 1258">Friends with Benefits?</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief.</notes>
+            <description>How many people would you count as your friends? Facebook friends? Facebook Close Friends? Google+ friends? Other network friends? Friends with Benefits? Does sex get in the way of friendship? Are your friends mostly of the same sex/gender/sexuality? Is it harder to make friends with persons of different sex/gender/sexuality? How have friendships changed as people have become more embedded in online communities? The course will begin with a consideration of current conversations about friendship, including popular TV serials in which friendships are lived and variously configured through sexual relationships. What could we make about meanings of friendship and sex, and their inter-relationship, in contemporary American culture? We will read various texts that form historical threads that inform our contemporary concepts and practices of friendship and romance. Readings will include Winthrop, Plato, Cicero, Biblical sources, St. Augustine, St. Aquinas, Montaigne, Bray, Marcus, Sedgwick, and Foucault. Finally, we will return to contemporary America, asking what gay marriage, Facebook, and changing conceptions of masculinity/femininity are doing to/for friendship.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Boylston 105 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e14439a1310" role="1" seniority_sort="1">
+                <display_name>Afsaneh Najmabadi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

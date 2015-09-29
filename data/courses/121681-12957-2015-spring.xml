@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121681" class_number="12957" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SLAVIC 97">Tutorial - Sophomore Year</title>
+            <notes> For concentrators in Slavic Literatures and Cultures. Open to non-concentrators provided they contact the instructor before the beginning of the semester.</notes>
+            <description>An interdisciplinary introduction to major authors and themes of Slavic history and literature, focusing on relationships between literature, power, history, and myth. Theories of literary interpretation (including Russian Formalism and semiotics) as well as different approaches to placing literature in its social and political contexts. Readings introduce students to major figures in the Slavic literary traditions, including Pushkin, Dostoevsky, Tolstoy, Chekhov, Platonov, Kundera, Hrabal, and others.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e148889a1310" role="1" seniority_sort="1">
+                <display_name>Oleh Kotsyuba</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159700" class_number="14812" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="NEUROBIO 106A">Human Cognition: Reading and Writing the Neural Code</title>
+            <exam_group>FAS05_D</exam_group>
+            <notes>Please enroll in Neurobiology 101 if you are interested in taking one of the sophomore tutorials.  </notes>
+            <prereq>Prerequisite: LS 1a AND MCB 80</prereq>
+            <description>In this course, we will explore a new and cutting-edge discipline in neuroscience -- invasive human neurophysiology. Some neurosurgical procedures, such as deep brain stimulation surgery, allow for the unique opportunity to directly access the human brain while patients are awake-and-behaving. Topics will include: place/grid cells, deep brain stimulation, epilepsy, face processing, brain-machine control, and reward processing.&amp;nbsp;Students must complete both terms of this course(parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NEURO">Neurobiology</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="19:29:00" location="Robinson 105 (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e203226a1310" role="1" seniority_sort="1">
+                <display_name>Shaun Patel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

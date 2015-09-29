@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110243" class_number="10858" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GENETIC 391QC">Advanced Experimental Design in Genetics</title>
+            <notes>January 2016 dates TBA.  This is an intensive January course. Must be taken concurrently with Genetics 390qc. Priority will be given to first year graduate students. Students must first contact the faculty for enrollment approval prior to registration for the course. Approximately 8:30am - 4:00pm each day for 10 days.</notes>
+            <prereq>Recommended: Students must also enroll in, or have taken, Genetics 201.</prereq>
+            <description>To be run concurrently with Genetics 390qc. Students will have the opportunity to design experimental approaches that aim to answer specific questions in the field of genetics. Combined with the hands-on laboratory experience of Genetics 390qc, students will use their knowledge of experimental methods and data analysis with a variety of model organisms and techniques. Over the two-week course period, students will be asked to reflect daily on their experiences and design two unique experiments that will broaden their experience in the areas of hypothesis testing and data interpretation.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="15:59:00" location="" start_time="08:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e89789a1310" role="1" seniority_sort="1">
+                <display_name>Fred Winston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160969" class_number="18387" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 111">Cultures of Health and Healing: Religion, Medicine, and Global Health</title>
+            <exam_group>FAS04_A</exam_group>
+            <description>What does it mean to &amp;ldquo;be healthy&amp;rdquo; and &amp;ldquo;to heal&amp;rdquo; in different contexts? What sorts of medical, ritual, or religious expertise authorizes different sorts of healers and forms of healing? What conceptions of human bodies and their capabilities are assumed? These questions probe entanglements of religion and medicine in everyday life. This course focuses on ways in which these issues might inform, challenge, and enrich thinking about global health. We will examine moral and religious histories of the global health movement alongside pressing contemporary questions such as, how do disease epidemics shape religious practice? How does religious belief shape the reception of biomedical technologies? We will consider examples from a range of contexts and traditions. Topics include colonialism, medical missionaries, social gospel and public health, human rights, bioethics, and liberation theology. Throughout the course, we will discuss the relevance of socio-economics, race, gender, and sexuality.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Barker 403 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e169674a1310" role="1" seniority_sort="1">
+                <display_name>Mara Block</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

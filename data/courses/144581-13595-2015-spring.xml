@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144581" class_number="13595" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 99R">Supervised Research</title>
+            <notes>Gonzalo Giribet and members of the Department  Laboratory safety session required.</notes>
+            <description>Course taken in one or more semesters to obtain credit for independent research, including research toward a senior thesis. Work should be directed by an OEB faculty member or have an OEB faculty sponsor. All students must submit registration materials for OEB 99r at the time of enrollment.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e90167a1310" role="1" seniority_sort="1">
+                <display_name>Gonzalo Giribet</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

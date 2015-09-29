@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159551" class_number="14445" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EAFM 111">East Asian Media Studies</title>
+            <description>This course explores the explosion of media in East Asia and the resulting forms of media production, circulation and consumption that transform everyday life, economy and politics. From pop culture phenomena such as K-Pop, fan fiction and internet platforms such as Sina Weibo, 2channel or DC Inside, from mobile phone culture to video games and social networks used in political protests, complex media forms and practices are developing with lightning speed across the region and exerting global influence. The starting point of the course are questions such as: What effects does this intense new media environment have in East Asia? How are ways of thinking and behaving adjusting to completely new forms of media? What are the consequences for the future of East Asia? How do media influence us in ways that go beyond the films, music, games, news or other forms that they supply us with?For Spring 2016 in addition to class meeting times, there are film screenings on Tuesday 6-8.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EAFM">East Asian Film and Media Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:29:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e27927a1310" role="1" seniority_sort="1">
+                <display_name>Alexander Zahlten</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

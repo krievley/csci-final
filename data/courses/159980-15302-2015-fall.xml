@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159980" class_number="15302" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 223M">Transregional Connections: Architecture and the Construction of Early Modern Islamic Empires</title>
+            <exam_group>FAS15_D</exam_group>
+            <description>Between the 16th and 18th centuries, three empires - the Mediterranean-based Ottomans, Safavids in Iran, and Mughals in India - developed interconnected yet distinctive architectural and visual cultures with individualized ornamental idioms by fusing their common Timurid heritage with cosmopolitan regional traditions. &amp;nbsp;Explores connections between empire building and architecture, with respect to aesthetics, religion, imperial ideology, identity, and theories of dynastic legitimacy.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Sackler Museum 406" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e115187a1310" role="1" seniority_sort="1">
+                <display_name>Gulru Necipoglu-Kafadar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

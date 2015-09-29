@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160206" class_number="15542" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 42R">Technology to Save the World</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Technology designers are the new policy makers. No one elected them and most people do not know their names, but the arbitrary decisions they make when producing the latest gadgets and online innovations dictate the code by which we conduct our daily lives and govern our countries. As technology progresses, every societal value and every state rule comes up for grabs and will likely be redefined by what technology enables or not. No one is thinking about how it all fits together or falls apart. &amp;nbsp;This class offers a hands-&amp;shy;âon lab exploration to reveal and to shape those changes.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e79929a1310" role="1" seniority_sort="1">
+                <display_name>Latanya Sweeney</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

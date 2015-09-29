@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156679" class_number="11586" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 230">Principles and Practice of Drug Development</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes>The course will take place at MIT,&amp;nbsp; Building 56, Room 114.  Classes held at MIT. SCRB 230 is also offered as BCMP 230. Students may not take both for credit.</notes>
+            <description>Critical assessment of the major issues and stages of developing a pharmaceutical or biopharmaceutical. Drug discovery, preclinical development, clinical investigation, manufacturing and regulatory issues considered for small and large molecules. Economic considerations of the drug development process.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e59307a1310" role="1" seniority_sort="1">
+                <display_name>Lee Rubin</display_name>
+            </person>
+            <person id="d1e59310a1310" role="2" seniority_sort="2">
+                <display_name>Stan Finkelstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

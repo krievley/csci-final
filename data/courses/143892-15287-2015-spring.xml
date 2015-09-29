@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143892" class_number="15287" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="CHNSE 123XB">Intermediate Modern Chinese for Advanced Beginners</title>
+            <notes> No auditors. May not be taken Pass/Fail.</notes>
+            <prereq>Recommended: Chinese Bx, or instructor's permission.</prereq>
+            <description>Continuation of Chinese Bx. Covers in one term the equivalent of Chinese 120a and 120b.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSE">Chinese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="14:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e268035a1310" role="1" seniority_sort="1">
+                <display_name>Emily Huang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117413" class_number="16657" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 109">On Translation</title>
+            <notes> Preference given to Literature concentrators.</notes>
+            <prereq>Recommended: Reading knowledge of one foreign language.</prereq>
+            <description>Examines theories of translation from various periods (Dryden, Schopenhauer, Schleiermacher, Benjamin, de Man, among others). Also looks closely at specific translated texts (e.g., various English translations of The Thousand and One Nights), and considers such topics as the notion of ^'^'unequal languages,'' the problem of cultural translation, translation post-9/11, and the possibility of untranslatability. Final project involves an original translation and commentary.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e99721a1310" role="1" seniority_sort="1">
+                <display_name>Sandra Naddaff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

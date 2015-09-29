@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160593" class_number="16572" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 294HFRA">Quantum Materials and Devices: Tutorial Lectures</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes>Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.  Formerly Engineering Sciences 114R</notes>
+            <prereq>Recommended: Undergraduate courses in electricity &amp; magnetism and quantum mechanics.</prereq>
+            <description>The Science &amp;amp; Technology Center for Integrated Quantum Materials (Harvard, Howard Univ, and MIT) creates electronics and photonics from Quantum Materials: Atomic Layers (graphene, boron nitride, transition-metal dichalcoginides) for atomic-scale devices, Topological Insulators for corruption-free data channels, and Nitrogen Vacancy Centers in Diamond for single-atom memory. Faculty from the Center will present tutorial lectures about their research areas.&amp;nbsp;</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="Pierce 209 (SEAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e61260a1310" role="1" seniority_sort="1">
+                <display_name>Robert Westervelt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

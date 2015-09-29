@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126666" class_number="14043" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2412A">Political Economics</title>
+            <exam_group>FAS06_C</exam_group>
+            <description>Discusses several research areas in political economy, including the origins of the state, comparative political systems, theories of economic reform, fiscal problems in democracies, rule of law, privatization, regulation, and elections and the economy.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="17:29:00" location="Sever 213 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60611a1310" role="1" seniority_sort="1">
+                <display_name>Alberto Alesina</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

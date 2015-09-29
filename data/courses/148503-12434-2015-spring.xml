@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148503" class_number="12434" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IMMUN 202">Advanced Principles of Immunology</title>
+            <notes> Offered jointly with the Medical School as IM 712.0.</notes>
+            <prereq>Recommended: Immunology 201 or its equivalent.</prereq>
+            <description>Continuation of Immunology 201 as an intensive core course in fundamentals of immune system, emphasis of physiological roles of immune cells in vivo. Classes taught by experts in their fields; involve critical reading of primary literature.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e268267a1310" role="1" seniority_sort="1">
+                <display_name>D. Moody</display_name>
+            </person>
+            <person id="d1e240689a1310" role="2" seniority_sort="2">
+                <display_name>Martin Hemler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

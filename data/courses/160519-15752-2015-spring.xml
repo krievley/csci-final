@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160519" class_number="15752" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 142V">Masculinities and Health: History and Politics of Men's Health and Illness</title>
+            <notes> Enrollment limited to 15.</notes>
+            <description>This course will introduce recent theories of masculinity and performativity in gender theory with the aim of exploring possible links to medical and public health constructions of the male body and men&amp;rsquo;s health. From 19th century concerns about degeneration and the identification of &amp;ldquo;effete&amp;rdquo; male to the military&amp;rsquo;s failed policy of &amp;ldquo;don&amp;rsquo;t ask, don&amp;rsquo;t tell,&amp;rdquo; we will consider the various ways cultural anxieties about &amp;ldquo;manliness&amp;rdquo; have been addressed by medical, psychological, and public health experts. Topical areas will include: risk taking, sports, body image, sexuality, violence, depression, ADHD, sociopathy, suicide, aging and life expectancy.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e1712a1310" role="1" seniority_sort="1">
+                <display_name>Sean O'Donnell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

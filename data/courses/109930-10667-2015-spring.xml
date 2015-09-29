@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109930" class_number="10667" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 97E">"What is Imperial History?"</title>
+            <description>Though empires have recently disappeared from the map, for historians these sprawling multi-ethnic, multi-confessional states remain crucial laboratories for the study of violence, power, ideology, aesthetics, and identity. This section will introduce students to the many ways historians define empires and interpret the experiences of those who inhabited them. How does one write the history of such diverse, expansive entities? How does imperial history incorporate the perspectives of disenfranchised, enslaved, and colonized peoples? What is its scale? How does the work of historians relate to images of empire generated through public commemoration and popular memory?</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e41179a1310" role="1" seniority_sort="1">
+                <display_name>Dimiter Angelov</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

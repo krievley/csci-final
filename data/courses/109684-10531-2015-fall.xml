@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109684" class_number="10531" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 163">Pollution Control in Aquatic Ecosystems</title>
+            <exam_group>FAS12_A</exam_group>
+            <prereq>Recommended: Applied Mathematics 21b (or equivalent); Engineering Sciences 6 (or equivalent).</prereq>
+            <description>This course is focused on aspects of environmental engineering related to the fate, transport, and control of pollution in surface water ecosystems. Course modules will cover ecological impacts of environmental contaminants; surface water aspects of engineering hydrology, including rainfall-runoff relationships; quantitative models of pollutant fate and transport in rivers, lakes, and wetlands; best management practices for the prevention and control of aquatic pollution; and sustainable natural treatment systems for water quality improvement.
+&amp;nbsp;</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Maxwell Dworkin 123 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e14629a1310" role="1" seniority_sort="1">
+                <display_name>Patrick Ulrich</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

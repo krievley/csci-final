@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160731" class_number="17550" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2152">Abstract Thought in Non-Human Animals, Human Infants, Young Children, and Human Adults</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes>Course meets Tues. 3-5:30 when no faculty meeting is scheduled.  Undergraduates admitted by permission only.</notes>
+            <prereq>Recommended: For undergraduates, the Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>A scientific account of human concepts and conceptual development must characterize the content, format, and functional roles of both the innate and the mature conceptual repertoire, as well as the developmental processes that operate on the former to produce the latter.&amp;nbsp; The evidence for innate sensory, perceptual, and motor representations is overwhelming; much recent work has provided evidence for richer primitives with content such as agent and object as well.&amp;nbsp; But the adult conceptual repertoire includes explicit abstract concepts supporting natural language, spatial symbols, mathematics and logic.&amp;nbsp; We will provide evidence for innate content in each of these domains, and explore the hypotheses that the representational systems that express that content nonetheless are qualitatively different from those that are realized in the adult state.&amp;nbsp; These issues will be explored in three case studies:&amp;nbsp; representations of number, geometry, and of logical connectives and abstract relations.&amp;nbsp; The seminar will consider proposals from linguistics, philosophy, and cognitive science concerning the combinatorial resources of natural language, and will ask whether these resources are qualitatively different from those that articulate perception and action, and if so, whether they arise in human evolution only with the evolution of language, and in human development only in the course of language acquisition.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:29:00" location="William James 950 (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e85512a1310" role="1" seniority_sort="1">
+                <display_name>Susan Carey</display_name>
+            </person>
+            <person id="d1e85376a1310" role="1" seniority_sort="2">
+                <display_name>Elizabeth Spelke</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

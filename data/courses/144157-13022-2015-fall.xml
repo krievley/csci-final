@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144157" class_number="13022" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 125">Mechanical Systems</title>
+            <exam_group>FAS08_A</exam_group>
+            <prereq>Recommended: Applied Mathematics 21a,b or Mathematics 21a,b or Mathematics 23a,b; Applied Physics 50a, Physical Sciences 12a, Physics 11a (no longer offered), or 15a.</prereq>
+            <description>Modeling and analysis of mechanical and electromechanical systems. Topics include 3D rigid body dynamics, resonance, damping, frequency response, Laplace transform methods, Lagrange's equations, multiple degree-of-freedom systems and an introduction to nonlinear vibration, continuous systems, and control. Analytical modeling will be supplemented with numerical simulations and lab experiments. Laboratory exercises will explore vibration, stabilization, and nonlinear systems using data acquisition systems.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Cruft 309 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e274620a1310" role="1" seniority_sort="1">
+                <display_name>Katia Bertoldi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

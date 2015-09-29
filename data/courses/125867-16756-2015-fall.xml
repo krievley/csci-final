@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125867" class_number="16756" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 97B">Sophomore Tutorial: Music History &amp; Repertory: Classical to Contemporary</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes> Music 97 is required of all concentrators, preferably taken in the sophomore year, or earlier by permission. Each third of the course culminates in an examination testing students' knowledge of a large listening repertory. These examinations must be passed in order to receive credit for the course.</notes>
+            <prereq>Recommended: Music 51 may be taken concurrently.</prereq>
+            <description>A survey of Western classical music from the 18th to the 21st centuries, continuing from Music 97a. The course emphasizes listening, analysis, and historical context. Two semesters of Music 97 are required of all concentrators, preferably taken in the sophomore year, or earlier by permission.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Music PH6 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60280a1310" role="1" seniority_sort="1">
+                <display_name>Anne Shreffler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

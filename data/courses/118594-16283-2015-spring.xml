@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118594" class_number="16283" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 2">Foundations of Tonal Music I</title>
+            <notes> Open to all students. May not be counted for concentration credit. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>Seeks to develop a greater understanding of music, musical analysis, and critical listening. We will study some of the organizing principles of musical works (from a range of styles) by means of composition projects, score analysis, and aural skills. While reading knowledge of simple musical notation is helpful, there will be at least one section for students with no previous experience.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e47048a1310" role="1" seniority_sort="1">
+                <display_name>Osnat Netzer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

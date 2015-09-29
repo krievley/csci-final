@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160216" class_number="15306" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 194H">David Lynch &amp; David Cronenberg</title>
+            <notes> This course has a mandatory weekly film screening on Tuesdays from 10am-1pm.</notes>
+            <description>In the course, we will work through the rich, complex filmographies of David Lynch and David Cronenberg. Both filmmakers explore the darker edges of the North American psyche through fantastic, surreal, and often horrific scenarios. This course will engage in an intensive analysis and discussion of their creative output. The focus will be on the works themselves, with a variety of critical texts supporting our analytical project. This course includes a mandatory weekly film screening.&amp;nbsp;</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e280604a1310" role="1" seniority_sort="1">
+                <display_name>Adam Hart</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

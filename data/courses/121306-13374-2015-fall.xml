@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121306" class_number="13374" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 135">Statistical Computing Software</title>
+            <exam_group>FAS12_A</exam_group>
+            <prereq>Recommended: Statistics 110 and 139 (may be taken concurrently) or with permission of instructor.</prereq>
+            <description>An introduction to major statistics packages used in academics and industry (SAS and R). Will discuss data entry and manipulation, implementing standard analyses and graphics, exploratory data analysis, simulation-based methods, and new programming methods.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Science Ctr B09 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e265527a1310" role="1" seniority_sort="1">
+                <display_name>Steven Finch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

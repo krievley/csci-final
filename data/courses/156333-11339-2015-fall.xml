@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156333" class_number="11339" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98NA">The American Ghetto</title>
+            <exam_group>FAS13_E</exam_group>
+            <notes> This course will be lotteried.</notes>
+            <description>The ghetto is among the most complex and troubling of all American institutions. This course analyzes the American ghetto in historical and contemporary perspective, exploring topics such as racial segregation, urban poverty, inner-city schools, the underground economy, and the prison boom. Along with engaging with several classic and contemporary texts, we will carry out ethnographic fieldwork in some of Boston's low-income neighborhoods.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="William James 303 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e56697a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Desmond</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

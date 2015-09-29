@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112212" class_number="14913" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="GREEK 115">Homer: The Odyssey</title>
+            <description>Reading of substantial selections from the Odyssey with discussion of key themes and interpretive problems. Topics to be addressed include: narrative structure; oral poetics and folklore; self-referentiality; the Odyssey in relation to the Iliad;&amp;nbsp;cultic dimensions</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e42815a1310" role="1" seniority_sort="1">
+                <display_name>David Elmer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

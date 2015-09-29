@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122492" class_number="12690" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1460">Economics of Health Care Policy</title>
+            <notes>M., W., 8:40&amp;#8211;10; and an optional review on F., 10:10&amp;#8211;11:30   Students may not take both Economics 1460 and Quantitative Reasoning 24: Health Economics and Policy for credit. Offered jointly with the Kennedy School as SUP-572. This course offers an optional writing requirement which if completed will satisfy the concentration writing requirement.</notes>
+            <prereq>Recommended: Economics 1010a or 1011a. A statistics course is highly desirable.</prereq>
+            <description>Policy issues related to the following: the demand for medical care services, especially as a function of insurance; the demand for insurance and issues of selection; reimbursement policies of Medicare and other payers toward health plans, hospitals, and physicians; effects of health maintenance organizations and managed care; and malpractice and tort reform. Focus on federal policy, although state and local perspectives will receive some attention.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="09:59:00" location="" start_time="08:40:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e87704a1310" role="1" seniority_sort="1">
+                <display_name>Joseph P. Newhouse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

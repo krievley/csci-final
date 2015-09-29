@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109801" class_number="18134" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ARABIC 243AR">Advanced Readings in Classical Arabic Bridge I: Historical Sources</title>
+            <exam_group>FAS17_E</exam_group>
+            <prereq>Recommended: Three years of Arabic or equivalent level of proficiency.</prereq>
+            <description>Reinforcement of advanced classical Arabic grammar and stylistics, and introduction to various genres of historical, geographical and biographical texts.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="10:59:00" location="38 Kirkland St 208 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e331a1310" role="1" seniority_sort="1">
+                <display_name>William Granara</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

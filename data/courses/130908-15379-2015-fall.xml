@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130908" class_number="15379" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 298C">Contemporary Novel: Graduate Seminar</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>An introduction to the contemporary Anglophone novel, with particular attention to recent scholarship on the national and the transnational, the institutions of the novel, the rise of genre literature, and the time span of the contemporary.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Barker 269 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e59776a1310" role="1" seniority_sort="1">
+                <display_name>Amanda Claybaugh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

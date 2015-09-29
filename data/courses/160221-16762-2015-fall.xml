@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160221" class_number="16762" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 43F">When bad things happen early in life: effects of early adversity on brain and
+behavioral development</title>
+            <exam_group>FAS08_G</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Millions of children throughout the world are exposed to early adversity that greatly limits their developmental potential. Before or after birth children can be deprived of food or adequate caregiving, or be exposed to various forms of toxic stress. These adverse early events may not just impact child development; rather, there is now abundant evidence that many of these events, particularly if they are experienced during a critical period of development, can exert effects that persist throughout adulthood. The overall goal of this seminar is to critically examine the scientific literature that links exposure to adversity early in life to subsequent physical, neurological and psychological development.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Sever 212 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e199264a1310" role="1" seniority_sort="1">
+                <display_name>Charles Nelson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

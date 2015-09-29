@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142844" class_number="16733" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 181">Systematics</title>
+            <exam_group>FAS13_E</exam_group>
+            <prereq>Recommended: OEB 53, LS1b or permission of instructor required. Familiarity with computers, especially PC platforms.</prereq>
+            <description>Theory and practice of systematics, emphasizing issues associated with homology statements and alignments, methods of tree reconstruction, and hypothesis evaluation. The course combines theoretical considerations, paying special attention to algorithmic aspects of phylogenetics, with the use of different computer programs for conducting evolutionary and phylogenetic analyses.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Museum of Comp Zool 202 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e90167a1310" role="1" seniority_sort="1">
+                <display_name>Gonzalo Giribet</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

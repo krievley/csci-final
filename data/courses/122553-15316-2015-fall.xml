@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122553" class_number="15316" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FOLKMYTH 128">Fairy Tale, Myth, and Fantasy Literature</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for either Aesthetic and Interpretive Understanding or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Traces the migration of traditional tales from communal storytelling circles into the literary culture of childhood and into new media. How are powerful cultural myths about innocence and seduction, monstrosity and compassion, or hospitality and hostility recycled in fairy-tale fashion? How do fantasy worlds - both utopian and dystopic - provide children with portals for exploring counterfactuals and worst-case scenarios? Authors include the Brothers Grimm, Andersen, Lewis Carroll, J.M. Barrie, and J.K. Rowling.</description>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Emerson 108 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e123623a1310" role="1" seniority_sort="1">
+                <display_name>Maria Tatar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

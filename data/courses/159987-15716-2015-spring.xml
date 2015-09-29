@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159987" class_number="15716" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FOLKMYTH 155">Folklore, Protest, and Social Justice</title>
+            <description>This course will explore the intersections between folklore, protest and social justice in both contemporary and historical perspective. It will examine the ways in which folklore gives voice to communities, how communities mobilize folklore to draw attention to issues of injustice, and the role folklorists can and do play in community advocacy.</description>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e140787a1310" role="1" seniority_sort="1">
+                <display_name>Leah Lowthorp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

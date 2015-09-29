@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156580" class_number="17150" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1504">Social Cognition: Making Sense of our Social World</title>
+            <exam_group>FAS14_D</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>As a social species, a significant proportion of our everyday thoughts are devoted to social cognition - thinking about other people and comprehending what they are thinking about us. In this course we will merge theories from social and cognitive psychology to examine how people make sense of each other, social groups, and the surrounding social world. Throughout the course, we will draw on neuroscientific findings to uncover the neural basis of these abilities, as well as examine deficits in these social skills in autism and related disorders.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="William James 401 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63579a1310" role="1" seniority_sort="1">
+                <display_name>Katherine Powers</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

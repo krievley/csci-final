@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160228" class_number="15524" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 235">Stochastic Methods in Climate Dynamics</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Given in alternate years.</notes>
+            <description>Introduction to stochastic methods for studying climate dynamics.&amp;nbsp; Topics will include the Langevin equation, stochastic turbulence modeling, linear inverse modeling, and applications of statistical state dynamics to problems in planetary scale turbulence.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e89604a1310" role="1" seniority_sort="1">
+                <display_name>Brian Farrell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

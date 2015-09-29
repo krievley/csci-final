@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109273" class_number="14514" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RUSS ATA">Elementary Russian through Authentic Texts (Russian through Pushkin I)</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes> Assumes no previous knowledge of Russian.</notes>
+            <description>Part one of a two part introductory course to Russian language and culture through a selection from the verse and prose works of Russia&amp;#39;s greatest poet, Alexander Pushkin (including The Bronze Horseman, excerpts from Eugene Onegin, shorter poems, and prose in The Queen of Spades). This literary and linguistic approach to Elementary Russian has a strong emphasis on reading authentic Russian, but all four major communicative skills (speaking, listening comprehension, reading, writing) are stressed. Covers all of the basics of Russian grammar, including all six cases, verbal conjugation, and verbs of motion.Russian At: Elementary Russian through Authentic Texts (Russian through Pushkin I) together with or Russian Atb: Elementary Russian through Authentic Texts II or Russian Ab: Elementary Russian II satisfy the foreign language requirement. Any of the elementary (A-level) level Russian courses (A, Aab, and At) prepare students for continued study of Russian in intermediate (B-level) courses (B, Bab, or Bt) and for study or travel abroad in Russian-speaking countries.Please note that this course will also meet for two additional hours of speaking practice to be arranged the first week of classes. See&amp;nbsp;language course notes on our website&amp;nbsp;for information about sectioning, pass/fail, satisfactory/unsatisfactory, auditing, and language track information.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Barker 316 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e175757a1310" role="1" seniority_sort="1">
+                <display_name>Oksana Willis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

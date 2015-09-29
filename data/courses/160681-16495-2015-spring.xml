@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160681" class_number="16495" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 351HFB">Film Study Center Non-Fiction Filmmaking Workshop</title>
+            <notes> Admission Limited to Critical Media Practice graduate students and Film Study Center fellows.</notes>
+            <description>A graduate workshop for Film Study Center non-fiction film and video projects. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118050" class_number="12552" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCAND 160A">Old Norse Language, Literature, and Culture: The Viking Legacy</title>
+            <exam_group>FAS18_H</exam_group>
+            <description>Introduction to the language and literary culture of medieval Scandinavia, emphasizing works treating the Viking Age and their valorization of an heroic ideal. In addition to basic language skills, students acquire familiarity with key critical tools of the field. Readings include skaldic poetry, selections from Egils saga and the Vinland sagas, and various runic monuments.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="SCAND">Scandinavian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="Warren 102 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123964" class_number="13287" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 10B">Introduction to Social Studies</title>
+            <notes>Tu., 2-4, and a weekly section Th., 2-4   Richard Tuck, and members of the Committee  </notes>
+            <prereq>Prerequisite: Social Studies 10a AND Social Studies Concentrators</prereq>
+            <description>This class continues the introduction to the classic texts of social theory begun in Social Studies 10a through the twentieth century. Authors include Friedrich Nietzsche, Max Weber, Emile Durkheim, Sigmund Freud, and Michel Foucault.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

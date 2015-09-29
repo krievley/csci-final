@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124817" class_number="14483" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 129">The Brain: Development, Plasticity and Decline</title>
+            <exam_group>FAS12_C</exam_group>
+            <prereq>Recommended: Permission of the instructor.</prereq>
+            <description>A lecture and discussion course on how the brain develops, employs plasticity to adapt to its environment and undergoes functional decline with aging. Topics include the birth, death and identity of neurons, axon guidance and synaptic specificity, adult neurogenesis, developmental disorders of synaptic function and memory, including autism and Alzheimer's Disease. We explore how the brain loses function with aging. Course assignments emphasize critical evaluation of the primary literature, experimental design and scientific writing.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="Biological Labs 1058 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e276091a1310" role="1" seniority_sort="1">
+                <display_name>Sam Kunes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

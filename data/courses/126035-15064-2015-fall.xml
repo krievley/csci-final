@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126035" class_number="15064" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 154">Advanced Inorganic Chemistry</title>
+            <exam_group>FAS12_C</exam_group>
+            <description>The physical inorganic chemistry of transition elements will be discussed. The course will emphasize group theoretical methods of analysis and attendant spectroscopic methods (e.g., electronic, vibrational, EPR, magnetic) derived therefrom. Connections between molecular structure and electronic structure and how that parlays into the properties of complexes and their reactivity will be illustrated throughout various modules, which will touch on advanced problems of interest in the subjects of catalytic, organometallic, coordination, solid state and bioinorganic chemistries.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="Mallinckrodt 023 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15151a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Nocera</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111416" class_number="10899" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 97">Tutorial - Sophomore Year</title>
+            <notes> Conducted in Spanish. Requirements include short weekly papers and regular participation in class discussions. Required for all concentrators in Hispanic Studies in their sophomore year, but open to others. May also be taken as the Sophomore tutorial for concentrators in Latin American Studies and Romance Studies.</notes>
+            <prereq>Recommended: 800 on the Harvard Placement test; a 50-, 60-, or 70-level course in Spanish; or permission of course head.</prereq>
+            <description>Theory in Praxis: Students will read, write, and speak about different modes of analysis of poetry, narrative prose, and cinema (stylistics, semiotics, psychoanalysis, deconstruction, gender studies, etc.), as practiced by a variety of pioneering scholars and artists, from Yuri Lotman and Barbara Johnson to Sergei Eisenstein and Laura Mulvey. Students will in turn put to work those modes of analysis on a number of Spanish and Latin American texts and films.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

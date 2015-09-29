@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108555" class_number="11017" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 25O">Building a Living Cell One Brick at a Time</title>
+            <exam_group>FAS14_H</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Synthetic biology is an emerging multi-disciplinary field of research aimed at developing solutions to problems impacting our individual lives and ultimately our long-term survival as a species. We need to find alternative and renewable sources of energy and food, new ways to process and recycle limited resources, and tools to detect and address environmental pollutants. These and other challenges can be addressed by the development of microorganisms re-engineered to perform new functions. In this "hands-on" laboratory course students will design experiments and build and then test synthetic biological systems. Additionally, students will present and discuss selected topics in synthetic biology.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:29:00" location="Northwest Bldg 152 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e21898a1310" role="1" seniority_sort="1">
+                <display_name>Alain Viel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

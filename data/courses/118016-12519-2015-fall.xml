@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118016" class_number="12519" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 220">Bayesian Data Analysis</title>
+            <exam_group>FAS16_B</exam_group>
+            <notes> Emphasis throughout term on drawing inferences via computer simulation rather than mathematical analysis.</notes>
+            <prereq>Recommended: Statistics 110 and 111.</prereq>
+            <description>Basic Bayesian models, followed by more complicated hierarchical and mixture models with nonstandard solutions. Includes methods for monitoring adequacy of models and examining sensitivity of models.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="09:59:00" location="Science Ctr 705 (FAS)" start_time="08:30:00"/>
+                <meeting days_of_week="Thursday" end_time="12:29:00" location="Science Ctr 705 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e36495a1310" role="1" seniority_sort="2">
+                <display_name>Jun Liu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

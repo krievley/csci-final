@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121896" class_number="13209" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MEDGREEK 115">Introduction to Byzantine Greek</title>
+            <prereq>Recommended: Greek Ba or equivalent.</prereq>
+            <description>This course will introduce students to post-Classical Greek language and literature and, through selected readings, to the study of Byzantine culture and society. Texts will be selected to provide a diachronic survey of a variety of literary genres in order to reflect the diversity of Byzantine life and letters. Topics include: biography/hagiography, historiography, sacred and secular poetry, letters, the novel, homilies, and rhetorical texts. Selections may correspond in part to participants&amp;rsquo; interests in consultation with the instructor.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="MEDGREEK">Medieval Greek</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

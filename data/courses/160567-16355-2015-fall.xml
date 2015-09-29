@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160567" class_number="16355" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 140">Gods and Giants in the French Renaissance</title>
+            <exam_group>FAS08_H</exam_group>
+            <notes> Taught in French.</notes>
+            <description>In this course we will study the &amp;ldquo;supersized agency&amp;rdquo; of gods and giants in 16th-century French literature. Keeping an eye on the relevance of such agencies in the age of the Anthropocene (where &amp;ldquo;we&amp;rdquo; are &amp;ldquo;giants&amp;rdquo;), we will trace the fuzzy boundaries between gods, giants, and humans. The first half of the course will focus on two &amp;ldquo;good&amp;rdquo; giants (Gargantua, Pantagruel) and one &amp;ldquo;bad&amp;rdquo; one (Goliath). The second half will focus on the post-classical survival of several Pagan gods (Jupiter, Juno, Neptune, etc.).&amp;nbsp; Readings: Cicero, Des Masures, Du Bellay, Rabelais, Ronsard, etc. as well as contemporary theory.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="14:59:00" location="Boylston 103 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e206052a1310" role="1" seniority_sort="1">
+                <display_name>Phillip Usher</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

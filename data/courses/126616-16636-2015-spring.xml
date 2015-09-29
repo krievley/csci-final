@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126616" class_number="16636" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 3600">Current Issues in Human Evolutionary Biology</title>
+            <prereq>Course open to Graduate Students Only</prereq>
+            <description>Weekly seminars in human evolutionary biology.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e109277a1310" role="2" seniority_sort="1">
+                <display_name>Peter Ellison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

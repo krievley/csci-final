@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127489" class_number="14032" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1556R">Research Seminar in Implicit Social Cognition</title>
+            <description>An introduction to research on implicit social cognition, with special focus on attitudes, beliefs, and identity and in some cases its applications to law, business, medicine, and government. Students will be paired with individual researchers to work on ongoing projects that can turn into more independent projects. In addition to weekly work in the laboratory, students are expected to attend biweekly discussion groups focusing on current issues and directions in the laboratory as a whole.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e27458a1310" role="1" seniority_sort="1">
+                <display_name>Mahzarin Banaji</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

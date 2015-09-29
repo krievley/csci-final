@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160780" class_number="16841" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 80GR">How To Do Things With Grammar: The Poet in Love and War</title>
+            <notes> Conducted in Spanish.</notes>
+            <description>In every language the linguistic order known as grammar uses its forms and means of linkage to identify speakers and listeners, situate them in the world of things and time, signal agency and passivity, legislate relationships of power and subjugation. Through close readings, translation, imitation and recitation of masterpieces of classic and contemporary Spanish and Latin American poetry, we examine how poets use and abuse grammatical rules, stretching the capacity of their language to express desire, nostalgia, regret or dread, utter and question truths; speak for themselves and their communities.&amp;nbsp; The course features detailed grammar study, theoretical readings, intensive writing practice and opportunities for creative work.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e64844a1310" role="1" seniority_sort="1">
+                <display_name>Mary Gaylord</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

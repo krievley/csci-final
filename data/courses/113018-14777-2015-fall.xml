@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113018" class_number="14777" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1063">America and Vietnam: 1945-1975</title>
+            <exam_group>FAS12_A</exam_group>
+            <description>Examines modern conflicts in Vietnam and their implications for the US from 1945-75, from both Vietnamese and American perspectives. Seeks to provide an understanding of the complexity of the war and the ethical dilemmas it raised by examining issues ranging from the power-politics assumptions of decision makers to the personal experiences of those caught in the war. Covers both background and consequences of the war, but the main focus is on the 30-year period during which the fortunes of America and Vietnam became intertwined.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="CGIS Knafel K354 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e36991a1310" role="1" seniority_sort="1">
+                <display_name>Hue-Tam Tai</display_name>
+            </person>
+            <person id="d1e104267a1310" role="2" seniority_sort="2">
+                <display_name>Brett Flehinger</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

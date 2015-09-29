@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116268" class_number="15368" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VIETNAM 120A">Intermediate Vietnamese</title>
+            <notes> Conducted entirely in Vietnamese.</notes>
+            <prereq>Recommended: Vietnamese Bb or permission of instructor.</prereq>
+            <description>Further development of speaking, reading, writing, and aural comprehension. Texts and dialogues on Vietnamese geography, history, culture, and customs will be used, as well as audiotapes and videos. Students are expected to speak Vietnamese in all class discussions.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="VIETNAM">Vietnamese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="Vanserg 26C (FAS)" start_time="10:00:00"/>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="Northwest Bldg B107 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e28820a1310" role="1" seniority_sort="1">
+                <display_name>Binh Ngo</display_name>
+            </person>
+            <person id="d1e28820a1310" role="1" seniority_sort="1">
+                <display_name>Binh Ngo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110661" class_number="16563" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 182">Artificial Intelligence</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Formerly Intelligent Machines: Reasoning, Actions, and Plans</notes>
+            <prereq>Recommended: Computer Science 51; Computer Science 121 (may be taken concurrently).</prereq>
+            <description>Introduction to AI focused on problems in reasoning about action and rational decision making, covering search, knowledge representation and planning. Search: heuristics, informed search and optimization; constraint satisfaction; game playing. Knowledge representation: logics, efficient logical inference, reasoning about categories. Planning: action representations and planning algorithms, hierarchical task networks, sequential decision making. Applications to multi-agent systems, robotics and natural-language processing. Discussion of relevant work in philosophy, economics, and decision theory.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Maxwell Dworkin G115 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e49268a1310" role="1" seniority_sort="1">
+                <display_name>Alexander Rush</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

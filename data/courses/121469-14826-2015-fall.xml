@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121469" class_number="14826" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CZCH BA">Intermediate Czech I</title>
+            <exam_group>FAS07_A</exam_group>
+            <prereq>Recommended: Completed Czech AB, or placement at the B-level. Familiarity with fundamentals of Czech grammar, particularly case endings and elementary competence in spoken Czech.</prereq>
+            <description>Part one of a two part intermediate course in modern Czech language and culture for students with previous study of the language. Further development of vocabulary and oral expression within a comprehensive review of Czech grammar. All four major communicative skills (speaking, listening comprehension, reading, writing) are stressed as students learn to use the language both as a means of communication and as a tool for reading and research. Systematic study of word formation and other strategies are taught to help free students from excessive dependence on the dictionary and develop confidence in reading. Increased exposure to the differing registers of Czech in its literary and spoken forms. The two part course prepares students for continued study of Czech in advanced-level courses and for study or travel abroad in the Czech Republic.Please note that this course will also meet for an additional hour of speaking practice to be arranged the first week of classes. See language course notes on our website for information about sectioning, pass/fail, satisfactory/unsatisfactory, and auditing.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="CZCH">Czech</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Barker 103 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e163672a1310" role="1" seniority_sort="1">
+                <display_name>Veronika Tuckerova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

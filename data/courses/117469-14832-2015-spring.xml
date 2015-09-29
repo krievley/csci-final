@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117469" class_number="14832" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCILIVSY 15">Developmental Psychology: Origins of Knowledge</title>
+            <notes> For Psychology concentrations, this course meets a Foundation Course requirement.</notes>
+            <prereq>Anti-Req: Students who  have taken Psychology 16 cannot take this course for credit.</prereq>
+            <description>Developmental Psychology explores, first, how universal human capacities arise in ontogenesis and, second, how people come to have their unique suite of skills and personalities. First, the origins and development of space perception, mathematical capacity, moral judgments, and concepts of objects, agents, and social relations are studied in relation to two larger time scales: biological evolution and historical/cultural change. Second, the course looks at individual differences in IQ, executive functioning, and social relationships. The interplay between psychological and biological levels of analysis in accounting both for universal development and for individual differences is discussed throughout.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCILIVSY">Science of Living Systems</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e85512a1310" role="1" seniority_sort="1">
+                <display_name>Susan Carey</display_name>
+            </person>
+            <person id="d1e85376a1310" role="2" seniority_sort="2">
+                <display_name>Elizabeth Spelke</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

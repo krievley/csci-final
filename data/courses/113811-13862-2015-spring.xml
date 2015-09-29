@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113811" class_number="13862" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 154">Probability Theory</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: A previous mathematics course at the level of Mathematics 19ab, 21ab, or a higher number. For students from 19ab or 21ab, previous or concurrent enrollment in Math 101 or 112 may be helpful.  Freshmen who did well in Math 23a, 25a or 55a fall term are also welcome to take the course.</prereq>
+            <description>An introduction to probability theory. Discrete and continuous random variables; distribution and density functions for one and two random variables; conditional probability. Generating functions, weak and strong laws of large numbers, and the central limit theorem. Geometrical probability, random walks, and Markov processes.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e69272a1310" role="1" seniority_sort="1">
+                <display_name>Jacob Lurie</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125428" class_number="15618" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1020">Intermediate Mathematics for Social Scientists</title>
+            <description>This course is geared toward graduate students of social sciences (such as government, education, psychology, etc.). The focus is on a conceptual understanding of vector calculus and probability, as well as applications.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e291815a1310" role="1" seniority_sort="1">
+                <display_name>Pedram Safari</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

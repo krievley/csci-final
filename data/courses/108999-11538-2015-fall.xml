@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108999" class_number="11538" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BCMP 308QC">Cell Fate Decisions in Development and Disease</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes>Course meets&amp;nbsp;Wednesdays, September 16, 23, 30, October 7, 14, 28, November 4, 11, 18.  </notes>
+            <description>This quarter course will offer students an in-depth examination of current knowledge regarding mechanisms of cell fate decisions.&amp;nbsp; In addition, it will examine these processes in the context of developmental cell plasticity, cellular reprogramming, and cancer.&amp;nbsp; This will primarily be a literature-based course with examination and discussion of key studies in the field.&amp;nbsp; Concepts involving the instructive role of lineage-specific transcription factors, transcription factor networks, transcription factor cross-antagonism, feedback loops, multilineage priming, pioneer factors, epigenetics, chromatin remodeling factors, &amp;ldquo;super enhancers&amp;rdquo;, stem cell bias, lineage identity maintenance, mitotic bookmarking, non-coding RNAs, cell polarity, asymmetric cell division, Notch signaling, lateral inhibition, lineage plasticity, and cellular reprogramming will be explored.&amp;nbsp;&amp;nbsp; These ideas will be examined in the context of a number of different tissue systems and organisms.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:29:00" location="" start_time="13:30:00"/>
+                <meeting days_of_week="Wednesday" end_time="15:29:00" location="" start_time="13:30:00"/>
+                <meeting days_of_week="Wednesday" end_time="15:29:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11981a1310" role="1" seniority_sort="1">
+                <display_name>Alan Cantor</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

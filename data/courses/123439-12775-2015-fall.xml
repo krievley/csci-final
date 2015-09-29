@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123439" class_number="12775" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LING 115">Phonological Theory I</title>
+            <exam_group>FAS15_E</exam_group>
+            <prereq>Recommended: Linguistics 105, equivalent, or permission of the instructor</prereq>
+            <description>This course is an intensive introduction to phonological theory and experimental work in phonology. This includes rule-based and constraint-based approaches, the typology of phonological processes (vowel and consonant harmony, assimilation and dissimilation, lenition and fortition, etc.), and phonological acquisition. Experimental approaches will deal with gradience, exceptionality, and productivity with an introduction to the quantitative methodologies that these phenomena require.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Boylston 303 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e14348a1310" role="1" seniority_sort="1">
+                <display_name>Kevin Ryan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

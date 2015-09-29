@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159841" class_number="14909" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="MODGRK AB">Elementary Modern Greek</title>
+            <description>For students with no knowledge of modern Greek. Basic oral expression, listening comprehension, grammar, reading, and writing. Language instruction is supplemented by reading of simple literary passages and other texts, as well as by online instruction.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="MODGRK">Modern Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e204376a1310" role="1" seniority_sort="1">
+                <display_name>Vassiliki Rapti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

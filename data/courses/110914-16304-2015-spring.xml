@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110914" class_number="16304" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEC 97R">Group Tutorial - Sophomore Year</title>
+            <notes> Members of the Department</notes>
+            <description>An introduction to the cultures and literatures of the Near East in ancient, classical, and modern times, emphasizing major themes and problems that cut across individual cultures and historical periods.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="NEC">Near Eastern Civilizations</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e95629a1310" role="1" seniority_sort="1">
+                <display_name>Gojko Barjamovic</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

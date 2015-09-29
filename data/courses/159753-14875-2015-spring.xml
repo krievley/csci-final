@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159753" class_number="14875" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 178S">Responsibility</title>
+            <notes>moral responsibility, free will, blame  </notes>
+            <description>Forms of responsibility, and various views of the conditions under which a person can be responsible in these ways.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e71371a1310" role="1" seniority_sort="1">
+                <display_name>Thomas M. Scanlon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

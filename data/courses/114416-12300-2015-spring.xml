@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114416" class_number="12300" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 7">Ancient Greek Philosophy</title>
+            <notes>The Friday meeting for this course will be held at the discretion of the instructor.  </notes>
+            <description>The origins of western philosophy. We will survey the fragmentary evidence remaining for the pre-Socratic philosophers, then spend most of the course examining questions raised and arguments put forward by Socrates (as portrayed by Plato), Plato, and Aristotle. What is it to learn, understand, and explain something? What are the most basic entities? What should be our highest aim in life? What is the difference between &amp;lsquo;philosophy&amp;rsquo; and other (literary, political, religious, scientific) endeavors?</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e25813a1310" role="1" seniority_sort="1">
+                <display_name>Jacob Rosen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

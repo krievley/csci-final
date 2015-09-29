@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160587" class_number="16559" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 985UA">Research in Macroeconomics, Trade, and Finance</title>
+            <exam_group>FAS17_D</exam_group>
+            <description>Workshop for seniors writing theses. Especially for work in macroeconomics, trade, or finance, but open to all fields. Emphasis on choice of research topics, methodology, and data sources. Course requires written and oral presentations of work in progress leading toward completion of a major research paper or senior honors thesis.&amp;nbsp;Part one of a two-part series.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e204426a1310" role="1" seniority_sort="1">
+                <display_name>Stephanie Lo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

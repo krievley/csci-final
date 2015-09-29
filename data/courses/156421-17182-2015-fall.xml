@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156421" class_number="17182" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 41J">The Problem of Economic Development</title>
+            <exam_group>FAS13_G</exam_group>
+            <notes> Open to Freshmen only.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Understanding the determinants of the wealth of nations has long motivated the study of economics and it is arguably the most important problem in the field for human welfare. This seminar will examine the problem of economic development, looking both at historical experience and at contemporary issues in developing countries. It will focus on approaches from economics, but will also draw on other disciplines, including history, political science, and sociology.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="CGIS South S003 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e535a1310" role="1" seniority_sort="1">
+                <display_name>Michael Kremer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

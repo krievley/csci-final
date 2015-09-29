@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113931" class_number="14080" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 262R">Composition: Seminar</title>
+            <description>For first year, second year and advanced graduate students prepared for work in original composition.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

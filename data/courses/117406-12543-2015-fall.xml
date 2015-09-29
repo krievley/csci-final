@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117406" class_number="12543" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 34X">Language and Prehistory</title>
+            <exam_group>FAS14_F</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Explores use and misuse of linguistic evidence.&amp;nbsp; The 19th-century identification of the Indo-European language family misled some intellectuals to posit the now rejected idea of a genetically and culturally superior Aryan &amp;quot;race.&amp;quot;&amp;nbsp; Linguistic evidence still plays an important role in studies of the past.&amp;nbsp; What does the fact that languages are related tell us about their speakers?&amp;nbsp; How can genuine cases of linguistic borrowing or &amp;quot;influence&amp;quot; be distinguished from resemblances that come about through pure chance?</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Boylston 303 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e183140a1310" role="1" seniority_sort="1">
+                <display_name>Jay Jasanoff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

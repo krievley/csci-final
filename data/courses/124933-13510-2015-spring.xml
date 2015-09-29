@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124933" class_number="13510" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2330">History and Human Capital</title>
+            <notes> Satisfies the graduate distribution requirement. Open to undergraduates on a limited basis with permission of instructor.</notes>
+            <description>Explores a range of subjects concerning human capital, historically and comparatively. Topics include fertility, mortality, health, immigration, women's work, child labor, retirement, education, inequality, slavery, unionization, and governmental regulation of labor, all within the broader context of economic history.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e18759a1310" role="1" seniority_sort="1">
+                <display_name>Claudia Goldin</display_name>
+            </person>
+            <person id="d1e60725a1310" role="2" seniority_sort="2">
+                <display_name>Lawrence Katz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159693" class_number="14796" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 182">Got (New) Brain? The Evolution of Brain Regeneration</title>
+            <exam_group>FAS14_D</exam_group>
+            <description>This course will cover concepts and theories on evolutionary changes in nervous system regenerative capacity of different organisms. Material will be taught in a dynamic setting combining lectures and brainstorming of the literature with hands-on experience in the laboratory. Students will become familiar with classic, paradigm-changing experiments that have shaped how we think about brain regeneration and repair and also consider the newest theories on cellular reprogramming as a way to regenerate the nervous system.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Sherman Fairchild 268 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e206551a1310" role="1" seniority_sort="1">
+                <display_name>Paola Arlotta</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

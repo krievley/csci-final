@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114957" class_number="15230" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GHHP 50">The Quality of Health Care in America</title>
+            <description>Offers information and experiences regarding most important issues and challenges in health care quality. Overview of the dimensions of quality of care, including outcomes, overuse, underuse, variation in practice patterns, errors and threats to patient safety, service flaws, and forms of waste. Each session focuses on one specific issue, exploring patterns of performance, data sources, costs, causes, and remedies. Explores desirable properties of health care systems that perform at high levels in many dimensions of quality.</description>
+            <department code="GLOBHLTH">Global Health and Health Policy</department>
+            <course_group code="GHHP">Global Health and Health Policy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:59:00" location="" start_time="16:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e178019a1310" role="1" seniority_sort="1">
+                <display_name>Ashish Jha</display_name>
+            </person>
+            <person id="d1e85010a1310" role="1" seniority_sort="2">
+                <display_name>Anupam Jena</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

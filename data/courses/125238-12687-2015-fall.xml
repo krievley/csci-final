@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125238" class_number="12687" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94FG">Presidents, Governors, and Mayors: Chief Executive Power in Comparative Perspective</title>
+            <exam_group>FAS06_F</exam_group>
+            <description>Analyzes the foundation, development, and exercise of chief executive power at the national, state, and local levels of government in the United States. Examines the applicability of different political science theories of presidential power to the broader exercise of chief executive power. Explores the sources and limits of executive authority, the roles and responsibilities of political chief executives at different levels of government, and the way in which institutions affect the exercise of chief executive power.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="20:59:00" location="" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e115287a1310" role="1" seniority_sort="1">
+                <display_name>Carlos Diaz Rosillo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

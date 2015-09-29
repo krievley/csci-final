@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160501" class_number="15736" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SLAVIC 161">Conflict and Culture: The Case of Yugoslavia</title>
+            <notes>Taught by Visiting Professor, Tomislav Z. LonginoviÄ.  </notes>
+            <description>This course focuses of the cultural history of the common state of the South Slavs from its founding in 1919 until its bloody dissolution in 1991.&amp;nbsp; Students will be asked to engage with verbal and visual texts produced during this period in order to gain a better understanding of how the national imaginary is created, sustained and destroyed.&amp;nbsp; Some of the writers featured are AndriÄ, KrleÅ¾a and SelimoviÄ, some of the filmmakers are Makavejev, Kusturica and Manchevski.&amp;nbsp; Readings will be available both in the original Bosnian/Croatian/Serbian and in the English translation.&amp;nbsp; The focus of the course is on the interaction between politics and culture in representing conflict.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e379841a1310" role="1" seniority_sort="1">
+                <display_name>Tomislav Longinovic</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

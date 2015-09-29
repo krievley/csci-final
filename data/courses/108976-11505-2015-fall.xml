@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108976" class_number="11505" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 2722">Sonic Ethnography</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes> Course will also include additional weekly two-hour listening session, and occasional required technique/technology workshops, to be scheduled.</notes>
+            <prereq>Recommended: Experience in media production helpful but not required.</prereq>
+            <description>This is a practice-based course in which students record, edit, and produce anthropologically informed audio works which interpret culture and lived experience. Listening sessions will provide a broad context of contemporary work using location recordings, and readings will situate the practice within the growing field of sound studies. In their projects, students will experiment with technical and conceptual strategies of recording and composition as they engage with questions of ethnographic representation through the sensory dimension of sound.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Tozzer 203 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e26785a1310" role="1" seniority_sort="1">
+                <display_name>Ernst Karel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

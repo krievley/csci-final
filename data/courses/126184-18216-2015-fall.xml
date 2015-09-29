@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126184" class_number="18216" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH 285CR">Graduate Seminar: Money and Realism in Galdos's Times</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Conducted in Spanish.</notes>
+            <description>The function and circulation of money in realism's representations of modern urban societies: monetary value and the modern concepts of need, wealth, happiness, poverty, and labor; money and gender; economics and the rhetoric of realism.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:29:00" location="Boylston G07 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e64934a1310" role="1" seniority_sort="1">
+                <display_name>Luis Fernandez Cifuentes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

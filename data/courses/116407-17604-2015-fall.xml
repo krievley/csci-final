@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116407" class_number="17604" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 98">Tutorial II</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Required of all concentrators.  Open to students pursuing a secondary in philosophy.  Phil 98 is not shopped.  Students who plan to take this course should submit their preferences to the Head Tutor's Office before the beginning of term.  Please consult the course web site for details and deadlines.</notes>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Emerson 107 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e44734a1310" role="1" seniority_sort="1">
+                <display_name>Bernhard Nickel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

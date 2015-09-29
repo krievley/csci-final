@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142268" class_number="12039" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BIOLSCI 52LAB">Introductory Molecular Biology Lab</title>
+            <notes>----------  </notes>
+            <description>Created to support Sectioning Tool for Labs for BS 52.</description>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BIOLSCI">Biological Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

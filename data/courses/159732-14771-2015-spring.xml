@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159732" class_number="14771" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CPB 99B">Laboratory Research for Honors Thesis</title>
+            <description>For honors candidates writing a thesis in CPB. Indivisible for students enrolling in the fall term. Students intending to enroll in the fall are required to submit a written proposal to the Course Director. Students may enter the course at midyear only with the permission of the Course Director. The thesis proposal must be approved by the Course Director and Head Tutors prior to enrolling in CPB 99. Ordinarily may not be taken as a fifth course.</description>
+            <department code="CHPB">Chemical and Physical Biology</department>
+            <course_group code="CPB">Chemical and Physical Biology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e230998a1310" role="1" seniority_sort="1">
+                <display_name>Martin Samuels</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

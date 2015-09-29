@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119002" class_number="12512" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 91R">Supervised Reading and Research</title>
+            <notes>David P. Harrington (FAS/Public Health), and members of the Department  Normally may not be taken more than twice; may be counted once for concentration credit in Statistics, if taken for a letter grade; may be taken in either term; for further information, consult Co-Directors of Undergraduate Studies.</notes>
+            <description>Supervised reading and research in an area of statistics agreed upon by the student and a faculty adviser.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6033a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Blitzstein</display_name>
+            </person>
+            <person id="d1e33856a1310" role="1" seniority_sort="2">
+                <display_name>Michael Parzen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119619" class_number="12758" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 24N">Child Health in America</title>
+            <exam_group>FAS06_E</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Reviews history of children's health care in the United States; explores the impact of geography, environment, nutrition, clean water, as well as scientific discoveries of the late 19th and the early 20th centuries and the emergence of high technology care in middle and late 20th century. Does America provide children the best possible health care available? Compares United States epidemiology with that of other developed and developing nations. Explores how child health delivery is financed.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e269973a1310" role="1" seniority_sort="1">
+                <display_name>Judith Palfrey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

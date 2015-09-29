@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127186" class_number="16248" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 150B">Music Theory IIb</title>
+            <prereq>Recommended: Music 150a.</prereq>
+            <description>Explores chromatic harmony in 19th-century instrumental and vocal forms. Concepts are developed through analysis, model composition, keyboard harmony and ear-training exercises.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e196127a1310" role="1" seniority_sort="1">
+                <display_name>Richard Beaudoin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

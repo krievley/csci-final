@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117131" class_number="12376" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 131">Time Series &amp; Prediction</title>
+            <exam_group>FAS15_A</exam_group>
+            <prereq>Recommended: Statistics 111 and 139 or equivalent.</prereq>
+            <description>Introduction to time series models and forecasting. Autoregressive, moving average, martingale, stochastic volatility, stationary, non-stationary processes, cointegration, long-memory, seasonality, forecasting, time frequency analysis, smoothing, filtering, Kalman filters, hidden Markov models, sequential Monte Carlo, Gaussian process, Brownian motion.&amp;nbsp;Expected to be given in 2015&amp;ndash;16.&amp;nbsp;Expected to be omitted in 2016&amp;ndash;17.&amp;nbsp;</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Harvard Hall 202 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e36314a1310" role="1" seniority_sort="1">
+                <display_name>Neil Shephard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

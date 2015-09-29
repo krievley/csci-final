@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125730" class_number="13417" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="NEP 103A">Advanced Nepali</title>
+            <notes> Not open to auditors.
+
+Please contact the Department of South Asian Studies (southasianstudies@fas.harvard.edu) before the start of classes if you are interested in enrolling in a Nepali language course. Students will be required to submit a statement demonstrating an academic need to enroll.
+
+First Meeting times will be posted on the Department of South Asian Studies' website in shortly before the term begins: sas.fas.harvard.edu</notes>
+            <description>A reading course in Modern Nepali Literature, suitable for students who have at least three years of Nepali learning. This course is designed to help students understand some of the complex literary materials composed in modern Nepali language. The students will have an opportunity to read a wide variety of selected texts, understand the linguistic systems operative in those writings, and come up with their own informed understanding of them.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="NEP">Nepali</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e31808a1310" role="1" seniority_sort="1">
+                <display_name>Michael Witzel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115727" class_number="11922" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 301">Graduate Proseminar</title>
+            <exam_group>FAS02_B</exam_group>
+            <notes>TBD , and members of the Department  Required for all graduates in African and African American Studies in their first year.</notes>
+            <description>Students are introduced to major themes, classic texts, and representative current work in the broad interdisciplinary field of African and African American Studies, with a focus on the Humanities (Literature, Art, Music, and Religion).</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="Barker 230 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e75353a1310" role="1" seniority_sort="1">
+                <display_name>Marcyliena Morgan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

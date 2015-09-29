@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118579" class_number="12235" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 147R">Conceptual Strategies in Photography</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <prereq>Recommended: At least one half-course in photography or permission of the instructor.</prereq>
+            <description>There has been a shift from the traditional notion of art work to the idea of art project. The art project could be understood as a concept structured in a constellation of different but independent elements, which the author is able to master not only the implicit creative aspects but also a certain social dimension. We will deal with the sequential steps of a photography project: creative conception, documentation, practical realization, and critical evaluation.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e445263a1310" role="1" seniority_sort="1">
+                <display_name>Mike Mandel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

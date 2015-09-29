@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107349" class_number="14795" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MODMDEST 100">Introduction to the Modern Middle East</title>
+            <notes> A required course primarily for undergraduates pursuing a secondary field in modern Middle Eastern Studies.</notes>
+            <description>An introduction to Middle Eastern Studies focusing on the modern period. Lectures will be sequenced according to historical chronology but will be thematically organized. This is not a survey course and it will not be exhaustive in its coverage of the region. Readings will consist of primary and secondary sources.This course is designed to give students a good grasp of the history of the modern Middle East and of the major themes in modern Middle Eastern Studies. Students will critically engage with some of the most important topics that resonate in that area of the world, and will also be exposed to the diverse ways in which the scholarly literature has shaped and approached these topics across disciplines. The larger aim of the course is to develop students&amp;rsquo; critical thinking in dealing with the history, cultures, politics, and political economies of the contemporary Middle East.Required for all concentrators in The Modern Middle East. Open to all undergraduate and graduate students. There are no prerequisites for this course.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MODMDEST">Modern Middle East</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e25382a1310" role="1" seniority_sort="1">
+                <display_name>Malika Zeghal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

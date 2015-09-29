@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123105" class_number="15236" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2339RA">Economic History Lunch</title>
+            <exam_group>FAS08_H</exam_group>
+            <notes> Primarily, but not exclusively, for doctoral students in economics who have passed their oral examinations. Popularly known as The History Tea.</notes>
+            <description>Participants discuss recent research in economic history and present their own work in progress. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="13:59:00" location="Littauer Ctr M15 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18759a1310" role="1" seniority_sort="1">
+                <display_name>Claudia Goldin</display_name>
+            </person>
+            <person id="d1e79652a1310" role="1" seniority_sort="2">
+                <display_name>James Robinson</display_name>
+            </person>
+            <person id="d1e161018a1310" role="2" seniority_sort="3">
+                <display_name>Eric Chaney</display_name>
+            </person>
+            <person id="d1e532a1310" role="2" seniority_sort="4">
+                <display_name>Melissa Dell</display_name>
+            </person>
+            <person id="d1e529a1310" role="2" seniority_sort="5">
+                <display_name>Nathan Nunn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

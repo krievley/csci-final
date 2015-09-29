@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122980" class_number="13345" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WOMGEN 98S">Tutorial - Junior Year: Research and Methods</title>
+            <notes> Required of all Honors concentrators in their junior year.</notes>
+            <description>This course supports the writing of the junior paper through seminar discussions and one-on-one tutoring. In the seminar portion of the course, students discuss feminist methodologies across the humanities, social sciences, and life sciences through engagement with diverse readings from these fields. In the practicum, students work with an individual tutor on a semester-long research project in his or her area of interest.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e14439a1310" role="1" seniority_sort="1">
+                <display_name>Afsaneh Najmabadi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160695" class_number="16905" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1055">In Search of the Perfect School</title>
+            <exam_group>FAS15_D</exam_group>
+            <prereq>Recommended: SLS 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15</prereq>
+            <description>Is there a formula for the &amp;ldquo;perfect&amp;rdquo; school? Guided by this overarching question, you will critically analyze and creatively integrate theory, research, and policy with a particular focus on the application of educational psychology in secondary school. This focus serves as a window into many of the most topical and interesting issues facing our students and schools.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="William James 401 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e218475a1310" role="1" seniority_sort="1">
+                <display_name>Amy Dent</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

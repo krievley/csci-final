@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160367" class_number="15580" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 141V">Public Health and Welfare in America and Europe</title>
+            <exam_group>FAS06_F</exam_group>
+            <description>This seminar focuses on the history of public health and welfare in America and Europe, from the pre-modern period to the present. &amp;nbsp;We will explore crises and responses to epidemics, vaccination, new scientific and medical discoveries, chronic poverty, severe climate change, famine and outbreaks resulting from global travel and exploration. In all instances, we will pay particular attention to the experience of those affected, as well as the expectation, legal justification and effects of government response. There are no pre-requisites to enroll in the course.&amp;nbsp;</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Science Ctr 469 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e203173a1310" role="1" seniority_sort="1">
+                <display_name>Alexander More</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

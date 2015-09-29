@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159824" class_number="14904" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 68CT">The Chinese Immigrant Experience in America</title>
+            <description>Uses the history of Boston&amp;rsquo;s Chinatown as a case study to examine the experiences of Chinese immigrants in the U.S. from the 1880s until the present. Employs historical, anthropological, and sociological perspectives to examine major themes related to the social and economic development of U.S. Chinatowns and Chinese immigrant communities throughout the 20th and 21st centuries. This course is an activity-based learning course, limited to students who are concurrently participating in a Harvard-affiliated service program in or around Boston&amp;rsquo;s Chinatown. Class discussions and assignments will make active links with students&amp;rsquo; service work.&amp;nbsp;Open to students in all concentrations.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e158040a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Newendorp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

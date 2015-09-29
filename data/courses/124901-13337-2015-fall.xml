@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124901" class_number="13337" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 293">Biochemistry, Chemical and Structural Biology</title>
+            <exam_group>FAS08_J</exam_group>
+            <notes>F., at 2, M., W., 2&amp;#8211;4   Required for first year graduate students in the Molecules, Cells and Organisms (MCO) Training Program.</notes>
+            <description>This course will introduce basic principles in general, organic and physical chemistry, including kinetics and thermodynamics, as well as macromolecular structure. Concepts will be illustrated with examples taken from the visual system.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="Northwest Bldg 453 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e301476a1310" role="1" seniority_sort="1">
+                <display_name>Lukas Bane</display_name>
+            </person>
+            <person id="d1e199757a1310" role="1" seniority_sort="2">
+                <display_name>Victoria D'Souza</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

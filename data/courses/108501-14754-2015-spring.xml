@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108501" class_number="14754" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1017">The Shock of the New</title>
+            <notes> Offered jointly with the Divinity School as 3256.</notes>
+            <description>This course will explore the impact of unprecedented events, overwhelming experiences and radical technological innovation on both human beings and the life worlds to which they belong. It will cover some of the epistemological, ethical, social and existential quandaries that constitute what Robert Hughes calls 'the shock of the new', as well as the religious and ritual strategies whereby people struggle to avert, accommodate, cope with and comprehend massive changes to their lives. Interpretive perspectives will be drawn from psychology, philosophy, ethnography, ethology and biomedicine, while specific empirical cases will cover new media of communications and information processing, new genetic technologies, medical crises (disabilities, organ transplantation, trauma and epidemic disease), as well as culture contact and culture shock.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e6245a1310" role="1" seniority_sort="1">
+                <display_name>Michael Jackson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

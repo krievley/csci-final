@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109457" class_number="14279" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSCI 12B">Electromagnetism and Statistical Physics from an Analytic, Numerical and Experimental Perspective</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> May not be taken for credit by students who have passed Physics 15b or Physics 15c. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+            <prereq>Recommended: Physical Sciences 12a</prereq>
+            <description>This is the second term of a two-semester introductory sequence that uses a combination of analytic and numerical methods to understand physical systems, to analyze experimental data, and to compare data to models. Topics include electrostatics and magnetostatics, electromagnetic fields, optics [all topics illustrated with applications to current technological and societal challenges], and an introduction to the physics of many-body systems and their aggregate properties such as entropy, temperature and pressure. The course is aimed at second year students who have an interest in pursuing a concentration in the sciences and/or engineering. The course structure includes lecture, discussion and laboratory components.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSCI">Physical Sciences Physical Sciences Physical Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Science Ctr Hall B (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e17757a1310" role="1" seniority_sort="1">
+                <display_name>Efthimios Kaxiras</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

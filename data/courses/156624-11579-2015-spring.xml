@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156624" class_number="11579" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2620R">Research Seminar in Intergroup Neuroscience</title>
+            <notes> Interested students should take the survey at https://harvard.az1.qualtrics.com/jfe/form/SV_6JY0wjescHXovpr</notes>
+            <prereq>Recommended: SLS 20 and at least one course from Psy 13, Psy 14, Psy 15, Psy 18, or SLS 15.</prereq>
+            <description>Year-long lab course exploring how cognition, affect, neural responses, and behavior change when social relations shift from "me and you" to "us and them." Students will participate in experiment development and data collection employing methods ranging from standard laboratory experiments, implicit and explicit self-reports, and behavioral measures, to fMRI and psychophysiology. Students will also read and discuss papers on intergroup relations in our weekly meetings.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Workshop</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e65908a1310" role="1" seniority_sort="1">
+                <display_name>Mina Cikara</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

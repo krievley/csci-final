@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156558" class_number="17527" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SAS 193">Class and the City in Indian Cinema</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>This course will examine imaginaries and understandings of class and cities in Indian cinema. How are struggles for earnings and mobility in the city - of migrants, workers, and middle classes - represented in Indian cinema? In what ways is the city viewed as a space of ethical deviations and compromises? How does class shape experiences of friendship, family, and erotic love? What visions of politics, justice, and hope arise in Indian cinema? The course will explore these questions in commercial, art, and documentary films (in Bengali, Hindi, and Marathi, with English subtitles), along with readings in history, anthropology, and cinema studies. Screenings will include films by Satyajit Ray, Guru Dutt, Raj Kapoor, Yash Chopra, Muzaffar Ali, and Anand Patwardhan.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SAS">South Asian Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="1 Bow St 330 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40127a1310" role="1" seniority_sort="1">
+                <display_name>Shankar Ramaswami</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119020" class_number="12545" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TDM 115">Acting Shakespeare</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> Enrollment will be determined by an audition during the first class meeting.</notes>
+            <description>This course is an intensive study of Shakespeare&amp;#39;s dramatic works from the point of view of the actor. It is important to remember that Shakespeare&amp;#39;s verse dramas were written to be performed and that only when they are approached this way - as playable, theatrical texts - that they have their maximum impact. Through text analysis, scene study, vocal work, and acting exercises we attempt to find, not only the meaning, but the music and theatrical power of Shakespeare&amp;#39;s words.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="Farkas 203 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e113765a1310" role="1" seniority_sort="1">
+                <display_name>Remo Airaldi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

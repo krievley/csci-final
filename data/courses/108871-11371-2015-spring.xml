@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108871" class_number="11371" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 183">Introduction to Heat Transfer</title>
+            <prereq>Recommended: Applied Math 21a (Mathematical Methods in Science) or equivalent.</prereq>
+            <description>The macroscopic description of the fundamentals of heat transfer and applications to practical problems in energy conversion, electronics and living systems with an emphasis on developing a physical and analytical understanding of conductive, convective and radiative heat transfer. Emphasis will also be given to problem solving skills based on applying governing principles, mathematical models and physical intuition. Includes laboratory sessions and semester-long projects.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e109027a1310" role="1" seniority_sort="1">
+                <display_name>David Clarke</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

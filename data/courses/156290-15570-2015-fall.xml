@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156290" class_number="15570" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 146V">Bodies in Flux: Medicine, Gender, and Sexuality in the Modern Middle East</title>
+            <description>This course examines how bodies, genders and sexualities in the modern Middle East, from the nineteenth century to the Arab revolts, have been shaped and represented via changing and competing discourses. Through a variety of historical, ethnographic, media and literary readings, the course studies multiple and dynamic representations of bodies in flux: medicalized bodies, gendered bodies, sexualized bodies, (re)productive bodies, aging bodies and bodies in revolt. The course pays special attention to medicine and science in their interaction with laws, traditions and religious practices. Some of the topics covered include analyzing histories of and discourses on slavery, femininity and masculinity, homosexuality, health, reproduction, disabilities, circumcision and genital cutting/mutilation and gender-based violence. </description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Science Ctr 252 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25865a1310" role="1" seniority_sort="1">
+                <display_name>Soha Bayoumi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

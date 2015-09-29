@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156633" class_number="11592" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HUMAN 52">Human History</title>
+            <description>Six hundred years of world history through the prism of twelve encounters between "the West" and "the Rest" -- beginning with the clash between Portuguese buccaneers and Chinese eunuchs in 1517 and ending yesterday. Human History takes globalization personally, but views it from at least two very different perspectives-those of the professors. (We also show how to resurrect the dead.)</description>
+            <department code="HUM">Humanities</department>
+            <course_group code="HUMAN">Humanities</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38733a1310" role="1" seniority_sort="1">
+                <display_name>Maya Jasanoff</display_name>
+            </person>
+            <person id="d1e35075a1310" role="2" seniority_sort="2">
+                <display_name>Niall Ferguson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

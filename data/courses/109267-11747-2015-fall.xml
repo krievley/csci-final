@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109267" class_number="11747" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BPH 385">The Molecular Genetics of Aging</title>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6719a1310" role="1" seniority_sort="1">
+                <display_name>William Mair</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

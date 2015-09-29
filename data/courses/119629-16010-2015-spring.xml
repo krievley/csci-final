@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119629" class_number="16010" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 152">Programming Languages</title>
+            <prereq>Recommended: Computer Science 51; Computer Science 121 is recommended. Students must have good programming skills, be very comfortable with recursion, proofs, basic mathematical ideas and notations, including sets, relations, functions, and induction.</prereq>
+            <description>Comprehensive introduction to the principal features and overall design of both traditional and modern programming languages, including syntax, formal semantics, abstraction mechanisms, modularity, type systems, naming, polymorphism, closures, continuations, and concurrency. Provides the intellectual tools needed to design, evaluate, choose, and use programming languages.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e106343a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Chong</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

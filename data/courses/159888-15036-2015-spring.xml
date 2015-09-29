@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159888" class_number="15036" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ARMEN AB">Elementary Classical Armenian</title>
+            <notes> Armenian AA/AB is an indivisible year-long course. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</notes>
+            <description>Introduction to classical Armenian grammar and reading of selected texts.&amp;nbsp;Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARMEN">Armenian</course_group>
+            <course_type>Seminar</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e34569a1310" role="1" seniority_sort="1">
+                <display_name>James Russell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

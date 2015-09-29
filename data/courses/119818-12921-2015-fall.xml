@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119818" class_number="12921" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 98A">Junior Tutorial - African Studies</title>
+            <notes>Ingrid Monson and members of the Department  </notes>
+            <prereq>Recommended: Completion of African and African American Studies 11, or a substitute course approved by the Director of Undergraduate Studies.</prereq>
+            <description>Students wishing to enroll must petition the Director of Undergraduate Studies for approval, stating the proposed project, and must have the permission of the proposed instructor. Ordinarily, students are required to have taken some coursework as background for their project.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e23219a1310" role="1" seniority_sort="1">
+                <display_name>Ingrid Monson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

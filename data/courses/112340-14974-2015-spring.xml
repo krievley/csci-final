@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112340" class_number="14974" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL ACD">Intensive Beginning Italian: Special Course: Gateway to Italy</title>
+            <notes> May not be taken Pass/Fail but may be taken Sat/Unsat by GSAS students. Students who have not placed out of the language requirement must take one full year of a language. Italian Acd taken alone may not be used to fulfill the language requirement. However, there are ways to combine Italian Acd with another course in order to fulfill the language requirement. Consult Dr. Elvira DiFabio or the Undergraduate Adviser in Italian for details. Conducted in Italian. Not open to auditors.</notes>
+            <prereq>Recommended: An advanced knowledge of at least one foreign language, preferably a modern Romance language, but no previous study of Italian.</prereq>
+            <description>A complete first-year course in one term for students with no knowledge of Italian, focused on developing all four communicative skills. Students are introduced to contemporary Italian culture through a variety of topics from everyday life (family, shopping, food, fashion) to the arts (music, literature, cinema). Materials include films and cultural readings that present capsules on the history of modern Italy. Excellent choice for students planning to study in Italy.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123991" class_number="15343" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 3004A">Research Workshop in American Politics</title>
+            <exam_group>FAS02_B</exam_group>
+            <description>A forum for the presentation and discussion of research in progress by graduate students (second year and above), faculty, and visiting scholars. Anyone working on contemporary American politics or on US political development welcome. Occasional presentations by invited speakers. Part one of a two part series.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="CGIS Knafel K354 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e83143a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Hochschild</display_name>
+            </person>
+            <person id="d1e74984a1310" role="1" seniority_sort="2">
+                <display_name>Claudine Gay</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

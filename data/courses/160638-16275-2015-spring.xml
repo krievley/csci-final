@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160638" class_number="16275" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 310HFB">History of Science Salon</title>
+            <description>What is history of science about as a discipline and profession? This half-course meets throughout the academic year to introduce first-year graduate students to the range of debates, questions, and research practices currently shaping the field. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e96316a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth Lunbeck</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

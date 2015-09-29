@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123211" class_number="13745" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 130">Classical Geometry</title>
+            <prereq>Recommended: Mathematics 19a,b or 21a,b or 23a or 25a or 55a which may be taken concurrently; or an equivalent background in mathematics.</prereq>
+            <description>Presents several classical geometries, these being the affine, projective, Euclidean, spherical and hyperbolic geometries. They are viewed from many different perspectives, some historical and some very topical. Emphasis on reading and writing proofs.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e224309a1310" role="1" seniority_sort="1">
+                <display_name>Eric Peterson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

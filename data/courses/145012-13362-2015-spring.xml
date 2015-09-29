@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145012" class_number="13362" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 223">Topics in Neurogenetics</title>
+            <notes> The course is primarily planned for new graduate students, but it is also open to interested senior undergraduates who have taken OEB 57 (formerly BS 57) or MCB 80 and obtained permission from the instructor.</notes>
+            <description>We will discuss current literatures related to genetic effects on neural functions, including: (1) mental illness; (2) neurodegenerative diseases; (3) various behaviors; (4) learning and memory.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

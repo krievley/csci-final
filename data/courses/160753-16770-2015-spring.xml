@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160753" class_number="16770" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EMR 122">Caribbean Poetics</title>
+            <description>This course examines influential works of &amp;ldquo;Caribbean Poetics&amp;rdquo; from a literary, philosophical, and political perspective. It explores the distinctiveness of this literary tradition and its contributions to thinking about race, colonialism, language and the sacred. Readings will include &amp;Eacute;douard Glissant, Derek Walcott, and Edwidge Danticat, among others. Jointly offered in Harvard Divinity School as HDS 2430.</description>
+            <department code="EMR">Ethnicity, Migration, Rights</department>
+            <course_group code="EMR">Ethnicity, Migration, Rights</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63671a1310" role="1" seniority_sort="1">
+                <display_name>Mayra Rivera Rivera</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

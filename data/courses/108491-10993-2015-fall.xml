@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108491" class_number="10993" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2160R">Laboratory for Affective and Developmental Neuroscience</title>
+            <exam_group>FAS08_H</exam_group>
+            <notes>Joining the lab course is by permission only. Students who wish to join the lab for credit should fill out the form linked here: http://andl.wjh.harvard.edu/sites/default/files/pdf/ANDL_undergraduate_survey.docx and email it to Professor Somerville and Megan Garrad (Lab Manager) at somerville@fas.harvard.edu and mgarrad@fas.harvard.edu. Applications will be reviewed and interviews will be conducted between August 24 and September 4.  </notes>
+            <prereq>Recommended: For undergraduates, Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15.</prereq>
+            <description>Conduct research on emotion processing and/or adolescent socioemotional development, incorporating methods of cognitive neuroscience including functional brain imaging (fMRI). Read and discuss current issues in the fields of affective, cognitive, and developmental neuroscience.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="14:59:00" location="Northwest Bldg B109 (FAS)" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6137a1310" role="1" seniority_sort="1">
+                <display_name>Leah Somerville</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

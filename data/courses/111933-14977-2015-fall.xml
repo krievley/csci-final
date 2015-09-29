@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111933" class_number="14977" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH AX">Reading Modern French</title>
+            <exam_group>FAS16_A</exam_group>
+            <notes> Conducted in English. Not open to students with a score of 500 or above on the Harvard Placement Test or the SAT II French test, to those with more than one year of undergraduate French, or to auditors. May not be used to fulfill the language requirement and may not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. See details and section on-line on the French Ax website.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: Some previous study of a Romance language helpful but not necessary. Fluency in English required.</prereq>
+            <description>An introduction to reading and translating modern French texts for students who require only a basic knowledge of French for research purposes. French Ax presents the principle structures of French grammar in a systematic and coherent manner and, at the same time, makes reading and translation assignments as discipline-specific as possible for each student's needs. An introduction to reading and translating modern French texts for students who require only a basic knowledge of French for research purposes. French Ax presents the principle structures of French grammar in a systematic and coherent manner and, at the same time, makes reading and translation assignments as discipline-specific as possible for each student's needs.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="09:59:00" location="Sever 104 (FAS)" start_time="08:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e67312a1310" role="1" seniority_sort="1">
+                <display_name>Stacey Bourns</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

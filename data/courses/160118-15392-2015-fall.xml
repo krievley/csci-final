@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160118" class_number="15392" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 22R">Introduction to Technology and Society</title>
+            <exam_group>FAS09_B</exam_group>
+            <notes> Open to Freshmen only. There are no prerequisites but interview maybe required to have a balanced distribution of students spanning interests in the natural sciences, arts and humanities and social sciences.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>From the digital revolution to social media, from global warming to sustainability, and from national security to renewable energy, technology plays a critical role in shaping our lives. This course explores concepts in physical sciences that span disciplines and examines broadly how technology shapes society and vice versa.&amp;nbsp; Through case studies, students will be exposed to the importance of a conceptual understanding of science (including social science) underpinning technology and the tradeoffs necessary in tackling the great challenges facing a global society. The course has a foundation of both physical and social science concepts, sparking interest and encouraging future investigation into how technology and society are interwoven and mutually dependent. Each class will start with a discussion of blog posts of current news related to technology followed by selected areas of deeper engagement and discussion. Students will be involved through individual reflection and small team assignments to address specific problems in, for example, the case of &amp;ldquo;wiki leaks&amp;rdquo; and its implications for issues of privacy and diplomacy and open government. The course is designed for physical science students to appreciate not only &amp;lsquo;how things work&amp;rsquo; but &amp;lsquo;how the world works&amp;rsquo; and for social science, arts and humanities students on not thinking of technology as a &amp;lsquo;black box&amp;rsquo;.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="Pierce 100F (SEAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e183819a1310" role="1" seniority_sort="1">
+                <display_name>Venkatesh Narayanamurti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

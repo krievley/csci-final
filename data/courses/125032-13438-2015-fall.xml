@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125032" class_number="13438" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1421">Teeth</title>
+            <exam_group>FAS13_G</exam_group>
+            <notes>This course counts towards the research seminar requirement in HEB.  Preference given to Human Evolutionary Biology junior and senior concentrators.</notes>
+            <prereq>Recommended: HEB 97, Sophomore Tutorial, recommended but not required.</prereq>
+            <description>Teeth are one of the best preserved and most commonly recovered elements in archaeological and fossil assemblages. This interactive seminar will focus on ways in which dental remains may inform studies of human and primate growth and development, evolution, and health. Students will read and discuss current scientific literature, engage in histological studies in the Dental Hard Tissue Laboratory, and conduct research projects in consultation with the professor.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:29:00" location="Museum of Comp Zool 501 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e108804a1310" role="1" seniority_sort="1">
+                <display_name>Tanya Smith</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

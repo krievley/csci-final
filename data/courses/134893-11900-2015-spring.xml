@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="134893" class_number="11900" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FOLKMYTH 97">Fieldwork and Ethnography in Folklore</title>
+            <notes> Required of all, and limited to, concentrators.</notes>
+            <description>Introduces concentrators to the study of traditions - their performance, collection, representation and interpretation. Both ethnographic and theoretical readings serve as the material for class discussion and the foundation for experimental fieldwork projects.</description>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e140787a1310" role="1" seniority_sort="1">
+                <display_name>Leah Lowthorp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159623" class_number="14657" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 142">Descriptive Set Theory</title>
+            <exam_group>FAS04_A</exam_group>
+            <prereq>Prerequisite: Mathematics 141 OR permission of the instructor</prereq>
+            <description>An introduction to the study of definable subsets of reals and their regularity properties (such as Lebesque measurability and the property of Baire). A discussion of the unresolvability of the classical questions in ZFC and their resolution through the introduction of axioms of definable determinacy and strong axioms of infinity.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Science Ctr 113 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e71602a1310" role="1" seniority_sort="1">
+                <display_name>Peter Koellner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

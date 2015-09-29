@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160654" class_number="16302" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TDM 120">What's so Funny?: Introduction to Improvisational Comedy</title>
+            <notes>Enrollment will be determined by an interview/audition on the first day of class. &amp;nbsp;(The former Dramatic Arts 120. Introduction to Choreography, is now TDM 140.)  </notes>
+            <description>Comedy has often been thought of as the poor relation to Drama but, as Lenny Bruce said, &amp;quot;the only honest art form is comedy because you can&amp;#39;t fake it.&amp;quot; We will attempt to take comedy seriously by studying its component parts and engaging in committed, creative and collaborative &amp;quot;play&amp;quot; that will tap into each student&amp;#39;s personal, individual sense of humor. The class will focus on the basics of improvisation: group games, narrative skills, patterns, offers, spontaneity, agreement, using the space around you, building on-stage relationships and, eventually, scene work.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e113765a1310" role="1" seniority_sort="1">
+                <display_name>Remo Airaldi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

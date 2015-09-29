@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113583" class_number="16601" school_id="fas" section="016" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 301">Special Reading and Research</title>
+            <notes>On leave 2015-16  Taught by members of the department.</notes>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e79007a1310" role="1" seniority_sort="1">
+                <display_name>Devah Pager</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

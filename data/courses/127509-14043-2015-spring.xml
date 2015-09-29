@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127509" class_number="14043" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 300QC">Advanced Topics in Neurobiology</title>
+            <notes> Non-DMS students must get permission from the Division of Medical Sciences before registering for this course. Please contact us at 617-432-0162 or visit the DMS Office at T-MEC 435, 260 Longwood Avenue, Boston.</notes>
+            <description>A series of reading and discussion seminars, each running for a half term (7 weeks).</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e19281a1310" role="1" seniority_sort="1">
+                <display_name>David Cardozo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

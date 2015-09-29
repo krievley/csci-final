@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159833" class_number="15980" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 21Z">Chance and the Pleasures of Probability</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Probability is a subject that grew up in gambling dens, and yet is most likely (!) the most important aspect of mathematics that will touch your life repeatedly - especially when you least expect it (!).Probabilistic thinking is qualitatively different from the determinism that is typically taught early on in the sciences and elsewhere and yet is much more natural in most situations associated with mundane activities in life. It is also often counter-intuitive - all this means is that we are innately not very good probabilistic thinkers, but clearly can train ourselves to do so.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="19:59:00" location="Pierce 114 (SEAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e48247a1310" role="1" seniority_sort="1">
+                <display_name>Lakshminarayanan Mahadevan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

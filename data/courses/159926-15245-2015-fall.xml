@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159926" class_number="15245" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 133">War, Revolution, and Organized Crime: In Theory, in Film, and in Reality</title>
+            <exam_group>FAS18_F</exam_group>
+            <description>This course explores war, revolution and organized crime as interrelated social phenomena. Students will read sociologists, historians, political scientists and philosophers addressing the nature, causes and consequences of these phenomena in different national and historical contexts. The course will combine influential theoretical frameworks (by Karl Marx, Max Weber, Sigmund Freud, Hannah Arendt), middle-range social scientific approaches (by Anthony Giddens, Charles Tilly, Michael Mann, Theda Skocpol), and empirical and historical analyses (by Eric Hobsbawm, Benedict Anderson, James C. Scott, Eugen Weber). The three phenomena will further be scrutinized through their (mis)representation in movies by Mike Nichols, Milos Forman, Bernardo Bertolucci and others.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="William James B1 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e202386a1310" role="1" seniority_sort="1">
+                <display_name>Danilo Mandic</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

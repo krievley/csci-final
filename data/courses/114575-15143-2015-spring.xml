@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114575" class_number="15143" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 197">The Imperial Arts of the Inca and the Aztec</title>
+            <description>This course concentrates on the art and architecture of the two ancient American civilizations, surveying the forms of representation used to establish imperial presence within the accepted vernacular of Mesoamerican and Andean artistic traditions. Special attention is given to the role of art as a means of expressing imperial claims to mythic and historic precedents, upon which political and economic expansion could be realized.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e171077a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Cummins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

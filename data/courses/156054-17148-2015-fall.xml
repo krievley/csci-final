@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156054" class_number="17148" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1305">Evolution and Cognition</title>
+            <exam_group>FAS12_C</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>The goal of this course is for students to master the foundational logic and theory of evolutionary psychology. Students are exposed to and consider topics covering the range of human experience, including cooperation, mating, friendship, aggression, warfare, collective action, kinship, parenting, social learning, dietary choice, spatial cognition, reasoning, emotions, morality, personality and individual differences, predator avoidance, hazard management, and culture.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="William James 105 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18202a1310" role="1" seniority_sort="1">
+                <display_name>Max Krasnow</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

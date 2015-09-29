@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109820" class_number="16923" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH 49H">Spanish for Latino Students</title>
+            <exam_group>FAS08_C</exam_group>
+            <notes> Spanish 49h was formerly Spanish 35; therefore, students cannot take 49h if they've already taken 35.  Spanish 49h should be a prerequisite for 59h (or  permission of the instructor).</notes>
+            <description>Designed for Latino students, this course builds on students' previous knowledge of Spanish to expand and strengthen their oral and written interpersonal, interpretive and presentational communicative skills. Spanish grammar is reviewed using a functional approach to highlight differences found in informal and academic contexts. Students explore the topics of language, cultures and identity in the U.S and in the Spanish-speaking world , using a variety of texts and genres, music, videos, films and visual arts.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="13:59:00" location="Sever 209 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e2836a1310" role="1" seniority_sort="1">
+                <display_name>Maria Parra-Velasco</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

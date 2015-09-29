@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110546" class_number="11843" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VIROLOGY 201">Virology</title>
+            <notes> Offered jointly with the Medical School as MG 723.0.</notes>
+            <prereq>Recommended: Graduate standing and permission required.</prereq>
+            <description>Literature based reading. Proposal writing. Course covers a broad range of topics: viral genetics, structure/replication, pathogenesis, evolution ("emerging viruses"), chronic infection, latency, innate and adaptive immunity, anti-viral drugs and vaccine strategies.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="VIROLOGY">Virology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e294302a1310" role="1" seniority_sort="1">
+                <display_name>Sean P.J. Whelan</display_name>
+            </person>
+            <person id="d1e142248a1310" role="2" seniority_sort="2">
+                <display_name>James Cunningham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108752" class_number="16127" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 194">The Borges Machine</title>
+            <notes> Conducted in Spanish.</notes>
+            <description>We study Jorge Luis Borges's poetry, short stories, and essays; from Fervor de Buenos Aires to El Aleph; from his scripts and the films based on them to the cultural constellations that rose around him, as well as those his work created. We will think of Borges as a writer, but also as literary machine, an artifice that produces meaning in the works of other writers and in cultural formations beyond Argentina and Latin America.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e64754a1310" role="1" seniority_sort="1">
+                <display_name>Mariano Siskind</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

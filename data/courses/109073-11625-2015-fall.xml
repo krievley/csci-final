@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109073" class_number="11625" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MED-SCI 302QC">Conduct of Science Refresher</title>
+            <notes> Restricted to DMS graduate students.</notes>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="MED-SCI">Medical Sciences</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e15724a1310" role="1" seniority_sort="1">
+                <display_name>Raju Kucherlapati</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

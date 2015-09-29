@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159626" class_number="14669" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 277">Fukaya Categories, Sheaves, and Cosheaves</title>
+            <exam_group>FAS08_A</exam_group>
+            <description>After setting up the foundations for defining Fukaya categories, we will explore results showing that various Fukaya categories &amp;quot;glue&amp;quot;. Little analytic background will be assumed, but we will attempt to cover the foundations.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="Science Ctr 411 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e5753a1310" role="1" seniority_sort="1">
+                <display_name>Hiro Tanaka</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

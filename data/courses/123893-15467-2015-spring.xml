@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123893" class_number="15467" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1050">Strategy, Conflict, and Cooperation</title>
+            <prereq>Recommended: Economics 10a</prereq>
+            <description>Game theory is the study of interdependent decision-making.&amp;nbsp; In the early days of the cold war, game theory was used to analyze an emerging nuclear arms race; today, it has applications in economics, psychology, politics, the law and other fields.&amp;nbsp; In this course, we will explore the &amp;ldquo;strategic way of thinking&amp;rdquo; as developed by game theorists over the past sixty years.&amp;nbsp; Special attention will be paid to the move from zero-sum to nonzero-sum game theory.&amp;nbsp; Students will learn the basic solution concepts of game theory -- including minimax and Nash equilibrium -- by playing and analyzing games in class, and then we will take up some game-theoretic applications in negotiation settings: the strategic use of threats, bluffs and promises.&amp;nbsp; We will also study the repeated prisoner&amp;rsquo;s dilemma and investigate how cooperative behavior may emerge in a population of rational egoists.&amp;nbsp; This problematic -- &amp;ldquo;the evolution of cooperation&amp;rdquo; -- extends from economics and political science to biology and artificial intelligence, and it presents a host of interesting challenges for both theoretical and applied research.&amp;nbsp; Finally, we will consider the changing context for the development of game theory today, in particular, the need to achieve international cooperation on economic and environmental issues.&amp;nbsp;The course has two main objective: to introduce students to the fundamental problems and solution concepts of noncooperative game theory; and to provide an historical perspective on its development, from the analysis of military conflicts to contemporary applications in economics and other fields.&amp;nbsp; No special mathematical preparation is required. &amp;nbsp;</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

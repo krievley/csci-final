@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113956" class_number="14838" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1400">Introduction to the New Testament</title>
+            <notes> Offered jointly with the Divinity School as 1202.</notes>
+            <description>Almost two millennia lie between the contemporary interpreter of the New Testament and the historical circumstances in which the diverse literature collected in it was written down. Emphasis will be placed upon critical and constructive engagement with the New Testament texts in both ancient and modern contexts.&amp;nbsp; We will discuss issues such as the meaning of Jesus&amp;rsquo;s teaching, Pauline theology, sexual ethics, the roles of women and slaves, the representation of suffering and salvation, the logic of ethnicity, and ritual practices. </description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e53049a1310" role="1" seniority_sort="1">
+                <display_name>Karen King</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="138072" class_number="16753" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 142R">Foundations of Modern Jazz: Topics</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>West African Musical Traditions. This course is designed to familiarize students with the key structural elements in West African music and how to recognize them in modern jazz. Students will be given tools that will allow them to demonstrate these key concepts in both their improvisational work and assigned compositional exercises.Through coursework, students will deepen their knowledge, understanding and appreciation of important rhythms, melodic patterns, and phrase models, but the fundamental goal is to enable them to feel these elements before and apart from their interpretation of written music. This attention to improvisation will develop the student&amp;rsquo;s creative abilities and introduce them to methods of music composition. Exercises that involve the clapping and singing of specific rhythmic patterns will help students approach sight-reading in an intuitive and responsive way, because strong ear-training and musicianship skills are a key requirements for successful interpretations of and improvisations on the score. By examining instructional DVDs, historical and contemporary recordings, scholarly books and articles, and through the analysis and discussion of class material, the class will collectively develop a more thorough understanding of the principles guiding modern jazz musicians and composers. Students will be expected to contemplate and practice on their instruments the repertoire given to them between class meetings. The West African Ensemble&amp;rsquo;s repertoire consists primarily of original compositions by Lionel Loueke (Benin), Avishai Cohen (Israel), Dafnis Prieto (Cuba), Edward Simons (Venezuela), and Yosvany Terry (Cuba).&amp;nbsp; Other composers will be explored in accordance with the time limits and the direction of each class.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Music PH9 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e212727a1310" role="1" seniority_sort="1">
+                <display_name>Yosvany Terry</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

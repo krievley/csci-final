@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108879" class_number="15420" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 119X">Chocolate, Culture, and the Politics of Food</title>
+            <description>This course will examine the sociohistorical legacy of chocolate, with a delicious emphasis on the eating and appreciation of the so-called "food of the gods." Interdisciplinary course readings will introduce the history of cacao cultivation, the present day state of the global chocolate industry, the diverse cultural constructions surrounding chocolate, and the implications for chocolate's future of scientific study, international politics, alternative trade models, and the food movement. Assignments will address pressing real world questions related to chocolate consumption, social justice, responsible development, honesty and the politics of representation in production and marketing, hierarchies of quality, and myths of purity.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e333596a1310" role="1" seniority_sort="1">
+                <display_name>Carla Martin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

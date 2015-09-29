@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160949" class_number="16900" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ISLAMCIV 158">Proseminar:  Approaching the Qur'an</title>
+            <notes>Addiitonal hour to be arranged.  Additional hour to be arranged.</notes>
+            <prereq>Recommended: No knowledge of Arabic or previous course on Islam required.</prereq>
+            <description>Considers the Qur&amp;#39;an as text and as scripture.&amp;nbsp; Reading of the text in translation as well as of primary and secondary sources to place it in historical context from its 7th-century origins through subsequent centuries.&amp;nbsp; No previous study of Islam or Arabic is assumed, but students with Arabic can work with the original text in a separate section.&amp;nbsp; Topics include:&amp;nbsp; themes of the Qur&amp;#39;an; origins and debates regarding origins; shared biblical/prophetic history; the qur&amp;#39;anic sciences (e.g., tafsÄ«r/exegesis); the Qur&amp;#39;an in Muslim piety and Islamic culture.&amp;nbsp; Requirements include weekly reading and short written or research assignments, regular class participation with one or more short oral presentations, and either a final exam or a term paper.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e51263a1310" role="1" seniority_sort="1">
+                <display_name>William A. Graham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

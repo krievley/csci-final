@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156079" class_number="11161" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1080">Modern States, Islam, and Politics</title>
+            <exam_group>FAS15_D</exam_group>
+            <prereq>Recommended: Approval of instructor required for freshmen.</prereq>
+            <description>This seminar examines the relationships between modern states and religion with particular attention to Islam in Muslim majority countries and beyond. We will analyze institutional arrangements from separation to establishment, and we will examine the meaning of secularism as a modern project. We will explore what the formation of the modern state owes to religion, but also how the modern state transforms religion. More broadly, the seminar will analyze the general consequences of the modern states' engagement with religion, and will explore new potential research paths. Readings will include historical, anthropological, theoretical, as well as quantitative perspectives.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Barker 403 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25382a1310" role="1" seniority_sort="1">
+                <display_name>Malika Zeghal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

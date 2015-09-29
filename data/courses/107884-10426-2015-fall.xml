@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107884" class_number="10426" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ISLAMCIV 100">Supervised Reading and Research in Islamic Studies</title>
+            <description>A course of supervised research in subjects related to the study of Islam and Muslim societies not treated in regular courses.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e25336a1310" role="1" seniority_sort="1">
+                <display_name>Ali S. Asani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

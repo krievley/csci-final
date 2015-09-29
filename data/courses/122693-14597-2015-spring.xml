@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122693" class_number="14597" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CLAS-HEB 130BR">Rapid Reading Classical Hebrew II</title>
+            <notes> Offered jointly with the Divinity School as 1626.</notes>
+            <prereq>Recommended: Classical Hebrew 130a or equivalent.</prereq>
+            <description>Advanced reading in selected biblical poetic texts and intensive review of the grammar of Biblical Hebrew.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="CLAS-HEB">Classical Hebrew</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e49535a1310" role="1" seniority_sort="1">
+                <display_name>Jon Levenson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

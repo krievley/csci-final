@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109842" class_number="14587" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 98GC">Global Workers, Professionals &amp; Entrepreneurs: The New Economic Order Across Borders</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> Spring junior tutorials are by assignment only.</notes>
+            <prereq>Prerequisite: Sociology 97 AND Sociology Concentrators.</prereq>
+            <description>We live in a world where economic activities increasingly span national borders. How do individuals navigate the economic and social relations across borders? This tutorial will guide students through the preparation of an empirical research paper on this broad question.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="William James 450 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e79468a1310" role="1" seniority_sort="1">
+                <display_name>Filiz Garip</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109856" class_number="10621" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HUMAN 11C">Frameworks: The Art of Reading</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>This course introduces "reading" as a wide-ranging practice of interpretation, applicable to social phenomena and historical narratives as well as to literary texts. Participants in this introduction to the humanities will examine a range of texts, from poems and political journalism to graphic novels and blogs, both to practice close and subtle reading and to see how these texts seek to establish rules for their own interpretation. Rather than look at a particular artistic tradition or literary history, we will develop a set of "all-terrain" interpretive skills that can be deployed on a range of intellectual and cultural objects.</description>
+            <department code="HUM">Humanities</department>
+            <course_group code="HUMAN">Humanities</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:29:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e218423a1310" role="1" seniority_sort="1">
+                <display_name>Julie A. Buckler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

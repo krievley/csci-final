@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159875" class_number="15180" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 2340C">Proseminar Social Policy III</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes> Offered jointly with the Kennedy School as SUP-923</notes>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Taubman 301 (HKS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e81418a1310" role="1" seniority_sort="1">
+                <display_name>Ryan Enos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

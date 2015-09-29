@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109750" class_number="10563" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 318">Quantitative Methods in Sociology</title>
+            <exam_group>FAS02_C</exam_group>
+            <notes>First workshop is Thursday, September 10, 2015.  First meeting Thursday, September 18th</notes>
+            <description>This workshop provides a forum in which graduate students and faculty can present in-progress work to a substantively diverse group that shares an interest in quantitative methods. The practice of quantitative social science requires training not only in formal statistical methods but also in research design, model specification, management of complex survey data, and the interpretation of results. While Sociology graduate students receive training in statistical methods, many of the other tools of quantitative research are best taught through example and hands-on experience. This workshop fills a gap in the curriculum, providing an opportunity for students to receive methods-directed feedback on their research projects. Cultivating a sense of the types of concerns that get raised with quantitative social science and good practices for addressing those concerns, this workshop will contribute to building an informal community of quantitative students and faculty who can serve as resources to one another. Although intended primarily for graduate students and faculty in the Harvard Department of Sociology, the workshop is open to faculty, researchers, and students from other disciplines at Harvard and other schools throughout the Boston area.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="13:59:00" location="William James 601 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e17325a1310" role="1" seniority_sort="1">
+                <display_name>Alexandra Killewald</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

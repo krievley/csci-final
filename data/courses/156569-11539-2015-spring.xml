@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156569" class_number="11539" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1454">Neuroscience Fiction: An Introduction to Cutting Edge Neuroscience through the Lens of Film and Tele</title>
+            <notes>Th. 2-4:30 plus a one-hour section to be determined.   </notes>
+            <prereq>Recommended: SLS-20 plus either PSY 14 or MCB 80 or permission of instructor..</prereq>
+            <description>Film and television shows often capture the cutting edge of science, and they sometimes even anticipate future scientific advances. We'll use examples from film and television as an introduction to several hot topics in the field of neuroscience, such as Mind Control, Mind Reading, Smart Pills, and Brain Machine Interfaces, which are all getting closer to reality. Will neuroscientists ever be able to control a person's thoughts, or to know what a person is thinking? Can taking a pill really awaken untapped brain power? Will you ever be able to drive a car without touching a steering wheel? In this course, we will cover the state of the art and the future of these exciting areas of neuroscience (and entertainment). Because these are not textbook topics, this is an advanced course that will focus on reading and discussing the primary literature.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:29:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e24925a1310" role="1" seniority_sort="1">
+                <display_name>George Alvarez</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126795" class_number="15193" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 126">Introduction to Human Rights and Justice</title>
+            <description>This course seeks to give an introduction to contemporary discussions about justice, human rights, and religion. It will survey the conceptions of rights within political theology and within contemporary theories of justice. Special attention will be given to the work of Rawls, Habermas, Nussbaum, Sen, Walzer, Sandel, Motlmann, Woltersdorf, and Schmitt. It will seek to show how a conception of human rights relates to religion with the framework of a discourse ethics.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e54816a1310" role="1" seniority_sort="1">
+                <display_name>Francis Fiorenza</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

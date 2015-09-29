@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127177" class_number="15727" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 24">Painting, Smoking, Eating</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>Titled after Phillip Guston, this course has two agendas: technical assignments that improve your ability to move paint around, and laying conceptual groundwork for personal projects. One task of an artist is to have a relationship with a world. From the vantage of individual studios, we will discuss the boundaries between interior and exterior discourse, as well as the social role of artists and the artist&amp;rsquo;s voice through self-expression as well as abnegation&amp;mdash;auteurs, flaneurs, and ventriloquists.&amp;nbsp;</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Carpenter 3rd Fl (FAS)" start_time="13:00:00"/>
+                <meeting days_of_week="Tuesday" end_time="20:59:00" location="Carpenter 3rd Fl (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e153559a1310" role="1" seniority_sort="1">
+                <display_name>Matt Saunders</display_name>
+            </person>
+            <person id="d1e153559a1310" role="1" seniority_sort="1">
+                <display_name>Matt Saunders</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

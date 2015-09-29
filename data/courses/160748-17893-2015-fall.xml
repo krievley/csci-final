@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160748" class_number="17893" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EMR 123">Issues in the Study of Native American Religion</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>Based around a series of guest speakers, this course interrogates the study of religion in general and of Native American traditions in particular in light of indigenous perspectives and histories. Questions of appropriation, repatriation and religious freedom will be approached through legal as well as cultural frameworks. Jointly offered as HDS 2345 and Religion 1590.</description>
+            <department code="EMR">Ethnicity, Migration, Rights</department>
+            <course_group code="EMR">Ethnicity, Migration, Rights</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e64303a1310" role="1" seniority_sort="1">
+                <display_name>Ann Braude</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

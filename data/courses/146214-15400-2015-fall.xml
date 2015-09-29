@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146214" class_number="15400" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AESTHINT 64">Chaucer: The Canterbury Tales</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes>If student interest exceeds the course limit, a random lottery will be conducted. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results.  See the course website for more details.   This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>One of the most astonishing, vibrant, multivalent texts in the English language, Chaucer's The Canterbury Tales contains characters high and low telling stories of edification and pleasure, in poetry and prose, on topics bawdy and pious. We will read this work in its entirety, while also looking at some of Chaucer's shorter poems and the historical and cultural milieu in which he wrote.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="Harvard Hall 102 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e48892a1310" role="1" seniority_sort="1">
+                <display_name>Nicholas Watson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

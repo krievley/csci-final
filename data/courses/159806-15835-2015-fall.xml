@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159806" class_number="15835" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 41F">Feuding and Peacemaking in Viking Age Iceland (c.870 to c.1150 C.E)</title>
+            <exam_group>FAS09_B</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Close readings of Icelandic family sagas, along with poems, historical narratives, and a law code, provide an interdisciplinary approach to Viking Age Iceland (c.870 to c.1150 C.E.), where a complex legal and political order was maintained in the absence of a state or public officials to enforce the law. &amp;nbsp;</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:29:00" location="Sever 112 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e209272a1310" role="1" seniority_sort="1">
+                <display_name>Stephen White</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

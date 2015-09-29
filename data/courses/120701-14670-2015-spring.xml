@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120701" class_number="14670" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2885">Introduction to Archival Research in Ottoman History: Proseminar</title>
+            <prereq>Recommended: Reading knowledge of Turkish.</prereq>
+            <description>A survey of archival collections related to Ottoman history. Introduction to the archives of the central government, pious endowments, provincial administrations, and court records.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e40638a1310" role="1" seniority_sort="1">
+                <display_name>Cemal Kafadar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

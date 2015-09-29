@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125611" class_number="13364" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EAFM 140">Anime as Global Popular Culture</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes>Tu., Th. 1:30-3:00. Weekly film screening Monday, 7-9.  Enrollment limited to 38.  This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.  Course limited to 38.</notes>
+            <description>This course examines Japanese animation (or anime) through its generic conventions, formal aesthetic, and narrative motifs. At the same time, the course approaches anime as a lens through which we study contemporary media culture and its local and global production, distribution, and reception. In this sense, anime will be treated as a node in an extensive transnational network involving commercial as well as non-commercial mediums such as graphic novels, live-action films, video games, character merchandises, and fanzines/fan-events.&amp;nbsp;In addition to class meetings on Tuesday and Thursday 1:30-2:59, there are film screenings on Monday 7-8:59.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EAFM">East Asian Film and Media Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:59:00" location="Northwest Bldg B108 (FAS)" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e29548a1310" role="1" seniority_sort="1">
+                <display_name>Tomiko Yoda</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

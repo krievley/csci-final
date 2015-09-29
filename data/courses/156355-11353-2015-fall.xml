@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156355" class_number="11353" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 2474">Approaches to the Study of the US Congress: Models and Methods</title>
+            <exam_group>FAS06_E</exam_group>
+            <description>In this seminar we survey and critically evaluate various models of Congressional politics. Special emphasis is given quantitative and modeling approaches to legislative organization, legislative process, congressional elections, legislative parties, House-Senate comparisons, and inter-branch politics. Students are expected to participate actively each week, complete several small writing assignments, and produce a research paper.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="CGIS Knafel K354 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e86928a1310" role="1" seniority_sort="1">
+                <display_name>James Snyder</display_name>
+            </person>
+            <person id="d1e83281a1310" role="1" seniority_sort="2">
+                <display_name>Kenneth Shepsle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

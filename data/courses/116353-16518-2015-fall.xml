@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16518" school_id="fas" section="215" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>Our culture&amp;rsquo;s most iconic archaeologist is the glamorous Indiana Jones&amp;mdash;a steely-eyed swashbuckler who cracks his leather bullwhip and fearlessly (with the exception of snakes) raids tombs for priceless relics. But who really are archaeologists and what do they actually do as discoverers and curators of the past? In our first unit, we will consider the rights and problems revolving around the passage of NAGPRA (The Native American Graves Protection and Repatriation Act) and in particular its relation to Harvard&amp;rsquo;s famous Peabody Museum. How is this significant piece of legislation, which argues for the return of objects to tribes in the United States, viewed by those Native American tribes, museums, and archaeologists themselves? In our second unit, we grapple with the very mission of archaeology. How do archaeologists think about the process of collecting data--often apparently scant, fragile, and historically distant--and then its interpretation? How much can archaeologists claim to know about the human past? To help us frame this question we will replicate an experiment done by archaeologists in studying designs on tombstones in Harvard&amp;rsquo;s own backyard. In our final unit, students will probe the ways in which political regimes use archaeology to legitimate a version of the past they favor. We will touch upon contradictory and competing narratives of the past between Israel and Palestine, Nazi Germany&amp;#39;s use of archaeology to justify the values of the Third Reich, and Saddam Hussein&amp;#39;s appeals to history to glorify his reign.  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Memorial Hall 028 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e174445a1310" role="1" seniority_sort="1">
+                <display_name>Janling Fu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

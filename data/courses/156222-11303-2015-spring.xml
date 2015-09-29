@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156222" class_number="11303" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WOMGEN 1272">Global Reproductive Health</title>
+            <notes>Madina Agenor  </notes>
+            <description>This interdisciplinary seminar examines how gender, poverty, development and global health policies, legacies of colonialism, and social institutions influence sexual and reproductive health outcomes (pregnancy, maternal health, HIV/AIDS, cervical cancer, sexual violence) and access to sexual and reproductive health services (family planning, abortion, HIV testing and counseling, cervical cancer screening) among women in low-income countries. We will address how social and economic context affect&amp;nbsp;women&amp;#39;s sexual and reproductive health across countries in the Global South&amp;nbsp;and examine how inequities based on socioeconomic position, ethnicity, nationality, religion, gender, and sexuality shape women&amp;#39;s sexual and reproductive health inequities within these countries. Further, we will discuss how community-based health interventions that target the social determinants of health at multiple levels can help promote the sexual and reproductive health and rights of women in low-income countries.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e144009a1310" role="1" seniority_sort="1">
+                <display_name>Madina Agenor</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

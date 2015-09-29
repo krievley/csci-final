@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159765" class_number="14804" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PERSIAN 165">Sweet and Sour: A Taste of Persian Literary and Visual Culture</title>
+            <notes> Instructor: Justine Landau. Knowledge of Persian not required; a separate section will be arranged for students with adequate reading knowledge of Persian.</notes>
+            <description>Introduction to some of the most significant aspects of Persian Culture, explored through the notion of &amp;ldquo;sweet-and-sour&amp;rdquo; (torsh-o shirin). Borrowed from the realm of food and cookery, the idiom refers to a dominant flavor in Persian cuisine. Yet, it may also express the conflicting nature of human experience or the savory contrasts at play in works of art and craft. This course examines the paradigm of taste and its role as an aesthetic and anthropological criterion in pre-modern and modern Persian culture. From the pickles market in Hamadan and Avicenna&amp;rsquo;s Canon of Medicine to Nezami&amp;rsquo;s romance Khosrow-o Shirin and Abbas Kiarostami&amp;rsquo;s Taste of Cherry, we will survey a wide array of material from literature, iconography, cinema and the culinary arts.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="PERSIAN">Persian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="12:01:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e199909a1310" role="1" seniority_sort="1">
+                <display_name>Justine Landau</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

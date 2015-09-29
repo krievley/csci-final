@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110203" class_number="10835" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1852">Clinical Psychology in Everyday Life</title>
+            <exam_group>FAS08_I</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and PSY 18 before enrolling in this course.</prereq>
+            <description>This course is designed to give you exposure to the types of evidence-based psychological interventions available for many clinical and non-clinical conditions, such as sadness, anxiety, substance use, insomnia, pain-management, weight-loss, and why your roommate can't stop interrupting you. While the seminar emphasizes intervention research in the context of children and adolescents, the principles are often applicable across age groups. The seminar is not a self-help program or a training program for providing therapeutic services to others. Instead, the weekly discussions, exercises, and assignments will help you view the world through the lens of a scientist-practitioner - and apply those insights to everyday life in a scientific manner.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="William James B4 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e147273a1310" role="1" seniority_sort="1">
+                <display_name>Lauren Santucci</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

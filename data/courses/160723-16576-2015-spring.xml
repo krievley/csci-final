@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160723" class_number="16576" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 151V">Venice</title>
+            <description>Undergraduate colloquium/conference course on the architectural and urban history of Venice from the origins to the end of the Republic, with emphasis on the basilica of San Marco, the mendicant churches and tombs, medieval and Renaissance palaces, and the villas and churches of Palladio, including those in Vicenza and the Veneto. Some coverage of the major Renaissance artists: Mantegna, the Bellini, and Titian, and an introduction to the criticism of Ruskin. Weekly lecture plus frequent student reports.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e185931a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Connors</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

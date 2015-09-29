@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111650" class_number="11372" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 299AR">Comparative Literature in Theory and Practice</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> Required of first-year graduate students in Comparative Literature; open to all graduate students interested in the study of literature in transnational and interdisciplinary perspectives.</notes>
+            <description>An introduction to the discipline of comparative literature, looking at major issues in the history and current practice of the discipline as practiced in the USA, with special emphasis on seeing how comparatists enter into ongoing debates concerning theory and method.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Dana Palmer 102 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42860a1310" role="1" seniority_sort="1">
+                <display_name>David Damrosch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

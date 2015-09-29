@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109226" class_number="20167" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HBTM 303QC">Vision: A System and its Assessment</title>
+            <notes>Meeting Dates:  September 9,  15, 24,  30, October 14, 21, 28, November 4, 18, 2015.  Meeting Time:  Wednesdays, 3:00 - 5:00pm, except as noted.  Location:  2nd floor conference room, Schepens Eye Research Institute, 20 Staniford Street, Boston 02114  </notes>
+            <description>This course provides an introduction to the visual system and its assessment. In general, we will consider vision as a system rather than its low-level components. Each two-hour session consists of two lectures provided by faculty with expertise in that area. Topics will include basic science and clinical topics, normal vision and abnormal vision, methods of assessment of animals and humans, clinical and laboratory measures.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="HBTM">Human Biology and Translational Medicine</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e11339a1310" role="1" seniority_sort="1">
+                <display_name>Patricia D'Amore</display_name>
+            </person>
+            <person id="d1e15580a1310" role="1" seniority_sort="2">
+                <display_name>Russell Woods</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127469" class_number="13853" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 60X">Fiction in the Flesh: Studio Course</title>
+            <exam_group>FAS08_J</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  No prior filmmaking experience necessary. Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>In this introduction to fiction filmmaking, we will explore the technical, structural, sensorial, and ontological language of cinema in all its idiomatic, hybrid expressions, from associative assemblages to naturalism. Emphasis will be given to the synesthetic processes of meaning construction, from the seed of an idea to its screen embodiments shot by shot, as well as the relation between sound and image. Projects will be collaborative as well as individual. Occasional in-class workshops by film professionals and artists.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Sever 415 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e33910a1310" role="1" seniority_sort="11">
+                <display_name>Guy Maddin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

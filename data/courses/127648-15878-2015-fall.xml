@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127648" class_number="15878" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SEMPHIL 151">Introduction to Northwest Semitic Epigraphy</title>
+            <exam_group>FAS18_H</exam_group>
+            <notes>Note:  This course will meet on Wednesday, September 2 , in Semitic Museum 201, 12:00noon &amp;ndash; 2:00pm. Instructor Matt Rasure has made every effort to reach those students who expressed interest in the course, and all interested students are encouraged to come to this first class meeting if their &amp;ldquo;Monday&amp;rdquo; schedule permits. Questions? Email Matt at rasure@fas.harvard.edu.   Link to class syllabus   Offered jointly with the Divinity School as 1152.</notes>
+            <prereq>Recommended: Good working knowledge of Classical (Biblical) Hebrew.</prereq>
+            <description>Readings in Hebrew, Phoenician and other Northwest Semitic inscriptions with an introduction to methods and techniques of Northwest Semitic palaeography, and attention to problems of historical grammar.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="SEMPHIL">Semitic Philology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="Semitic Museum 201" start_time="12:01:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e28494a1310" role="1" seniority_sort="1">
+                <display_name>Peter Machinist</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

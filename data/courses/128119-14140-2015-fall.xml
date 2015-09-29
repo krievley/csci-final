@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128119" class_number="14140" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 24P">Getting to Know Charles Darwin</title>
+            <exam_group>FAS13_G</exam_group>
+            <notes> Required field trips to the Arnold Arboretum of Harvard University, the Museum of Comparative Zoology, and a local pigeon fancier will be included.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>We will read a selection of Darwin's publications, as well as his private correspondence, paying close attention to the man behind the science as revealed by his writings. We will get to know Darwin, the avid breeder of pigeons, lover of barnacles, devoted father and husband, gifted correspondent and tactician, and remarkable backyard scientist. Together, the class will reproduce ten of Darwin's classic Down House experiments and observations that were central to his case for natural selection and evolution.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Biological Labs 1075/1077(FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e218969a1310" role="1" seniority_sort="1">
+                <display_name>William Friedman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

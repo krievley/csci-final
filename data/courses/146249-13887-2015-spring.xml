@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146249" class_number="13887" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EASTD 98F">Junior Tutorial - The Study of East Asian Religions</title>
+            <notes> EAS 98a, 98b, 98d, 98g or a substitution approved by the Director of Undergraduate Studies is required for all EAS concentrators</notes>
+            <prereq>Recommended: Culture and Belief 33: Introduction to the Study of East Asian Religions. If students have not previously taken this course, they are required to attend those lectures concurrently with this tutorial.</prereq>
+            <description>This tutorial is designed to deepen and extend the student's knowledge of the study of East Asian religions. It will build on the student's foundational understanding of the development and history of Buddhism, Daosim, Confucianism, Shinto, and various forms of popular religion, by situating that material in the context of larger issues in the study of East Asian religions. The overarching concern within this tutorial will be on reading and discussing methodologically oriented scholarship that will introduce the student to new and intellectually engaging approaches to the various traditions covered.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EASTD">East Asian Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e10308a1310" role="1" seniority_sort="1">
+                <display_name>James Robson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159943" class_number="16358" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BCMP 310QC">Eukaryotic Gene Regulation</title>
+            <description>Gene regulation is central to control of all functions in the organism.&amp;nbsp; This course will explore our contemporary understanding of gene regulation by providing molecular and biochemical perspectives on topics that include general aspects of gene regulation such as the basal transcriptional machinery, chromatin remodeling and its role in gene regulation, and co-transcriptional processes, in addition to gene regulation in specific contexts.&amp;nbsp; This course is an advanced reading course designed for students with introductory exposure to biochemistry, molecular biology and/or genetics with BCMP 200 or an equivalent as a prerequisite.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>0.50</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e247776a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Buratowski</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

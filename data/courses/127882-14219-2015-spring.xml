@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127882" class_number="14219" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 90P">Pre-Textos: Las artes interpretan</title>
+            <notes>Conducted in Spanish. Students are allowed to take a maximum of two courses at the 60-level in Spanish, not including Spanish 60.   Conducted in Spanish. Students are allowed to take a maximum of two courses at the 60-level in Spanish, not including Spanish 60.</notes>
+            <prereq>Recommended: A score above 750 on the SAT II test or Harvard Placement test.</prereq>
+            <description>Texts become prompts for art-making in this class. By inspiring painting, dance, play, music, sculpture, costumes, texts lead to deep and daring interpretations. Latin American classics that might otherwise seem difficult become raw material for creativity as students stretch their command of Spanish. They learn that arts interpret and explore meanings and that theory is a user-friendly afterthought. This training prepares facilitation of Pre-Texts workshops in Boston and abroad.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e89349a1310" role="1" seniority_sort="1">
+                <display_name>Adriana Gutierrez</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

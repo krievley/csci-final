@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156039" class_number="11140" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 980H">In the Presence of the Enemy: Social-Psychological Approaches to Intergroup Conflict</title>
+            <exam_group>FAS14_H</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and PSY 15 before enrolling in this course.</prereq>
+            <description>Conflicts begin in human minds -therefore understanding conflict requires the understanding of the influence of social-psychological dynamics-. In this course we will focus on social psychological concepts of intergroup conflict, such as identity, collective memory and stereotypes, and inquire how they propel groups towards conflict. We will also consider how understanding these processes can help prevent and resolve conflicts. For example, we will ask, how individuals reform as one identity group. What role does collective memory play in sustaining conflicts? Can contact and dialogue help to overcome conflict? Which specific circumstances are required for a successful conflict resolution?</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="William James 1465 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e147891a1310" role="1" seniority_sort="1">
+                <display_name>Mariska Kappmeier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

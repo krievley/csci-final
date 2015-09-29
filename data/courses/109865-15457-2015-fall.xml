@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109865" class_number="15457" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1543">19th-Century Religious Thought: Theology and the Critique of Religion</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Offered jointly with the Divinity School as 2431.</notes>
+            <description>The nineteenth century formulated many of the questions and frameworks that continue to dominate theology and religious reflection in the West. This course considers the developing interplay between modern Christian theology (primarily continental) and the principal philosophical and social critiques of religion in the nineteenth century. Topics include human nature, religion, the divine-human relationship, religious knowledge, the social, and historicity. Readings from Lessing, Kant, Schleiermacher, Hegel, Marx, Feuerbach, Kierkegaard, Nietzsche, Harnack, and Troeltsch.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e55692a1310" role="1" seniority_sort="1">
+                <display_name>David Lamberth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

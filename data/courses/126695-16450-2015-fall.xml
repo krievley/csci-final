@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126695" class_number="16450" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEMBIO 300HFA">Introduction to Chemical Biology Research</title>
+            <notes>TBD and members of the Committee.  </notes>
+            <description>Lectures introduce the research areas of current program faculty in Chemical Biology.</description>
+            <department code="CHBI">Chemical Biology</department>
+            <course_group code="CHEMBIO">Chemical Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>1</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:29:00" location="" start_time="16:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e116646a1310" role="1" seniority_sort="1">
+                <display_name>Suzanne Walker</display_name>
+            </person>
+            <person id="d1e116649a1310" role="1" seniority_sort="2">
+                <display_name>Daniel Kahne</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

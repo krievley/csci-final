@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114024" class_number="14032" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 3010">Direction of Doctoral Dissertations</title>
+            <notes>Members of the Department  In all cases, the dissertation topic must have been formally submitted to, and approved by, a dissertation adviser.</notes>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

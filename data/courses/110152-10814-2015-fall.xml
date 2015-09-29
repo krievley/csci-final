@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110152" class_number="10814" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 3200">Dissertation Writing Workshop in Social Anthropology</title>
+            <exam_group>FAS14_A</exam_group>
+            <notes>Fall: W., 12&amp;#8211;2; Spring:TBA   </notes>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Peabody Museum 12" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7939a1310" role="1" seniority_sort="1">
+                <display_name>John Comaroff</display_name>
+            </person>
+            <person id="d1e7942a1310" role="1" seniority_sort="2">
+                <display_name>Jean Comaroff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

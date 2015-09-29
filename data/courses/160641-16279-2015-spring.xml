@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160641" class_number="16279" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BIOSTAT 234">Introduction to Data Structures and Algorithms</title>
+            <description>Introduction to the data structures and computer algorithms that are relevant to statistical computing. The implementation of data structures and algorithms for data management and numerical computations are discussed.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="15:20:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e467026a1310" role="1" seniority_sort="1">
+                <display_name>Christoph Lange</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

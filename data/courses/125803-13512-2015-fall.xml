@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125803" class_number="13512" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 180">Regeneration and Repair in the Mammalian Brain</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes>Tu., Th., 2:30-4, and a weekly section to be arranged.   </notes>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; MCB 80 or permission of the instructor.</prereq>
+            <description>Regenerative biology of the mammalian central nervous system (CNS), motivated by a focused and related set of human CNS disorders: This course will discuss molecular and cellular mechanisms of regeneration and repair in the mammalian central nervous system (CNS), motivated by prototypical examples in the motor control systems and circuitry of the cerebral cortex and spinal cord centrally relevant to spinal cord injury, ALS / Lou Gehrig&amp;#39;s disease (&amp;quot;amyotrophic lateral sclerosis&amp;quot;, and related disorders), and spinal muscular atrophy (SMA).&amp;nbsp; We will take an approach integrating developmental and regenerative biology: we will compare and contrast aspects of embryonic neural development (molecular and cellular) with adult neural plasticity; discuss limitations to neuronal and axonal regeneration in the mature mammalian CNS following degeneration or injury; examine CNS regeneration approaches directed at overcoming intrinsic limitations; explore developmental controls, gene manipulation, and cellular reprogramming to promote neurogenesis, axonal regeneration, and directed differentiation in diseased adult mammalian brain; and consider technology such as &amp;quot;brain-computer interfaces&amp;quot;.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Sherman Fairchild G62 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e168222a1310" role="1" seniority_sort="1">
+                <display_name>Jeffrey Macklis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

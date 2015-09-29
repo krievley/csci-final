@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="150189" class_number="13447" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BE 110">Physiological Systems Analysis</title>
+            <exam_group>FAS07_B</exam_group>
+            <prereq>Recommended: Applied Mathematics 21b or Mathematics 21b or equivalent. Physiology at the level of Engineering Sciences 53 suggested.</prereq>
+            <description>A survey of systems theory with applications from bioengineering and physiology. Analysis: differential equations, linear and nonlinear systems, stability, the complementary nature of time and frequency domain methods, feedback, and biological oscillations. Applications: nerve function, muscle dynamics, cardiovascular regulation. Laboratory: neural models, feedback control systems, properties of muscle, cardiovascular function.</description>
+            <department code="BME">Biomedical Engineering</department>
+            <course_group code="BE">Biomedical Engineering</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Maxwell Dworkin G125 (SEAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e231684a1310" role="1" seniority_sort="1">
+                <display_name>Kevin K. Parker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

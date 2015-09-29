@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143013" class_number="12237" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 320">Spanish and Hispanic-American Literature: Supervised Reading and Research</title>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

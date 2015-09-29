@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109762" class_number="15590" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2950A">Approaches to Global History: Seminar</title>
+            <exam_group>FAS06_E</exam_group>
+            <description>Approaches to global history, including economic and labor systems, cultural transfer, imperial frameworks, migration, and environmental challenges. Students will prepare and present a research paper as well cover common readings.&amp;nbsp; Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Robinson LL Library (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7195a1310" role="1" seniority_sort="1">
+                <display_name>Sven Beckert</display_name>
+            </person>
+            <person id="d1e7198a1310" role="2" seniority_sort="2">
+                <display_name>Charles Maier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

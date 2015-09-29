@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119189" class_number="12575" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1853">Self-Destructive Behaviors</title>
+            <prereq>Recommended: Science of Living Systems 20 and Psychology 18.</prereq>
+            <description>Why do some individuals intentionally engage in behaviors that cause themselves direct bodily harm, such as suicide and self-mutilation? We explore past and current models for understanding self-harm behaviors. We consider the classification, etiology, assessment, and treatment of self-harm behaviors from psychological, developmental, contextual, and biological perspectives.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e85827a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Nock</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

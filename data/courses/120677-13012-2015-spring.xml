@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120677" class_number="13012" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WOMGEN 97">Tutorial - Sophomore Year</title>
+            <notes> Required of Women, Gender, and Sexuality concentrators in their first year in the concentration. Recommended for undergraduates pursuing a secondary field in WGS.</notes>
+            <description>An introduction to foundational concepts and skills in the study of gender and sexuality. Readings include Gloria AnzaldÃºa, Donna Haraway, Patricia Hill Collins, KimberlÃ© Crenshaw, Monique Wittig, Alison Bechdel, Chandra Talpade Mohanty, and Michel Foucault.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e12506a1310" role="1" seniority_sort="1">
+                <display_name>Linda Schlossberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

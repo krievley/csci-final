@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122224" class_number="15702" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1201">Your Brain on Drugs: Psychopharmacology</title>
+            <exam_group>FAS04_A</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 18, or MCB 80 before enrolling in this course.</prereq>
+            <description>An introduction to how drugs affect mood, sensation, consciousness, and other psychological and behavioral functions in both healthy and disease states. Introduces concepts in neuroscience and pharmacology to understand how drugs are used to treat drug abuse, psychiatric disorders and why individuals use recreational drugs. Covers all CNS drugs, including antidepressants, antipsychotics, alcohol, and both licit and illicit drugs of abuse. Debates controversial topics such as research with psychiatric populations, diagnosing ADHD, teenage suicide, marijuana legalization, and needle exchange programs.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Yenching Library 118 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e238818a1310" role="1" seniority_sort="1">
+                <display_name>Scott Lukas</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

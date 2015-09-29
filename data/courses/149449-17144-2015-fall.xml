@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="149449" class_number="17144" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TIME-T 1">TIME: Teaching Fellow Related</title>
+            <notes>Units of TIME may not be used to fulfill the residence requirement for the AM degree.  It is inappropriate for graduate students to receive credit for the same work for which they are financially compensated, therefore, TIME-T should be used and not the course being taught.</notes>
+            <description>TIME-T may be used to indicate that a student has received a teaching appointment and is engaged in teaching a course.</description>
+            <department code="NODEPT"/>
+            <course_group code="TIME-T"/>
+            <course_type>Reading and Research</course_type>
+            <credits>16</credits>
+        </catalog_info>
+    </course>
+</courses>

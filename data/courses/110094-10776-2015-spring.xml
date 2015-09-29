@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110094" class_number="10776" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 102">Introduction to Statistics for Life Sciences</title>
+            <notes>M., W., F., at 11, and weekly sections to be arranged.  David P. Harrington (FAS/Public Health)  Only one of the following courses may be taken for credit: Statistics 100, 101, 102, 104. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <description>Introduces the basic concepts of probability, statistics and statistical computing used in medical and biological research. The emphasis is on data analysis and visualization instead of theory. Designed for students who intend to concentrate in a discipline from the life sciences.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e36224a1310" role="1" seniority_sort="1">
+                <display_name>David P. Harrington</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

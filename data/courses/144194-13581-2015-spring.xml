@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144194" class_number="13581" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 168R">Sociobotany</title>
+            <prereq>Recommended: Permission of instructor.</prereq>
+            <description>A study of the diversity and evolution of plant life cycles, with an emphasis on interactions between the generations. The course this semester will focus on life histories of bryophytes.&amp;nbsp;</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e110220a1310" role="1" seniority_sort="1">
+                <display_name>David Haig</display_name>
+            </person>
+            <person id="d1e218969a1310" role="1" seniority_sort="2">
+                <display_name>William Friedman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

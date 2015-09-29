@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115919" class_number="15167" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH 59">Spanish and the Community</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Not open to auditors.</notes>
+            <prereq>Recommended: A score between 721-750 on the SAT II test or on the Harvard Placement Test, Spanish 40 or permission of course head.</prereq>
+            <description>An advanced language course that examines the richness and complexity of the Latino experience in the US while promoting community engagement as a vehicle for greater linguistic fluency and cultural understanding. Students are placed with community organizations within the Boston area and volunteer for four hours a week. Class work focuses on expanding students' oral and written proficiency in Spanish through discussing and analyzing readings, arts, and films by and about Latinos in the US.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Sever 203 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e2836a1310" role="1" seniority_sort="1">
+                <display_name>Maria Parra-Velasco</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

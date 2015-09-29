@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112874" class_number="11068" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 203">Advanced Quantitative Research Methods</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Required of, and ordinarily limited to, second-year graduate students in Sociology. Previously offered as 203a.</notes>
+            <prereq>Recommended: Sociology 202 or basic course in regression analysis.</prereq>
+            <description>Matrix approach to regression analysis with an emphasis on the assumptions behind OLS. Instrumental variables, generalized least squares, probit and logit models, survival analysis, hierarchical linear models, and systems of equations are studied.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="William James 601 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e79099a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Winship</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

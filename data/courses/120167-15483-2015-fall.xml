@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120167" class_number="15483" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 125">Widely Applied Physics</title>
+            <exam_group>FAS13_C</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+            <prereq>Recommended: Physics 15a,b,c, and mathematics at the level of Mathematics 21a. Physics 143a and 181 are very helpful, and may be taken concurrently.</prereq>
+            <description>Applies elementary physics to the real world and fundamental phenomena, introducing estimation and calculational techniques that are commonly used by research physicists when addressing new problems. Emphasis is on developing physical intuition and the ability to do order-of-magnitude calculations. New physical concepts are introduced as necessary. Example topics: the Big Bang and searches for Earth-like exoplanets; material properties and phase transitions; masers, lasers, and the global positioning system; magnetic resonance imaging and physiology of major organs; Earth properties &amp; human energy use. Example estimation techniques: dimensional analysis, commonly used concepts such as diffusion and the Bloch model, scaling laws, and symmetries and conservation laws.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:29:00" location="Jefferson 356 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e2271a1310" role="1" seniority_sort="1">
+                <display_name>John Doyle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

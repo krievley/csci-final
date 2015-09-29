@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159927" class_number="15221" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 121">The Pursuit of Community in America</title>
+            <description>What is community?&amp;nbsp;&amp;nbsp;Where does it come from, and what does it accomplish?&amp;nbsp;&amp;nbsp;To engage these questions, we will explore community from three distinct but complimentary perspectives: ethnography, intention, and policy.&amp;nbsp;&amp;nbsp;We begin with classic accounts of urban and suburban communities, and more recent work on communities struggling through changes like gentrification or environmental disasters.&amp;nbsp;&amp;nbsp;From there we turn to communities formed through intention: cults, communes, workplace cultures, social movements, and virtual networks.&amp;nbsp;&amp;nbsp;Finally, we consider how community enters the policy and planning domain, through community policing and new urbanist planning principles.&amp;nbsp;&amp;nbsp;Students will have opportunities to reflect on their own ideas about community via analytical response papers and an original piece of research exploring a community of their own choosing.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e209832a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Kaliner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

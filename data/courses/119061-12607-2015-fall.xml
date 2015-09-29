@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119061" class_number="12607" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LIFESCI 100">Experimental Research in the Life Sciences</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes> Location of the first meeting will be announced on the course website. Open to freshmen, sophomores, juniors, and seniors, regardless of concentration, and suitable for students either with or without extensive laboratory experience. The course may only be repeated once and the second enrollment must be approved by the instructor.</notes>
+            <prereq>Prerequisite: LPS A OR LS 1a</prereq>
+            <description>A laboratory course that immerses students in a dynamic project-based research environment. Participate in experimental projects directly linked with ongoing faculty research. Students select a project from the following research tracks: neurobiology, microbial sciences, cell biology, and synthetic biology. New projects, including some in other research fields, are offered every term. In a highly collaborative atmosphere, students form a fully-functional and diverse research group based on the sharing of ideas and progress reports between projects. The spring microbiology project is part of the &amp;quot;genomes to Biomes&amp;quot; series.</description>
+            <department code="LSCI">Life Sciences</department>
+            <course_group code="LIFESCI">Life Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Northwest Bldg B108 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e21898a1310" role="1" seniority_sort="1">
+                <display_name>Alain Viel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113256" class_number="15154" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 25">Introduction to the Sociology of Organizations</title>
+            <exam_group>FAS08_J</exam_group>
+            <notes> May be counted for introductory concentration requirement, if letter-graded.</notes>
+            <description>This course examines the evolution of the modern organization, focusing on changing approaches to corporate strategy and to managing employees.&amp;nbsp; We read both social scientific analyses and Harvard Business School cases to trace the history of management, from the harsh principles of the &amp;ldquo;drive system&amp;rdquo; to the latest theories of how &amp;ldquo;work teams&amp;rdquo; improve productivity and how focusing on a firm&amp;rsquo;s &amp;ldquo;core competence&amp;rdquo; improves the bottom line.&amp;nbsp; The course covers research examining the efficiency and the equity of current corporate practice</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:59:00" location="William James 105 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e78869a1310" role="1" seniority_sort="1">
+                <display_name>Frank Dobbin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

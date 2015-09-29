@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116853" class_number="15288" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 99A">Senior Thesis Tutorial</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes> Required of, and ordinarily limited to, seniors completing the History concentration's thesis program. Permission must be obtained from the Tutorial Office.</notes>
+            <description>Research and writing the senior thesis in History. Part one of a two-part series.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="20:59:00" location="Robinson LL Library (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e174914a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth More</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

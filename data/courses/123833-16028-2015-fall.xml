@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123833" class_number="16028" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LPS A">Foundational Chemistry and Biology</title>
+            <exam_group>FAS09_A</exam_group>
+            <notes> Students should use their scores on the Chemistry and Biology Placement Tests to determine whether to enroll in Life and Physical Sciences A or Life Sciences 1a. This course assumes fluency with high school algebra. Students who have completed Life Sciences 1a, Physical Sciences 1, Physical Sciences 10, Physical Sciences 11, Chemistry 17 or Chemistry 20 may not take Life and Physical Sciences A for credit. This course, when taken for a letter grade, meets the General Education Requirement for Science of Living Systems.</notes>
+            <description>This course introduces fundamental concepts in chemistry and biology. Topics in chemistry include stoichiometry, acids and bases, aqueous solutions, gases, thermochemistry, electrons in atoms, and chemical bonding. The course also examines biological molecules, the transfer of information from DNA to RNA to protein, and cell structure and signaling.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="LPS"/>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="Science Ctr Hall D (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e88307a1310" role="1" seniority_sort="1">
+                <display_name>Gregory C. Tucci</display_name>
+            </person>
+            <person id="d1e230998a1310" role="1" seniority_sort="2">
+                <display_name>Martin Samuels</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

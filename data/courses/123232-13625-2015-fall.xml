@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123232" class_number="13625" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 221">Algebra</title>
+            <exam_group>FAS12_A</exam_group>
+            <prereq>Recommended: Mathematics 123.</prereq>
+            <description>A first course in Algebra: Noetherian rings and modules, Hilbert basis theorem, Cayley-Hamilton theorem, integral dependence, Galois theory, Noether normalization, the Nullstellensatz, localization, primary decomposition.&amp;nbsp; Representation theory of finite groups. Introduction to Lie groups and Lie algebras:&amp;nbsp; definitions, the exponential maps, semi-simple Lie algebras, examples.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Science Ctr 411 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e141919a1310" role="1" seniority_sort="1">
+                <display_name>Alison Miller</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

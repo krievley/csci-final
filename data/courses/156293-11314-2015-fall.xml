@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156293" class_number="11314" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 37K">Horror in Literature and Movies: Cultural, Psychological, and Scientific Aspects of the Horror Genre</title>
+            <exam_group>FAS12_G</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar involves defining fictional horror and also creating horror stories. As such, the course is both a discussion of horror and an introduction to creative horror writing. We will utilize literature from film theorists, literary critics, cultural psychologists, neuroscientists, and the popular press. We will also examine seminal films and written stories. The instructor is both a medical school professor and a professional horror writer. Through techniques that have been employed at writing workshops and panel discussions, we will develop our own sense of what constitutes horror and at the same time hone our creative writing skills.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="Barker 218 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e140943a1310" role="1" seniority_sort="1">
+                <display_name>Steven Schlozman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

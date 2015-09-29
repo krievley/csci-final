@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110450" class_number="14861" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 63">Biochemistry and Molecular Medicine</title>
+            <exam_group>FAS15_A</exam_group>
+            <prereq>Prerequisite: LS 1a OR LPS A</prereq>
+            <description>The course integrates an introduction to the structure of macromolecules and a biochemical approach to cellular function. Topics addressing protein function will include enzyme kinetics, the characterization of major metabolic pathways and their interconnection into tightly regulated networks, and the manipulation of enzymes and pathways with mutations or drugs. An exploration of simple cells (red blood cells) to more complex tissues (muscle and liver) is used as a framework to discuss the progression in metabolic complexity. Students will also develop problem solving and analytical skills that are more generally applicable to the life sciences.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Harvard Hall 103 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e21898a1310" role="1" seniority_sort="1">
+                <display_name>Alain Viel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

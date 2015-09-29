@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109977" class_number="10701" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG 90CU">Circus and Utopia in Brazilian Culture</title>
+            <notes>Conducted in Portuguese.   Conducted in Portuguese.</notes>
+            <description>Analyzes the circus as an image of Brazil and explores how this image allows for an interpretation of Brazilian history and culture from the perspective of utopian discourses found, for example, in literature, popular music, dance, and cinema. Authors, songwriters, film directors, and critics include Jorge de Lima, Murilo RubiÃ£o, Adriana Lisboa, JosÃ© Miguel Wisnik, Edu Lobo, Chico Buarque, Elis Regina, Arnaldo Jabor, and CacÃ¡ Diegues.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114925" class_number="16611" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 302">Direction of Doctoral Dissertations</title>
+            <notes> Taught by members of the department.</notes>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e80849a1310" role="1" seniority_sort="1">
+                <display_name>Lawrence Bobo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

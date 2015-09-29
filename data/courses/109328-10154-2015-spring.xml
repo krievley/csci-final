@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109328" class_number="10154" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 254">The Standard Model</title>
+            <prereq>Recommended: Introductory relativistic field theory, at the level of Physics 253a.</prereq>
+            <description>The Standard Model of particle physics: theory and experimental implications. Topics include nonabelian gauge theory, spontaneous symmetry breaking, anomalies, the chiral Lagrangian, QCD and jets, collider physics and simulation, the Higgs at the LHC.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e1397a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Reece</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

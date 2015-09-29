@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109809" class_number="10591" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 52">The Joy of Electronics - Part I</title>
+            <exam_group>FAS08_A</exam_group>
+            <notes> Each lecture is followed by 2.5 hour lab.</notes>
+            <description>Introduction to designing circuits to solve real problems. Two lecture and two lab sessions a week blend instruction with hands-on lab work to emphasize understanding, building and testing circuits. The course incorporates useful design experiences from day one. Covered topics include amplication, feedback, impedance, stability, filtering, switching, digital logic, microcontrollers, and more. The class ends with an open ended project that challenges students to build on core concepts.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Pierce 301 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7533a1310" role="1" seniority_sort="1">
+                <display_name>David Abrams</display_name>
+            </person>
+            <person id="d1e7536a1310" role="1" seniority_sort="2">
+                <display_name>Avinash Uttamchandani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

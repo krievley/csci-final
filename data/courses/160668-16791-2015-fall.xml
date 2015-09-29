@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160668" class_number="16791" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 119">Poetry in Flux - Dance Afoot</title>
+            <exam_group>FAS13_G</exam_group>
+            <notes> The course will feature film screenings (LoÃ¯e Fuller and Pina Bausch; animation by Oskar Fischinger), guest lectures and visits to Harvard Library collections. Weâll be reading poetic texts in translation, with an eye to comparing them with the original.</notes>
+            <description>This course explores the interchange between dance and poetry in late nineteenth and early twentieth-century culture across a variety of literary traditions: Anglo-American (Pound, Yeats, Eliot); French (Baudelaire, Rimbaud, Mallarm&amp;eacute;); German and Austrian (Trakl, Rilke); Italian (Campana, Marinetti, Soffici); and Spanish (Lorca). How can poetry draw inspiration from dance and use it as a model for formal experimentation? Through a hands-on engagement with a number of seminal texts, students will learn how dance can set words in motion&amp;mdash;and how, conversely, words can deal with the challenge of representing subtle nuances of bodily expression. We&amp;#39;ll focus on issues such as musicality and rhythm, free verse, meter and lyricism in poetry; broader attention will be given to inter-artistic borrowings, including synaesthesia (the blending of sensory modalities), ekphrasis (the literary imitation of a visual object), and Gesamtkunstwerk (the drive to achieve a total work of art).</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Dana Palmer 102 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e223032a1310" role="1" seniority_sort="1">
+                <display_name>Cecile Guedon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

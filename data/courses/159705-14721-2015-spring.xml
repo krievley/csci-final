@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159705" class_number="14721" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 108B">The Hippocampus: From Molecules to Memory</title>
+            <prereq>Prerequisite: LS 1a AND MCB 80</prereq>
+            <description>The hippocampus encodes our spatial and temporal relationship with our environment. Hippocampal processing of space and time constructs our perception of context, the memories of our experiences, and our ability to imagine future possibilities. Without the hippocampus we would be stuck in the present moment. In this course we will study the genetic, physiological, and behavioral functions of the hippocampus. Students must complete both terms of this course(parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NEURO">Neurobiology</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="20:29:00" location="" start_time="19:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e300992a1310" role="1" seniority_sort="1">
+                <display_name>Joshua Sarinana</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

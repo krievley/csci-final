@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="131331" class_number="14321" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APPHY 195">Introduction to Solid State Physics</title>
+            <exam_group>FAS08_A</exam_group>
+            <prereq>Recommended: Elementary quantum mechanics.</prereq>
+            <description>The physics of crystalline solids and their electric, magnetic, optical, and thermal properties. Designed as a first course in solid-state physics. Topics: free electron model; Drude model; the physics of crystal binding; crystal structure and vibration (phonons); electrons in solids and band formation; metals and semiconductors; diodes and transistors; plasmonic excitations and screening; optical properties; solid-state lasers; magnetism, spin waves, magnetic resonance, and spin-based devices; dielectrics and ferroelectrics; superconductivity, Josephson junctions, and superconducting circuits; electronic transport in low-dimensional systems, quantum Hall effect, and resonant tunneling devices.</description>
+            <department code="APPHYS">Applied Physics</department>
+            <course_group code="APPHY">Applied Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="14:29:00" location="60 Oxford St 330" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e67510a1310" role="1" seniority_sort="1">
+                <display_name>Donhee Ham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

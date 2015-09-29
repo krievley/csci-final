@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160192" class_number="15281" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 60T">The History of Hunger</title>
+            <description>Why did a Jamestown colonist butcher and eat his pregnant wife? Why were Gandhi&amp;rsquo;s hunger strikes so politically effective? This seminar will examine hunger in United States and global history from the early modern era to the present, considering topics including hunger strikes, famine, eating disorders, and the scientific study of hunger. Exploring hunger from a variety of angles, including food history, the environment, policy, empire, gender, and ethics, this course will analyze the impact that hunger has had on history, as well as changing ideas about hunger over time.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e461255a1310" role="1" seniority_sort="1">
+                <display_name>Carla Cevasco</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

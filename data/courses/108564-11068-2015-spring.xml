@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108564" class_number="11068" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 22T">Why We Animals Sing</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>We will become familiar with sounds and structures of the different kinds of acoustic animals, including birds, mammals, frogs and insects, and the different kinds of habitats in which they produce their songs and calls. We will explore the evolution and biology of music in humans.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e170664a1310" role="1" seniority_sort="1">
+                <display_name>Brian Farrell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156647" class_number="11550" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 189">"Re: History" Memory and Imagination from Camus to Annie Ernaux</title>
+            <exam_group>FAS15_E</exam_group>
+            <description>We will consider the specific link between memory and imagination in the French novel dealing with History during the second half of the 20th century til today. Readings include major authors (Camus, Antelme, Duras, Perec, Simon, Semprun, Modiano, Ernaux) as well as historical and theoretical texts (Ginzburg, Sontag, Certeau, Rothberg, Agamben...). We'll thus explore the way of "transcribing History, by recording it (Rec:), rewinding it (Rew:), reviewing it and replying to it (Re: History).</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Sever 201 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e67364a1310" role="1" seniority_sort="1">
+                <display_name>Emmanuel Bouju</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

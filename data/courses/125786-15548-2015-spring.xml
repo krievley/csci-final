@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125786" class_number="15548" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 97C">Music History and Repertory: Music in Cross-Cultural Perspective</title>
+            <notes> Music 97 is required of all concentrators, preferably taken in the sophomore year, or earlier by permission. There are no pre-requisites. Students from other departments are warmly invited.</notes>
+            <description>An introduction to selected world music repertories, as well as research methods and interpretive issues in the field of ethnomusicology.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e43841a1310" role="1" seniority_sort="1">
+                <display_name>Richard Wolf</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

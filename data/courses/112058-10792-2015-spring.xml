@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112058" class_number="10792" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 98B">Tutorial - Junior Year</title>
+            <notes> Required of concentrators.</notes>
+            <description>Part of the sequence of small seminars focused on critical thinking and writing skills for concentrators, this course provides in-depth study of selected themes, texts, traditions or time periods.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e170393a1310" role="1" seniority_sort="1">
+                <display_name>Courtney Lamberth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

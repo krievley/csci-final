@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127976" class_number="14100" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 24G">A Brief History of Surgery</title>
+            <exam_group>FAS05_D</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>In this seminar, students explore the historical foundation of modern surgical practice. They will study the medical notions of the ancients, and then see these notions overturned in The Enlightenment. Advances of the 19th century will be studied in detail. We will end with a session on combat casualty care, aided by an experienced combat surgeon. Students will write a 5 page paper on a topic in surgical history and will present their work to the class.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="20:59:00" location="Robinson 107 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e218276a1310" role="1" seniority_sort="1">
+                <display_name>Frederick Millham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

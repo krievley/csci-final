@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122177" class_number="13319" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="LATIN AC">Review and Reading</title>
+            <exam_group>FAS10_C</exam_group>
+            <notes>Ivy Livingston and assistant  No auditors. May be taken Pass/Fail.</notes>
+            <description>For students with more than one year of formal training in Latin who do not place into Latin Ba. The course will combine a review of morphology and syntax with readings from prose authors. Students are prepared for Latin Ba or Bb.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Thursday Friday" end_time="09:59:00" location="CGIS Knafel K108 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e194a1310" role="1" seniority_sort="1">
+                <display_name>Ivy Livingston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

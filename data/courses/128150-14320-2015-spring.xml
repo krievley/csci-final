@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128150" class_number="14320" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 178">Biochemistry of Protein Complexes</title>
+            <prereq>Recommended: Chemistry 27 and MCB 60 or MCB 54 are recommended, but not required.</prereq>
+            <description>A course on the properties of protein complexes that serve as supports, machines and motors. Topics include : hemoglobin, actin filaments, myosin function, microtubules, kinesin, metabolon, photosynthesis, rotary motors, nuclear pores and transport, proteasome. Lecture on Monday is followed by student presentations on Wednesday. The course involves reading two research papers per week, and writing a research proposal.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e143200a1310" role="1" seniority_sort="1">
+                <display_name>Guido Guidotti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

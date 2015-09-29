@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109375" class_number="10202" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 96A">Architecture Studio 1: Transformations</title>
+            <notes>Megan Panzano (Design School)  </notes>
+            <description>This course introduces basic architectural concepts and techniques used to address issues of form, function, ornament and material. This course provides instruction in project analysis, visualization, communication, and fabrication using both physical and digital modeling. Students proceed through a series of progressively complex investigations of transformational processes, context, program and material assemblage. As an introduction to architectural design, we will explore comprehensive and foundational design principles, skill sets and critical thinking and making. The course material will be presented through a series of presentations, exercises, workshops, reviews and discussions. This course fosters the development of a design methodology founded on thoughtful, creative and rigorous work practices in service of exploring meaningful expressions of the constructed environment.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e337571a1310" role="1" seniority_sort="1">
+                <display_name>Megan Panzano</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109597" class_number="16906" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2355R">Laboratory on Cognitive and Neural Organization</title>
+            <notes> For information on this course please e-mail the instructor at tkonkle@fas.harvard.edu</notes>
+            <description>This lab course provides instruction and experience in conducting research on cognitive architecture and neural organization, via the methods of visual cognition and cognitive neuroscience. Special focus on issues of high-level visual representation and the corresponding structure in neural response profiles.&amp;nbsp; Open to graduate and undergraduate students working in the instructor&amp;rsquo;s laboratory. Undergraduates are required to write research report at the end of the semester on the studies conducted in the lab.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e85557a1310" role="1" seniority_sort="1">
+                <display_name>Talia Konkle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

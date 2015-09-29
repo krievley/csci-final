@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122589" class_number="12681" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1312">Human Sexuality: Research and Presentation Seminar</title>
+            <exam_group>FAS03_D</exam_group>
+            <notes>This course counts towards the Human Evolution subfield requirement in HEB.  </notes>
+            <description>An examination of human sexuality from a scientific perspective. Students will read and present primary scientific literature that highlights current research on a variety of topics including: sexual development, gender identity, sexual orientation, cross cultural variations in mating systems, promiscuity, the evolution of monogamy, sexual attraction, sexual communication, including an exploration of the existence of human pheromones, libido and sexual dysfunction.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Quincy House/Stone Innov S001" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e204627a1310" role="1" seniority_sort="1">
+                <display_name>Judith Flynn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

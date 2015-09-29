@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119971" class_number="13123" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2727">Empirical Methods in Corporate Finance</title>
+            <notes>Paul Gompers (Business School), Samuel Gregory Hanson, Victoria Izashina, and Adi Sunderam  Structured to minimize overlap with Economics 2725. Seminar format; students write referee reports and a research paper. Offered jointly with the Business School as 4220.</notes>
+            <description>Examines empirical research in corporate finance. Covers empirical research methodology, financial institutions, and financial policy. Major emphasis is on how to do well-executed and persuasive research in corporate finance.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:29:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e445895a1310" role="1" seniority_sort="1">
+                <display_name>Samuel Hanson</display_name>
+            </person>
+            <person id="d1e445898a1310" role="1" seniority_sort="2">
+                <display_name>Victoria Ivashina</display_name>
+            </person>
+            <person id="d1e445901a1310" role="1" seniority_sort="3">
+                <display_name>Adi Sunderam</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

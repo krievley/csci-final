@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126946" class_number="14462" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BIOSTAT 298">Introduction to Computational Biology and Bioinformatics</title>
+            <notes> Offered jointly with the School of Public Health as BIO512.</notes>
+            <prereq>Prerequisite: STAT 110 OR CS 50</prereq>
+            <description>Basic problems, technology platforms, algorithms and data analysis approaches in computational biology. Algorithms covered include dynamic programming, hidden Markov model, Gibbs sampler, clustering and classification methods.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e1162a1310" role="1" seniority_sort="1">
+                <display_name>Xiaole (Shirley) Liu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

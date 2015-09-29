@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124145" class_number="13418" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PORTUG 98">Tutorial - Junior Year</title>
+            <notes> Successful completion of Portuguese 98 (or equivalent) is required of all thesis-track honors concentrators in Portuguese-Brazilian Studies. To enroll see course head.
+
+This course is taught by members of the Department.</notes>
+            <description>Weekly individual instruction for juniors pursuing a thesis honors track in Portuguese and Brazilian Studies, culminating in the writing of a 20-25 page research paper in Portuguese.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e97122a1310" role="1" seniority_sort="1">
+                <display_name>Viviane Gontijo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

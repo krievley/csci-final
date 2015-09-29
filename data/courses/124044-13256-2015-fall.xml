@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124044" class_number="13256" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 221R">Current Issues in Music Theory</title>
+            <exam_group>FAS15_E</exam_group>
+            <description>What does Music Theory mean in the 21st century? What are the current debates? We examine recent and contemporary discussions in (and about) the field. We focus our attention on a single central work, Beethoven&amp;rsquo;s Symphony No. 9, which has generated more discussion than any other.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Music Davison Seminar Rm (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e9398a1310" role="1" seniority_sort="1">
+                <display_name>Alexander Rehding</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

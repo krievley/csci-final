@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159886" class_number="15691" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 33D">Drawing: Exploring a Visual Language</title>
+            <exam_group>FAS03_C</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>A studio course using the human figure as a model and subject to build the skills of drawing and expand students&amp;rsquo; visual vocabulary. Drawing from life will be the main focus for the first part of the semester, using the model as our guide to understand the rendering of space, depth, perspective and movement. Equal emphasis will be placed on enhancing our observational sensibilities and focusing technical development, as students work both collaboratively and independently on exercises to expand individual skill with intention and purpose. During the second half of the semester we will delve into the development of abstract and conceptual principles in relation to figurative work, including expanded notions of portraiture, working from photographs and incorporating sheer invention.&amp;nbsp;</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e200110a1310" role="1" seniority_sort="1">
+                <display_name>Katarina Burin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="131219" class_number="10108" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 221">Microbial Diversity</title>
+            <prereq>Recommended: Background in microbial science and/or permission of instructor.</prereq>
+            <description>Examines the remarkable diversity of the microbial world, "the unseen majority". Physiological, genetic, ecological, and evolutionary characteristics of Bacteria and Archaea are discussed, as well as the relation of phenotype to phylogeny. The course has strong links to fields ranging from geochemistry and climate change to the human microbiome, and will include discussions with experts in microbial biodiversity.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

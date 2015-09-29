@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159968" class_number="15144" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 3007B">Research Workshop in Political Economy</title>
+            <description>Intended for graduate students in the third year and above, this course welcomes scholarship of all types and on all aspects of political economy. Intended to provide a venue in which to develop and to debate work in progress.&amp;nbsp;Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>8</credits>
+        </catalog_info>
+    </course>
+</courses>

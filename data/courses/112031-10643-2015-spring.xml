@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112031" class_number="10643" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 399">Reading and Research</title>
+            <notes> Permission of the instructor and the Chairman of the Department required.</notes>
+            <description>Candidates for the doctoral degree in Comparative Literature may pursue advanced studies under the individual supervision of these instructors.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

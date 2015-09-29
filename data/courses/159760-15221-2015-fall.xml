@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159760" class_number="15221" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PERSIAN 251">Classical Persian Poetics and Rhetoric</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> Instructor: Justine Landau</notes>
+            <prereq>Recommended: At least two years of Persian or equivalent.</prereq>
+            <description>This course explores the development of Persian literary theory from the 11th&amp;nbsp;century onwards, with readings from the major authors who shaped the technical (Raduyani, Rasid al-Din Vatvat, Sams-e Qeys-e Razi, Hoseyn Vaez-e Kasefi), didactic (Keykavus, Nezami Arudi) and philosophical (Nasir al-Din Tusi, Jami) trends in classical literary scholarship. Students will become acquainted with the tools and concepts of literary analysis developed in pre-modern Iran and exert their skills through the practice of close reading and discussion of select literary material.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="PERSIAN">Persian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Sever 209 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e199909a1310" role="1" seniority_sort="1">
+                <display_name>Justine Landau</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

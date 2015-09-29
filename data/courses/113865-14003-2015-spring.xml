@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113865" class_number="14003" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEM 91R">Introduction to Research</title>
+            <notes>Hours to be arranged   Gregory C. Tucci and members of the Department  Open to a limited number of chemistry concentrators who are accepted as research students without having taken Chemistry 98. Written permission of the sponsor must be filed at the Office of the Associate Director of Undergraduate Studies in Chemistry. Any student enrolling in this course must register the name of his or her research mentor with the course head whose signature must appear on each student's study card. Must be taken Sat/Unsat.</notes>
+            <description>Reading and/or laboratory work related to one of the research projects under way in the department.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e88307a1310" role="1" seniority_sort="1">
+                <display_name>Gregory C. Tucci</display_name>
+            </person>
+            <person id="d1e48574a1310" role="1" seniority_sort="2">
+                <display_name>Charles Lieber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

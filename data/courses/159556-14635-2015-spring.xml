@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159556" class_number="14635" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1924">Violence, Substances and Mental Illness: African Perspectives</title>
+            <description>An introduction to African perspectives on mental illness, exploring the development and practice of psychiatry as a medical field in Africa, examining the grey areas within psychiatric knowledge, and engaging the ongoing debates about the interface between race, culture and psychiatry. Will review African therapeutic systems; witchcraft, causation and mental health; substance abuse; violence and mental illness; and more recent links between HIV/AIDS, loss and depression.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e41224a1310" role="1" seniority_sort="1">
+                <display_name>Emmanuel Akyeampong</display_name>
+            </person>
+            <person id="d1e11641a1310" role="2" seniority_sort="2">
+                <display_name>Arthur Kleinman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

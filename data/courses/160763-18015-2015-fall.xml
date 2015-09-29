@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160763" class_number="18015" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1053">Understanding Altruism</title>
+            <exam_group>FAS08_A</exam_group>
+            <description>People give a lot: 2% of GDP is donated to charity, 2-4% of hours worked are volunteered, and 50% of Americans vote in National Elections. Yet such giving displays puzzling qualities: for example, giving is often inefficient (consider the efficiency of Habitat for Humanity) and people who would otherwise give will pay to opt out of being solicited.We use simple game theory models, combined with models of evolution and evidence from experimental economics papers, to better understand our altruistic preferences and their puzzling qualities.&amp;nbsp; In doing so, we gain insight on how to promote more effective giving (should contributions be observable?) and better policy (should the law distinguish between crimes of omission and commission?).Through the readings, students will gain exposure to relevant literatures in experimental economics, as well as evolutionary biology and social psychology. Students will gain a facility with lab and field experimental methods, as well as the relevant game theory and dynamic models. The class is primarily discussion based; students are expected to read and be prepared to discuss cutting edge research papers each class.&amp;nbsp; There will also be 2-3 problem sets over the course of the semester, and 2-3 writing assignments, including a final project in which students are required to design original research.This class is a particularly good fit for: students wishing to launch or join non-profits and socially responsible businesses; those who have an interest in politics or policy; and, those wishing to do research--especially experimental or behavioral--related to charity or altruism, perhaps in preparation for their honors theses.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="1 Brattle Sq 616 (HKS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e167134a1310" role="1" seniority_sort="1">
+                <display_name>Erez Yoeli</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

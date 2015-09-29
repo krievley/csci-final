@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119218" class_number="12604" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEMBIO 207">Molecular Approaches to Drug Action, Discovery, and Design</title>
+            <notes>Donald Coen and members of the Committee  </notes>
+            <description>Application of molecular, systems, and structural biology, genetics, genomics, enzymology, and chemistry to drug action and development of new therapies. Analyzes molecular underpinnings of pharmacological principles. Examples drawn from diseases including cancer and AIDS.</description>
+            <department code="CHBI">Chemical Biology</department>
+            <course_group code="CHEMBIO">Chemical Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

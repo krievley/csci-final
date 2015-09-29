@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156296" class_number="15060" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1590">Issues in the Study of Native American Religion</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> Offered jointly with the Divinity School as 2345.</notes>
+            <description>Based around a series of traditionalist guest speakers, this course interrogates the study of religion in general and of Native American traditions in particular in light of indigenous religious experiences, perspectives and histories. Questions of appropriation, repatriation and religious freedom will be approached through legal as well as cultural frameworks.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Andover 103 (HDS)" start_time="14:00:00"/>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Andover 103 (HDS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e64303a1310" role="1" seniority_sort="1">
+                <display_name>Ann Braude</display_name>
+            </person>
+            <person id="d1e64303a1310" role="1" seniority_sort="1">
+                <display_name>Ann Braude</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

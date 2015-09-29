@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120352" class_number="15389" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="LATIN 112A">History of Latin Literature I</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>Jared Hudson and assistant  </notes>
+            <description>The literature of the Republic and early Augustan period. Reading of extensive selections from the major authors, with lectures and discussion on the evolution and development of Latin prose and poetry. The course focuses on a variety of issues: Latin individuality through manipulation of inherited Greek forms, metrical and stylistic developments, evolving poetics, intertextuality and genre renewal, dynamic effects of social and political contexts.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Boylston 237 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e95909a1310" role="1" seniority_sort="1">
+                <display_name>Jared Hudson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

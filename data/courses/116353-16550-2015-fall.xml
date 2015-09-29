@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16550" school_id="fas" section="247" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>On the playground, the teacher tells the teased child that &amp;ldquo;sticks and stones can break your bones, but names can never hurt you.&amp;rdquo; But we know that speech can hurt; a cross burning on your lawn can damage you far more profoundly than a slap across the face. In this course, we&amp;rsquo;ll examine the extent to which the First Amendment protects &amp;ldquo;dangerous speech&amp;rdquo;&amp;ndash; a category that includes calls to violent action, racist abuse, and the communication of &amp;ldquo;subversive&amp;rdquo; political ideas. Our first unit will focus on a close reading of a recent Supreme Court case:  Brown v. Entertainment Merchants Association , a decision striking down California&amp;rsquo;s ban on the sale of violent video games to minors. We&amp;rsquo;ll ask: how do Supreme Court Justices argue about dangerous speech? Next, we&amp;rsquo;ll broaden our scope to speech that incites violence. We&amp;rsquo;ll look to decisions applying free speech principles to communist agitators, cross burners, and racist protestors, and examine the theory behind the First Amendment. When does speech go too far? Our third unit will focus on hate speech &amp;ndash; speech that vilifies a group based on, for example, its race, ethnicity, religion or sexual orientation. America is exceptional in its protection of hate speech; no other country affords so much protection for, in Justice Holmes&amp;rsquo;s words, the &amp;ldquo;thought that we hate.&amp;rdquo; Students will have the opportunity to choose a hate speech case or topic, either in the United States or abroad, to research in depth, using primary sources to ground the case in its contemporary context.  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Memorial Hall 202 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e195324a1310" role="1" seniority_sort="1">
+                <display_name>Jessica Ziparo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

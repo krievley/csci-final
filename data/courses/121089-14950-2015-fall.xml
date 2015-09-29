@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121089" class_number="14950" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LING 102">Sentence Structure</title>
+            <exam_group>FAS12_C</exam_group>
+            <description>What determines how the words in a sentence are put together in a given language? This course introduces the field of syntax, and the study of order and structure among words. Students will learn to construct and evaluate syntactic analyses and argumentation and will be exposed to variation and universals in the syntactic patterns found in natural languages. The course will also provide an introductory survey of syntactic phenomena, including question formation, the passive, anaphora, and agreement.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Boylston 105 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e191448a1310" role="1" seniority_sort="1">
+                <display_name>Cheng-Yu Tsai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

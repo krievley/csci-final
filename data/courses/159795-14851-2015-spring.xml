@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159795" class_number="14851" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GIKUYU BB">Intermediate Gikuyu</title>
+            <notes>Course taught by John Mugane and assistant.  </notes>
+            <prereq>Recommended: Gikuyu AAand AB or the equivalent of one year's study in Gikuyu.</prereq>
+            <description>Continuation of Gikuyu AA/AB. Gikuyu is a Bantu language spoken by Kenya&amp;#39;s most populous ethnic group. The Gikuyu are among Africa&amp;#39;s most recognized peoples because of the Mau Mau freedom fighters who were mainly Gikuyu. Students must complete both Gikuyu BA/BB in order to receive credit.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="GIKUYU">Gikuyu</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e7845a1310" role="1" seniority_sort="1">
+                <display_name>John Mugane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130342" class_number="11730" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IMMUN 305QC">Neuro-Immunology in Development, Regeneration and Disease</title>
+            <notes> Each class will cover a specific topic in neuro-immunology. Students should be prepared to lead discussions on pre-selected papers for each session.</notes>
+            <description>It is increasingly clear that the nervous system and immune system share parallel molecular pathways, and communication between neurons and immune cells play significant roles in homeostasis and disease. This course will investigate current topics in neuro-immunology: CNS development, chronic pain, neuro-degeneration, aging, axon regeneration, auto-immunity and infection. We will focus our discussions on molecular mechanisms shared by the immune and nervous systems and the molecular cross-talk between these two systems.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e168600a1310" role="1" seniority_sort="11">
+                <display_name>Isaac Chiu</display_name>
+            </person>
+            <person id="d1e49960a1310" role="1" seniority_sort="12">
+                <display_name>Michael Carroll</display_name>
+            </person>
+            <person id="d1e313631a1310" role="1" seniority_sort="13">
+                <display_name>Beth Stevens</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

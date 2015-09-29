@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125683" class_number="14643" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 3000">Reading and Research</title>
+            <notes> Open only by petition. Applicants for admission should first confer with the Director of Graduate Studies.</notes>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e43370a1310" role="2" seniority_sort="1">
+                <display_name>Alice Jardine</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

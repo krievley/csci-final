@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109413" class_number="15983" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 2682">Anthropology of Urbanism: Japan in Comparative Perspective</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes> Students must also attend all lectures of Societies of the World 33 "Tokyo".</notes>
+            <description>This course examines patterns of Japanese urbanism -- social, cultural, historical, and built-environmental -- through interdisciplinary discussion. It is open to graduate students in any department or programs. Students are required to attend lectures of SW 33 Tokyo; students in Anthro 2682 will participate in specialized discussion sections and will frame term projects tailored to their future research plans in close consultation with the professor. The seminar is equally open to graduate students with strong interests in urban anthropology, in urban design and planning, and in Japanese/Asian Studies in history, the social sciences, and the humanities.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Tozzer 203 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e8042a1310" role="1" seniority_sort="1">
+                <display_name>Theodore Bestor</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

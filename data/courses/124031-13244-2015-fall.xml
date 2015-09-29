@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124031" class_number="13244" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="THI 102A">Intermediate Thai I</title>
+            <notes> Not open to auditors.
+
+Please contact the Department of South Asian Studies (southasianstudies@fas.harvard.edu) before the start of classes if you are interested in enrolling in a Thai language course. Students will be required to submit a statement demonstrating an academic need to enroll.
+
+First Meeting times will be posted on the Department of South Asian Studies' website in shortly before the term begins: sas.fas.harvard.edu</notes>
+            <prereq>Prerequisite: Tibetan 101a AND Tibetan 101b</prereq>
+            <description>A two-term continuation of the study of Thai at the intermediate level. Students build on acquired proficiency at the elementary level (or its equivalent) towards achieving more fluency in reading, speaking, writing, and listening comprehension of standard Thai, as well as in cultural-social skills. Introduces new vocabulary and grammar through communicative tasks and text readings, mainly using the situational-communicative methodology.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="THI">Thai</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="20:59:00" location="1 Bow St 317 (FAS)" start_time="17:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e31856a1310" role="1" seniority_sort="1">
+                <display_name>Parimal G. Patil</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

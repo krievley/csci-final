@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160977" class_number="16936" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1217">U.S. Foreign Policy in a Global Age</title>
+            <notes> Offered jointly with the Kennedy School as IGA-217.</notes>
+            <description>The United States is the most powerful player on the international scene today, and is unlikely to relinquish that position any time soon.Â&#160; Understanding how and why this condition arose, and what it means for world affairs today, is our concern in this course.Â&#160; The emphasis is on U.S. policymaking over the past century, with due attention to the international and domestic political context in which decisions were made.Â&#160; Issues to be explored include the tension between isolationism and interventionism and between unilateralism and multilateralism; the emergence of the U.S. as a superpower; the Soviet-American confrontation; the rise of presidential power in foreign affairs; the wars in Iraq and Afghanistan; and the nature of American power in today&amp;rsquo;s world.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="09:59:00" location="" start_time="08:45:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e469603a1310" role="1" seniority_sort="1">
+                <display_name>Fredrik Logevall</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

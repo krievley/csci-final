@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123829" class_number="13124" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL 201R">Italian Studies Colloquium</title>
+            <notes>M., 5-7pm   Conducted in Italian and English.</notes>
+            <description>Current scholars in the field of Italian Studies present their most recent works on literature, art and architecture, history, and the social sciences. Students also learn how to conduct video interviews and write book reviews.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e25963a1310" role="1" seniority_sort="1">
+                <display_name>Francesco Erspamer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114092" class_number="15559" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 220">Biochemistry and Molecular Genetics in Modern Medicine</title>
+            <exam_group>FAS17_C</exam_group>
+            <notes> Offered jointly with the Medical School as HT 160.
+
+Classes held at MIT. Location: MIT E25-117. First meeting is September 14.
+
+Enrollment requires instructor's permission.</notes>
+            <description>Foundation for understanding the relationship between biochemistry, molecular biology, genetics, and medicine. Intensive treatment of human biochemistry and physiological chemistry that focuses on intermediary metabolism and structures of key intermediates and enzymes important in human disease. Principles of human genetics reviewed. Translation of clinical understanding into analysis at the level of the gene, chromosome, and molecule; the concepts and techniques of molecular biology and genomics; and the strategies and methods of genetic analysis. The clinical relevance of these areas is underscored with patient presentations.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="" start_time="08:30:00"/>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e12833a1310" role="1" seniority_sort="1">
+                <display_name>Kiran Musunuru</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

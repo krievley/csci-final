@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159840" class_number="19230" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MODGRK AA">Elementary Modern Greek</title>
+            <description>For students with no knowledge of modern Greek. Basic oral expression, listening comprehension, grammar, reading, and writing. Language instruction is supplemented by reading of simple literary passages and other texts, as well as by online instruction. Part one of a two part series.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="MODGRK">Modern Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

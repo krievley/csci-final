@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127757" class_number="14169" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 1313">Stress: Research and Presentation Seminar</title>
+            <description>An examination of stress from a scientific perspective with a focus on stress research in mammals, especially primate and humans. A writing and speaking intensive seminar that will explore the basics of the stress response, physiological effects of the stress and factors that affect stress responsiveness, such as perinatal and early life effects, social support, outlets for frustration and coping skills. The relationship between stress and disease will also be explored. Scientific studies of the effectiveness of modalities of stress reduction will also be discussed. Students will present primary scientific literature that highlights current research on a variety of topics in the field.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e204627a1310" role="1" seniority_sort="1">
+                <display_name>Judith Flynn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

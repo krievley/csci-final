@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109358" class_number="16090" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 155">Biological Signal Processing</title>
+            <prereq>Recommended: AM21a (knowledge of AM21b can be helpful).</prereq>
+            <description>General properties of common biosignals, Bioelectrical (electrophysiological), Biomechanical, Biomagnetic , and Biochemical signals, Bioelectrical acquisition process. Brief discussion of bio-signals obtained from tomography and inverse imaging. Brief introduction to underlying principles of MRI, Ultrasound, CT-Scan, PET, and SPECT, and their associated signals, inverse imaging, ill-posed problems and regularization. Non-transformed and transformed methods for biosignal processing. Structural and Graphical descriptions. Overview of Fourier transforms, Sine and cosine transform, Wavelet transform, Principle Component Analysis, dimension reduction techniques. Blind Source Separation, Representation models based on the statistical independence of the underlying sources, Independent component analysis (ICA), Dependent component analysis, Independent Subspace separation, Pattern Recognition, neural networks, clustering, and genetics algorithms. Applications to Biosignal Processing, and Human computer interaction.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e302949a1310" role="1" seniority_sort="1">
+                <display_name>Demba Ba</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

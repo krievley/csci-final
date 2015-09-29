@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160402" class_number="15601" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 158X">The Key to Making It: Educational Progress and Barriers among Black Americans</title>
+            <description>This course combines the study of the historical trajectory of educational achievement among African Americans with a sociological analysis of the challenges they have faced in attaining educational equity, with a focus on the current situation. The course will review the structural barriers to educational achievement that blacks have faced at different periods in the history of the US and the cultural strengths, such as the high value placed on education, that have driven them to achieve. The persistence of racial barriers in the current era and their importance for social mobility, particularly among working class and poor blacks, will be discussed.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e458997a1310" role="1" seniority_sort="1">
+                <display_name>Jacqueline Cooke-Rivers</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

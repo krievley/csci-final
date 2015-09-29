@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110857" class_number="11043" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCAND 97">Tutorial - Sophomore Year</title>
+            <notes> Open to concentrators in the Scandinavian option. Permission of the Director of Undergraduate Studies for Scandinavian required.</notes>
+            <description>Group or individual tutorial designed to supplement course work and acquaint students with appropriate analytical methods.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="SCAND">Scandinavian</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

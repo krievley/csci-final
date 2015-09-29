@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159766" class_number="14807" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PERSIAN 158">Modern Persian Poetry and Prose</title>
+            <prereq>Recommended: At least two years of Persian or equivalent.</prereq>
+            <description>The course focuses on the reading and understanding of a selection of texts from various genres within the corpus of modern Persian poetry and prose. Students will become acquainted with the major actors of the early Iranian literary modernity (late 19th - early 20th century) through a selection of excerpts drawn from their literary as well as theoretical output. The detailed understanding of the language at play among Iranian modernists will complement the study of the context and literary significance of these texts.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="PERSIAN">Persian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e489196a1310" role="1" seniority_sort="1">
+                <display_name>Amr Ahmed</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

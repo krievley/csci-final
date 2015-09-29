@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159901" class_number="15211" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 146">Death by Design: Health Inequalities in Global Perspective</title>
+            <exam_group>FAS02_A</exam_group>
+            <description>In this course, we will study health differences between social groups. We will begin by examining the extent to which health is unevenly distributed across groups defined by nationality, neighborhood, race, gender, and class. We will then seek to pinpoint the reasons for these disparities with a detailed analysis of the pathways through which these factors are linked to health status. Finally, we will discuss new research on the sociology of population health that shows how health disparities depend on meso- and macro-scale causes like neighborhoods, social policy arrangements, global organizations, and climate change.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="William James B1 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e79053a1310" role="1" seniority_sort="1">
+                <display_name>Jason Beckfield</display_name>
+            </person>
+            <person id="d1e129578a1310" role="1" seniority_sort="3">
+                <display_name>Benjamin Sosnaud</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

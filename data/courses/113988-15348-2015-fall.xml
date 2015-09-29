@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113988" class_number="15348" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HLTHPOL 2000A">Core Course in Health Policy</title>
+            <exam_group>FAS05_A</exam_group>
+            <notes> Required of doctoral candidates in Health Policy and open to others by permission of the instructor. Offered jointly with the Kennedy School as SUP-957 and with Public Health as HPM 246.</notes>
+            <description>Topics include the financing and organization of health care, public health, political analysis, medical manpower, health law and ethics, technology assessment, prevention, mental health, long-term care, and quality of care. Part one of a two-part series.	&amp;nbsp;</description>
+            <department code="HPOL">Health Policy</department>
+            <course_group code="HLTHPOL">Health Policy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:59:00" location="Robinson 207 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e87704a1310" role="1" seniority_sort="1">
+                <display_name>Joseph P. Newhouse</display_name>
+            </person>
+            <person id="d1e87707a1310" role="2" seniority_sort="2">
+                <display_name>Alan Zaslavsky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

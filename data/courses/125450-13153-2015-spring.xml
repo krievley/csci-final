@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125450" class_number="13153" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1190">Encountering the Conquistadors</title>
+            <description>This course examines the effects of the Spanish Conquest on indigenous peoples of the Americas between the fifteenth and eighteenth centuries, providing an introduction to the archaeology of first encounters in the Caribbean, Southeast and Southwest US, Central Mexico, highland and lowland Mesoamerica, the Amazon basin, and in the Andes. Topics addressed include the roles of disease, indigenous politics, native rebellions, and ecological change in the colonization of the `New' World.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e47773a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Liebmann</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

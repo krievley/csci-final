@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111339" class_number="10624" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 139B">The 18th Century: Ethical Dilemmas</title>
+            <notes> Conducted in French. This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning.</notes>
+            <description>Questions how notions of personhood and otherness inhabit the emergent novel, exploring the way in which events and values are resisted or subsumed in literary discourse and the kind of social and political responsibility that accompanies it. Readings will be taken from the works of CharriÃ¨re, Gouges, Laclos, Marivaux, Montesquieu, Rousseau, Sade, Voltaire, etc.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

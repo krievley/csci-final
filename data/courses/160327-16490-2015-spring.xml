@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160327" class_number="16490" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 177">Figures of Orpheus Literature, Music: and Visual Arts</title>
+            <description>The course spans over two thousand years of varying interpretations, settings, and appropriations of the Orpheus myth. The power of music and the fatality of passion, the expropriating effects of language and the regenerating promise of poetry, individual uniqueness and the conditions of knowledge, are but a few of the themes addressed and elaborated within the myth&amp;#39;s threefold configuration of harmony, descent, and dismemberment. In addition to investigating the rich literary tradition, the course also turns to significant versions in opera, film, and the visual arts. Emphasis will be placed throughout on close reading, with attention to philosophical, aesthetic and theoretical ramifications.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e42680a1310" role="1" seniority_sort="1">
+                <display_name>John T. Hamilton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

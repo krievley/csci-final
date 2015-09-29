@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159657" class_number="14656" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1931">Slavery, Disease and Race: A View from Brazil</title>
+            <description>Slavery and emancipation were major issues in nineteenth-century Brazilian history. In the 1870&amp;rsquo;s and 1880&amp;rsquo;s, with the drama of emancipation unfolding, yellow fever meant death to European immigrants and a major obstacle to achieving a social configuration that valued the whitening ideal and excluded people of African descent from social and economic opportunities. Although the primary focus of this course is Brazil, students may opt to write a final paper that compares an aspect of the social history of slavery and/or race and/or disease in Brazil and another nation or region. Class materials will include a range of primary sources.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e40908a1310" role="1" seniority_sort="1">
+                <display_name>Sidney Chalhoub</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

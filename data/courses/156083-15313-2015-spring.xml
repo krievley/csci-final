@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156083" class_number="15313" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 135">Education and Culture</title>
+            <description>In this course, we will use culture as an analytic lens for investigating the institution and experience of school. We will examine 1) relationships and borders between schooling and broader educational contexts including families and communities; 2) schools as dynamic social and cultural systems, and 3) classrooms as sites of conflict, collaboration, and innovation in teaching and learning. Throughout, we will consider how individuals in a variety of roles &amp;ndash; teachers, students, administrators, parents, researchers &amp;ndash; interpret, negotiate, and respond to the practices and arrangements of schooling. We will examine the complex role of cultural factors in producing, maintaining, and potentially reducing inequalities in educational access, opportunity, and outcomes.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e200702a1310" role="1" seniority_sort="1">
+                <display_name>Tiffanie Ting</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

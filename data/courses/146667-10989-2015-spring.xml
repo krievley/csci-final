@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146667" class_number="10989" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IMMUN 311">Macrophage Biology in Multiple Contexts, Including IBD and Metabolism</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e136949a1310" role="1" seniority_sort="1">
+                <display_name>Tiffany Horng</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

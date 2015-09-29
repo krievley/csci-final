@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109021" class_number="16776" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 91R">Supervised Reading and Research</title>
+            <notes> Permission of Director of Undergraduate Studies required.</notes>
+            <description>A graded, supervised course of reading and research to be conducted by a person approved by the Director of Undergraduate Studies.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e99721a1310" role="1" seniority_sort="1">
+                <display_name>Sandra Naddaff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

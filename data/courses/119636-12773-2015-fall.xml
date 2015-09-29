@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119636" class_number="12773" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 96R">Directed Research: Studio Course</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes>SPECIAL FIRST MEETING NOTE:  The first meeting of&amp;nbsp;course will take place on WEDNESDAY, September 2 at 6pm.  Recommended for concentrators in Visual and Environmental Studies in their junior and senior year but also open to others with permission of the instructor.
+Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>This course is intended for students who have developed the beginnings of a practice they are prepared to pursue. The motive is to assemble a group of disparate artists who come together to exchange thoughts across disciplines: painting next to photography next to writing next to filmmaking, and so on.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="20:59:00" location="Carpenter 5th Fl (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e237958a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Prina</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

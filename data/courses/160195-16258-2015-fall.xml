@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160195" class_number="16258" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 33H">Collecting the Past</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> The seminar will include required field trips to museums in Boston and Cambridge, dates to be arranged. Transportation and entrance fees are provided free of charge.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar will explore historical practices of collecting and displaying Classical art in museums from the earliest periods through the Middle Ages and the Renaissance to most recent times, including the contemporary debate about cultural property and the acquisition policies of museums. The seminar will consider how various forms of collecting and archiving &amp;ndash; such as collections of war booty in ancient Rome, cabinets of curiosities in the Renaissance, or modern art museums from the 18th century onwards &amp;ndash; have shaped our knowledge and understanding of the past.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Boylston 203 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e96270a1310" role="1" seniority_sort="1">
+                <display_name>Adrian Staehli</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

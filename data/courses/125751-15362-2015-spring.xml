@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125751" class_number="15362" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="US-WORLD 11">U.S. Health Care Policy</title>
+            <notes> Students who have taken General Education 186 or Extra-Departmental Courses 186 may not take this course for credit.</notes>
+            <prereq>Anti-Req: Cannot be taken for credit if  GEN-ED 186 has been taken.</prereq>
+            <description>This course provides an overview of the U.S. health care system in historical and international perspective, and engages students in critically analyzing health policy issues. The course is focused around three complex and interdependent policy challenges that every health system must address: ensuring access to health care, paying for new innovations, and improving quality. Using primarily an economic lens, students will grapple with the complexity of the issues, learn to analyze policy arguments, evaluate evidence, identify tradeoffs, and recognize the limits of economic analysis - critical skills for engaging constructively as informed citizens in a wide range of policy debates.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="US-WORLD">United States in the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e177650a1310" role="1" seniority_sort="1">
+                <display_name>Amitabh Chandra</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

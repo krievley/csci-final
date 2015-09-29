@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126302" class_number="13897" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 90R.C">Cape Verdean Creole</title>
+            <notes>Hours to be arranged.   This course is offered only when there is demonstrated curricular and academic need on the part of the student. Please consult the Director of Language Programs for more information. Not open to auditors.</notes>
+            <description>Individualized study of Cape Verdean Creole at the elementary, intermediate, and advanced levels. Contact hours with language coach. Emphasis on literacy.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e7845a1310" role="1" seniority_sort="1">
+                <display_name>John Mugane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114153" class_number="11935" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LING 112">Syntactic Theory I</title>
+            <exam_group>FAS13_G</exam_group>
+            <prereq>Recommended: Linguistics 102, equivalent, or permission of the instructor.</prereq>
+            <description>This course provides an intensive introduction to generative syntactic theory. Emphasis on syntactic argumentation. Topics center on foundational problems in the theory of syntax, including phrase structure of nominals and clauses, varieties of movement, locality, argument structure, ellipsis case agreement, and the syntax-semantics interface.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Boylston 303 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e28402a1310" role="1" seniority_sort="1">
+                <display_name>C.-T. James Huang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

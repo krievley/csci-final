@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107368" class_number="15466" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSCI 11">Foundations and Frontiers of Modern Chemistry: A Molecular and Global Perspective</title>
+            <notes> A few operations of calculus are developed and used.  Fluency in pre-calculus secondary school mathematics is assumed.  Students are expected to have high school chemistry, or have completed school mathematics.  Students are expected to have high school chemistry, or have completed Life and Physical Sciences A (LPS A) or Life Sciences 1a (LS 1a), or have received permission of the instructors.
+
+Physical Sciences 10 and Physical Sciences 11 may be taken in any order. The general chemistry requirement for medical students can be satisfied with any two of the following courses: Life and Physical Sciences A, Life Sciences 1a, Physical Sciences 1, Physical Sciences 10, or Physical Sciences 11. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe. NOTE: Physical Sciences 1 and Physical Sciences 11 cannot both be taken for credit.</notes>
+            <prereq>Recommended: A strong background in chemistry. Students are expected to have had Honors or AP-level high school chemistry preparation or a placement score of 650 or better on the Harvard Chemistry Placement exam. A few operations of calculus are developed and used. Fluency in pre-calculus secondary school mathematics is assumed.</prereq>
+            <description>The Physical Sciences hold the key to solving unprecedented problems at the intersection of science, technology, and an array of rapidly emerging global scale challenges. The course emphasizes a molecular scale understanding of energy and entropy; free energy in equilibria, acid/base reactivity, and electrochemistry; molecular bonding and kinetics; catalysis in organic and inorganic systems; the union of quantum mechanics, nanostructures, and photovoltaics; and the analysis of nuclear energy. Case studies are used both to develop quantitative reasoning and to directly link these principles to global strategies.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="PHYSCI">Physical Sciences Physical Sciences Physical Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e22842a1310" role="1" seniority_sort="1">
+                <display_name>James Anderson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

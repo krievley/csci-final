@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159979" class_number="15163" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANE 219">Ancient Warfare in the Near East: An Archaeological Perspective</title>
+            <description>People tend to be familiar with ancient warfare in the classical civilizations of the Greeks and Romans, but what was the nature of warfare in earlier historic or pre-historic societies? This course explores the meaning and impact of military and warfare in societies throughout the ancient Near East and Eastern Mediterranean. From the time of the earliest evidence for warfare until the arrival of Alexander the Great, we will investigate various forms of archaeological and historical evidence in order to address the extent to which war shaped society, while dispelling some misconceptions and possible historical biases. Lectures will be supplemented with visits to Harvard museums and special artifact sessions at the Harvard Semitic Museum.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ANE">Ancient Near East</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e144111a1310" role="1" seniority_sort="1">
+                <display_name>Robert Homsher</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

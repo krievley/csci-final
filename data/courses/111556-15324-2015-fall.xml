@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111556" class_number="15324" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1982">Chinese Foreign Policy, 1949-2015</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes>IR_subfield  No prior background in China or international relations theory required.</notes>
+            <description>Introduction to the descriptive history of China's international relations with special focus on different theoretical explanations for changes in foreign policy behavior (e.g. polarity, history, ideology, leadership, bureaucracy, among others).</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="CGIS Knafel K050 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e19657a1310" role="1" seniority_sort="1">
+                <display_name>Alastair Johnston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

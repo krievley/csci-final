@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119716" class_number="15707" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 980V">The Psychology of Being Rich or Poor</title>
+            <exam_group>FAS15_E</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18, or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>As many strive for the American Dream, the gap between the rich and poor continues to widen. Although economic inequality affects us all, resulting in greater societal dysfunction and lower national happiness, the consequences vary greatly depending on your social class. In this course, we will examine how being rich or poor differentially impacts our sense of self, our morality, our ways of thinking, our sense of being in control, our achievements, the biases that we face, and our health and well-being. We will also consider psychological interventions for reducing the consequences of this wealth gap and for promoting mutual understanding across the divide.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="William James B4 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e199212a1310" role="1" seniority_sort="1">
+                <display_name>Sasha Kimel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114118" class_number="11993" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WELSH 129R">Intermediate Modern Welsh</title>
+            <notes>Catherine McKenna and others  This course, when taken following Welsh 128, satisfies the language requirement. May not be taken Pass/Fail. Not open to auditors.</notes>
+            <prereq>Recommended: Welsh 128 or permission of instructor.</prereq>
+            <description>Direct continuation of Welsh 128, developing and deepening students' knowledge of, and skill in, the modern spoken and written language. By the end of the semester students will be able to converse, read and write in a number of registers of idiomatic Welsh (academic, literary, informal). Various media, featuring dialogue, music and film, augment the advanced grammatical survey. Central cultural and historical issues are discussed.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="WELSH">Welsh</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63327a1310" role="1" seniority_sort="1">
+                <display_name>Catherine McKenna</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

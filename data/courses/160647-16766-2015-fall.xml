@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160647" class_number="16766" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TDM 98">Junior Tutorial</title>
+            <prereq>Recommended: Required of all, and limited to concentrators.</prereq>
+            <description>The junior tutorial is a unique opportunity for small groups of concentrators and a tutor to explore a creative or critical project. &amp;nbsp;The junior tutorial typically culminates in a longer project, which can be performance-based or critical/historical.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e205040a1310" role="1" seniority_sort="1">
+                <display_name>Deborah Foster</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

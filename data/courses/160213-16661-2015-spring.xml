@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160213" class_number="16661" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 43D">Christianity and Slavery in America, 1619-1865</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Most people today assume that Christianity and slavery are incompatible. For most of Christian history, however, the opposite was true. Christians not only owned slaves, but they argued that slavery was sanctioned by the Bible. This course will explore the relationship between Christianity and slavery in America from 1619, when the first slaves arrived in Virginia, to the Emancipation Proclamation in 1865. We will ask several questions. How did white Christians become convinced that slavery was sinful? Why did many slaves convert to Christianity, the religion of their oppressors? How did enslaved Christians make sense of their suffering?</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e135573a1310" role="1" seniority_sort="1">
+                <display_name>Catherine Brekus</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

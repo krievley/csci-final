@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112869" class_number="17297" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ARABIC 241AR">Advanced Modern Arabic Bridge: Language, Literature, and Culture I</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Conducted in Arabic. Not open to auditors.</notes>
+            <prereq>Recommended: Advanced proficiency in Arabic.</prereq>
+            <description>This constitutes the final year of Modern Arabic track. Representative readings from contemporary literature and culture will form bases of discussions on major themes in contemporary Arab society.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Semitic Museum 201" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e175810a1310" role="1" seniority_sort="1">
+                <display_name>Sami Alkyam</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

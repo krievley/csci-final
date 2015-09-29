@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107367" class_number="14277" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSCI 10">Quantum and Statistical Foundations of Chemistry</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes> Physical Sciences 10 and Physical Sciences 11 may be taken in any order. The general chemistry requirement for medical school can be satisfied with any two of the following courses: Life and Physical Sciences A, Life Sciences 1a, Physical Sciences 1, Physical Sciences 10, or Physical Sciences 11. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+            <prereq>Recommended: A strong background in chemistry (Chemistry AP score of 5, or Physical Sciences 1, or equivalent preparation), mathematics at the level of Mathematics 1b (may be taken concurrently), and some familiarity with physics (force, energy, work, and electric charge).</prereq>
+            <description>An introduction to the fundamental theories of quantum mechanics and statistical mechanics and their role in governing the behavior of matter. The course begins with the quantum behavior of a single electron and develops the elements of the periodic table, the nature of the chemical bond, and the bulk properties of materials. Applications include semiconductor electronics, solar energy conversion, medical imaging, and the stability and dynamism of living systems. Calculus will be used extensively.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="PHYSCI">Physical Sciences Physical Sciences Physical Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Science Ctr Hall D (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e21650a1310" role="1" seniority_sort="1">
+                <display_name>Adam Cohen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

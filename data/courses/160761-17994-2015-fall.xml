@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160761" class_number="17994" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SAS 179">South Asia: Connected Histories, Interdisciplinary Frames</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>This course will proceed chronologically beginning with the period before colonial rule in order to trace linkages and ruptures in ideas about South Asia over time. We will focus on notions of place and identity&amp;mdash;and their contestations&amp;mdash;as the subcontinent experienced the shift from early modern forms of empire to colonial rule to anti-colonial and nationalist movements, and, more recently, new geopolitical configurations characterized by financial globalization, the &amp;ldquo;rise of Asia&amp;rdquo; and increased levels of migration. Readings will draw from anthropology, history, literary studies, political science, religious studies, and excerpts from primary sources.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SAS">South Asian Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="1 Bow St 330 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e164901a1310" role="1" seniority_sort="1">
+                <display_name>Catherine Warner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

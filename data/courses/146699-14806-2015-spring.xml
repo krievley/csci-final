@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146699" class_number="14806" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ETHRSON 15">If There is No God, All is Permitted: Theism and Moral Reasoning</title>
+            <description>This course will examine the ways in which a concept of God has informed Western moral discourse trying to help students engage the literature as they consider why one might think &amp;quot;if there is no God, all is permitted&amp;#39;&amp;#39; and why one might think if there is a God, human moral achievement is impossible.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="ETHRSON">Ethical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e50665a1310" role="1" seniority_sort="1">
+                <display_name>Jay Harris</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

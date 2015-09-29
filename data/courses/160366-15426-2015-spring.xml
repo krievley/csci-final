@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160366" class_number="15426" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 137">Animals in History</title>
+            <description>This course serves as an introduction to animal studies while also exploring the history of animals in relation to humans. Topics include the history of animals as food, laboratory animals, animal-human boundaries, museum and zoo displays, conservation and extinction, panda diplomacy, the anti-vivisection movement, animals in literature, and animals as pets.&amp;nbsp; All these issues invest animals with crucial socio-political meaning. There will be a field trip and perhaps films. Small research projects through the semester will allow students to explore their own interests as well as relevant issues in the news. Among the things that make animal studies such an interesting area is the constant need for scholars to be aware of their own commitments and assumptions. Students from History, History of Science, and History and Literature are all welcome.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e52680a1310" role="1" seniority_sort="1">
+                <display_name>Janet Browne</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

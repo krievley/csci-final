@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120488" class_number="12813" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 2070B">Case Studies and Research Proposal Preparation</title>
+            <notes>Anthropology 2070a is commonly taken before Anthropology 2070b, but is not a prerequisite. Required of students in the Archaeology Program of Anthropology; open to other graduate students and advanced undergraduates with permission of instructor.   Anthropology 2070a is commonly taken before Anthropology 2070b, but is not a prerequisite. Required of students in the Archaeology Program of Anthropology; open to other graduate students and advanced undergraduates with permission of instructor.</notes>
+            <description>Seminar for graduate students that will focus on grant and paper writing, and will also include selected case studies.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e45874a1310" role="1" seniority_sort="1">
+                <display_name>Christian Tryon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

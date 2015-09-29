@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125124" class_number="13516" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 42U">The Laws of War and the War on Terrorism</title>
+            <exam_group>FAS13_G</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>How do the "laws of war" regulate the conduct of the United States in the "Global War on Terrorism?" This seminar examines the historical development of two legal concepts: jus ad bellum, which determines the legitimacy of the use of armed force; and jus in bello, which defines the duties of soldiers and belligerent states. Drawing on this background, the seminar explores how these laws have influenced U.S. military and anti-terrorism operations since 9/11.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e203724a1310" role="1" seniority_sort="1">
+                <display_name>Gregg Peeples</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

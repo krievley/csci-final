@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159610" class_number="14703" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 386B">Molecular Evolution</title>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e228452a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Meselson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

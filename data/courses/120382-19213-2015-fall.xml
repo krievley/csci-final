@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120382" class_number="19213" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LATIN BAM">Latin Prose Selections (Late Antique and Medieval)</title>
+            <prereq>Recommended: Latin Ab, Aab, Ac, or equivalent.</prereq>
+            <description>Provides a bridge between study of grammar and reading of prose. After review of fundamentals, studies short selections of post-classical texts and authors such as Vulgate Bible, Augustine, Anselm of Canterbury, Abelard, and Dante.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

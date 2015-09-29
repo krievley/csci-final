@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108094" class_number="19198" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GREEK 110">Plato's &lt;i&gt;Phaedo&lt;/i&gt;</title>
+            <exam_group>FAS04_A</exam_group>
+            <prereq>Recommended: Greek Ba or equivalent.</prereq>
+            <description>Close reading of Plato&amp;rsquo;s Phaedo in Greek.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+    </course>
+</courses>

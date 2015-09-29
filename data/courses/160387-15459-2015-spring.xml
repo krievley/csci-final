@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160387" class_number="15459" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 272">Hermeneutics and the Philology of the Flesh</title>
+            <description>	The course offers an historical overview of theories of interpretation from Luther to Gadamer and Merleau-Ponty, with specific focus on metaphors of incarnation, embodiment, and revelation. In tracking the shift from interpretation as an auxiliary art to hermeneutics as a philosophical universal, the literary readings broach questions concerning theories of the verbal sign, understanding, self-consciousness, phenomenology, and the human condition - all in relation to the theological paradigms that have persistently motivated and shaped these investigations.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e42680a1310" role="1" seniority_sort="1">
+                <display_name>John T. Hamilton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160234" class_number="15318" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EGYPTIAN 200">Egyptian Text Reading</title>
+            <notes>Undergraduates may enroll only by permission of the instructor.  Undergraduates may enroll only by permission of the instructor.</notes>
+            <description>Graduate level course in the reading of primary Egyptian texts.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="EGYPTIAN">Egyptian</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e24584a1310" role="1" seniority_sort="1">
+                <display_name>Peter Der Manuelian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

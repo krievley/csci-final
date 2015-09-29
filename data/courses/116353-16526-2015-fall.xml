@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16526" school_id="fas" section="223" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>This course explores the interplay between the physical spaces of American cities and the class and racial identities of urban residents. Focusing on Boston&amp;rsquo;s and Cambridge&amp;rsquo;s history from the 1960s to the present, we ask how spaces (from sidewalks to university campuses) shape residents&amp;rsquo; images of themselves and their neighbors. Course readings and assignments emphasize the contested nature of decision making processes, focusing on debates among politicians, courts, university officials, and neighborhood groups to determine residential and educational policies. We begin by examining a pioneering work in the field of urban studies: Jane Jacobs&amp;rsquo;s  The Death and Life of Great American Cities  (1961). Jacobs vehemently critiqued programs for urban renewal and instead celebrated the vitality of social spaces found in older urban neighborhoods such as Boston&amp;rsquo;s North End and New York&amp;rsquo;s Greenwich Village. We then turn to one of the most tumultuous times in Boston&amp;rsquo;s history as we investigate the protests surrounding the implementation of forced busing to integrate the Boston Public Schools in the 1970s. This period continues to be the subject of considerable debate, with scholars offering conflicting accounts of the role of racial, ethnic, class, and gender-based identities among opponents of busing. We build on the skills developed in the first two assignments in a final research paper that considers Harvard&amp;rsquo;s own history of class, race, and space. Students first explore scholarship regarding &amp;ldquo;town gown&amp;rdquo; relations more generally and then conduct original research regarding a key episode in Harvard&amp;rsquo;s interactions with neighboring residents in Boston or Cambridge.  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Barker 218 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172503a1310" role="1" seniority_sort="1">
+                <display_name>Ariane Mary Liazos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

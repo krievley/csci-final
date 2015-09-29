@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160419" class_number="15764" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 108">Intelligent Systems: Design and Ethical Challenges</title>
+            <exam_group>FAS15_A</exam_group>
+            <prereq>Recommended: CS50 or equivalent.</prereq>
+            <description>For centuries, people have imagined smart machines in fictional stories.&amp;nbsp; Computer systems now communicate in speech and text, learn, negotiate, and work in teams (with people and other systems).&amp;nbsp; These intelligent-systems capabilities raise questions about the impact of such systems on people and societies. This course introduces the basic techniques of AI in the context of (science) fiction imaginings and ethical challenges.&amp;nbsp; It examines the roles of design and of policy in reducing potential negative consequences. The course presumes a basic programming ability, but is accessible to concentrators in the humanities and social sciences as well as science and engineering.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Maxwell Dworkin 221 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e154864a1310" role="1" seniority_sort="1">
+                <display_name>Barbara Grosz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160222" class_number="16351" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 98SD">Urban Inequality in the 21st Century</title>
+            <notes>Instructor: Jessica Simes  </notes>
+            <prereq>Prerequisite: Sociology 97</prereq>
+            <description>Neighborhoods and metropolitan cities have experienced dramatic social transformation since the publication of The Truly Disadvantaged, and this course seeks to examine in historical and comparative perspective the changing and durable nature of urban inequality.&amp;nbsp;This course will apply sociological theories of urbanism to the study of the contemporary city&amp;nbsp;and consider shifts in population, capital, and governance that affect U.S. and global urban configurations.&amp;nbsp;Topics to be considered include: gentrification, housing and economic development, policing and crime control, technology, new urbanism and smart growth, suburban poverty, and the &amp;ldquo;great inversion&amp;rdquo;--among others. This course will pay particular attention to regional and cross-&amp;shy;national variation in urban change and inequality.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

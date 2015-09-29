@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145006" class_number="13299" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 173">Comparative Biomechanics</title>
+            <notes> One 1.5-hour lab/primary literature discussion per week with hours to be arranged.</notes>
+            <description>An exploration of how animals and plants contend with their physical environment, considering their biomaterial properties, structural form, and mechanical interaction with the environment. Through lectures, seminar discussions, and student presentations based on readings, students are introduced to topics related to biomechanical performance.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e191073a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Biewener</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

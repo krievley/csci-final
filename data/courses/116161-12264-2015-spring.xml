@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116161" class_number="12264" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2709">Themes in Modern Sub-Saharan African History: Proseminar</title>
+            <notes>Open to undergraduates with permission of instructor.   Open to undergraduates with permission of instructor.</notes>
+            <description>An in-depth study of the major themes in sub-Saharan African history from the mid-19th century to the present, including the scholarship and debates on the changing relationship between Africa and the West.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e37487a1310" role="1" seniority_sort="1">
+                <display_name>Caroline Elkins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

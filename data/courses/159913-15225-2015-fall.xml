@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159913" class_number="15225" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 188V">Sacred Places and Sacred Objects: The Art of Japanese Religion</title>
+            <exam_group>FAS02_A</exam_group>
+            <description>An interdisciplinary study of the art and material culture of the buddhist and Shinto religious traditions. &amp;nbsp;The class will focus on the temples and shrines that serve as the loci of religious practice and the works of art associated with them - sculptures and paintings, sutras and reliquaries, ritual implements and temple adornments. &amp;nbsp;It will examine in depth some of Japan&amp;#39;s most influential sacred places, including Ise Shrine, Todaiji, the Byodoin, and Mount Fuji, and will also look at the way contemporary architects and artists such as Ando Tadao and Sugimoto Hiroshi have attempted to create new sacred places and sacred objects.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sackler Museum 406" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e199451a1310" role="1" seniority_sort="2">
+                <display_name>Samuel Morse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

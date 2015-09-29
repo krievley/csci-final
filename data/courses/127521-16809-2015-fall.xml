@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127521" class_number="16809" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 392HFA">Research Topics in Missing Data, Matching and Causality</title>
+            <exam_group>FAS06_F</exam_group>
+            <description>Students will make at least one presentation on current research in applied or theoretical statistics. All registered students are expected to participate by offering commentary/suggestions during presentations. This is a requirement to obtain credit.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Science Ctr 706 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e21753a1310" role="1" seniority_sort="1">
+                <display_name>Donald Rubin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111027" class_number="17955" school_id="fas" section="004" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 399">Reading and Research</title>
+            <notes> Conducted through regular conferences and assigned writing. Limited to students reading specifically on topics not covered in regular courses. Open only by petition to the Department; petitions should be presented during the term preceding enrollment, and must be signed by the instructor with whom the reading is to be done. All applicants for admission should first confer with the Director of Graduate Studies.</notes>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e59822a1310" role="1" seniority_sort="1">
+                <display_name>Glenda Carpio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108257" class_number="10819" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 25X">Human Brain in Health and Disease: A Neurologist's Perspective</title>
+            <exam_group>FAS05_C</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Brain function serves as the basis for how we make rational and irrational decisions, learn to read or not (dyslexia), learn and remember or not (amnesia), empathize and understand the perspective of another or not (autism). The mind is shaped by the interaction of the brain and environment. Our understanding of the brain enables us to attempt to modify the environment to enhance the mind. This course will look at these issues in individuals with normal brain function and those with neurological disorders.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:59:00" location="Barker 218 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e24532a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Byrne</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

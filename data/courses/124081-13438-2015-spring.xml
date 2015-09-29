@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124081" class_number="13438" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPNLIT 233R">Nara and Heian Court Literature: Seminar</title>
+            <prereq>Recommended: Japanese 106a or equivalent.</prereq>
+            <description>Topic: Spring 2015, Man&amp;#39;yoshu</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNLIT">Japanese Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19469a1310" role="1" seniority_sort="1">
+                <display_name>Edwin Cranston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

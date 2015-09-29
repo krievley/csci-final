@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121992" class_number="19379" school_id="fas" section="004" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 155">Modal Counterpoint</title>
+            <prereq>Recommended: Music 150 or permission of instructor.</prereq>
+            <description>Study of representative styles and genres of 16th-century polyphony. Detailed analytic work will be combined with compositional exercises.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

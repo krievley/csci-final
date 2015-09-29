@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124775" class_number="13402" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94IA">Sino-US Relations in an Era of Rising Chinese Power</title>
+            <description>Assesses theoretical arguments and empirical evidence concerning the implications of Chinese economic and military modernization for conflict and cooperation between China and the US. Some issues examined include global arms control, trade, the environment, and regional security.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19657a1310" role="1" seniority_sort="1">
+                <display_name>Alastair Johnston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

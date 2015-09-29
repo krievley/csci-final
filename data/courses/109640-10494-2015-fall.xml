@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109640" class_number="10494" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90AV">Revolution and Reform in Britain and France, 1820-1880</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>The Industrial Revolution transformed social class and caused urban squalor, deep poverty, and unrest. But while France saw three major revolts (1830, 1848, 1871) Britain remained quiet. Why? This course explores that question, using novels by Dickens and Hugo and historical evidence on life in London and Paris. We will also look at contemporary representations of the 19th century, asking what they tell us about modern understandings of class inequality, revolution, and reform.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Barker 128 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e16551a1310" role="1" seniority_sort="1">
+                <display_name>Mo Moulton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

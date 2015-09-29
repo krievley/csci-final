@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159702" class_number="14813" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="NEUROBIO 107A">Pleasure, pain and everything between: How Touch Encodes the World Around Us</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes>Please enroll in Neurobiology 101 if you are interested in taking one of the sophomore tutorials.  </notes>
+            <prereq>Prerequisite: LS 1a AND MCB 80</prereq>
+            <description>We rely on our sense of touch for essential tasks and behaviors, including feeding, object recognition&amp;nbsp;and grasping, avoiding physical harm, mating behaviors, and child rearing. This course covers the neural components and circuitry that underlie our sense of touch. From skin to the cortex, we will explore touch and its role in development, diseases, and most importantly, in our everyday life. Students must complete both terms of this course(parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NEURO">Neurobiology</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="20:29:00" location="Robinson 107 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e216221a1310" role="1" seniority_sort="11">
+                <display_name>Amanda Zimmerman</display_name>
+            </person>
+            <person id="d1e216224a1310" role="1" seniority_sort="12">
+                <display_name>Emily Kuehn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

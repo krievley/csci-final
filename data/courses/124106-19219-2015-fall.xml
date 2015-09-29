@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124106" class_number="19219" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="UYGHUR A">Elementary Uyghur</title>
+            <description>Introduction to Uyghur, the Turkic language spoken in China's Xinjiang Uyghur Autonomous Region and throughout Central Asia. Course covers grammar, reading and writing (in the modified Arabic alphabet adopted in the PRC), and conversation practice.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="UYGHUR">Uyghur</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

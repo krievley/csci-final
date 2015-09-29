@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114061" class_number="14282" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPAN 300">Reading and Research</title>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPAN">Japanese</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e35675a1310" role="1" seniority_sort="1">
+                <display_name>Ryuichi Abe</display_name>
+            </person>
+            <person id="d1e19469a1310" role="1" seniority_sort="2">
+                <display_name>Edwin Cranston</display_name>
+            </person>
+            <person id="d1e20033a1310" role="1" seniority_sort="3">
+                <display_name>Andrew Gordon</display_name>
+            </person>
+            <person id="d1e19422a1310" role="1" seniority_sort="4">
+                <display_name>Helen Hardacre</display_name>
+            </person>
+            <person id="d1e34371a1310" role="1" seniority_sort="5">
+                <display_name>Wesley Jacobsen</display_name>
+            </person>
+            <person id="d1e3357a1310" role="1" seniority_sort="6">
+                <display_name>Shigehisa Kuriyama</display_name>
+            </person>
+            <person id="d1e31054a1310" role="1" seniority_sort="7">
+                <display_name>Melissa M. McCormick</display_name>
+            </person>
+            <person id="d1e29548a1310" role="1" seniority_sort="8">
+                <display_name>Tomiko Yoda</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

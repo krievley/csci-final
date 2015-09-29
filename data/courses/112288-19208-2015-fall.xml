@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112288" class_number="19208" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GREEK 112A">History of Greek Literature I</title>
+            <description>A survey of early Greek poetry and prose, with readings from Homer, Hesiod, the Homeric Hymns, lyric poetry, and Herodotus. Discussions of genre in relation to performance, historical contexts, thematic (dis)continuities, oral tradition.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

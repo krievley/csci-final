@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114117" class_number="14959" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="JAPAN 150A">Readings and Discussion in Japanese Social Sciences</title>
+            <exam_group>FAS17_A</exam_group>
+            <notes> Conducted in Japanese.</notes>
+            <prereq>Recommended: Japanese 140b.</prereq>
+            <description>Selected readings and discussion in Japanese primarily on contemporary topics in economics, sociology, political science, psychology, and cultural studies, with occasional readings from literature. Readings are supplemented by selections from audiovisual media on current social issues.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPAN">Japanese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="Northwest Bldg B107 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e32487a1310" role="1" seniority_sort="1">
+                <display_name>Yuko Kageyama-Hunt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

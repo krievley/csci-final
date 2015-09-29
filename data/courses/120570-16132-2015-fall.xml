@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120570" class_number="16132" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1645">Exploring Culture Through Film</title>
+            <exam_group>FAS05_C</exam_group>
+            <description>Introduction to the history and theory of documentary and ethnographic film. A wide variety of works from 1895 to today will be screened and discussed. Different cinematic styles which have been used to depict human existence and the relationships between individuals and the wider cultural and political contexts of their lives will be compared.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="21:29:00" location="Carpenter Lecture Hall (FAS)" start_time="18:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e46012a1310" role="1" seniority_sort="1">
+                <display_name>Lucien Castaing-Taylor</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

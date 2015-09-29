@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128034" class_number="14123" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SYSTBIO 304QC">Dynamic &amp; Stochastic Processes in Cells Part 2</title>
+            <notes>October 15, 2013 - December 3, 2013. Students enrolled in SystBio304qc can never enroll in SystBio303qc.   Tu., Th., 10-11:30, a weekly section to be arranged   October 15, 2013 - December 3, 2013. Students enrolled in SystBio304qc can never enroll in SystBio303qc.</notes>
+            <prereq>Recommended: College-level calculus.</prereq>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+    </course>
+</courses>

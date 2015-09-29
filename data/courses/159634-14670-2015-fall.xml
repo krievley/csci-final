@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159634" class_number="14670" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 282">Geometry of Algebraic Curves</title>
+            <exam_group>FAS12_A</exam_group>
+            <description>Algebraic curves are some of the most fascinating objects in algebraic geometry: we know a good deal about them, but many major open questions remain.&amp;nbsp; At the heart of these questions is the relation between the classical notion of curves in projective space and the modern notion of abstract curves. The theory of linear systems on curves, which we&amp;#39;ll study in this course, represents a bridge between these two notions. We&amp;#39;ll cover the basic theorems governing linear systems on curves (Riemann-Roch, Clifford&amp;#39;s theorem, etc.) and go on to discuss the Castelnuovo and Brill-Noether theorems, ending with a survey of open problems (and what we know about them so far).</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Science Ctr 507 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e62060a1310" role="1" seniority_sort="1">
+                <display_name>Joseph D. Harris</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

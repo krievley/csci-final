@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160432" class_number="15796" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1321">Food, Drink and Energy</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes>This course counts towards the Anatomy/Physiology subfield requirement and the research seminar requirement in HEB. Course includes a laboratory component in addition to the seminar portion.  This course counts towards the Anatomy/Physiology subfield requirement and the research seminar requirement in HEB. Course includes a laboratory component in addition to the seminar portion.</notes>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a and Life Sciences 1b required.</prereq>
+            <description>This course explores how the food you eat, the beverages you drink and your activity level are part of your total energy budget. The focus of the course is on how energy is measured including food and drink energy content, dietary intake records and recall, activity monitors and recalls, the resting metabolic rate and finally, the use of doubly labeled water in animals and humans.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Peabody Museum 52H" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18098a1310" role="1" seniority_sort="1">
+                <display_name>Noreen Tuross</display_name>
+            </person>
+            <person id="d1e199502a1310" role="2" seniority_sort="2">
+                <display_name>Linda M. Reynard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114362" class_number="12268" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2660R">Research Seminar in Mindfulness Theory</title>
+            <notes> Open to students doing research with Prof. Langer.</notes>
+            <description>Research will be designed/conducted on the relationship between mindfulness and physical health/well-being, broadly conceived. For example, topics include cancer, autism, Alzheimer&amp;#39;s, bullying, innovation.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:29:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e58715a1310" role="1" seniority_sort="1">
+                <display_name>Ellen Langer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

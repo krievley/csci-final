@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142204" class_number="12457" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IMMUN 301">Immunology Seminar</title>
+            <notes> Required for, and limited to, first-year Immunology graduate students.</notes>
+            <description>Gives students exposure to research topics in Immunology. Students prepare for the weekly seminar through readings, discussions, and preparing brief write-ups. These discussions are facilitated by members of the Committee on Immunology.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:15:00" location="" start_time="12:15:00"/>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e49960a1310" role="1" seniority_sort="1">
+                <display_name>Michael Carroll</display_name>
+            </person>
+            <person id="d1e106674a1310" role="1" seniority_sort="2">
+                <display_name>William Haining</display_name>
+            </person>
+            <person id="d1e49960a1310" role="1" seniority_sort="1">
+                <display_name>Michael Carroll</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

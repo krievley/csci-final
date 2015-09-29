@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114427" class_number="12306" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 149Z">Philosophy of Science</title>
+            <notes>science, philosophy, happiness, well-being, psychology, creationism, intelligent design, God, religion, evolution, Darwin, natural selection, reductionism, physics, causation, explanation, confirmation, induction, skepticism, Hume  </notes>
+            <description>Survey of 20th century and contemporary views on the nature of scientific knowledge, and related issues. Topics may include: logical empiricism, Popper and &amp;quot;falsifiability&amp;quot;, induction and confirmation, explanation, scientific realism, causation and laws of nature, and the sense (if any) in which &amp;quot;everything reduces to physics&amp;quot;.&amp;nbsp; In one unit of the course we will take up these issues with respect to the burgeoning science of happiness and well-being.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e71187a1310" role="1" seniority_sort="1">
+                <display_name>Ned Hall</display_name>
+            </person>
+            <person id="d1e69594a1310" role="2" seniority_sort="2">
+                <display_name>Susanna Rinard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

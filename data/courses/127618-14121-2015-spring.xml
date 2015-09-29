@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127618" class_number="14121" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SYSTBIO 301QC">Studying Evolution through Models and Experiments</title>
+            <notes>January 12, 2015 - January 23, 2015. Class will be held in Armenise RM 627, HMS. To register for this course, please contact the Systems Biology Department. Course website: http://isites.harvard.edu/k100765.   January 12, 2015 - January 23, 2015. Class will be held in Armenise RM 627, HMS. To register for this course, please contact the Systems Biology Department. Course website: http://isites.harvard.edu/k100765.</notes>
+            <description>Intensive January course covering theoretical foundations in population genetics, genetic drift versus selection, identifying selection in genomes, advances in laboratory evolution experiments, with applications to key questions in systems biology and evolution.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+    </course>
+</courses>

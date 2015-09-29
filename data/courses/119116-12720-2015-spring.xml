@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119116" class_number="12720" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 91">Supervised Reading and Research</title>
+            <notes>Anya Bassett and members of the Committee  </notes>
+            <description>Individual work in Social Studies on a topic not covered by regular courses of instruction. Permission of the Director of Studies required.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e220852a1310" role="1" seniority_sort="1">
+                <display_name>Anya Bassett</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124112" class_number="13489" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MBB 980D">Conscious Perceptual Experience: A Systems Neuroscience Approach</title>
+            <notes>Preference to juniors in MBB tracks or MBB secondary field.  </notes>
+            <description>Renowned neuroscientists from Harvard and elsewhere will lead highly interactive seminars addressing core problems underlying the emergence of conscious visual experience. Topics include the requisite neuronal representations of the content of visual images, their localization within extrapersonal space and the sense of ownership of such images by an attentive self. Related topics include selective attention, the binding problem, recursive neuronal networks and the distinction between phenomenal and access consciousness. Finally, also explores both the commonalities and differences between visual perception and visual imagery so as to achieve a greater understanding of the bases for the emergence of both entities.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e273515a1310" role="1" seniority_sort="1">
+                <display_name>Florian Engert</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

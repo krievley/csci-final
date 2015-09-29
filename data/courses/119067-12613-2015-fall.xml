@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119067" class_number="12613" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BE 121">Cellular Engineering</title>
+            <exam_group>FAS17_A</exam_group>
+            <notes> BE121 and ES222 are the same course. This course has an optional laboratory section that will require hand-on work outside of scheduled lecture times.</notes>
+            <prereq>Recommended: At least one semester of college-level organic chemistry and molecular/cellular biology. Physics at the level of Physics Applied Physics 50 or Physics 12.</prereq>
+            <description>This is a combined introductory graduate/upper-level undergraduate course that focuses on examining modern techniques for manipulating cellular behavior and the application of these techniques to problems in the biomedical and biotechnological arenas. Topics will include expanding the genetic code, genetic circuits, rewiring signaling pathways, controlling behavior through cell-matrix interactions, and directed differentiation of stem cells. Lectures will review fundamental concepts in cell biology before delving into topical examples from current literature. Students will work individually and in teams to determine the boundaries of existing cellular engineering techniques using scientific literature and conduct original research in the laboratory.</description>
+            <department code="BME">Biomedical Engineering</department>
+            <course_group code="BE">Biomedical Engineering</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="Maxwell Dworkin 221 (SEAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e112745a1310" role="1" seniority_sort="1">
+                <display_name>Neel Joshi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115007" class_number="17365" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1980">Anthropology at Home</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes> Intended for advanced undergraduates and graduate students with some background in anthropology.  Others with professor's permission only.</notes>
+            <description>Anthropology got its start as a discipline devoted to studying societies regarded as &amp;ldquo;other&amp;rdquo; than ourselves.&amp;nbsp; Interested in human origins and &amp;ldquo;our living ancestors&amp;rdquo; on the one hand, and assuming that the experience of long-term residence among people extremely different from themselves could unsettle cultural preconceptions and thus lead to a more objective analysis on the other, early anthropologists insisted that fieldwork should be conducted in unfamiliar, usually faraway places.&amp;nbsp; A spirit of manly adventure and competitive hardship, combined with colonialist assumptions of the inherent superiority of Western society, were commonplace features of ethnographic writing well into the last decades of the twentieth century.In contrast to this, contemporary anthropologists are more likely to spend time among people much like themselves.&amp;nbsp; This is in part because of the increasing diversity of the field, wherein the distinction between &amp;ldquo;us&amp;rdquo; and &amp;ldquo;them&amp;rdquo; can no longer be obvious, but also because anthropologists&amp;rsquo; attention is increasing drawn closer to home.&amp;nbsp; Anthropologists today may conduct fieldwork in a nuclear facility or a drug rehabilitation center, among artisanal cheese-makers, community organizers or disabled war veterans, in rural coal camps or gentrifying urban neighborhoods.&amp;nbsp; Even when doing fieldwork abroad, they are as likely to choose to study middle- or upper-class urbanites &amp;ndash; psychiatrists, architects, bureaucrats, housewives, artists &amp;ndash; as peasant villagers.&amp;nbsp; Such studies complicate our assumptions about the inequality inherent in relations between observer and observed, about ethnographic objectivity, indeed about the definition of anthropology as a discipline.&amp;nbsp;This course asks what an anthropology conducted &amp;ldquo;at home&amp;rdquo; might look like.&amp;nbsp; For the purposes of this class we will emphasize ethnographic studies of the U.S., while recognizing that such a focus is itself problematic, given the wide range of other places where today&amp;rsquo;s anthropologists may call home.&amp;nbsp; Where is home, actually?&amp;nbsp; Whose &amp;ldquo;home&amp;rdquo; matters?&amp;nbsp; Are there varying degrees of &amp;ldquo;at-homeness&amp;rdquo;?&amp;nbsp;&amp;nbsp; Through questions such as these, the course explores the nature of anthropology as a discipline and as a method, and asks what &amp;ldquo;American culture&amp;rdquo; &amp;ndash; if we can claim that such a thing exists &amp;ndash; looks like from an anthropological perspective.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Tozzer 416 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43738a1310" role="1" seniority_sort="1">
+                <display_name>Mary Steedly</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

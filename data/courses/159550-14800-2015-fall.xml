@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159550" class_number="14800" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EAFM 112">Global Japanese Cinema</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Japanese language skills are not required. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>This course introduces Japanese cinema and its key works, styles and history as a highly influential part of global film culture. From the use of slow-motion in action scenes to the role of robots in Star Wars, cinema from Japan has left its mark on film as we know it today. Indeed Japanese film has influenced not only the history of film itself, but also the very way we think about film and film aesthetics. The course examines major historical developments in the cinema of Japan and surveys many of its most important films and their historical contexts. It explores some of the major questions that cinema from Japan has raised for thinking about the cinematic form and moving images. Through engaging with some of the masterpieces of Japanese cinema participants will acquire tools and methods for analyzing film. In the context of Japanese film history they will interrogate terms such as &amp;ldquo;national cinema&amp;rdquo;, &amp;ldquo;humanism&amp;rdquo;, &amp;ldquo;film auteur&amp;rdquo;, &amp;ldquo;gender&amp;rdquo; or &amp;ldquo;modernism&amp;rdquo; and explore how cinema in Japan itself actively wrestled with such concepts. The course will center around questions such as: Is there such a thing as &amp;ldquo;Japanese&amp;rdquo; cinema? What kind of influences and counter-influences were exerted between cinema in Japan and the global context? How has cinema from Japan changed how we think about film and moving images? Which potential does it hold for radically changing our thinking about film and moving images even today?In addition to class meetings on Wednesday 2-4, there are film screenings on Monday 5-7.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EAFM">East Asian Film and Media Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Yenching Library 212 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e27927a1310" role="1" seniority_sort="1">
+                <display_name>Alexander Zahlten</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

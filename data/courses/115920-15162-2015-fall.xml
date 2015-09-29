@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115920" class_number="15162" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH 50">Writing and Performance</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes> Conducted in Spanish. Recommended for concentrators. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Spanish 50 website. 
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: A score between 721-750 on the SAT II test or on the Harvard Placement Test, Spanish 40, or permission of course head.</prereq>
+            <description>An advanced language course designed to strengthen and develop competence in written expression. Close reading of texts in literary and non-literary genres will help students refine personal style. The performance of short excerpts of plays, combined with advanced work on oral expression and phonetics, will help students increase their fluency and ease of expression.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Lamont Library 230 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e89349a1310" role="1" seniority_sort="1">
+                <display_name>Adriana Gutierrez</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

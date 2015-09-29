@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122942" class_number="15296" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1165">Digging the Glyphs: Adventures in Decipherment</title>
+            <description>This course focuses on the method and theory of decipherment, but also considers epistemology and the significance and enduring relevance of ancient writing systems in the modern era. It begins with the distinction between notational, iconographic and phonetic communication - only the latter can truly be considered &amp;#39;writing&amp;#39; (a linear, graphic record of speech) - and then discusses the various different types of writing systems (including logographic, logosyllabic, syllabic and alphabetic scripts). This is followed by several case studies: the great decipherments (Egyptian, the Cuneiform scripts, Linear B and Mayan); scripts whose languages have become extinct (Etruscan and Mero&amp;iuml;tic); scripts that remain entirely mysterious (the scripts of Phaistos, the Indus Valley and Easter Island); the major scripts of the Pre-Columbian New World (Zapotec, Isthmian and Aztec writing); and invented scripts from popular literature. Each provides its own unique insights into the enduring and engaging mystery of writing.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e468168a1310" role="1" seniority_sort="1">
+                <display_name>Alexandre Tokovinine</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

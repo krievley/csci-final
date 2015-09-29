@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159639" class_number="15372" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2010D">Economic Theory</title>
+            <notes> Enrollment is strictly limited to PhD students in the Economics Department, Business Economics program, and PEG program. Qualified Harvard undergraduates may also enroll. No other students may take the course for credit or as auditors. Mathematics 116 or the equivalent; can be taken concurrently.</notes>
+            <prereq>Recommended: Mathematics 116 or the equivalent; can be taken concurrently.</prereq>
+            <description>A basic course in graduate macroeconomics, including models of business fluctuations, analyses of monetary and fiscal policy, and introduction to open economy macroeconomic issues.&amp;nbsp;</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="09:59:00" location="" start_time="08:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60617a1310" role="1" seniority_sort="1">
+                <display_name>Emmanuel Farhi</display_name>
+            </person>
+            <person id="d1e51710a1310" role="2" seniority_sort="2">
+                <display_name>Kenneth Rogoff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

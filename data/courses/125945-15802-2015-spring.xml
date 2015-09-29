@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125945" class_number="15802" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELTIC 188">Scottish Gaelic Poetry</title>
+            <description>An exploration of the different types of vernacular Gaelic poetry composed in Scotland from the 16th to the 19th century, including personal lyrics and public praise-poetry, and an examination of the poets&amp;rsquo; responses to the transformation of Gaelic society from the &amp;rsquo;clan&amp;rsquo; period to the Jacobite Risings, the Highland Clearances and the Gaelic revival at the time of the Land Wars. The course is built around the close study of a series of key texts to be read in English translation.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="CELTIC">Celtic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63330a1310" role="1" seniority_sort="1">
+                <display_name>Natasha Sumner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

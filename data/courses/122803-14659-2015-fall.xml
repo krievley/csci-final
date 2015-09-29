@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122803" class_number="14659" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 142">Major Advances in Understanding Evolution and Heredity</title>
+            <exam_group>FAS03_A</exam_group>
+            <prereq>Recommended: LS 1b or equivalent and permission of the instructor.</prereq>
+            <description>MCB 142 aims to develop an understanding of some of the principal advances leading to our present understanding of evolution and heredity, from Mendel and Darwin to the discovery of the genetic code. Course work includes critical reading of original papers, student presentations, group discussion, and submission of written answers to problem sets. Participation in class discussion of readings is essential. A substantial essay on a mutually agreed topic is due at end of reading period.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:29:00" location="Biological Labs 2062/2064(FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e228452a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Meselson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

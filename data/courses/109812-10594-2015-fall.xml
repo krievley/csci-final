@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109812" class_number="10594" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ISLAMCIV 176">Islam in Modern West Africa</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Offered jointly with the Divinity School as 3366.</notes>
+            <description>At the beginning of European colonial rule in the early 20th century, less than a half of the West African population was Muslim. By independence from European colonial rule in the early 1960s, close to 90 percent of many West African countries have been Islamized. More people converted to Islam during the six decades of European colonial rule than in the preceding thousand year of slow Islamization. The aim of this lecture course is to analyze contemporary West African Muslim societies with particular reference to the twenty and twenty first centuries. This course will look at how colonialism created a favorable ground for the spread of Islam. It will also address the main institutions and movements of modern Islam in West Africa as well as the postcolonial transformations in education, gender, the arts, interfaith relations etc. In addition to the discussion section in English, this lecture course will also offer a section in Arabic in which participants will be initiated to the intellectual production of Muslim intellectuals in Africa.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="Rockefeller 114 (HDS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11836a1310" role="1" seniority_sort="1">
+                <display_name>Ousmane Oumar Kane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

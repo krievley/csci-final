@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114796" class_number="12525" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 65">Physical Biochemistry: Understanding Macromolecular Machines</title>
+            <prereq>Prerequisite: (LPS A OR LS 1a) AND (CHEM 20 OR CHEM 17)</prereq>
+            <description>The course aims to develop fundamental concepts of biochemistry as they apply to macromolecules, including protein and nucleic acid structure, thermodynamics and kinetics, ligand interactions and chemical equilibria. The course will also emphasize how these concepts are used in studies of the structure and function of biological molecules, including examples from metabolism. In the weekly section, students will undertake a discovery-based laboratory research project in which they will apply these concepts toward understanding the structure and function of the ATPase domain from the ABC transporter associated with antigen processing (TAP).</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e231433a1310" role="1" seniority_sort="1">
+                <display_name>Rachelle Gaudet</display_name>
+            </person>
+            <person id="d1e301476a1310" role="1" seniority_sort="2">
+                <display_name>Lukas Bane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

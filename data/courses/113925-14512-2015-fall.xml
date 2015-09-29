@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113925" class_number="14512" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RUSS AAB">Elementary Russian (Intensive)</title>
+            <exam_group>FAS10_B</exam_group>
+            <notes> Assumes no previous knowledge of Russian</notes>
+            <description>	An intensive version of Russian AA: Elementary Russian I and Russian AB: Elementary Russian II, covering the same material in a single semester. Class meets five days per week with five hours of the main section and three hours of small group speaking practice each week (8 hours per week total).	&amp;nbsp;	Please see language course notes on our website for information about sectioning, pass/fail, satisfactory/unsatisfactory, auditing, and language track information.&amp;nbsp;</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="09:59:00" location="Barker 373 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e95819a1310" role="1" seniority_sort="1">
+                <display_name>Natalia Chirkov</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111276" class_number="10402" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="NEUROBIO 220">Cellular Neurophysiology</title>
+            <exam_group>FAS16_A</exam_group>
+            <notes> Offered jointly with the Medical School as NB 714.0.</notes>
+            <prereq>Recommended: Introductory neurobiology.</prereq>
+            <description>Introduction to the physiology of neurons, focusing on using electrophysiology and imaging to study function of ion channels, generation of action potentials, and physiology of synaptic transmission. Includes problem sets and reading of original papers.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e65128a1310" role="1" seniority_sort="1">
+                <display_name>Bruce Bean</display_name>
+            </person>
+            <person id="d1e45311a1310" role="2" seniority_sort="2">
+                <display_name>Wade Regehr</display_name>
+            </person>
+            <person id="d1e65134a1310" role="2" seniority_sort="3">
+                <display_name>Bernardo Sabatini</display_name>
+            </person>
+            <person id="d1e54528a1310" role="2" seniority_sort="4">
+                <display_name>Gary Yellen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

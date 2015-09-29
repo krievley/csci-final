@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126141" class_number="16265" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="E-PSCI 134">Global Warming Debates: The Reading Course</title>
+            <notes> Course includes a weekly section to be arranged. Given in alternate years.</notes>
+            <prereq>Recommended: Applied Mathematics 21a,b or equivalent, or permission of instructor.</prereq>
+            <description>The atmospheric carbon dioxide concentration is now the highest it has been in at least 800,000 years, raising concerns regarding possible future climate changes. This seminar will survey the science of global change from the perspective of scientific debates within the climate community. Specifically, the course will involve guided reading and discussion of papers that present contentious view points on the science of global change, with the goal of students learning how to scientifically evaluate these claims. During weekly sections, students will review climate topics in further depth and prepare group presentations for subsequent classes.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e207669a1310" role="1" seniority_sort="1">
+                <display_name>Peter Huybers</display_name>
+            </person>
+            <person id="d1e193956a1310" role="1" seniority_sort="2">
+                <display_name>Eli Tziperman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

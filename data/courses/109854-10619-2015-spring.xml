@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109854" class_number="10619" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HUMAN 11A">Frameworks: The Art of Looking</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>Visual information today is superabundant thanks to our smartphones, tablets, and other screen-based gadgets. But few of us recognize how thoroughly our habits and experiences of looking have been conditioned by interfaces with long and complex histories. Participants in this new Framework Course, developed as part of the Humanities Project at Harvard, will approach looking through a consideration of key technologies from its history, such as the telescope, the television, and the easel painting. Students will learn about the hidden intricacies of looking and hone skills of visual, material, and spatial analysis through encounters with aesthetic objects from Harvard's collections.</description>
+            <department code="HUM">Humanities</department>
+            <course_group code="HUMAN">Humanities</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e34517a1310" role="1" seniority_sort="1">
+                <display_name>Robin Kelsey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

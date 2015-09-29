@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113326" class_number="11513" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 10A">Principles of Economics</title>
+            <exam_group>FAS05_A</exam_group>
+            <notes>Microeconomics (taught in the fall term) is a prerequisite for macroeconomics (taught in the spring term). Students may elect to take only the fall microeconomics course and receive a half-course credit. Taught in a mixture of lectures and small sections. No calculus is used, and there is no mathematics background requirement. Designed for both potential Economics concentrators and those who plan no further work in the field. The Department of Economics strongly encourages students considering concentration to take the full-year course in their freshman year. This is a required course for all economics concentrators and a prerequisite for higher level courses in economics.
+
+This course, when taken for a letter grade together with Economic 10b, meets the General Education requirement for either Empirical and Mathematical Reasoning or United States in the World, but not both.   M., W., F., at 12. Sections also meet at 9, 10, 11, 12, 1, or 2.   N Mankiw and members of the Department  Ec 10A Microeconomics (taught in the fall term) is a prerequisite for Ec 10B macroeconomics (taught in the spring term). Taught in a mixture of lectures and small sections. No calculus is used, and there is no mathematics background requirement. Designed for both potential Economics concentrators and those who plan no further work in the field. The Department of Economics strongly encourages students considering concentration to take both Ec10A and Ec10B in their freshman year. This is a required course for all economics concentrators and a prerequisite for higher level courses in economics. This course, when taken for a letter grade together with Economic 10b, meets the General Education requirement for either Empirical and Mathematical Reasoning or United States in the World, but not both.</notes>
+            <description>Introduction to economic issues and basic principles and methods of microeconomics: how markets work, market efficiency and market failure, firm and consumer behavior, policy issues such as taxation, international trade, the environment, and the distribution of income.&amp;nbsp;</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="Memorial Hall SandersThtr(FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60626a1310" role="1" seniority_sort="1">
+                <display_name>N. Mankiw</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

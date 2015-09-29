@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110961" class_number="11683" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 97">Tutorial - Sophomore Year: The Politics of Poetics: An Introduction to Literary &amp; Cultural Analysis</title>
+            <notes>Required of concentrators in French and Francophone Studies in their sophomore year. May also be taken as the Sophomore Tutorial by concentrators in Romance Studies. Open to non-concentrators with permission of course head.   Required of concentrators in French and Francophone Studies in their sophomore year. May also be taken as the Sophomore Tutorial by concentrators in Romance Studies. Open to non-concentrators with permission of course head.</notes>
+            <description>An introduction to literary and cultural interpretation as it has evolved in French Studies since World War II. Our conversations will be structured around rigorous analysis of key literary works in relation to literary theory, semiotics, psychoanalysis, and politics.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159815" class_number="15090" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98OK">The Politics of the Environment in Asia</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes> This course will be lotteried.</notes>
+            <description>Scholars have noted the connection between environment and specific forms of Asian politics and society. Today China reengineers the flow of its rivers to address social demands for water. South &amp;amp; Southeast Asian polities realize how politics beyond their borders can determine the flow of the region&amp;#39;s rivers--and thus the health of their societies. The dangers of poor air quality, polluted land, and contaminated food energize social movements and unrest.&amp;nbsp; Asian development models have resulted in extreme pollution, and with resulting public health problems, governmental attention to the environment has increased. In this research seminar students will explore &amp;quot;politics and environment&amp;quot; in Asia, with some attention being given to the future.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="William James 305 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e207244a1310" role="1" seniority_sort="1">
+                <display_name>Kevin Caffrey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

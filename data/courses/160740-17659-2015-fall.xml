@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160740" class_number="17659" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SLAVIC 187">Global Voices: Russian Literature Today</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes> All readings will be in English translation. Films will be subtitled (if applicable).</notes>
+            <description>In this course we will read some of the most interesting and influential literary works in prose and poetry written in Russian during the last thirty years. The period since the collapse of the Soviet Union has been marked by rampant experimentation, as the literary production was freed completely from censorship for the first time in over 200 years. We will discuss artistic and institutional motivations that underpin each work and place them within theoretical and historic frameworks. We will explore works by authors from other countries (Ukraine, Belarus, Kyrgyzstan, Uzbekistan, Israel, United States, etc.) that were originally written in the Russian language. Our goal will be to get a good sense of the entire spectrum of the contemporary Russian-language literary scene, to discuss questions of identity-formation, experimentation vs. traditionalism, gender dynamics, and genre. We will try to understand what makes a literature &amp;ldquo;national&amp;rdquo; and what the global aspects of literature are today. We will also consider thematic focus vs. stylistic preferences as elements of an author&amp;rsquo;s literary identity and self-positioning. Readings will include prose, drama, and poetry by Venedikt Erofeev, Vladimir Sorokin, Sasha Sokolov, Ludmila Pertrushevskaia, Tatiana Tolstaia, Elena Shvarts, Viktor Pelevin, Zakhar Prilepin, Eduard Limonov, Chingiz Aitmatov, Ludmila Ulitskaya, Dmitrii Bykov, Olena Stiazhkina, Linor Goralik, Andrei Kurkov, Svetlana Alexievich, Hamid Izmailov, Shamshad Abdullaev, Polina Barskova, and others. To round off our discussion of literary works we will also consider two innovative contemporary Russian-language films &amp;ndash; Myroslav Slaboshpytskyi&amp;rsquo;s The Tribe (Ukraine, 2014) and Andrei Zviagintsev&amp;rsquo;s Leviathan (Russia, 2014).</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Barker 373 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e148889a1310" role="1" seniority_sort="1">
+                <display_name>Oleh Kotsyuba</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

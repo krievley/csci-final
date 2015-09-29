@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110309" class_number="10963" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2050">Behavioral Economics, Law and Public Policy</title>
+            <notes> Offered jointly with the Kennedy School as API-305 and with the Law School at 2589.</notes>
+            <prereq>Recommended: Instructor permission is required.</prereq>
+            <description>This seminar will explore a series of issues at the intersection of behavioral economics and public policy. Potential questions will involve climate change; energy efficiency; health care; and basic rights. There will be some discussion of paternalism and the implications of neuroscience as well.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e325394a1310" role="1" seniority_sort="1">
+                <display_name>Cass Sunstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

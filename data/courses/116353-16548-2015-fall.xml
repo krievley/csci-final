@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16548" school_id="fas" section="245" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>Shakespeare, we have all been told, is extremely important. You might agree or disagree with this pronouncement, but do you know why Shakespeare matters to so many people? Why does every high school in America assign Shakespeare? Why did the world erupt with jubilation on his 450th birthday in April 2014? Does Shakespeare deserve all this fuss, or is he really overrated? In this section, Shakespeare lovers and haters alike are invited to consider the question of Shakespeare&amp;rsquo;s popularity by looking into the relationship between his method of artistic creation and the values of the modern world. We&amp;rsquo;ll begin with a reading of the most famous artwork of the past millennium,  Hamlet , a play about a bad philosopher trying to avenge his father&amp;rsquo;s murder. We&amp;rsquo;ll proceed with a study of  Macbeth , where a celebrated war hero goes mad murdering his way into political power. Here we&amp;rsquo;ll start to see the ways Shakespeare and modern thought speak to each other (and don&amp;rsquo;t) by looking at two recent productions of  Macbeth  influenced by the twentieth-century invention of psychology &amp;ndash; Alan Cummings&amp;rsquo;s 2013 one-man show on Broadway in which &amp;ldquo;it&amp;rsquo;s all in his head,&amp;rdquo; and Michael Fassbender&amp;rsquo;s 2015 film in which the hero returns from war with post-traumatic stress disorder (PTSD). We&amp;rsquo;ll also run  Macbeth  through some theories of criminology, a field that claims to offer scientific explanations for why crime happens. Finally, we&amp;rsquo;ll take a step back and ask, &amp;ldquo;Why Shakespeare?&amp;rdquo; and entertain answers ranging from the cynical (Shakespeare is a dead, white male that other dead, white males have used to promote the values of dead, white males) to the euphoric (Shakespeare is universal; Shakespeare invented the human).  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Sever 105 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e195428a1310" role="1" seniority_sort="1">
+                <display_name>Jeffrey Wilson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

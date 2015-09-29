@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156895" class_number="11734" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 159">History of Anthropology</title>
+            <description>This conference course looks at the long history of anthropological inquiry. We will begin with early modern "Curiosity Cabinets" that sequestered anthropological materials alongside the miraculous, marvelous, and mundane. We then turn to the age of exploration with its first-hand encounters between high-seas explorers or cross-continental travelers and tribal or non-Western groups sometimes known as "natives." After some attention to anthropological zoos and world's fairs, we will discuss the dawn of anthropology's professional golden age in the twentieth century; the arrival of epistemological and political crises during the 1960s, 1970s, and 1980s; and finally the current day's ontological turn, circling back to the interpretive and epistemological goals that have often animated the field.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e92330a1310" role="1" seniority_sort="1">
+                <display_name>Rebecca Lemov</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

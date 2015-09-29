@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130662" class_number="10534" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 279">Microbial Metabolic Systems</title>
+            <prereq>Recommended: LS1A or equivalent</prereq>
+            <description>This course covers microbial metabolism, with a focus on quantitative analyses and modeling. Rather than a laundry list of what different microbes can do, we will focus on thinking about metabolism from the more generic point of view of systems of enzymes, concentrations, and fluxes. We will cover empirical, computational, and theoretical approaches, including concepts such as Flux Balance Analysis and Metabolic Control, and focusing upon the selective pressures that operate on metabolism.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

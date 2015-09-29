@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123398" class_number="12749" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 100">Knowing the World: An Introduction to the History of Science</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>Tu., Th., at 10   This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>What are the origins of modern science and of the scientific method? Have the ways of knowing the world of different cultures and societies changed over time? How has scientific knowledge been related to other enterprises such as art, religion, literature, and commerce? We will ask these questions and more through a broad survey of many of the crucial moments in the development of science from the Scientific Revolution of the 17th century to the present day. Topics and figures will include Galileo, evolution, eugenics, the atomic bomb, and the human genome project.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Science Ctr Hall E (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e22643a1310" role="1" seniority_sort="1">
+                <display_name>Alex Csiszar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

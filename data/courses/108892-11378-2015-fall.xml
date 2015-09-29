@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108892" class_number="11378" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 980X">Economics of Work and Family</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes>This course, when taken for a letter grade, meets the General Education requirement for United States in the World.  </notes>
+            <prereq>Recommended: Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prereq>
+            <description>How are the most personal choices and life transitions decided? When and whom do you marry, how many children do you have, how much education should you obtain, and which careers or jobs will you pursue? Much will be explored in terms of change over time, particularly concerning the economic emergence of women and the growing role of government. Readings draw on economic theory, empirical analyses, history, and literature from the 19th century to the present.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Littauer Ctr M17 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18759a1310" role="1" seniority_sort="1">
+                <display_name>Claudia Goldin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

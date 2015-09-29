@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160662" class_number="16315" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2250">Evolving Morality: From Primordial Soup to Superintelligent Machines (Grad. Sem. in Gen. Ed.)</title>
+            <notes> The seminar will design and develop a General Education course on these themes for undergraduates.</notes>
+            <description>Students will help tell the story of morality on Earth, from its origins in the biology of unthinking cooperative organisms, through the psychology of intelligent cooperative primates, and into a future inhabited by machines that may be smarter and more capable than humans. Addressing longstanding philosophical questions in light of new scientific knowledge, this course will integrate material from across the humanities, social sciences, life sciences, and applied sciences with an emphasis on the development of interactive teaching tools.&amp;nbsp;</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e85917a1310" role="1" seniority_sort="1">
+                <display_name>Joshua Greene</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

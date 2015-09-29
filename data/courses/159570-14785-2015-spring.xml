@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159570" class_number="14785" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 124Y">Afro-Latin America: History and Culture</title>
+            <description>This course explores how African cultural expressions influenced colonial societies and later national cultures in Latin America. How did peoples of African descent shape the formation of Latin American national cultures in areas such as literature, religion, visual arts, music, dance, and cinema? Some scholars have debated whether African religious, musical, medical and communitarian practices were reproduced in the New World or whether they were creolized through fusion with other (European and indigenous) practices. Others have sought to explain how African cultural practices (music, religion, dances) that were derided as primitive and uncivilized in the early twentieth century became &amp;quot;nationalized&amp;quot; and transformed into key expressions of national cultures in many Latin American countries. What are the implications of this process for those cultural forms and their practitioners? How do they impact, if at all, other areas of social life?Â&#160; We explore these questions through historical and literary texts, films, visual arts, and recordings.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e36900a1310" role="1" seniority_sort="1">
+                <display_name>Alejandro de la Fuente</display_name>
+            </person>
+            <person id="d1e62376a1310" role="1" seniority_sort="2">
+                <display_name>Doris Sommer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

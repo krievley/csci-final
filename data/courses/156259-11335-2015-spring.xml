@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156259" class_number="11335" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 125X">Urban Inequality after Civil Rights</title>
+            <description>Why is the United States more segregated today than ever before? By examining the impact of social, political, and economic transformations in the decades after the civil rights movement, this course addresses historical developments that functioned to increase segregation and income stratification in African American communities in the late twentieth century and into the twenty-first.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38913a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth Hinton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

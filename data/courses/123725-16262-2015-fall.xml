@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123725" class_number="16262" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 38I">Morality: That Peculiar Institution</title>
+            <exam_group>FAS08_I</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>What, if anything, is the ultimate basis for morality? This seminar will explore a cluster of philosophical arguments that raise worries for almost any attempt at securing a foundation for morality, whether it be by means of the will of God, the dictates of science, the authority of self-evident truths, or the whimsies of subjective desires. Authors to be read include Plato, Hume, Moore, Mackie, Camus, Nagel, and Korsgaard.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Emerson 310 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e71694a1310" role="1" seniority_sort="1">
+                <display_name>Selim Berker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

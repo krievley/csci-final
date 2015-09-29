@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109346" class_number="16779" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 223">Electronics for Scientists</title>
+            <notes> Physics 223 is the same course as Physics 123; if you are an undergraduate students, please enroll in 123.</notes>
+            <description>An introduction to electronic circuit design intended to develop circuit intuition and debugging skills through daily design exercises, discussion and hands-on lab exercises. The approach is intensely practical, minimizing theory. Moves quickly from passive circuits to discrete transistors, then concentrates on operational amplifiers, used to make a variety of circuits including integrators, oscillators, regulators, and filters. The digital half of the course treats analog-digital interfacing, emphasizes the use of microcontrollers and programmable logic devices (PLDs).</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Laboratory</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:29:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e5517a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Hayes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

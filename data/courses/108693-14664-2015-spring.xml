@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108693" class_number="14664" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="CLASARCH 101">Roman Antiquity</title>
+            <notes>This course is a basic introduction to Greek art and archaeology and is specifically designed for undergraduates; graduate students are welcome, but the course does not count toward the Classical Archaeology course requirements for graduate students in the Classics or the History of Art and Architecture.  </notes>
+            <description>The course provides a broad overview of the development of Roman art, architecture, and material culture from the time of the Republic through the Imperial period, to the age of Constantine. It offers basic knowledge about core categories of archaeological artifacts and remains within their topographical setting and within the context of Greek culture and society; it also includes issues of archaeological methods and problems of current research.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASARCH">Classical Archaeology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e96270a1310" role="1" seniority_sort="1">
+                <display_name>Adrian Staehli</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

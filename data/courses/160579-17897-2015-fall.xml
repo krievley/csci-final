@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160579" class_number="17897" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 263">Systems Security</title>
+            <exam_group>FAS15_A</exam_group>
+            <prereq>Recommended: Computer Science 161 (Operating Systems)</prereq>
+            <description>This course explores practical attacks on modern computer systems, explaining how those attacks can be mitigated using careful system design and the judicious application of cryptography. The course discusses topics like buffer overflows, web security, information flow control, and anonymous communication mechanisms such as Tor. The course includes several small projects which give students hands-on experience with various offensive and defensive techniques; the final, larger project is open-ended and driven by student interests.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Maxwell Dworkin 119 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e205191a1310" role="1" seniority_sort="1">
+                <display_name>James Mickens</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

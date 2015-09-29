@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16515" school_id="fas" section="212" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>How should we represent the horrors of war, and how should we remember it? These are questions that have fascinated writers since the time of Homer, but the answers to these questions changed in the modern era, when war started to seem less noble and heroic and more totalizing and destructive. This course looks at artistic representations of modern warfare and asks what effects war has on those who survive it. What happens when the body is whole, but the mind is broken? How does war live on the memories of those who fought, or in the collective memory of a nation? Can&amp;mdash;or should&amp;mdash;art be made out of these painful, violent experiences? We&amp;rsquo;ll start off with Tim O&amp;rsquo;Brien&amp;rsquo;s  The Things they Carried , a powerful collection of stories based on O&amp;rsquo;Brien&amp;rsquo;s experiences as a solider in Vietnam. The stories encourage us to ask how truthfully we remember and what moral judgments we make when we choose which stories to tell. From there, we&amp;rsquo;ll pursue questions about memory and morality further by studying literature about the Great War, including Ernest Hemingway&amp;rsquo;s  A Farewell to Arms . We&amp;rsquo;ll ask how national politics form in and around these wars and their legacies. Our last unit brings all of these topics together as we move from literature to the movies. We&amp;rsquo;ll watch Francis Ford Coppola&amp;rsquo;s  Apocalypse Now , a movie that quickly became a classic of New Hollywood, and  Zero Dark Thirty , Kathryn Bigelow&amp;rsquo;s recent depiction of the War on Terror. Throughout the course, we&amp;rsquo;ll debate whether the experience of war can ever be adequately communicated to those who weren&amp;rsquo;t there, and whether these attempts can prevent future generations from repeating the mistakes of the past.  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Barker 218 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e174549a1310" role="1" seniority_sort="1">
+                <display_name>Margaret Doherty</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

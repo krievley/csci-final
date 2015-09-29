@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116455" class_number="12551" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 209">Neurobiology of Disease</title>
+            <notes> Given in alternate years. Offered jointly with the Medical School as NB 713.0. For advanced undergraduate, graduate students, MD and MD/PhD students.</notes>
+            <prereq>Recommended: Introductory neurobiology, biochemistry, and genetics/molecular biology recommended.</prereq>
+            <description>Monday sessions involve patient presentations and ``core'' lectures describing clinical progression, pathology, and basic science underlying a major disease or disorder. Wednesdays, students present material from original literature sources, and there is general discussion.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="20:29:00" location="" start_time="18:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="21:29:00" location="" start_time="19:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e104883a1310" role="1" seniority_sort="1">
+                <display_name>Edward Kravitz</display_name>
+            </person>
+            <person id="d1e104883a1310" role="1" seniority_sort="1">
+                <display_name>Edward Kravitz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

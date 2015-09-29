@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122422" class_number="13478" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 294">Interesting Questions in Engineering and Physical Biology</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Intended primarily for first year graduate students in the EPB PhD track of the MCO program but available to other graduate students and advanced undergraduates as space permits.</notes>
+            <description>Physical biology can be defined as a discipline that seeks to understand biological processes through the lens of physics and engineering. Faculty and students will unite to review current research with the aim of identifying and pondering interesting emerging questions in this area. Combination of lecture and discussion format. Comprises a series of two-week modules, most of which are given by a one or a pair of faculty drawn from MCB, Physics and SEAS.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Northwest Bldg 169 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e155916a1310" role="1" seniority_sort="1">
+                <display_name>Nancy Kleckner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120380" class_number="12662" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RUSS 120R">Supervised Readings in Advanced Russian</title>
+            <notes>Steven Clancy and others  </notes>
+            <description>Intended for students who have already taken other department offerings. Reading, discussion, and writing on special topics not addressed in other courses. Conducted as a tutorial. Requires a course proposal to apply; acceptance is not automatic.&amp;nbsp;See note on independent language tutorials on our website for details about the application process.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e14486a1310" role="1" seniority_sort="1">
+                <display_name>Steven Clancy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

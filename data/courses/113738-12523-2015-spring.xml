@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113738" class_number="12523" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LING 173">Linguistic Issues in Japanese</title>
+            <prereq>Recommended: Japanese 120b or its equivalent. Familiarity with basic linguistics concepts desirable.</prereq>
+            <description>An examination of selected phenomena in Japanese phonology, morphology, and syntax with special attention to difficulties encountered in the acquisition of Japanese by adult native English speakers.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e34371a1310" role="1" seniority_sort="1">
+                <display_name>Wesley Jacobsen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

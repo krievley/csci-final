@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112093" class_number="10906" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 98XA">Junior Tutorial in Archaeology</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes> Required of all concentrators in Archaeology.</notes>
+            <description>The junior tutorial provides a background in archaeological method and theory through critical analysis of selected issues and debates particularly focusing on more complex societies. Specific topics include the origins of agriculture and the domestication of animals, the development of complexity and ^'^'civilization," post-colonial and historical archaeology, and related ethical and theoretical issues. Weekly readings (drawn from current journal literature), discussions, and several short writing assignments.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Vanserg 110 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e45966a1310" role="1" seniority_sort="1">
+                <display_name>Jessica Cerezo-Roman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

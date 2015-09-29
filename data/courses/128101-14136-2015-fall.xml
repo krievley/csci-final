@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128101" class_number="14136" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APCOMP 274">Computational Fluid Dynamics</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes>For more information, see  http://projects.iq.harvard.edu/ac274_2015/home   </notes>
+            <prereq>Recommended: Basic notions of numerical analysis and scientific computing.</prereq>
+            <description>The course will describe major computational techniques for fluid flows, as described by the Navier-Stokes equations of continuum mechanics. In addition, the course will cover a new class of mesoscale techniques for complex flows and soft matter systems, which do not fit within the continuum Navier-Stokes description. The latter encompass a broad class of flowing materials of special interest to micro-nano engineering and biology.</description>
+            <department code="COMPSE">Applied Computation</department>
+            <course_group code="APCOMP">Applied Computation</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Maxwell Dworkin 223 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e306514a1310" role="1" seniority_sort="1">
+                <display_name>Sauro Succi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

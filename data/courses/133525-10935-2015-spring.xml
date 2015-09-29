@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="133525" class_number="10935" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 128">Computational Solid and Structural Mechanics</title>
+            <notes>Tu., Th., 1&amp;#8211;2:30 and a weekly section to be arranged.   Offered alternate years.</notes>
+            <prereq>Recommended: Engineering Sciences 120 or equivalent introduction to the mechanics of deformable materials and fluids. Engineering Sciences 123 may be taken concurrently.</prereq>
+            <description>Introduction to finite element methods for analysis of steady-state and transient problems in solid, structural, fluid mechanics, and heat transfer. Implementation of simple MATLAB codes and use of existing general-purpose programs (ABAQUS and COMSOL).</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e274620a1310" role="1" seniority_sort="1">
+                <display_name>Katia Bertoldi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

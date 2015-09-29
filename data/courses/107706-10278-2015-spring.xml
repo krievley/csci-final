@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107706" class_number="10278" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2410R">Laboratory Research on Emotional Disorders</title>
+            <notes> For information about joining the lab, contact the instructor at rjm@wjh.harvard.edu</notes>
+            <prereq>Recommended: Open to graduate and undergraduate students working in the instructor's laboratory.</prereq>
+            <description>Involves readings, seminar discussion, and research on emotional disorders conducted in the instructor's laboratory (e.g., social anxiety disorder, complicated grief, obsessive-compulsive disorder).</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

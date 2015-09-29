@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113878" class_number="14021" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 99A">Tutorial - Senior Year</title>
+            <notes>David P. Harrington (FAS/Public Health)  </notes>
+            <description>Supervised research for the senior thesis, under the mentorship of a Harvard facultymember. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>0</credits>
+        </catalog_info>
+    </course>
+</courses>

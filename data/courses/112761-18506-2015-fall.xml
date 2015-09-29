@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112761" class_number="18506" school_id="fas" section="013" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 397">Direction of Doctoral Dissertations</title>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e25614a1310" role="1" seniority_sort="1">
+                <display_name>Marc Shell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

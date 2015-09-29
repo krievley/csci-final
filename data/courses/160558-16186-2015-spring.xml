@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160558" class_number="16186" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 356">Practical Introduction to Robotics</title>
+            <notes> To enroll, students must be apart of a Life Science Graduate Program, or permission of the instructor.</notes>
+            <description>Automation and robotics have revolutionized molecular biology. Liquid handling robots are already facilitating the &amp;ldquo;omics&amp;rdquo; revolution in genome sequencing, proteomics and high throughput screening. Now, neuroscience and microscopy are adopting robotics for throughput and experiments requiring precision and repeatability, like targeted microelectrode placement. In this nano course, students will learn 1) basic principles of practical robotics including the interaction of software and hardware, 2) the roles of drivers, control cards, microcontrollers and sensor electronics, and 3) practical engineering skills including basic soldering, measurement of voltage, conductivity, polarity and resistance. Students will explore the challenges of translating conceptual operational algorithms into physical implementations.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e15921a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin de Bivort</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

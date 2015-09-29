@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159960" class_number="15131" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WOMGEN 2040">The Secret Sex Life of Anthropological Objects</title>
+            <notes> This is a GCWS course. Interested GSAS students must first apply through the GCWS website (http://web.mit.edu/Gcws/courses/how-to-apply.html) BEFORE January 4, 2016.</notes>
+            <description>Objects in museum collections lead secret lives. Enmeshed in webs of sexed and gendered significance, they speak to hidden relations of desire and the erotics of power. There is a given-ness to museum display - to the selection of objects, the breadth of their claims for representativeness, the manner of their acquisition - that this course challenges using an interdisciplinary feminist lens. What does it mean to collect human cultural and biological history? What are the roles of gender, sex, and race in shaping the politics of anthropological collection and study? How are human differences measured, and what do these systems of measurement say about the process of scientific knowledge production?Convened at Harvard&amp;rsquo;s Peabody Museum of Archeology and Ethnology, this course invites students interested in gender, race, power, anthropology, history, biology, evolution, development, and public health, among other areas, to explore the ways in which notions of human difference influence and are shaped by the practices of anthropological study. We will examine how historical relations of gender, sex, sexuality, and imperial/racialized power continue to be narrativized, hidden, and excavated in historical and contemporary anthropological projects, exploring sex and sexuality as constitutive of other questions of inequality and violence that comprise feminist investigative enterprises.We will ground our investigation in the objects of anthropological analysis, the artifacts whose &amp;ldquo;face values&amp;rdquo; as things of interest to the scientific community conceal a history of struggle that includes eroticization of and violence against indigenous and colonized peoples. Chief among our goals is to work together to lay that complex, multilayered history bare. Our critique will extend to anthropology&amp;rsquo;s deployment in contemporary contexts of international development, where the legacy of largely unidirectional scrutiny and classifications of bodies and peoples continues to haunt our present.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="18:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e27788a1310" role="1" seniority_sort="1">
+                <display_name>Caroline Light</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

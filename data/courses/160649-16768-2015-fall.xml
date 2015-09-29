@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160649" class_number="16768" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TDM 129DA">Analysis Through Action: A Methodology for Actors, Directors, Writers, and Dramaturgs</title>
+            <exam_group>FAS08_G</exam_group>
+            <notes> The instructor for this course will be Visiting Professor David Chambers.  In case of over-subscription a brief personal statement may be requested.</notes>
+            <description>Analysis Through Action is a Russian method of converting the written word (e.g. a playtext or other source) into onstage action (live performance). Rooted in the last experiments of Konstantin Stanislavski, Analysis Through Action has evolved through generations of theatre practitioners and remains very much alive today in the Russian avant-garde theatre. With Anton Chekhov&amp;#39;s The Cherry Orchard as our master text, this laboratory will examine and deploy the two interdependent components of this process: in-depth text analysis and focused physical/vocal improvisations, called &amp;eacute;tudes. The course will consist of 40% lecture/seminar study and 60% improvisatory scene work. Weekly outside assignments will range from contextual readings to rigorous text analysis to preparing &amp;eacute;tudes for classroom rehearsals.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e205347a1310" role="1" seniority_sort="1">
+                <display_name>David Chambers</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

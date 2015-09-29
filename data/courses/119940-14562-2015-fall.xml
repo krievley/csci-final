@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119940" class_number="14562" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 230">Multivariate Statistical Analysis</title>
+            <exam_group>FAS08_I</exam_group>
+            <prereq>Recommended: Statistics 110 and 111.</prereq>
+            <description>Multivariate inference and data analysis. Advanced matrix theory and distributions, including Multivariate Normal, Wishart, and multilevel models. Supervised learning: multivariate regression, classification, and discriminant analysis. Unsupervised learning: dimension reduction, principal components, clustering, and factor analysis.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Vanserg 25A (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e35908a1310" role="1" seniority_sort="1">
+                <display_name>S. C. Samuel Kou</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

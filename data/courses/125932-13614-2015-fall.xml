@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125932" class_number="13614" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EMREAS 20">The Business and Politics of Health</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> This course counts for Ec concentration credit. Economics concentrators wishing to obtain writing credit for this course will need to write a term paper that uses Economics 10 concepts.  This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning or United States in the World, but not both.</notes>
+            <prereq>Anti-Req: Students who have taken Economics 1460 may not take this course for credit.Anti-Req: EMREAS 20</prereq>
+            <description>Health and medical care pervade every aspect of our lives. This course uses quantitative methods (graphical analysis, algebra, data analysis) to examine issues related to health, disease, and systems for delivering health care. Topics to be covered include differences in health between rich and poor countries, differences in types of medical care and who receives it, and the political context for reforming health care policy. Techniques for analysis will be developed and demonstrated in class and section. The course uses examples from a variety of international settings, but focuses mainly on health and health care in the US.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="EMREAS">Empirical and Mathematical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Emerson 210 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e157846a1310" role="1" seniority_sort="1">
+                <display_name>David Cutler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

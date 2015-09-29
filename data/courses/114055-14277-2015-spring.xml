@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114055" class_number="14277" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 165">Marcel Proust</title>
+            <notes>The language of class discussion (French or English) will be determined.   W., 1-3, and an additional weekly section hour to be arranged.   The language of class discussion (French or English) will be determined.</notes>
+            <prereq>Recommended: An excellent reading knowledge of French.</prereq>
+            <description>In Proust's novel, A la recherche du temps perdu, questions of time and memory, truth and signification, literature and philosophy converge to ask: who am I? What does it mean to become a writer? Readings include selections from each tome of the novel and significant critical texts. Offered in conjunction with the interdisciplinary conference "Proust and the Arts" (April 2013). Students will attend related exhibits and performances, and may submit a creative final project.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

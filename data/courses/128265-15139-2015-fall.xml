@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128265" class_number="15139" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ITAL C">Intermediate Italian: Romance! Mystery? Noir...</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes> Conducted in Italian. May count toward the language requirement. May not be taken by students who have previously taken Italian Ca, Cb or Dab. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Section on-line on the Italian C website. Not open to auditors.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: A score of 451-600 on the SAT II test or the Harvard Placement test; Italian Ab, Acd, or Bab; or permission of course head.</prereq>
+            <description>Discover the "colors" or Italian pop lit, from romance to crime stories to graphic novels. This course aims to build reading skills, and includes a structured review of grammar. Course materials include multi-media projects that increase language proficiency and cultural awareness.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="09:59:00" location="Sever 110 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

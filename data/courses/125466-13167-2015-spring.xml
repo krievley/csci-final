@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125466" class_number="13167" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MBB 90R">Supervised Research: Topics in Mind/Brain/Behavior</title>
+            <notes>Application required; consult MBB website.   Florian Engert and MBB Faculty  Application required; consult MBB website.</notes>
+            <description>Supervised individual research leading to a tutorial paper.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e273515a1310" role="1" seniority_sort="1">
+                <display_name>Florian Engert</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

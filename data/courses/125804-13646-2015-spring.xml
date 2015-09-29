@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125804" class_number="13646" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCRB 91R">Introduction to Research</title>
+            <notes>William J. Anderson and members of the Department  Limited to Human Developmental and Regenerative Biology Concentrators; written permission of the laboratory sponsor must be submitted to the HDRB Concentration Office prior to enrolling in the course. This introductory research course is intended to prepare students for SCRB 99 and may ordinarily be repeated no more than once. Ordinarily may not be taken as a fifth course. Laboratory safety session required.</notes>
+            <description>Laboratory research in topics related to the Human Developmental and Regenerative Biology Concentration under the direction of, or approved by, members of the Department of Stem Cell and Regenerative Biology, Principal Faculty of the Harvard Stem Cell Institute, or others with permission. A paper must be submitted to the laboratory sponsor and to the HDRB Concentration Office for review by the Course Director and Head Tutors.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119369" class_number="15282" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 2542">Kant: Seminar</title>
+            <notes> Expected to be given in 2015$16. Offered jointly with the Divinity School as 2674.</notes>
+            <prereq>Recommended: Advanced work in theology or philosophy of religion.</prereq>
+            <description>A close reading of major works of Kant relevant to theology and philosophy of religion. The seminar focuses on issues such as the nature and limits of reason, the concepts of freedom, morality and faith, and the idea of God.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e55692a1310" role="1" seniority_sort="1">
+                <display_name>David Lamberth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

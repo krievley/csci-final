@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124385" class_number="12964" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 100R">Sophomore Excursion Course</title>
+            <notes> Excursion is optional; not a requirement.</notes>
+            <description>This course introduces sophomore concentrators to on-site study of art and architecture through the case study of a particular geographic and cultural area. This year: Vienna</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e22191a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Koerner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

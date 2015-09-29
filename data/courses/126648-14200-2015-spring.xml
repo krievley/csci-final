@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126648" class_number="14200" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SWEDISH AB">Beginning Swedish Language and Literature</title>
+            <notes>M. through Th., at 9   Not open to auditors.</notes>
+            <description>Continuation of the basic course focusing on a basic mastery of listening, speaking, reading, and writing skills. During spring term, the emphasis is on more advanced conversation and an exploration of Sweden's culture and civilization through selected texts and video. By semester's end, students will be able to carry on conversations in everyday Swedish, read news articles, and write letters and produce substantial creative work.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="SWEDISH">Swedish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e175012a1310" role="1" seniority_sort="1">
+                <display_name>Agnes Broome</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

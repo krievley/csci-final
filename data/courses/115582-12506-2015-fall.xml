@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115582" class_number="12506" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 3340">Research Seminar in Cognition, Brain, and Behavior</title>
+            <exam_group>FAS02_C</exam_group>
+            <description>Researchers in CBB, including graduate students, postdoctoral fellows, and faculty, present and discuss current research in cognitive science. Topics include memory, language, vision, mental imagery, concepts, animal and infant cognition, and related areas.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="13:29:00" location="William James 765 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6137a1310" role="1" seniority_sort="2">
+                <display_name>Leah Somerville</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

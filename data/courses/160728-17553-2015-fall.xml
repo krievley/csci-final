@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160728" class_number="17553" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BY">Cold War Cinema</title>
+            <exam_group>FAS09_C</exam_group>
+            <description>This course offers a history of the United States and the Cold War through films made during the conflict. We will examine the Cold War through two themes which drove much U.S. Cold War policymaking, from McCarthyism to Vietnam. The first theme is subversion: the fear that the United States (or our allies) would be quietly infiltrated by Communists and other radicals who would seize power &amp;ldquo;from the inside.&amp;rdquo; The second theme is insurgency: &amp;nbsp;the fear of a violent uprising by marginalized communities that would weaken or overthrow free world institutions.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Boylston 104 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e235097a1310" role="1" seniority_sort="1">
+                <display_name>Paul Adler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

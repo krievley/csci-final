@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160329" class_number="15546" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 980Z">Empirical Research on Economic Inequality</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>The purpose of this class is twofold. First, to teach you something about economic inequality, some of its causes, and how it is affected by policy. Second, to teach you econometric methods which have been used in the literature on economic inequality, preparing you to do your own research on this topic, or related topics, and to maybe write an undergrad thesis.We will focus mostly on mechanisms affecting income inequality, such as racial discrimination, (de)unionization, minimum wages, shifts in labor demand due to changes in technology and trade, shifts in labor supply due to migration, intergenerational transmission of economic status, and taxation.We will talk a little bit about the historical evolution of income and wealth inequality, and a little bit about international inequality; mostly, though, we will focus on mechanisms affecting the distribution of incomes in the United States.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Sever 306 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47297a1310" role="1" seniority_sort="1">
+                <display_name>Maximilian Kasy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

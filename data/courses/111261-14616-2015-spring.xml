@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111261" class_number="14616" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1661">Fundamentals of Environmental Economics and Policy</title>
+            <notes> Optional writing Requirement: This course offers an optional writing requirement which if completed will satisfy the concentration writing requirement. Offered jointly with the Kennedy School as API-135.</notes>
+            <prereq>Recommended: Ec 10a and Ec 10b or permission of instructor.</prereq>
+            <description>Provides a survey, from the perspective of economics, of environmental and natural resource policy. Combines lectures on conceptual and methodological topics with examinations of public policy issues.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:10:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e177003a1310" role="1" seniority_sort="1">
+                <display_name>Robert Stavins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

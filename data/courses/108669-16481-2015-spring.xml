@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108669" class_number="16481" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 1419">Laboratory Methods in Human Evolutionary Biology</title>
+            <prereq>Recommended: Life Sciences 1a and Life Sciences 1b required.</prereq>
+            <description>An introduction to laboratory methods in Human Evolutionary Biology. We will use state-of-the-art equipment and techniques to explore subjects of relevance to HEB, such as how humans metabolize caffeine and alcohol. Topics include quantitative pcr and genetic analysis, immunological methods, enzyme kinetics, chromatography, and measurement of isotope ratios in tissues. This course may be taken in preparation for lab-based thesis projects.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Laboratory Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e199502a1310" role="1" seniority_sort="1">
+                <display_name>Linda M. Reynard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

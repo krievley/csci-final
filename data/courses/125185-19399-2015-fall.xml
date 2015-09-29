@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125185" class_number="19399" school_id="fas" section="005" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 190">Understanding Aging: Degeneration, Regeneration, and the Scientific Search for the Fountain of Youth</title>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 54.</prereq>
+            <description>This lecture and discussion course will explore the fundamental molecular and cellular mechanisms that govern organismal aging and contemporary strategies to delay or reverse this process.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

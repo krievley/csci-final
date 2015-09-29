@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159985" class_number="15169" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LAT-STD 99B">Tutorial - Senior Year</title>
+            <notes>Taught by Mariano Siskind and members of the Department.  For honors seniors writing a thesis. Successful completion of two terms of Latin American Studies 99 is required of all thesis-track honors concentrators. Students who not complete a thesis are required to submit a substantial paper in order to receive credit for each part of the series.</notes>
+            <prereq>Prerequisite: French 98 OR Italian 98 OR Portuguese 98 OR Spanish 98 OR Romance Studies 98 OR Latin American Studies 98</prereq>
+            <description>Weekly individual instruction for honors seniors writing a thesis. Part two of a two part series.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="LAT-STD">Latin American Studies</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

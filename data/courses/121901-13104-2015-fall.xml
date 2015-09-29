@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121901" class_number="13104" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 31J">Skepticism and Knowledge</title>
+            <exam_group>FAS09_B</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>What can we know; how can we know it? Can I know that I am not a brain in a vat being manipulated into thinking that I have a body? Can I know that Lincoln was assassinated, that electrons have negative charge, that Hamlet is a masterpiece, that the sun will rise tomorrow? This seminar will study skeptical arguments and responses to them to explore the nature and scope of knowledge.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="Emerson 106 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e242714a1310" role="1" seniority_sort="1">
+                <display_name>Catherine Elgin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

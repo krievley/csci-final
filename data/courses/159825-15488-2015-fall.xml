@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159825" class_number="15488" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94AO">Authority and Disobedience</title>
+            <exam_group>FAS12_F</exam_group>
+            <description>This course examines the relationship between individuals and &amp;lsquo;governing agencies&amp;rsquo;&amp;mdash;most prominently, the state&amp;mdash;from an analytic political-theory perspective. The course is divided into two parts. Part I focuses on theories of legitimate political authority: it considers different answers to the question of what, if anything, grounds states&amp;rsquo;&amp;mdash;and similar entities&amp;rsquo;&amp;mdash;moral right to rule. Part II addresses the dilemmas raised by non-compliance with authority (topics covered might include civil disobedience, punishment, and revolution).</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="CGIS Knafel K401 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e201621a1310" role="1" seniority_sort="17">
+                <display_name>Laura Valentini</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

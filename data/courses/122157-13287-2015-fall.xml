@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122157" class_number="13287" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2463">Graduate Readings in 20th-Century African-American History: Seminar</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>In this graduate seminar we will read books and articles on topics that reflect the diverse experiences and ideologies of African Americans in the twentieth century. We will discuss and analyze differing historical interpretations and methodologies. We will also explore a variety of historical writings, e.g., biography, intellectual history, race and gender studies, labor history, transnational history, etc. Students are required to write a short report on a recommended reading each week, in addition to being prepared to discuss the required reading. A historiographic paper will be due at the end of the term.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Barker 230 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40773a1310" role="1" seniority_sort="1">
+                <display_name>Evelyn Brooks Higginbotham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

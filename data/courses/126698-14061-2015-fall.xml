@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126698" class_number="14061" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 111">Spectral Fictions, Savage Phantasms: Race and Gender in Anti-Racist South African &amp; African America</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>Why have social orders like Apartheid South Africa and White Supremacy in segregated America that are based on extreme racial, gender and national oppression always generated often violent, hallucinatory fictions of the racial and gender identities of the oppressed? And why have the oppressed in turn often internalized these sorts of fictions and also produced counter-fictions that more or less conform to the same violent, phantasmic logic? In this course, we will explore how these fictions and counter-fictions are reproduced and challenged in some of the most powerful, canonical works of drama, fiction and cinema by South African and African American authors and filmmakers. As the Nigerian author, Chinua Achebe once famously remarked: "where one thing stands, another thing will stand beside it." To this end, we will pay special attention in the course to how, both in form and in content, race and gender always seem, constitutively, to intersect in these fictions and counter-fictions. The course is thus a study in the dark, violent but generative cultural unconscious of modern racialized and gendered identities.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Barker 211 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42635a1310" role="1" seniority_sort="1">
+                <display_name>Biodun Jeyifo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

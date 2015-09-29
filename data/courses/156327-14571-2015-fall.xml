@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156327" class_number="14571" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 105X">Anthropology and Africa</title>
+            <exam_group>FAS12_F</exam_group>
+            <description>Africa has occupied a central place in the making of anthropology as a discipline. If early ethnographic studies of African contexts generated leading theories of society, contemporary anthropologists made livelihoods on the continent key sites for understanding the political, economic and cultural dynamics of modernity and global capitalism. And, while anthropological discourses at times have been complicit in the making of dominant ideologies, they have also played a central role in critiquing hegemonic tropes and unraveling their effects. This course explores the relationship between, on the one hand, the discourses, practices, and politics of anthropology as a discipline and, on the other hand, &amp;quot;Africa&amp;quot; as an object of knowledge, an ideological category, a source of identity and collective consciousness, and a geo-political context of life. Students will explore how lives, subjectivities, and intimacies on the continent mediate and are shaped by global historical processes and how anthropologists have inhabited and tried to grasp such contexts. Throughout this course, students will acquire a critical conceptual vocabulary and a set of rigorous analytic skills that will allow them to think deeper about historical and cultural phenomena in Africa and about the political potentials of various forms of knowledge production. We ask: What do ethnographies of Africa offer us by means of understanding the world at large? And what may anthropology offer us by way of crafting futures in Africa and beyond?</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="Tozzer 203 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e46151a1310" role="1" seniority_sort="1">
+                <display_name>George Paul Meiu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128118" class_number="14317" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 24K">The Surprising Science of Happiness</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>After a century of studying how to cure mental illness, scientists have started to explore what makes us happy. What have they discovered? In this course, we will critically examine the findings from the new science of happiness revealing how they are altering our understanding of what happiness is, the optimal ways to achieve and increase it, the role of circumstance in its occurrence, its effect on our bodies, and its place in human nature.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

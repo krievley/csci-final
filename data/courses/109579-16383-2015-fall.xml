@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109579" class_number="16383" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ASTRON 215HFA">Topics in Contemporary Astrophysics</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> This course offered alternate years.</notes>
+            <prereq>Recommended: This course is open to all astronomy graduate students or by request.</prereq>
+            <description>This full year half course will cover a broad range of contemporary topics in observational and theoretical astrophysics through a set of 10-12 two-week modules taught by members of the Astronomy Department faculty. The course will meet twice per week, and each module will be comprised of a stand-alone topic with a single homework assignment. Enrolled students will be required to sign up for the full year and attend half of the offered modules. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.	&amp;nbsp;</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Observatory A 101 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e8095a1310" role="1" seniority_sort="1">
+                <display_name>Edo Berger</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

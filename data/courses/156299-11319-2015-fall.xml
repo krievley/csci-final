@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156299" class_number="11319" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ISLAMCIV 233">Islamic Modernism (3): 1970-2014</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> Offered jointly with the Divinity School as 3965.</notes>
+            <description>The third seminar on Islamic Modernism focuses on the end of Arab Liberalism on the level of political parties and the loss of its intellectual focus and influence on the debates of modern Islam. Since the Nasser period liberal politics and liberal public debates have no longer been compatible with the types of authoritarian states that characterize the post-colonial period and that now claim to represent modernity. The Muslim mass movements that had attacked the state of the liberals find themselves also persecuted by new forms of military authoritarianism. It is the reaction to the Iranian Revolution of 1979 that requires a new outlook on Islam and its relation to modernity by Iranian and Arab intellectuals. It is in opposition to the authoritarianism of the Islamic Republic that Iranian intellectuals develop new forms of Islamic hermeneutics that open the horizon for a new understanding of Islam and of politics, leave more space for oppositional forces, and assign more importance to the struggle for more individual and collective rights. This new outlook is not restricted to Iran and to Shi'i intellectuals. The Iranian developments have encouraged a new understanding of Islam and a growing opposition against authoritarian states, developments that were visible since the 1990s also in the Arab world. The growing role of non-Islamist political activists during that period shows the widespread disappointment with the Muslim Brothers and the concept of an Islamic State, but it does not seem to lead to a renaissance of liberalism. The question which political and cultural role Islamic modernism is going to play in the near future is hard to answer. The seminar does not pretend to answer it.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Andover 118 (HDS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25472a1310" role="1" seniority_sort="1">
+                <display_name>Baber Johansen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

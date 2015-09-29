@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113637" class_number="15520" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1126">Quantitative Methods in Economics</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Economics 1123 may not be taken for credit if taken after Economics 1126, but credit will be given for both courses if Economics 1123 is taken first.
+
+Students who fulfill the econometrics requirement with Economics 1126 and who intend to pursue Honors should note that the Honors exam assumes knowledge of the material covered in Economics 1123.</notes>
+            <prereq>Recommended: Math 18, 21a, Applied Math 21a.</prereq>
+            <description>Topics include conditional expectations and its linear approximation; best linear predictors; omitted variable bias; panel data methods and the role of unobserved heterogeneity; instrumental variables and the role of randomization; various approaches to inference on causal relations.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Northwest Bldg B107 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e81672a1310" role="1" seniority_sort="1">
+                <display_name>Elie Tamer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

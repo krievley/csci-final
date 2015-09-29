@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116185" class_number="12270" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 302">Graduate Seminar</title>
+            <notes>TBD and members of the Department  Required for all graduates in African and African American Studies in their first year. Ordinarily, only graduate students affiliated with the program will be permitted to attend.</notes>
+            <description>Students are introduced to major themes, debates and texts in the broad interdisciplinary field of African and African American Studies. African and African American Studies 302, in the spring term, focuses on the social sciences.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e73727a1310" role="1" seniority_sort="1">
+                <display_name>James Sidanius</display_name>
+            </person>
+            <person id="d1e80849a1310" role="1" seniority_sort="2">
+                <display_name>Lawrence Bobo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

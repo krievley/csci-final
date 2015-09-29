@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125650" class_number="13518" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MES 299B">Master's Thesis - Middle Eastern Studies</title>
+            <notes> Supervised reading, research and writing of master's thesis. Generally taken by master's students in the final semester of the AM program in Regional Studies - Middle East.</notes>
+            <department code="MEST">Middle Eastern Studies</department>
+            <course_group code="MES">Middle Eastern Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

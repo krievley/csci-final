@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124993" class_number="13407" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ITAL 96R">Italian and the Community: Italy. Academic Internships in Italian Language and Culture: Special Crse</title>
+            <notes>Students must submit a written proposal to Dr. DiFabio by August 31, 2015 for Fall term enrollment and by January 23, 2016 for Spring term enrollment.  Though academic internships may be arranged in the Greater Boston area, this course can be proposed as integral to a study abroad program in Italy, the details of which are to be coordinated in consultation with the course head and the Office of International Education. Students are expected to produce substantial research papers based on relevant class work and field placements. The student, under the guidance of faculty and study abroad advisers, is responsible for arranging the terms of the internship.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Prerequisite: Italian 50</prereq>
+            <description>An opportunity to engage in the practical applications of Italian language and culture in an immersion environment. Internships may include placement in a variety of sectors, including public education, the media and the arts.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

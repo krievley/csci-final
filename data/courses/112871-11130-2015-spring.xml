@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112871" class_number="11130" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 55B">Honors Real and Complex Analysis</title>
+            <notes> Mathematics 55b is an intensive course for students having significant experience with abstract mathematics. Instructor permission required. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Prerequisite: Mathematics 55A</prereq>
+            <description>A rigorous treatment of real and complex analysis.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e81768a1310" role="1" seniority_sort="1">
+                <display_name>Yum Tong Siu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

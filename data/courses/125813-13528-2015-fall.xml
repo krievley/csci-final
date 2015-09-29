@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125813" class_number="13528" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="JAPAN 210A">Reading Scholarly Japanese for Students of Chinese and Korean</title>
+            <exam_group>FAS17_A</exam_group>
+            <notes>M., W., F., at 9   </notes>
+            <prereq>Recommended: Japanese 120b, and graduate standing in some field of Chinese or Korean studies.</prereq>
+            <description>Development of skills in reading and translating academic genres of Japanese, with special attention to Japanese scholarship on Chinese and Korean studies. Introduction to old kana usage and classical forms commonly used in scholarly writing.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPAN">Japanese</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="9 Kirkland Pl 101 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e34371a1310" role="1" seniority_sort="1">
+                <display_name>Wesley Jacobsen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

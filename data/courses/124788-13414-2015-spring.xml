@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124788" class_number="13414" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 8">Introduction to Early Modern Philosophy</title>
+            <description>The most important feature distinguishing human beings from other animals is generally supposed to be a capacity for reasoning &amp;ndash; about how things are, but also about what to do. It is clear, however, that no account of intentional human action that restricts itself to reasoning will be adequate. Much of what we do seems to be the outcome of some kind of inner struggle or conflict about what to do, or (in the more momentous cases) which path in life to follow, and sometimes we act in ways we know to be &amp;lsquo;contrary to reason&amp;rsquo;. It is not at all clear what&amp;rsquo;s really going on when this happens.Plato (428-348 BCE), Augustine (354-430 CE) and Freud (1856-1939) offer especially interesting and plausible accounts of such inner conflict. In their different ways, they each understood such conflict in terms of the soul&amp;rsquo;s having parts, or distinct faculties. They are also alike in positing a fundamental but highly plastic force in the soul, in terms of which its development or deformation, including its division into parts, can be understood. They all called this force love, although it is not straightforward what they meant, or whether they meant the same thing, by calling it that.In this course, we will look at these theories of the composite, love-driven psyche as expressed in various of their works, such as Plato&amp;rsquo;s Gorgias, Symposium and Republic, Augustine&amp;rsquo;s Confessions and De Trinitate, and Freud&amp;rsquo;s The Interpretation of Dreams and The Ego and the Id. The aim is to achieve some understanding, not only of the theories, but also of the phenomena they are theories of.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e69548a1310" role="1" seniority_sort="1">
+                <display_name>Alison Simmons</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

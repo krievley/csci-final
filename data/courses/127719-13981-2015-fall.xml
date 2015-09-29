@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127719" class_number="13981" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="NEUROBIO 305QC">Biochemistry and Biology of Neurodegenerative Diseases</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes>Course meets&amp;nbsp;September 14, 2015 through October 26, 2015.  Expected to be given in the first quarter of the fall term of 2015-2016.</notes>
+            <description>Biochemistry and biology are integrated to provide a broad perspective on major human neurodegenerative diseases. The biochemistry, enzymology, structural biology and pathology of disease-associated proteins and approaches to developing therapeutics will be examined.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e154633a1310" role="1" seniority_sort="1">
+                <display_name>Michael Wolfe</display_name>
+            </person>
+            <person id="d1e219758a1310" role="2" seniority_sort="2">
+                <display_name>Dominic Walsh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

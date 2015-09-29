@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111756" class_number="11902" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MOD-HEB 120B">Intermediate Modern Hebrew II</title>
+            <notes> Conducted primarily in Hebrew. Offered jointly with the Divinity School as 4041.</notes>
+            <prereq>Recommended: Modern Hebrew 120a.</prereq>
+            <description>Continuation of Hebrew 120a.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MOD-HEB">Modern Hebrew</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e97863a1310" role="1" seniority_sort="1">
+                <display_name>Irit Aharony</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

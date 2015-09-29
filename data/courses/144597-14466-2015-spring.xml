@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144597" class_number="14466" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 51">Biology and Evolution of Invertebrate Animals</title>
+            <notes> Field trip to the Caribbean for research during spring break.</notes>
+            <prereq>Recommended: LS1b, OEB 10, OEB 53 or permission of instructor required. 
+Lab component:  Wednesdays, 3:00pm-6:00pm, Spring 2016</prereq>
+            <description>Introduction to invertebrate diversity, will cover the development, adult anatomy, biology and evolutionary relationships of the main animal phyla including sponges, mollusks, annelids and arthropods among others. Special emphasis is placed on understanding the broad diversity of animal forms and their adaptations to different ecosystems and how these phenomena shape animal evolution. Lectures will be complemented with a mandatory weekly lab and a field trip to different areas of outstanding marine diversity in the Caribbean.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e224254a1310" role="1" seniority_sort="1">
+                <display_name>Cassandra Extavour</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

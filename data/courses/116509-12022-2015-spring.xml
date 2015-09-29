@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116509" class_number="12022" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APPHY 291">Electron Microscopy Laboratory</title>
+            <notes> Primarily for graduate students planning to use TEM for their research.</notes>
+            <description>Lectures and laboratory instruction on transmission electron microscopy (TEM) and Cs corrected, aberration-correction microscopy and microanalysis. Lab classes include; diffraction, dark field imaging, X-ray spectroscopy, electron energy-loss spectroscopy, atomic imaging, materials sample preparation, polymers, and biological samples.</description>
+            <department code="APPHYS">Applied Physics</department>
+            <course_group code="APPHY">Applied Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e396714a1310" role="1" seniority_sort="1">
+                <display_name>David Bell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

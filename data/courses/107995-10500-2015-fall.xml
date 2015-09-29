@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107995" class_number="10500" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 298R">Mitigating Toxicity through Better Materials Design</title>
+            <exam_group>FAS15_D</exam_group>
+            <prereq>Recommended: Graduate or approval by instructor.  Higher level chemistry and math needed.</prereq>
+            <description>Manufacturing new materials is an important component of the world economy as demand ranges from smart phones and processed food to automobiles and airplanes. Rapid changes in the diversity and uses of materials often occur due to technological needs and economic drivers without consideration of environmental and health impacts. This can lead to large scale, global health and contamination problems such as large quantities of plastic waste in oceans, lead exposures from paint in children&amp;rsquo;s toys, and widespread contamination of drinking water in regions exploited for hydraulic fracturing. The class will explore whether it is possible to use the latest advances in science, engineering, and nanotechnology to chart a sustainable material revolution. Guest lecturers from both industry and environmental regulatory agencies will be invited to speak to the class. Course evaluation will be based on in-class participation, presentations and a final project/review paper.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Maxwell Dworkin 123 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e22098a1310" role="1" seniority_sort="1">
+                <display_name>Elsie Sunderland</display_name>
+            </person>
+            <person id="d1e22101a1310" role="1" seniority_sort="2">
+                <display_name>Sadasivan Shankar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

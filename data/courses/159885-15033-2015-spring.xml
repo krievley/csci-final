@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159885" class_number="15033" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WOMGEN 1257">Gender, Biology, and the Body</title>
+            <description>This course will examine how naturalists, biologists, social scientists, sexologists, and journalists have understood questions of sex, gender and sexuality since the Enlightenment. We will become familiar with a variety of theoretical interventions in the field of feminist science studies and deploy them to understand both the scientific construction of sex and gender and the gendered culture of science. Topics will include: changing biological definitions of sex; evolutionary theories of sex and gender; cultural and scientific discourses about genes, gender, and race; and the politics and practice of feminist biology.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e166732a1310" role="1" seniority_sort="1">
+                <display_name>Jenna Tonn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

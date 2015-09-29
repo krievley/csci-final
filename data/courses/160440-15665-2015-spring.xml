@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160440" class_number="15665" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHNSLIT 131">Literatures of Excess in Modern China</title>
+            <description>Realism has often been regarded as a dominant force in modern Chinese literature, but other styles of representation have also been important to Chinese literary creativity during the 20th century. This course examines the significance of three modes of literary &amp;ldquo;excess&amp;rdquo; that disrupt the expectations of realism- the fantastic, the grotesque and the sublime &amp;ndash; in the history of Chinese literature from the late-Qing dynasty to the late-20th century. While each of these modes possesses links to traditional Chinese culture, they have also provided new expressive resources for reflecting the reconfiguration of social values and human perception in China during the modern era. Focusing on close readings of fiction, poetry and drama, we will examine how Chinese writers have used the fantastic to transgress the boundaries of the real, employed the grotesque to expose reality&amp;rsquo;s ugliness, and invoked the sublime to try to invest literature with the potential to change reality.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSLIT">Chinese Literature</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e223623a1310" role="1" seniority_sort="1">
+                <display_name>Max Bohnenkamp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

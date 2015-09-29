@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109934" class_number="15148" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ESPP 11">Sustainable Development</title>
+            <notes>Weekly mandatory section meetings.  This course, when taken for a letter grade, meets the General Education requirement for Societies of the World.</notes>
+            <description>Explores contemporary understandings and practical implications of the idea of sustainable development. Investigates the meanings and measures that different groups have given to "sustainable development;" scientific understanding of the complex social-environmental systems we seek to develop sustainably; and lessons on how societies have avoided the "tragedy of the commons" while instituting practical action that advances sustainable development effectively and equitably. Employs case studies in development to meet needs for energy, food, water and health.</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e331404a1310" role="1" seniority_sort="1">
+                <display_name>William Clark</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

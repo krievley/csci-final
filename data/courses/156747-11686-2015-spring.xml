@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156747" class_number="11686" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2335">Economic Divergence in Historical Perspective: The Middle East and Europe</title>
+            <description>This course examines the economic rise of the Western World through comparisons with the Islamic Middle East. In particular, we will examine the mechanisms through which feudalism and subsequent events led to the emergence of growth-friendly institutions and examine the extent to which variation in exposure to these historical developments can help explain development outcomes today. In addition, we will investigate the interaction between these institutional developments and Europe's differential rate of human capital formation from the late medieval period through the Enlightenment and their role in determining both the timing and the subsequent diffusion of the Industrial Revolution.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

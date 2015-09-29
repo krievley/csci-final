@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146552" class_number="14676" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 54">Poets: English Romantic Poets</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> This course, when taken for a letter grade, meets the Core area requirement for Literature and Arts A.</notes>
+            <description>Readings in Blake, Baillie, Coleridge, Clare, Wordsworth, Wollstonecraft, Byron, Shelley, Keats, and others. Lyric and narrative forms. Close aesthetic readings linked to thematic considerations. Social and political contexts. Romanticism as an artistic movement and cultural era.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Harvard Hall 102 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42770a1310" role="1" seniority_sort="1">
+                <display_name>James Engell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

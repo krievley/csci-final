@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114716" class_number="16163" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2218">Topics in Russian Politics</title>
+            <description>A research seminar on selected problems in the politics and government of post-Soviet Russia. Intended for students with some prior study of the subject.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e60558a1310" role="1" seniority_sort="1">
+                <display_name>Timothy Colton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

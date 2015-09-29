@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124542" class_number="14842" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1404">Early Christianity in the Roman Empire: Apologetics and Philosophy</title>
+            <notes> Offered jointly with the Divinity School as 1518.</notes>
+            <description>This course explores New Testament and early Christian literature of the first three centuries alongside contemporaneous Greco-Roman writings. We will investigate how Christians presented themselves as defenders (apologists) of their philosophy and how they depicted their relations with Roman imperial power and Greek paideia. Special focus will be given to themes of violence, spectacle, the body, justice, contestations over theology and piety, and ancient definitions of religion and atheism.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e55369a1310" role="1" seniority_sort="1">
+                <display_name>Laura Nasrallah</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

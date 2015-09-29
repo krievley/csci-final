@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111161" class_number="14696" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH MA">Introduction to Functions and Calculus I</title>
+            <exam_group>FAS11_A</exam_group>
+            <notes>Required first meeting: Wednesday, September 2, 8:30 am, Science Center D.  Fall section times:&amp;nbsp;M., W., F., at 10;&amp;nbsp; M., W., F., at 11; M., W., F., at 12 (with sufficient enrollment) and a twice weekly lab session to be arranged.  Brendan Kelly, Sarah Chisholm, Matthew Demers, Dusty Grundmeier, and members of the Department.  This is a lecture course taught in small sections. In addition, participation in two one-hour workshops is required each week. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning. This course, when taken together with Mathematics Mb, can be followed by Mathematics 1b.</notes>
+            <description>The study of functions and their rates of change. Fundamental ideas of calculus are introduced early and used to provide a framework for the study of mathematical modeling involving algebraic, exponential, and logarithmic functions. Thorough understanding of differential calculus promoted by year long reinforcement. Applications to biology and economics emphasized according to the interests of our students.&amp;nbsp;</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e67932a1310" role="1" seniority_sort="1">
+                <display_name>Brendan Kelly</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108657" class_number="11065" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 108">Stranger than Fiction</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes> Interested students must attend first meeting of class during shopping week to speak with instructor about course enrollment procedure.</notes>
+            <description>Much recent art stages slippages between the fictive and factual. False personas, invented histories, and museums of unnatural history are some such creative deceptions &amp;mdash; so are&amp;nbsp;Punk&amp;rsquo;d,&amp;nbsp;Borat, and more than a few reality TV&amp;nbsp;programs. With a focus on installation art, photography, video, and performance but an eye to popular culture and political scandal as well, this critical studies seminar will trace precedents for treating our sense of reality as a plastic material, and explore the ethical, political, and aesthetic implications. (Note: this is not an art production class).</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Carpenter 401 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e17944a1310" role="1" seniority_sort="1">
+                <display_name>Carrie Lambert-Beatty</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

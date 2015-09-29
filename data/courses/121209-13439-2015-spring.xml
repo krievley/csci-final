@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121209" class_number="13439" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 291R">Topics in Pre-Columbian and Colonial Art</title>
+            <description>Topics to be determined in consideration of interests of students.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e171077a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Cummins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

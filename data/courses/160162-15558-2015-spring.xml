@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160162" class_number="15558" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 980M">Psychology of Left and Right</title>
+            <description>What are the origins of the culture war between the political Left and Right? How do psychobiology, upbringing, temperament and moral values shape this difference in political orientations? In this course, we will explore the psychological factors underlying political divisions as well as the role of our social networks and desire for group identity in maintaining and widening the divide. The goal of this course is to develop your empirical, theoretical and methodological understandings of psychological research underlying the Left-Right conflict while providing you with tools to detect partisanship and to promote the cooperation and connection necessary for a well-functioning democracy.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e199212a1310" role="1" seniority_sort="1">
+                <display_name>Sasha Kimel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

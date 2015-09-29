@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121820" class_number="13128" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BCMP 234">Cellular Metabolism and Human Disease</title>
+            <prereq>Recommended: Knowledge of introductory biochemistry, genetics, and cell biology required (MCB 60, formerly MCB 52 and MCB 54); one year of organic chemistry.</prereq>
+            <description>Cellular and organismal metabolism, with focus on interrelationships between key metabolic pathways and human disease states. Genetic and acquired metabolic diseases and functional consequences. Interactive lectures and critical reading conferences are integrated with clinical encounters.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:29:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e126241a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Michel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115123" class_number="12094" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APMTH 21B">Mathematical Methods in the Sciences</title>
+            <notes> May not be taken for credit by students who have passed Mathematics 21b. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: Applied Mathematics 21a or equivalent.</prereq>
+            <description>Linear algebra: matrices, determinants, eigenvalues, eigenvectors, Markov processes. Optimization and least-squares analysis. Ordinary differential equations. Infinite series and Fourier series. Orthogonality and completeness. Introduction to partial differential equations. Applications in electrical and mechanical engineering.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15288a1310" role="1" seniority_sort="1">
+                <display_name>Todd Zickler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

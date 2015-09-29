@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126942" class_number="14995" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 30">Communicating in the 21st Century: From Mainstream to Pop</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes> Conducted in French. May not be audited or taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. See details and section on-line on the French 30 website.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: A score no lower than 601 and no higher than 680 on the SAT II test or the Harvard Placement test; French C, Ca, Cb; or 25; or permission of course head</prereq>
+            <description>An advanced language course focusing on current events in France and other francophone countries as they are represented in various types of media. Students will engage in discussions and interactive written and oral activities around these current events, while using the necessary discourse strategies, vocabulary and idiomatic expressions. Through analyzing and interpreting the topics presented by the media, students will also reflect on the issues of perspective, objectivity and freedom of expression in all media.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Sever 306 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e2417a1310" role="1" seniority_sort="1">
+                <display_name>Ericka Knudson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

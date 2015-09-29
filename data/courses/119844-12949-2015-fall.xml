@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119844" class_number="12949" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BIOSTAT 230">Probability Theory and Applications I</title>
+            <exam_group>FAS18_I</exam_group>
+            <notes>A weekly 90-minute lab.  Offered jointly with the School of Public Health as BIO230.</notes>
+            <prereq>Prerequisite: Biostatistics PhD Program</prereq>
+            <description>Axiomatic foundations of probability, independence, conditional probability, joint distributions, transformations, moment generating functions, characteristic functions, moment inequalities, sampling distributions, modes of convergence and their interrelationships, laws of large numbers, central limit theorem, and stochastic processes.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:20:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e253189a1310" role="1" seniority_sort="1">
+                <display_name>Marcello Pagano</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

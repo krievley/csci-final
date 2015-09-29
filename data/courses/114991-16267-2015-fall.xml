@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114991" class_number="16267" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 303">Advanced Topics in Quantitative Research</title>
+            <exam_group>FAS18_H</exam_group>
+            <notes> Previously offered as 303a.</notes>
+            <description>Examines current methodological scholarship in the social sciences with an eye to assessing its quality and potential for advancing quantitative methods. Recently published and unpublished work by local scholars examined.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:29:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e79099a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Winship</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

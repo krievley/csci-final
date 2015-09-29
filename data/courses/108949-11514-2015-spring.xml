@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108949" class_number="11514" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 2628">Ethnographic Methods for Anthropological Research</title>
+            <description>This course will review methods used by contemporary anthropologists conducting ethnographic research. Special focus of the course will be on ethnographic interviewing. Will also consider such topics as use of visual material, mixed methods linking qualitative, quantitative and ethnographic material, and approaches to data analysis. Course will include observational and interviewing exercises.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e8042a1310" role="1" seniority_sort="1">
+                <display_name>Theodore Bestor</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

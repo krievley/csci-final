@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114256" class_number="12167" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 99R">Tutorial - Senior Year</title>
+            <notes>Hours to be arranged.   Nicholas Watson and members of the Department  Two terms required of all thesis honors seniors. To enroll, students must submit for approval a Thesis Proposal.</notes>
+            <prereq>Recommended: Satisfactory completion of one term of English 98r, completion of an undergraduate seminar (90-level) taken in the junior year or earlier, and faculty approval of proposed thesis topic.</prereq>
+            <description>Supervised individual tutorial in an independent scholarly or critical subject.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e42770a1310" role="1" seniority_sort="1">
+                <display_name>James Engell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

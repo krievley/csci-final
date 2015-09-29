@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160189" class_number="15438" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 60Q">Modern Japan at War</title>
+            <exam_group>FAS15_E</exam_group>
+            <description>Modern Japan&amp;rsquo;s history from the Meiji Restoration through to the &amp;ldquo;Greater East Asia War&amp;rdquo; presents a dramatic chronicle of empire building and national renovation in the crucible of war. We suspend the judgment of hindsight to examine the ideology and war aims of the Japanese empire on its own terms, and place its creation, dynamics and demise within global and international trends of imperialism, nationalism, and modernity. The course will familiarize students with the narratives of modern Japanese history attentive to how and why Japan&amp;rsquo;s wars shaped its twentieth century, and provide a framework of understanding the impact of war on the foundations of contemporary East Asia.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Robinson 105 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e204024a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Levidis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

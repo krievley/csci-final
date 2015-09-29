@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108446" class_number="15629" school_id="fas" section="004" term_code="spring">
+        <catalog_info>
+            <title short_title="MODMDEST 91R">Supervised Reading and Research</title>
+            <description>Tutorial supervision of research in subjects not treated in regular courses.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MODMDEST">Modern Middle East</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e25382a1310" role="1" seniority_sort="1">
+                <display_name>Malika Zeghal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

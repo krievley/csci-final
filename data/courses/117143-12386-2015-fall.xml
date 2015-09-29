@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117143" class_number="12386" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 166">North American Seacoasts and Landscapes, Discovery to Present: Seminar</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Offered jointly with the Graduate School of Design as 4304.
+Interested students must attend first meeting of class during shopping week to speak with the instructor about course enrollment procedure.</notes>
+            <prereq>Recommended: VES 107 and VES 160, or permission of the instructor.</prereq>
+            <description>Selected topics in the history of the North American coastal zone, including the seashore as wilderness, as industrial site, as area of recreation, and as artistic subject; the shape of coastal landscape for conflicting uses over time; and the perception of the seashore as marginal zone in literature, photography, film, television, and advertising.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Sever 212 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e248813a1310" role="1" seniority_sort="1">
+                <display_name>John Stilgoe</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

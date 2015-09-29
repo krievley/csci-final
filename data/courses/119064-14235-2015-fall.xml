@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119064" class_number="14235" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 121">Introduction to the Theory of Computation</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Students may not receive credit for both CS 121 and CS 125.</notes>
+            <prereq>Recommended: experience in formal mathematics at the level of Computer Science 20.</prereq>
+            <description>General introduction to the theory of computation, teaching how to reason precisely about computation and prove mathematical theorems about its capabilities and limitations. Finite automata, Turing machines, formal languages, computability, uncomputability, computational complexity, and the P vs. NP question.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Maxwell Dworkin G115 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e119894a1310" role="1" seniority_sort="1">
+                <display_name>Harry Lewis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

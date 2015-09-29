@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156557" class_number="11529" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1855">Mood Disorders</title>
+            <notes>Evan Kleiman  </notes>
+            <prereq>Recommended: SLS 20 and PSY 18.</prereq>
+            <description>The goal of this course is to give an overview of the major research findings across mood disorders such as major depressive disorder, bipolar disorder, generalized anxiety disorder, and social anxiety disorder. Every class will involve classic and cutting edge research from the literature on mood disorders. The class will also involve discussion of psychological (i.e., therapeutic) and psychiatric (i.e., medical) perspectives on etiology and treatment. By the end of the course, students will understand the etiology, course, and treatment of a variety of mood disorders.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e319671a1310" role="1" seniority_sort="1">
+                <display_name>Evan Kleiman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

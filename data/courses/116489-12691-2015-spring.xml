@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116489" class_number="12691" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 98R">Tutorial - Junior Year</title>
+            <notes>Sindhumathi Revuluri and members of the Department  With permission, may be taken for a second term.</notes>
+            <description>Open to junior candidates for honors in Music who have written permission to enroll from the instructor with whom they wish to work, and also from the Head Tutor in Music.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e60418a1310" role="1" seniority_sort="1">
+                <display_name>Sindhumathi Revuluri</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

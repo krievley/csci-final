@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118135" class_number="15372" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MEDVLSTD 107">Authority and Invention: Medieval Art and Architecture</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes> Offered jointly with the Graduate School of Design as 4358. Meets at the Graduate School of Design, Gund Hall. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Masterworks of art and architecture in Western Europe from the decline of Rome to the dawn of the Italian Renaissance. Explores the creative tension between the impulse to originality and the authority of classical models in the search for new art forms. Emphasis on representative works considered in their totality (architecture, painting, sculpture, and minor arts) as experiential wholes; and on the plurality of geographical and cultural contexts (Italy, Germany, France, and Spain).</description>
+            <department code="MDST">Medieval Studies</department>
+            <course_group code="MEDVLSTD">Medieval Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e48800a1310" role="1" seniority_sort="1">
+                <display_name>Christine Smith</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

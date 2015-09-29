@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160653" class_number="16361" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 12B">The Harvard Dance Project</title>
+            <notes> The course is graded SAT/UNSAT based on attendance and participation. This course may be taken repeatedly, but to receive credit the course must be taken in the Fall and Spring semesters consecutively. A maximum of four semesters (two years) may be counted as credit towards the degree.</notes>
+            <description>THE HARVARD DANCE PROJECT (Music 12hfr) The Harvard Dance Project cultivates invention and fosters the courage of artistry. This faculty-led, performance company gives students the opportunity to be original cast members and collaborators in two or more diverse dance works created by preeminent professional choreographers. The project focuses on performance research, collaboration, choreographic composition, and links choreographic thinking to other fields. It is a studio-based course which includes at least 12 performances at major venues on campus.&amp;nbsp; Fall 2015 includes works by:&amp;nbsp; Merce Cunningham, Anne Teresa DeKeersmaeker, Jill Johnson; performances at the ICA, Carpenter Center &amp;amp; Dance Center. Enrollment determined by audition during the first week of class. Dance experience required.&amp;nbsp; Full-year course (runs fall to spring); students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e140083a1310" role="1" seniority_sort="1">
+                <display_name>Jill Johnson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

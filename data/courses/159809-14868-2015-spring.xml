@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159809" class_number="14868" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ETHRSON 41">Economic Justice</title>
+            <description>Capitalism organizes society around individual pursuits of material gain. Capitalism seems to have won the great ideological struggle with other ways of organizing society. But there is much discontent: the Occupy Movement made clear that even Americans now care about excessive inequality, and many worry about the future in an increasingly economically divided society where access to technology richly rewards some to the exclusion of many others. Capitalism is also closely associated with what is arguably the biggest policy problem of the 21st century: climate change. So how can we justify capitalism? And what are feasible alternative ways of organizing society?</description>
+            <department code="GENED">General Education</department>
+            <course_group code="ETHRSON">Ethical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e144622a1310" role="1" seniority_sort="1">
+                <display_name>Mathias Risse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

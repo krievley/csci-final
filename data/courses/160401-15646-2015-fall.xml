@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160401" class_number="15646" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1928">Istanbul: Eventful City &amp; Quotidian Modernity since the Invention of Coffeehouses in the 16th c.</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Offered jointly offered with the Graduate School of Design as GSD 4405.  
+This couse will meet at 7 Sumner Road, Room 104
+Instructor:  Professor Sibel Bozdogan</notes>
+            <prereq>Recommended: For eligible participants, a possible extension of the seminar will be a follow-up study trip to Istanbul for two weeks in summer 2016.</prereq>
+            <description>This introduction to the history of Istanbul will explore emerging forms of urban, cultural and societal modernity through spatial practices, as shaped by everyday lives of ordinary citizens in public spaces (cafes, streets, bazaars, etc.) as well as by major public events (fires, rebellions, etc.), Participants are expected to contribute original research and/or analytical studies that feed into a collective class project. Experimentations with digital techniques of mapping, text analysis and data visualization will be welcome.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40638a1310" role="1" seniority_sort="1">
+                <display_name>Cemal Kafadar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

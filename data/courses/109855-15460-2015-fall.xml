@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109855" class_number="15460" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HUMAN 11B">Frameworks: The Art of Listening</title>
+            <exam_group>FAS07_F</exam_group>
+            <notes>Though the University will be on a &amp;quot;Monday&amp;quot; schedule, this course will still have its first lecture on Wednesday, September 2.  This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>Our world is steeped in sound, but we must learn to pay attention to listening. Sounds produce emotions, mark out spaces, call up memories; silence can be deafening; voice is a marker of identity. This course will sharpen our ears. We explore the sonic world through diverse readings and creative projects with sound. Discussions and assignments will open our minds (and ears) to listening practices, what the arts teach us about listening, and how we describe our experiences as listeners. We examine the relationships between sound and time, community, responsibility and attentiveness, and explore the soundscape in which we live.</description>
+            <department code="HUM">Humanities</department>
+            <course_group code="HUMAN">Humanities</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="Music PH6 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e9398a1310" role="1" seniority_sort="1">
+                <display_name>Alexander Rehding</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123045" class_number="14518" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SANSKRIT 101A">Elementary Sanskrit</title>
+            <exam_group>FAS18_A</exam_group>
+            <description>Introduction to Classical Sanskrit, the translocal language of intellectual life in South Asia for much of the last two millennia. This course provides the essential grammar and reading proficiency necessary to take up the language's many rich literary traditions: scripture (Upani&amp;#7779;ad), epic (R&amp;#257;m&amp;#257;ya&amp;#7751;a and Mah&amp;#257;bh&amp;#257;rata), poetry, Hindu and Buddhist philosophy, etc. After completing the textbook, we will read a narrative (Hitopade&amp;#347;a) drawn from one of the most popular literary works in the pre-modern world.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SANSKRIT">Sanskrit</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="1 Bow St 317 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e103732a1310" role="1" seniority_sort="1">
+                <display_name>Gokul Madhavan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

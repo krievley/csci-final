@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="153042" class_number="11021" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 189R">Chamber Music Performance</title>
+            <exam_group>FAS05_B</exam_group>
+            <notes> This course is only offered for a letter grade when students are involved in one or more of the following: music concentrator, enrolled in a music department course in the same semester, a member of a faculty-led ensemble (the Harvard-Radcliffe Orchestra). Pre-formed ensembles are encouraged and will be accommodated as much as possible.</notes>
+            <description>Through auditions, students will be divided into chamber music ensembles by the Parker Quartet and have weekly coachings with members of the Parker Quartet and Heng-Jin Park of the Boston Trio. Students will be expected to rehearse between each coaching and to participate in chamber music studio classes throughout the semester, which will be led by the Parker Quartet. Auditions will be held in the first week of the semester, either in conjunction with HRO auditions or on a separate non-HRO audition day. Students who do not meet the requirements below may take the course for SAT/UNSAT credit. Pre-formed ensembles are encouraged and will be accommodated as much as possible. Students intending to enroll in both the HRO and Music 189, auditions are held at dates to be announced.&amp;nbsp;</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Wednesday" end_time="21:59:00" location="" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e138731a1310" role="1" seniority_sort="1">
+                <display_name>Jessica Bodner</display_name>
+            </person>
+            <person id="d1e138734a1310" role="1" seniority_sort="2">
+                <display_name>Daniel Chong</display_name>
+            </person>
+            <person id="d1e138737a1310" role="1" seniority_sort="3">
+                <display_name>Kee-Hyun Kim</display_name>
+            </person>
+            <person id="d1e138740a1310" role="1" seniority_sort="4">
+                <display_name>Ying Xue</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

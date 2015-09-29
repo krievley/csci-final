@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120755" class_number="12978" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 25P">Neurotoxicology: Biological Effects of Environmental Poisons</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> This course welcomes science and non-science concentrators.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Explores wide range of environmental and man-made neurotoxic substances and effects on human and animal populations. Attention to pediatric exposure to neurotoxic agents and associated neurodevelopmental disabilities, as well as neurobehavioral and immunological changes. Examines impact of lead and mercury poisoning, PCBs. Investigates neurophysiology and neurochemistry of a number of other neurotoxins, including arsenic, tetrodotoxin, saxitoxin, botulinum, curare, cocaine, and "nerve gas." What dangers do these toxins pose? What can or should be done to prevent exposure?</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Science Ctr 112 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e274321a1310" role="1" seniority_sort="1">
+                <display_name>S Counter</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

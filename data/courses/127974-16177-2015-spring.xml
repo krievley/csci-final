@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127974" class_number="16177" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPAN 150B">Readings and Discussion in Japanese Social Sciences</title>
+            <prereq>Recommended: Japanese 150a.</prereq>
+            <description>Continuation of Japanese 150a.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPAN">Japanese</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e32487a1310" role="1" seniority_sort="1">
+                <display_name>Yuko Kageyama-Hunt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

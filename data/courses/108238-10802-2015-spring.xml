@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108238" class_number="10802" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94GS">Globalization and Civil Society</title>
+            <description>This seminar examines the rise of civil society worldwide and the role civil society organizations play in shaping social, economic, and political realities. It explores the origins of the concept; the relation between civil society and democracy; the complex roles of civil society in developed democracies, in democratic transitions, under conditions of repression, and in transborder advocacy and development. Cases include: Europe, U.S., Japan, Korea, Taiwan, and China.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e29360a1310" role="1" seniority_sort="1">
+                <display_name>Susan Pharr</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

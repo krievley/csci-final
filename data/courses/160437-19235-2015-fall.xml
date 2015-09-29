@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160437" class_number="19235" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GREEK 122">Sophocles</title>
+            <notes> Prerequisite: Greek Bb or equivalent.</notes>
+            <description>Close reading of Sophocles&amp;rsquo; Ajax and Philoctetes, with special attention to the representation of Homeric heroes (in particular Odysseus), and the dramatic, literary, and linguistic conventions of the tragic genre.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118080" class_number="14979" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG 59">Portuguese and the Community</title>
+            <notes> Conducted in Portuguese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. To enroll, please contact Dr. JouÃ«t-PastrÃ© by January 15, 2013.</notes>
+            <prereq>Prerequisite: Portuguese C OR Portuguese 30</prereq>
+            <description>An advanced language course examining the Luso-African-Brazilian experience in the US. Promotes community engagement as a vehicle for greater linguistic fluency and cultural understanding. Students will be placed with Boston-area community organizations and agencies. Class work focuses on readings and films by and about Luso-African-Brazilians and specific uses of Portuguese language from these communities. Authors include D. Macedo, Braga Martes, Margolis, Sales, Albues, and Villas Boas.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:29:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e97122a1310" role="1" seniority_sort="1">
+                <display_name>Viviane Gontijo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

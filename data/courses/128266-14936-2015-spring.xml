@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128266" class_number="14936" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL 30">Upper-Level Italian: Italian Through Art</title>
+            <notes> Conducted in Italian. May not be taken by students who have previously taken Italian 35 or 36. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: Italian C, Ca, Cb, or Dab; a score of 601-680 on the SAT II test or the Harvard Placement test; or permission of course head.</prereq>
+            <description>Revisiting structures and refining speaking and writing skills through an arts interface. Students work closely with the collection at the Harvard Art Museum for assignments that build on receptive and productive communicative skills. Course materials may include films, popular music, operatic libretti and literary texts. Consult course website for current semester topics.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128029" class_number="15057" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 179">Crime, Justice, and the American Legal System</title>
+            <description>Explores the causes and consequences of crime in society. Critically examines the role of key players in the American criminal justice system, including police, politicians, judges, lawyers, offenders, victims and the media. Considers historical, political and sociological dimensions of controversial issues in criminal justice practice and policy.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e200843a1310" role="1" seniority_sort="1">
+                <display_name>Cory Way</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

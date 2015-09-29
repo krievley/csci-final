@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156174" class_number="17160" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1480">Human Evolution through Developmental Change</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>This course counts towards the Human Evolution subfield requirement and the research seminar requirement in HEB. Mandatory weekly lab section.  </notes>
+            <prereq>Recommended: Life Sciences 1b and Life Sciences 2 recommended.</prereq>
+            <description>Humans and our primate relatives display marked variation in biological traits. This variation results from natural selection operating on pre- and post-natal developmental mechanisms. While these mechanisms remain mostly unknown, recent advances in genetics, genomics, and developmental biology now allow us to begin to understand how evolutionary processes influence and are influenced by underlying developmental and genetic organization. This course explores these inter-relationships in the context of the primate paleontological record. We focus on the evolution of the post-cranial skeleton (i.e., the axial skeleton, girdles, and limbs), and present studies that cast light on the mechanisms that underlie major transitions in human evolution.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Museum of Comp Zool 501 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e3158a1310" role="1" seniority_sort="1">
+                <display_name>Terence Capellini</display_name>
+            </person>
+            <person id="d1e144059a1310" role="2" seniority_sort="2">
+                <display_name>Neil Roach</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

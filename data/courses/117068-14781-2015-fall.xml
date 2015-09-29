@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117068" class_number="14781" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="LATIN 201">Reading Latin</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Intended for graduate students in Classical Philology as preparation for the general examinations.</notes>
+            <description>Readings of Latin prose and poetry ranging from archaic to imperial, with emphasis on variety, quantity, and quick comprehension of syntactic, stylistic, and generic features.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Boylston 203 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e52057a1310" role="1" seniority_sort="1">
+                <display_name>R.J. Tarrant</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

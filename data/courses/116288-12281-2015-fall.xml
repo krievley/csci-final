@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116288" class_number="12281" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98EO">Culture and Society</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes>This course will be lotteried.   This course will be lotteried.</notes>
+            <description>The tutorial will explore various approaches to the study of culture, drawing on studies in history, philosophy, art, literature, sociology, and photography.&amp;nbsp; Among the questions we will address are: In what ways does rhetoric shape politics, and what role does it play in national narratives?&amp;nbsp; How is historical memory constructed, and what are the competing forces that shape it?&amp;nbsp; What is the significance of public apologies, and does solidarity create moral responsibilities for historical injustices?&amp;nbsp; How is cultural domination exerted, and how is it resisted?&amp;nbsp; Is the censorship of art sometimes justified?&amp;nbsp; Why does the contest to control images loom so large in contemporary politics?</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Sever 215 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e125833a1310" role="1" seniority_sort="1">
+                <display_name>Kiku Adatto</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

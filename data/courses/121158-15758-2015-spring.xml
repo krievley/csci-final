@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121158" class_number="15758" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 2010BR">Materials in Ancient Societies: Ceramics</title>
+            <notes> Anthropology 2010ar is commonly taken before Anthropology 2010br.
+
+Meets at M.I.T.</notes>
+            <description>This seminar-laboratory subject provides in-depth study of the technologies of ancient societies.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

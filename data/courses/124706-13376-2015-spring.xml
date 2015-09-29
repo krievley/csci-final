@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124706" class_number="13376" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 232R">Topics in Missing Data</title>
+            <description>The modern era of work on missing data problems began in the 1970s and has seen an explosion of developments since then. Seminar will focus on an updated version of a classic text, supplemented with classic articles.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e21753a1310" role="1" seniority_sort="1">
+                <display_name>Donald Rubin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

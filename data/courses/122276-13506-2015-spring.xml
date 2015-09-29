@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122276" class_number="13506" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WOMGEN 2000">Introduction to WGS: Graduate Proseminar</title>
+            <notes> Will count as the Graduate Proseminar for the PhD secondary field requirement in WGS.</notes>
+            <description>A multidisciplinary introduction to graduate studies in Women, Gender, and Sexuality Studies. Students build detailed maps of the intersections between their (inter)disciplines and WGS Studies. The course prepares students to understand that terrain and to traverse it as professionals. Students produce documents of direct practical value, including a syllabus and a comprehensive exam list.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e64483a1310" role="1" seniority_sort="1">
+                <display_name>Robin Bernstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

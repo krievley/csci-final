@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159641" class_number="14845" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN 236">Literatur, Theorie, Wissen: E.T.A. Hoffmann</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Readings and discussions in German.</notes>
+            <description>	Explores the fascinating &amp;oelig;uvre of E.T.A. Hoffmann, using it as a case study for applying literary theories, on the one hand, and for investigating the history of knowledge (Wissensgeschichte), on the other. We thus engage with: the most widely-read German romantic author; salient methodologies such as hermeneutics, trauma theory, and deconstruction; major cultural and scientific developments around 1800, such as the birth of psychiatry, analytics of sexuality, and the innovation of new media.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Barker 359 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e16929a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Suetterlin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

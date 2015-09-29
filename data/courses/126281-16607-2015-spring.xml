@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126281" class_number="16607" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 3320">Advanced Laboratory and Dissertations</title>
+            <prereq>Course open to Graduate Students Only</prereq>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e109277a1310" role="2" seniority_sort="1">
+                <display_name>Peter Ellison</display_name>
+            </person>
+            <person id="d1e65661a1310" role="2" seniority_sort="2">
+                <display_name>Susan Lipson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119562" class_number="15201" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2480A">Research in Public Economics and Fiscal Policy: Research Seminar</title>
+            <exam_group>FAS15_D</exam_group>
+            <description>Participants discuss recent research in public economics and fiscal policy and present their own work in progress. Open to doctoral students in economics who have passed their oral examinations. Part one of a two part series.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:29:00" location="Littauer Ctr M16 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e183192a1310" role="1" seniority_sort="1">
+                <display_name>Nadarajan Chetty</display_name>
+            </person>
+            <person id="d1e157846a1310" role="2" seniority_sort="2">
+                <display_name>David Cutler</display_name>
+            </person>
+            <person id="d1e273617a1310" role="2" seniority_sort="3">
+                <display_name>Martin Feldstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

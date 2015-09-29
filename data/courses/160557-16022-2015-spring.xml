@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160557" class_number="16022" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="CLS-STDY 151">The Sophisticated Empire</title>
+            <description>Through a review of literary and documentary sources (in English), we will try to understand the links between education, literature, and power in the Roman Empire during the period of the so-called Second Sophistic, with special emphasis on the importance of higher education and linguistic proficiency in Classical Greek for Greeks and Romans alike.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLS-STDY">Classical Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e93414a1310" role="1" seniority_sort="1">
+                <display_name>Carlo Vessella</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

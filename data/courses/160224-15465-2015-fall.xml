@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160224" class_number="15465" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 98TA">"Studying Up": Privilege, Elite Education, and Inequality</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>Privilege is an understudied but important topic in educational and social science research. Recent scholarship increasingly attends to the role that elite educational institutions play in producing and maintaining social and economic inequalities. In this course, we will investigate the connections between class, privilege, and educational advantage. By employing the lens of cultural sociology, we will explore various contexts for elite education, the cultural practices around which they are organized, and the ways in which individuals negotiate a sense of legitimacy and identity within these spaces.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="William James 501 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e200702a1310" role="1" seniority_sort="1">
+                <display_name>Tiffanie Ting</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

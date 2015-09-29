@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160357" class_number="18104" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CLASARCH 149">Images of Greek Myths in Classical Antiquity</title>
+            <exam_group>FAS05_A</exam_group>
+            <description>This seminar explores the visual &amp;quot;language&amp;quot; of the representation of Greek myths in various media&amp;mdash;such as painted vases, sculpture, mosaics, wall paintings, and sarcophagi&amp;mdash;from its emergence in Archaic Greece through the Hellenistic and Roman periods to Late Antiquity.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASARCH">Classical Archaeology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="Boylston 203 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e96270a1310" role="1" seniority_sort="1">
+                <display_name>Adrian Staehli</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

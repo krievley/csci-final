@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159791" class_number="15089" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BP">National Bodies, Public Health</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>This course explores the relations among health, the body, and the US nation at the turn of the twentieth century. These years witnessed profound transformations in the national economy and international politics; in debates about the meanings of race, class, and gender; and in shifting understandings of health and disease. Against this backdrop, we will draw on readings from across the disciplines to ask how biological, social, and cultural ideas about bodies became central to US national identity.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Barker 118 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e217631a1310" role="1" seniority_sort="1">
+                <display_name>Todd Carmody</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

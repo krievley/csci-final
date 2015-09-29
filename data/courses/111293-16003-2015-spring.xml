@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111293" class_number="16003" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BPH 222">The Science of Human Nutrition</title>
+            <notes> Offered jointly with the Medical School as BPH 733.0 and with the School of Public Health as NUT 202.</notes>
+            <prereq>Recommended: Introductory nutrition course. Prior familiarity with nutrition and the health sciences expected, as well as a basic knowledge of biochemistry and human physiology.</prereq>
+            <description>A review of the biochemistry of carbohydrates, fats, proteins, vitamins, and minerals in the context of human disease. Contemporary topics are emphasized. Particular emphasis given to current knowledge of the mechanisms that may explain the role of diet in the causation and/or prevention of ischemic heart disease, diabetes, obesity, hypertension, and cancer. Recommended dietary intakes of selected nutrients are discussed in order to understand their limitations.</description>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:20:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e73308a1310" role="1" seniority_sort="1">
+                <display_name>Frank M. Sacks</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

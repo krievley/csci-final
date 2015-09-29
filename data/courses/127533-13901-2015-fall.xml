@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127533" class_number="13901" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RUSS 113">Advanced Russian: Readings in Russian Literature</title>
+            <exam_group>FAS07_A</exam_group>
+            <prereq>Recommended: Russian 103, 114, or placement at this level or above.</prereq>
+            <description>Reading and discussion of classic and contemporary Russian literature. Continued work on vocabulary expansion and composition. Written exercises for reinforcement. Readings from authors such as Gogol, Chekhov, Bulgakov, Pasternak, Brodsky, and Bitov.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Barker 373 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e68630a1310" role="1" seniority_sort="1">
+                <display_name>Natalia Pokrovsky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

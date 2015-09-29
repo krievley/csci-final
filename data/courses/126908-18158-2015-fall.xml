@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126908" class_number="18158" school_id="fas" section="0001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCWORLD 54">Islam and Politics in the Modern Middle East</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes>If student interest exceeds the course limit, a random lottery will be conducted. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results. See the course website for more details.  This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past. Graduate students interested in this course should take Religion 1080 (Modern States, Islam, and Politics) instead. Sections offered in English or Arabic.</notes>
+            <description>This course examines the origins, ideologies, and political strategies of twentieth and twenty-first century Islamist movements in the Middle East and beyond. We will pay particular attention to the evolution of these movements in the larger historical and political context, up to and including the Arab Spring. We will use primary sources in translation and in Arabic (for those with reading proficiency). There are no language or other prerequisites for this class.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Sever 203 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25382a1310" role="1" seniority_sort="1">
+                <display_name>Malika Zeghal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

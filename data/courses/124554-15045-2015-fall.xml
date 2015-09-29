@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124554" class_number="15045" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 101">Chemical Biology Towards Precision Medicine</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Pre-requisite: Chemistry 17/27, Chemistry 20/30, or the equivalent</notes>
+            <description>Chemical Biology Towards Precision Medicine teaches students principles ofmodern organic synthesis, chemical biology and human biology relevant tothe discovery of safe and effective small-molecule therapeutics in thefuture. The course will explore patient-based &amp;rsquo;experiments of nature&amp;rsquo; thatilluminate disease, including cancer, diabetes, infectious disease andpsychiatric disease, among others. Students will then use their knowledgeof chemistry and chemical biology to propose research yielding novel smallmolecules that affect biological systems by mechanisms suggested by theexperiments of nature. Chem 101 aims to prepare students for the nextdecade where academic research tests hypotheses emerging from human biology&amp;nbsp;in humans using novel small-molecule probes.&amp;nbsp;</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Science Ctr Hall D (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e53834a1310" role="1" seniority_sort="1">
+                <display_name>Stuart Schreiber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

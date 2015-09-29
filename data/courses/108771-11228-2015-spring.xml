@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108771" class_number="11228" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL 141">Renaissance Epic: War, Identity, Desire</title>
+            <notes> Conducted in Italian.</notes>
+            <description>We analyze the driving forces behind epic in the classic and medieval world_war, identity, and desire_and their transformation at the dawn of modernity. In order to prepare for the close reading of Torquato Tasso's Jerusalem Delivered, we will study and discuss selected cantos from the Iliad, the Odyssey, the Aeneid, the Chanson de Roland, Dante's Divine Comedy, Boiardo's Orlando innamorato and Ariosto's Orlando Furioso.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e25963a1310" role="1" seniority_sort="1">
+                <display_name>Francesco Erspamer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113348" class_number="14954" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="JAPAN 140A">Advanced Modern Japanese</title>
+            <exam_group>FAS10_B</exam_group>
+            <notes>Class meets five times a week, additional discussion sections to be arranged.  </notes>
+            <prereq>Recommended: Japanese 130b.</prereq>
+            <description>Readings of modern texts in both rapid and in-depth modes. Comprehension of media news and drama. Advanced conversation and composition on topics related to the preceding.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPAN">Japanese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Thursday" end_time="10:59:00" location="Northwest Bldg B107 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e32487a1310" role="1" seniority_sort="1">
+                <display_name>Yuko Kageyama-Hunt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

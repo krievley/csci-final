@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156207" class_number="11245" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BE 160">Chemical Kinetics and Reactor Design</title>
+            <exam_group>FAS03_A</exam_group>
+            <prereq>Recommended: Applied Math 21a (Mathematical Methods in Science); Introductory chemistry course at the level of Life Sciences 1a, or Life and Physical Sciences A.</prereq>
+            <description>Introduction to chemical kinetics and reactor design with applications to bioengineering, chemical engineering, environmental sciences and other areas.</description>
+            <department code="BME">Biomedical Engineering</department>
+            <course_group code="BE">Biomedical Engineering</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Maxwell Dworkin 223 (SEAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e145893a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Needleman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

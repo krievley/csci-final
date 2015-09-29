@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119532" class_number="12756" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 3555">Instructional Styles in Psychology</title>
+            <notes>TBD and members of the Department.  Normally required of and limited to department graduate students who are first-time teaching fellows.</notes>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:29:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e263049a1310" role="1" seniority_sort="1">
+                <display_name>Regan Bernhard</display_name>
+            </person>
+            <person id="d1e24925a1310" role="1" seniority_sort="2">
+                <display_name>George Alvarez</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

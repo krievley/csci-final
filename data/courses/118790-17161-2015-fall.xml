@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118790" class_number="17161" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2010">Contemporary Topics in Psychological Research</title>
+            <exam_group>FAS06_D</exam_group>
+            <notes> Required of, and limited to, first-year doctoral students in the department of Psychology.</notes>
+            <description>Advanced survey of research topics in cognition/brain/behavior, development, experimental psychopathology, clinical and social psychology.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Thursday" end_time="17:59:00" location="William James 1305 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e87939a1310" role="1" seniority_sort="1">
+                <display_name>Ken Nakayama</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

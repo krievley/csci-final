@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111971" class_number="17713" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 302HFA">Renaissance: Doctoral Conference</title>
+            <notes> Limited to faculty members teaching or conducting research in Renaissance literary studies and to graduate students working in the field. Enrollment is open to all such students, and is required of those who have been admitted to candidacy for the PhD and who intend to work on Renaissance topics.</notes>
+            <description>The Conference focuses upon dissertations in progress and other research topics of mutual interest.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>0</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e59453a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Greenblatt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

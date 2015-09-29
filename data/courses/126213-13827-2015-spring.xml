@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126213" class_number="13827" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCILIVSY 20">Psychological Science</title>
+            <notes> This course meets the Introductory Course requirement for Psychology.</notes>
+            <description>An introduction to the sciences of mind, including foundational concepts from neuroscience, evolution, genetics, philosophy, and experimental methods, and specific topics such as perception, memory, reasoning and decision-making, consciousness, child development, psychopathology, personality, language, emotion, sexuality, violence, morality and social relations.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCILIVSY">Science of Living Systems</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e86278a1310" role="1" seniority_sort="1">
+                <display_name>Steven Pinker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

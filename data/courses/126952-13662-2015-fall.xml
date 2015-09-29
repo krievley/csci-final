@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126952" class_number="13662" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH 90N">Border Flux and Border Subjects: Cultural Practices of the US-Mexico Border</title>
+            <exam_group>FAS12_D</exam_group>
+            <notes> Conducted in Spanish.</notes>
+            <prereq>Recommended: : A score above 780 on the SAT II or on the Harvard Placement test; a 40-, 50-, or 60-level course in Spanish; or permission of course head.</prereq>
+            <description>This course is structured around a set of art and literary works that engage the US-Mexico border. It seeks to understand the fluid nature of the border region along with its recurring themes and dynamics, focusing on the complex links between literary texts, artistic practices, and the increasingly pressing social and political issues of the region. Materials include works by Monsivais, Bolano, Anzaldua, Daniel Sada, Gomez-Pena, Amy Sara Carroll, Ricardo Dominguez.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="11:29:00" location="Boylston 403 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e64979a1310" role="1" seniority_sort="1">
+                <display_name>Sergio Delgado</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

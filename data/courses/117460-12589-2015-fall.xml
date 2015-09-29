@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117460" class_number="12589" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TDM 116">Acting Workshop: Comedy</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Enrollment determined by audition on the first day of class. Students are asked to prepare a 30 second comic monologue, classical or contemporary, for the audition.</notes>
+            <description>A course developing the actor's approach to and playing of comedy and humor. The class will focus on marrying comedy's need for technical precision with a truthful and spontaneous approach to acting based on the methodology of Konstantin Stanislavski. Specific comic skills studied will include timing, focus, choreography, and the mechanics of how a joke builds from set up to punchline. Acting skills will focus on moment to moment pursuit of objective and creation of character. Styles of comedy will include farce, drawing room/comedy of manners and contemporary comic playwriting such as David Lindsay-Abaire, Nicky Silver, Christopher Durang and Sarah Ruhl.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Loeb Drama Ctr C (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e155527a1310" role="1" seniority_sort="1">
+                <display_name>Scott Zigler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

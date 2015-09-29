@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127021" class_number="13677" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98MI">Migration in Theory and Practice</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> This course will be lotteried.</notes>
+            <description>In this course, we will examine how and why people migrate from one location to another, focusing both on the theoretical paradigms scholars use to explain migration processes as well as on the individual experiences of migrants. Topics include transnationalism, diaspora, identity formation, integration and assimilation, citizenship claims, and the feminization of migration. Ethnographic readings focus primarily on migration to the US, but also include cases from other world areas, most notably Asia.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Memorial Hall 202 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e158040a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Newendorp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108854" class_number="11350" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCWORLD 49">The Worlds of Business in Modern China</title>
+            <description>China was home to the world&amp;#39;s largest economy two centuries ago. Within two decades it will be the world&amp;#39;s largest economy again. This course uses business as a lens through which to study modern China. Using new Harvard Business School cases, we explore traditional family firms and internet startups; state-owned enterprises and their private-sector challengers; and the catalytic role of Hong Kong, Taiwan, and foreign enterprise in shaping contemporary China. Case studies cast light on larger themes: the role of party and government (national and local) in business and society; the legal environment; and the global impact of China&amp;#39;s development.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e31101a1310" role="1" seniority_sort="1">
+                <display_name>William Kirby</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

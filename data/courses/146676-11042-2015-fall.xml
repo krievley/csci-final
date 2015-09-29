@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146676" class_number="11042" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 145A">Jane Austen's Fiction and Fans</title>
+            <exam_group>FAS04_A</exam_group>
+            <description>In this class we'll read at least five of Jane Austen's novels and study the contribution they made to the early-nineteenth-century remaking of the novel as a form. Our chief concern will be Austen's intervention into her own era's discussions of what fiction could and should do, but we'll also acknowledge the ardent feelings her books continue to arouse today. As part of that acknowledgment, we'll conclude the course by investigating the wild world of contemporary Austen fandom and the Austenian tourism, shopping, adaptations, and sequels that nurture it.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Sever 103 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e58097a1310" role="1" seniority_sort="1">
+                <display_name>Deidre Lynch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159922" class_number="15098" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FOLKMYTH 99B">Tutorial - Senior Year</title>
+            <notes>Taught by Stephen Mitchell and members of the Committee.  Required of all thesis writers. The signature of the Head Tutor or Chairman of the Committee on Degrees in Folklore and Mythology required.</notes>
+            <description>Part two of a two part series.</description>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

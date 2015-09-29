@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122906" class_number="16404" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TDM 112R">Advanced Acting: 20th-Century Texts</title>
+            <notes> Enrollment determined by audition on the first day of class. Please bring in a memorized and rehearsed contemporary monologue no longer than 2 minutes to audition with on the first day.</notes>
+            <description>For actors interested in working in television, film and theater, this is a course of advanced acting techniques using 20th-century dramatic texts for scene work. The emphasis is on action based acting and the creation of an acting process that is specifically tailored to the individual actor. Includes character work -- making physical and vocal changes. Emphasis also on learning how to audition better, includes helping actors assemble a group of working monologues to use in auditions.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e235808a1310" role="1" seniority_sort="1">
+                <display_name>Marcus Stern</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

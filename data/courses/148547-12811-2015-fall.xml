@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148547" class_number="12811" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="IMMUN 201">Principles of Immunology</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Intended for students who have had prior exposure to immunology on the undergraduate level. In the absence of such exposure, students must obtain the permission of the Course Director. Offered jointly with the Medical School as IM 702.0.</notes>
+            <prereq>Recommended: A background in genetics and biochemistry strongly recommended.</prereq>
+            <description>Comprehensive core course in immunology. Topics include a broad but intensive examination of the cells and molecules of the immune system. Special attention given to the experimental approaches that led to general principles of immunology.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:59:00" location="" start_time="13:30:00"/>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e112184a1310" role="1" seniority_sort="1">
+                <display_name>Thorsten Mempel</display_name>
+            </person>
+            <person id="d1e49960a1310" role="1" seniority_sort="2">
+                <display_name>Michael Carroll</display_name>
+            </person>
+            <person id="d1e222641a1310" role="1" seniority_sort="3">
+                <display_name>Ulrich von Andrian</display_name>
+            </person>
+            <person id="d1e112184a1310" role="1" seniority_sort="1">
+                <display_name>Thorsten Mempel</display_name>
+            </person>
+            <person id="d1e49960a1310" role="1" seniority_sort="2">
+                <display_name>Michael Carroll</display_name>
+            </person>
+            <person id="d1e222641a1310" role="1" seniority_sort="3">
+                <display_name>Ulrich von Andrian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

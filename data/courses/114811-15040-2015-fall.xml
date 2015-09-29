@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114811" class_number="15040" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 60">Foundations of Physical Chemistry</title>
+            <exam_group>FAS04_A</exam_group>
+            <prereq>Recommended: Physical Sciences 1, 10, 11 or equivalent; completion or concurrent enrollment in Mathematics 21a or Applied Mathematics 21a; completion or concurrent enrollment in Physical Sciences 2, 12a or Physics 15a or equivalent.</prereq>
+            <description>A compact introduction to major principles of physical chemistry (statistical mechanics, thermodynamics, and chemical kinetics ), concurrently providing mathematical and physical foundations for these subjects and preparation for Chemistry 160 and 161.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Northwest Bldg B105 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e30543a1310" role="1" seniority_sort="1">
+                <display_name>Roy Gordon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

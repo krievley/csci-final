@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111799" class_number="11949" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEC 98R">Tutorial - Junior Year</title>
+            <notes> Designed for juniors concentrating in Near Eastern Languages and Civilizations. Taught by members of the Department.</notes>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="NEC">Near Eastern Civilizations</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e95629a1310" role="1" seniority_sort="1">
+                <display_name>Gojko Barjamovic</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

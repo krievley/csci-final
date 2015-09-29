@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114942" class_number="11893" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ROM-STD 98">Tutorial - Junior Year</title>
+            <notes> Successful completion of one term of Romance Studies 98 (or equivalent) is required of all thesis-track honors concentrators in Romance Studies in their junior year.
+
+This course is taught by members of the Department.</notes>
+            <description>Weekly individual instruction for juniors pursuing a thesis honors track in Romance Studies, culminating in the writing of a 20-25 page research paper in a Romance language.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ROM-STD">Romance Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159635" class_number="14450" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 287">Contact Homology</title>
+            <description>The purpose of this course is to introduce some invariants of contact manifolds that are defined by counting pseudolomorphic curves, and discuss some applications. We will also discuss some related invariants of symplectic manifolds. The particular invariants we will discuss will be chosen in part based on audience input; an emphasis of the course will be a recently developed invariant called embedded contact homology, and other topics may include cylindrical and linearized contact homology, Legendrian contact homology, the contact homology algebra, symplectic homology, and symplectic field theory. Some of these invariants have yet to be rigorously defined, and part of the course will involve explaining some of the issues that remain to be resolved, and some possible approaches.&amp;nbsp; Applications will include generalizations of the Weinstein conjecture, symplectic embedding problems, distinguishing contact structures, and calculating Gromov-Witten invariants by cutting along contact-type hypersurfaces.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e235194a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Gardiner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

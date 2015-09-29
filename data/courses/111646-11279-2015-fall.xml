@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111646" class_number="11279" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FOLKMYTH 91R">Supervised Reading and Research</title>
+            <notes>Stephen Mitchell and members of the Committee  Applicants must consult the Chairman or the Head Tutor of the Committee. The signature of the Chairman or the Head Tutor is required.</notes>
+            <description>Instruction and direction of reading on material not treated in regular courses of instruction; special work on topics in folklore, mythology, and oral literature. Normally available only to concentrators in Folklore and Mythology.</description>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109556" class_number="15650" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1729">Models of Conflict in International Relations</title>
+            <notes>IR_subfield  </notes>
+            <description>This course is both a simple introduction to game theory, and a literature review of game theoretical approaches to the study of international conflict and war. Game theory is a tool for analyzing strategic interaction between rational actors. The course will feature games like the Prisoners' Dilemma, the Chicken, and models of bargaining. Students will learn how these and related tools can be used to understand and analyze historical and current instances of international conflict. Specifically, we will try to answer questions like: why do states fight costly wars in international relations? Why do peaceful negotiations fail? How does deterrence work? Why do states get into costly arms races? How does domestic politics shape international conflict?</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e84489a1310" role="1" seniority_sort="1">
+                <display_name>Muhammet Bas</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

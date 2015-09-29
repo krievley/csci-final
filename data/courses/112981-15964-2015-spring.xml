@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112981" class_number="15964" school_id="fas" section="079" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 3010">Reading and Research</title>
+            <notes> Limited to candidates for the PhD who are in residence, who have been for a year in residence, and who are in good standing in the Graduate School. May ordinarily be taken only in preparation for a field (or fields) to be examined on the General Examination. May not be counted toward the AM degree except by permission of the Department.</notes>
+            <description>Instructors listed above under History 3010 supervise individual work in preparation for the General Examination for the PhD degree.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e129108a1310" role="1" seniority_sort="1">
+                <display_name>Richard Pipes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

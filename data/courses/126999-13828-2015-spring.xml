@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126999" class_number="13828" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 61H">Being French: Historical and Societal Considerations</title>
+            <notes>Conducted entirely in French. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Students may take no more than two courses at the 60-level in French.   Stacey Katz Bourns and members of the Department  Conducted entirely in French. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Students may take no more than two courses at the 60-level in French.</notes>
+            <prereq>Recommended: French 50 or another French course at the 50 level; 751-780 on the SAT II or the Harvard placement test; or permission of course head.</prereq>
+            <description>This course examines the concept of a "French identity" from the principles of the Enlightenment to the contemporary debates and political controversies about national identity. Through the exploration of historical, literary, sociological and philosophical texts, as well as film and multimedia resources, we will focus on individuals, symbolic places, ideological discourses and narratives that have contributed to the formation and questioning of a French national identity.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

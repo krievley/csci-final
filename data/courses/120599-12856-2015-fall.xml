@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120599" class_number="12856" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN AX">German for Reading Knowledge</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Not open to auditors.</notes>
+            <description>Development of reading proficiency for students with little or no knowledge of German. Emphasizes translation of academic German prose into English.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sever 201 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172264a1310" role="1" seniority_sort="1">
+                <display_name>Lisa Parkes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

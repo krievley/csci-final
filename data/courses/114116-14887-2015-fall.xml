@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114116" class_number="14887" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 150A">Narrative Tactilities: Studio Course</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interview with instructor required for admission.</notes>
+            <prereq>Recommended: VES 50 or two other courses in video production such as VES 51a, VES 52r, VES 59, VES 60x or VES 151b.</prereq>
+            <description>In this intermediate production course, we will explore systems, syntaxes, and voices of cinematic fictions across national cinemas in the 20th and 21st century. We will investigate all aspects of the mise-en-sc&amp;egrave;ne through exercises in screenwriting, directing professional and amateur actors, storyboarding, lighting, sound design, art direction, and digital editing. Students will also research and develop short scripts to be produced during the spring term. Occasional in-class workshops by film professionals and artists.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Sever 416 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e33910a1310" role="1" seniority_sort="11">
+                <display_name>Guy Maddin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

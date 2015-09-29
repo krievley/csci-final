@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112263" class_number="11336" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 232">Advanced Classical Electromagnetism</title>
+            <prereq>Recommended: Prerequisites: Physics 153 and Physics 143a, or equivalent.</prereq>
+            <description>Special relativity, relativistic field theories, gauge invariance, the Maxwell equations, conservation laws, time-independent phenomena, multipole expansions, electrodynamics and radiation theory, radiation from rapidly-moving accelerating charges, scattering and diffraction, and macroscopic averaged fields and propagation in matter. Additional topics may include relativistic particles with spin, coherent states, superconductors, accelerator physics, renormalization, and magnetic monopoles.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="14:59:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e86470a1310" role="1" seniority_sort="1">
+                <display_name>Jacob Barandes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

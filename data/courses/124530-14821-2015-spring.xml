@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124530" class_number="14821" school_id="fas" section="01" term_code="spring">
+        <catalog_info>
+            <title short_title="CHNSLIT 115">Gender and Power in Chinese Literature: Seminar</title>
+            <description>Uses conceptions of gender and representations of women to examine shifting paradigms of virtues and vices, notions of rhetoric and agency, ideas about politics, power and historical explanations, and boundaries of supernatural realms and religious transcendence.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSLIT">Chinese Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e19610a1310" role="1" seniority_sort="1">
+                <display_name>Wai-Yee Li</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

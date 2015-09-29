@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156525" class_number="11461" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 330R">Teaching Workshop</title>
+            <description>This course serves as an introduction to teaching in Visual and Environmental Studies, as well as a forum for designing instruction. There will be an emphasis on discussions of hybrid methodologies between research and practice.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e17944a1310" role="1" seniority_sort="1">
+                <display_name>Carrie Lambert-Beatty</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

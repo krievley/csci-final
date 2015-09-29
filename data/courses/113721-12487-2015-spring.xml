@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113721" class_number="12487" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 171">Introduction to Stochastic Processes</title>
+            <notes>M., W., 2:30&amp;#8211;4, and weekly sections to be arranged.   </notes>
+            <prereq>Recommended: Statistics 110 or equivalent.</prereq>
+            <description>An introductory course in stochastic processes. Topics include Markov chains, branching processes, Poisson processes, birth and death processes, Brownian motion, martingales, introduction to stochastic integrals, and their applications.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e35908a1310" role="1" seniority_sort="1">
+                <display_name>S. C. Samuel Kou</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

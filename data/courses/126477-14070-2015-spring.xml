@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126477" class_number="14070" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="E-PSCI 261">Sea Level Change</title>
+            <notes> Given in alternate years.</notes>
+            <prereq>Recommended: Applied Mathematics 21a, b; Physics 11 (no longer offered),15, or Physical Sciences 12; or permission of instructor.</prereq>
+            <description>The physical processes responsible for sea level changes over time scales extending from hours to hundreds of millions of years. Long-term sea-level trends: geological observations, physical mechanisms and eustasy, dynamic topography. Sea-level change on an ice age Earth (glacial isostatic adjustment, GIA): observations, viscoelastic loading, mantle viscosity, the Last Glacial Maximum (LGM), interglacial sea-level change, ongoing GIA. Ocean tides: equilibrium and non-equilibrium effects, tidal dissipation. Modern global sea level change: tide gauge and geodetic observations, ice melting and thermal expansion, closing the sea-level budget, sea-level fingerprinting.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e24132a1310" role="1" seniority_sort="1">
+                <display_name>Jerry Mitrovica</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121954" class_number="14861" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 125">Beyond Dualism: Descartes on Human Nature (Proseminar)</title>
+            <description>Descartes is often associated with mind-body dualism, skepticism about the senses, and intellectual rationalism.&amp;nbsp; We&amp;rsquo;ll explore a less familiar side of Descartes:&amp;nbsp; his account of human nature centers on the union of mind and body and casts the senses and passions as critical guides to human life and action.&amp;nbsp; We will then explore the views of some important period critics of Cartesian dualism, including Princess Elizabeth of Bohemia, Margaret Cavendish, Anne Conway, and Mary Astell.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e69548a1310" role="1" seniority_sort="1">
+                <display_name>Alison Simmons</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

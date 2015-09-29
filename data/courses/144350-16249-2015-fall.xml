@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144350" class_number="16249" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 100HFA">Engineering Design Projects</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Ordinarily taken in the senior year. Enrollment is conditional on the student having an approved project before May 1 in the spring semester preceding actual enrollment. Formal project approval rests with ES100 teaching staff. Weekly lectures (fall only) and one hour sections (throughout the year) are mandatory."</notes>
+            <prereq>Recommended: *Engineering Sciences 96.</prereq>
+            <description>Individual engineering design projects which demonstrate mastery of engineering knowledge and techniques. During the year, each student will pursue an appropriate capstone project which involves both engineering design and quantitative analysis and culminating in a final oral presentation and final report/thesis.&amp;nbsp; Students must complete both parts of this course, fall and spring, in order to receive credit.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Pierce 301 (SEAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e252120a1310" role="1" seniority_sort="1">
+                <display_name>Woodward Yang</display_name>
+            </person>
+            <person id="d1e252123a1310" role="1" seniority_sort="2">
+                <display_name>Robert Wood</display_name>
+            </person>
+            <person id="d1e15291a1310" role="2" seniority_sort="3">
+                <display_name>Christopher Lombardo</display_name>
+            </person>
+            <person id="d1e14629a1310" role="2" seniority_sort="4">
+                <display_name>Patrick Ulrich</display_name>
+            </person>
+            <person id="d1e252132a1310" role="2" seniority_sort="5">
+                <display_name>Daniela Faas</display_name>
+            </person>
+            <person id="d1e252135a1310" role="2" seniority_sort="6">
+                <display_name>Anas Chalah</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

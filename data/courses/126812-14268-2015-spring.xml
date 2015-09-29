@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126812" class_number="14268" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TDM 131">Directing Lab</title>
+            <notes> Enrollment determined by short interview to be conducted on the first day of class.</notes>
+            <description>This class is designed for students interested in expanding their understanding of directing for theater. The course will focus on the work of American experimental theater artists from the 1960's to the present, examining the various ways avant-garde directors and ensembles have experimented with form to seek out radical new modes of storytelling. Students will create work inspired by the artists and productions studied, applying theory to practice in rehearsals and presentations.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e374715a1310" role="1" seniority_sort="1">
+                <display_name>Shira Milikowsky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

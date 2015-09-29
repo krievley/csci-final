@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127948" class_number="14782" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1405">American Legal History, 1776-1865</title>
+            <exam_group>FAS01_B</exam_group>
+            <notes> Offered jointly with the Law School as 2163. This course will meet at the Harvard Law School.  The enrollment limit for FAS students is 15.</notes>
+            <description>This course will trace the development of the American legal and political system from 1776 to 1865. We will discuss the formation of state constitutions and the Federal Constitution, slavery and law, the development of American private law, the "Revolution of 1800" and the "Age of Jefferson", the mechanisms of westward expansion, the "Age of Jackson", and the coming of the Civil War.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Wednesday" end_time="11:59:00" location="" start_time="10:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e37351a1310" role="1" seniority_sort="1">
+                <display_name>Annette Gordon-Reed</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

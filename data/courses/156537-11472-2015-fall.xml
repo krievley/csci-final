@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156537" class_number="11472" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 61G">French Grammar and Phonetics</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Conducted in French. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Students may take no more than two courses at the 60 level.</notes>
+            <prereq>Recommended: French 50 or another French course at the 50 level; 751-780 on the SAT II or the Harvard placement test; or permission of course head.</prereq>
+            <description>This course is designed for students who wish to refine their command of French grammar and pronunciation before enrolling in upper-level French classes. The course provides an intensive review of French grammar in its various written and spoken contexts, as well as an introduction to French phonetics. Students studying stylistic differences between French and English, the rules of written French grammar, the conventions of spoken French, and the correspondence between written forms and their pronunciation.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Boylston 105 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e67312a1310" role="1" seniority_sort="1">
+                <display_name>Stacey Bourns</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

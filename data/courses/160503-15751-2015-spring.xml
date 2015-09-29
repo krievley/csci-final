@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160503" class_number="15751" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 283">Sources and Methods in the History of Technology</title>
+            <description>Intended for graduate students, this seminar provides a comprehensive introduction to the field of history of technology and surveys its canonical works. Readings by authors like Thomas Hughes, Jennifer Light, and Fred Turner will explore the evolving histories of industrialization, computing, military and aerospace technologies, gender and technology, and other areas of student interest. Students will also gain experience working with primary sources, including archival documents, oral histories, popular media, memoirs, and material culture. At the conclusion of the term, each student will prepare a research prospectus suitable for a grant application or future work in the field.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e94450a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Hersch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

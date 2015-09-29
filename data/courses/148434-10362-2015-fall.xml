@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148434" class_number="10362" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 51">Computer-Aided Machine Design</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes> Intended for freshmen and sophomores.</notes>
+            <prereq>Recommended: High school calculus; high school physics.</prereq>
+            <description>A first course in the design and construction of mechanical and electromechanical devices. Engineering graphics and sketching; dimensions and tolerances. Introduction to materials selection and structural design. Machine elements and two-dimensional mechanisms; DC motors. Design methodology. Emphasis on laboratory work and design projects using professional solid modeling CAD software and numerically controlled machine tools.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Pierce 209 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e252132a1310" role="1" seniority_sort="1">
+                <display_name>Daniela Faas</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

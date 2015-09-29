@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127817" class_number="14012" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98NB">Inequality and Social Mobility in America</title>
+            <exam_group>FAS05_D</exam_group>
+            <notes> This course will be lotteried.</notes>
+            <description>The United States is currently experiencing high levels of income and wealth inequality and stagnant social mobility. This course will ask why this is and what, if anything, should be done about it. We will consider both social and individual explanations for inequality and social mobility, and we will examine efforts to decrease inequality and increase social mobility through educational and legal means.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="William James 350 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e220852a1310" role="1" seniority_sort="1">
+                <display_name>Anya Bassett</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

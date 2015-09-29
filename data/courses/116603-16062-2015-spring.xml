@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116603" class_number="16062" school_id="fas" section="005" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 3001">Reading for General Examination</title>
+            <notes> Restricted to candidates for the PhD degree and ordinarily to those who have completed at least one year in residence.</notes>
+            <description>Individual reading in preparation for the General Examination for the PhD degree.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e46012a1310" role="1" seniority_sort="1">
+                <display_name>Lucien Castaing-Taylor</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110312" class_number="10938" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2099">Market Design</title>
+            <exam_group>FAS05_C</exam_group>
+            <prereq>Recommended: Students are recommended to have prior graduate or advanced undergraduate course work in at least one of algorithms, game theory, or microeconomics.</prereq>
+            <description>This course explores the theory and practice of market design. Key topics include auctions, labor market matching, school choice programs, online markets, organ exchange systems, financial market design, and matching with contracts.&amp;nbsp; The first half of the course will introduce market design and its technology; subsequent weeks will discuss recent papers alongside their classical antecedents.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="18:59:00" location="Littauer Ctr M17 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e134909a1310" role="1" seniority_sort="1">
+                <display_name>Scott Kominers</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

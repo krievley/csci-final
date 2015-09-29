@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156343" class_number="14677" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 90HV">When Harlem Was in Vogue: Seminar</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>This course will examine the aesthetics and politics of the first Modern African American cultural movement, known today as the Harlem Renaissance. In our readings of key literary texts by authors such as Alain Locke, Jessie Fauset, Zora Neale Hurston, Eric Walrond, Langston Hughes, Claude McKay, Nella Larsen, and Jean Toomer, we will discuss both the national and global contexts of so-called "New Negro Writing" and focus on debates surrounding representation, "respectability" and racial authenticity.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Sever 105 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e61546a1310" role="1" seniority_sort="1">
+                <display_name>Marina Bilbija</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

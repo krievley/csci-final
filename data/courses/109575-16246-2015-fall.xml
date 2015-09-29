@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109575" class_number="16246" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 23Y">All Physics in 13 Days</title>
+            <exam_group>FAS06_E</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar will introduce 13 key pieces of knowledge about our physical world: 1) Boltzmann factor and thermal equilibrium, 2) Turbulence, 3) Reaction rates, 4) Indistinguishable particles, 5) Quantum waves, 6) Linearity, 7) Entropy and information, 8) Discharges, ionization, 9) Relativity, 10) Nuclear binding energies, 11) Photon modes, 12) Diffraction, 13) Resonance. Each week we will discuss one of these principles and see how we might gain an understanding of our physical and technological world.&amp;nbsp;</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="21:14:00" location="Lyman 123 (FAS)" start_time="19:15:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e2271a1310" role="1" seniority_sort="1">
+                <display_name>John Doyle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

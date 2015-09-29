@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107821" class_number="10365" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1400">The Future of Globalization: Issues, Actors, and Decisions</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>Lawrence H. Summers (University Professor; Economics) and Robert Z. Lawrence (Harvard Kennedy School)  Jointly offered with the Kennedy School as ITF-225. This course, when taken for a letter grade, meets the General Education requirement for Societies of the World.</notes>
+            <prereq>Recommended: Ec 10a, or equivalent economics background, or permission of instructor.</prereq>
+            <description>What is the right balance between national sovereignty and international integration? Is the US equipped to sustain its role as a global leader? Should we regulate multi-national companies who move their factories to countries with lower labor standards? How should the IMF respond to financial crises in Europe and the developing world? How will the rise of China affect global inequality? These are all questions posed by globalization. This course uses basic economic logic to illuminate the choices faced by businesses, governments, international institutions and citizens as the global economy evolves. Policy issues are debated in class by the professors and students play the role of public and private actors in simulation exercises in order to experience the importance of the decisions made by individual actors for the evolution of the global system.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Art Museums Menschel Hall" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e19759a1310" role="1" seniority_sort="1">
+                <display_name>Lawrence H. Summers</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

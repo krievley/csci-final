@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110684" class_number="14319" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APMTH 205">Advanced Scientific Computing: Numerical Methods</title>
+            <exam_group>FAS01_A</exam_group>
+            <prereq>Recommended: Familiarity with linear algebra and calculus; basic programming knowledge at the Computer Science 50 level.</prereq>
+            <description>An examination of the mathematical foundations of a range of well-established numerical algorithms, exploring their use through practical examples drawn from a range of scientific and engineering disciplines. Emphasizes theory and numerical analysis to elucidate the concepts that underpin each algorithm. There will be a significant programming component. Students will be expected to implement a range of numerical methods through individual and group-based project work to get hands-on experience with modern scientific computing.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="60 Oxford St 330" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e67023a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Rycroft</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

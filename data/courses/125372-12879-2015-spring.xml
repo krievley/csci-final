@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125372" class_number="12879" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2410A">Topics in Macroeconomics</title>
+            <description>Investigates the effect of financial market imperfections on aggregate investment and asset prices. Topics include financial persistence and amplification mechanisms, fire sales and limits to arbitrage, leverage cycles, asset price bubbles, financial fragility and financial contagion.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e45263a1310" role="1" seniority_sort="1">
+                <display_name>Robert Barro</display_name>
+            </person>
+            <person id="d1e60617a1310" role="2" seniority_sort="2">
+                <display_name>Emmanuel Farhi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

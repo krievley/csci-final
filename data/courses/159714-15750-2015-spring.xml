@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159714" class_number="15750" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 295">Rhetoric: Disciplines of Persuasion (Graduate Seminar in General Education)</title>
+            <notes> The seminar will design and develop a General Education course on these themes for undergraduates. Open to undergraduates with permission of the instructor.</notes>
+            <description>Examines rhetoric from Aristotle to the present. Addresses rhetoric in literature, philosophy, science, statistics, politics, journalism, art, film, and digital media. Explores how we communicate to and with one another, how we construct and present arguments, how we persuade and are persuaded. Seeks to understand better the rhetoric we use and to which we are subjected as well as the fact that we regularly use and are subjected to rhetoric.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e125357a1310" role="1" seniority_sort="1">
+                <display_name>Peter Burgard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

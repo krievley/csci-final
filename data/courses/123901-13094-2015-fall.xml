@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123901" class_number="13094" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TDM 114">Practical Aesthetics</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Enrollment will be determined by lottery at the first class meeting.</notes>
+            <prereq>Recommended: Dramatic Arts course in Acting, previous study in Practical Aesthetics, or extensive undergraduate performance experience.</prereq>
+            <description>Practical Aesthetics Acting Technique was developed by playwright David Mamet and actor William H. Macy, based on the work of the American acting teacher Sandford Meisner and the Russian acting teacher Konstantin Stanislavski. In this course, students will focus on rigorous text analysis combined with emphasis on enhancing the actor's spontaneity through training in Meisner's "Repetition Exercise." Students will do scene work drawn from a wide selection of plays.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Loeb Drama Ctr C (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e155527a1310" role="1" seniority_sort="1">
+                <display_name>Scott Zigler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

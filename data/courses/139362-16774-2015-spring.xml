@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="139362" class_number="16774" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 120">Games - Tricks, Puns and Ploys in Literature and Culture</title>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e223032a1310" role="1" seniority_sort="1">
+                <display_name>Cecile Guedon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

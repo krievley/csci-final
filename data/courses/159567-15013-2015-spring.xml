@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159567" class_number="15013" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 1300">Evolutionary Origins of the Human Mind</title>
+            <notes> In addition to the weekly lectures, students will be required to attend a weekly one-hour-long discussion section.</notes>
+            <prereq>Recommended: Students wishing to enroll in this course must have completed at least one of the following courses: Human Evolutionary Biology 1329, Human Evolutionary Biology 1330, Science of Living Systems 15, Science of Living Systems 20</prereq>
+            <description>Human behavior is strikingly different from other animals: we speak languages, create tools, work together on large-scale endeavors, and even learn from others in university classrooms. What cognitive processes underlie these behaviors, and how did they emerge? In this course, we will examine the evolutionary origins of human cognition, with an eye to identifying what human psychological capacities are unique versus shared with other species.&amp;nbsp; To do so, we will integrate theoretical perspectives from biology concerning the evolution of intelligent behavior, with current empirical research from comparative psychology. Topics will include: social cognition, communication, inhibitory control, and memory and planning, with a focus on humans and other primates.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e113521a1310" role="1" seniority_sort="1">
+                <display_name>Alexandra Rosati</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

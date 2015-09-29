@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146017" class_number="14093" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 194">Laboratory Techniques in Ecological Physiology</title>
+            <prereq>Recommended: Concurrent or previous enrollment in OEB 191, or instructor approval.</prereq>
+            <description>An introduction to laboratory techniques in experimental physiology, this course will utilize a variety of equipment and several model organisms to empirically investigate foundational concepts in physiological and biochemical adaptation. Labs will complement and extend topics discussed in the companion class, OEB191. After demonstrating proficiency with core techniques, students will design independent research projects to explore novel questions in ecological physiology.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e265617a1310" role="1" seniority_sort="1">
+                <display_name>Peter Girguis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

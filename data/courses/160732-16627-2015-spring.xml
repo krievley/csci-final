@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160732" class_number="16627" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST-LIT 90CB">Early American Environments</title>
+            <description>This course explores the multiple meanings of North America&amp;rsquo;s wild areas to its early American denizens by studying the fictional and nonfictional texts these landscapes have inspired. By studying writers from different social classes (from statesmen to enslaved people), we will pay particular attention to the role a writer&amp;rsquo;s social position played in the way she/he responded to and wrote about the American wilderness. We will pose these questions to a range of early American genres&amp;mdash;sermons, memoirs, natural histories, novels, and newspapers&amp;mdash;as we seek to understand the manifold and conflicting meanings of the &amp;ldquo;central fact&amp;rdquo; of American experience.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e388266a1310" role="1" seniority_sort="1">
+                <display_name>Lynne Feeley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

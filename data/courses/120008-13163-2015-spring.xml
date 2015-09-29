@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120008" class_number="13163" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GENETIC 376">Cell Cycle Control and Genomic Integrity</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e13038a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Elledge</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

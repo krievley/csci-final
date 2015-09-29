@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159654" class_number="14712" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1914">The History of Environmental Activism</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>Why do some human beings step forward to defend the non-human? It has been unusual, in human history, to express concern for the non-human parts of nature; to do something politically relevant with that concern is rarer still.&amp;nbsp; In this class, we will examine the history of why and how people have done both.&amp;nbsp; We will trace the origins of environmental ideas, broadly defined, and then the historical processes by which activism on behalf of the environment has become part of national and global cultures.&amp;nbsp; As well, we will analyze different media and modes for expressing environmentalist action, as they have developed over time.&amp;nbsp; And we will interrogate the character and role of the activist.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Robinson LL Library (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e37126a1310" role="1" seniority_sort="1">
+                <display_name>Joyce Chaplin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

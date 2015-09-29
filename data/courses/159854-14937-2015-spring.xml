@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159854" class_number="14937" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 99B">Senior Tutorial</title>
+            <notes> Taught by Rachel Meyer and members of the department.
+Limited to concentrators, ordinarily seniors. In addition, students of Sociology 99 may also participate in an optional, regularly scheduled weekly group seminar for consultation and discussion about choice of problems, possible data, and research procedures.</notes>
+            <prereq>Prerequisite: Sociology 98 AND Sociology Concentrators.</prereq>
+            <description>Supervision of theses or other honors projects. &amp;nbsp;Part two of a two part series.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e100277a1310" role="1" seniority_sort="1">
+                <display_name>Rachel Meyer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

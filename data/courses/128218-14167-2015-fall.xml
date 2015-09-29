@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128218" class_number="14167" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FOLKMYTH 96R">Senior Projects</title>
+            <notes>Stephen Mitchell and members of the Committee  Designed for seniors completing their (non-thesis) senior project to meet the requirement for the concentration's senior project option. Students must secure the written approval for the project from the faculty member with whom they wish to work as well as the signature of the Head Tutor. May be repeated with the permission of the Head Tutor.</notes>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

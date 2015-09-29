@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123212" class_number="13747" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 132">Topology II: Smooth Manifolds</title>
+            <prereq>Recommended: Mathematics 23a,b or 25a,b or 55a,b or 112; or an equivalent background in mathematics.</prereq>
+            <description>Differential manifolds, smooth maps and transversality. Winding numbers, vector fields, index and degree. Differential forms, Stokes' theorem, introduction to cohomology.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e257512a1310" role="1" seniority_sort="1">
+                <display_name>Michael Hopkins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

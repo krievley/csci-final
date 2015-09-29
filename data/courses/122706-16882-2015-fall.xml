@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122706" class_number="16882" school_id="fas" section="030" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 398">Reading and Research</title>
+            <notes> Permission of the instructor and the Director of Graduate Studies is required for enrollment.</notes>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e75445a1310" role="1" seniority_sort="1">
+                <display_name>Laurence Ralph</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

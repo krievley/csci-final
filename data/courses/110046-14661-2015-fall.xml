@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110046" class_number="14661" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 241">New Media Theory</title>
+            <exam_group>FAS18_H</exam_group>
+            <notes> This course has an additional weekly film screening, Tuesdays, 1pm-3pm.</notes>
+            <description>A graduate course that surveys new developments in media theory and provides an overview of advanced approaches to the study of media. We will look at different schools and streams of thought that productively expand and transform the established corpus of media theory, ranging from cultural technologies, media archaeology, and object studies to non-representational theory, actor network theory, and process philosophy. Two research projects will further advance our critical survey of new media theory.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="Sever 411 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18300a1310" role="1" seniority_sort="1">
+                <display_name>Laura Frahm</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128171" class_number="14151" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CELLBIO 365">Mechanism and Biology of Ubiquitin-like Protein Conjugation Cascades</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e222500a1310" role="1" seniority_sort="1">
+                <display_name>Wade Harper</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

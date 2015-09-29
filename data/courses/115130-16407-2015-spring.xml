@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115130" class_number="16407" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 97">Tutorial in Sociological Theory</title>
+            <notes>Required first organizational meeting on Monday, January 25, 2016, 4-5pm  Required of concentrators, ordinarily sophomores, and secondary concentrators.</notes>
+            <description>Provides a critical understanding of selected classical and contemporary theorists, including Marx, Durkheim, Weber, Simmel, Parsons, Coleman, Collins, Bourdieu, and an up-to-date selection of avant-garde theory.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e80941a1310" role="1" seniority_sort="1">
+                <display_name>Robert Sampson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

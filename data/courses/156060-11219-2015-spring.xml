@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156060" class_number="11219" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 1">1000 Years of Listening</title>
+            <notes> May not be taken for concentration credit. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>This course aims to introduce you to a variety of music, and a range of ways of thinking, talking and writing about music. The majority of music dealt with will be drawn from the so-called "Classical" repertory, from the medieval period to the present day, including Monteverdi, Bach, Handel, Mozart, Beethoven, Schumann, and Schoenberg. Class will explore the technical workings of music and together we will build a vocabulary for analyzing music and articulating a response to it; we will explore music as a cultural phenomenon. By the end of class, students will be equipped to embark on a lifetime of informed listening.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e61783a1310" role="1" seniority_sort="1">
+                <display_name>Emily Dolan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

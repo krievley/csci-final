@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160548" class_number="15991" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1834">Contemporary Voices in Islam in the West</title>
+            <description>The 21st&amp;nbsp;century has produced a vibrant literature by western Muslims reflecting on issues in Islam in new, distinctively western ways in relation to gender and sexuality as well as other matters.&amp;nbsp; Our readings will include works by some of the most noted western Muslim contemporary leaders and intellectuals, among them Tariq Ramadan, Sherman Jackson, Ingrid Mattson, Reza Aslan and Amina Wadud.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e18150a1310" role="1" seniority_sort="1">
+                <display_name>Leila Ahmed</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

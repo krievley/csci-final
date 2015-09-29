@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112195" class_number="15371" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1818">Economics of Discontinuous Change</title>
+            <notes> Writing requirement: A research paper is required. This course meets the concentration writing requirement. Students should have some mathematical background, but there is no prerequisite.</notes>
+            <prereq>Recommended: Ec 10a and Ec 10b.</prereq>
+            <description>Explores discontinuous changes in the economic position of groups and countries and presents mathematical and computer simulation models designed to illuminate these changes. Examples include growth/decline of trade unions, segregation of groups, development of linkages on the internet, changes in corporate work culture, growth of social pathologies in neighborhoods, and Malthusian concerns about the environment. Models include nonlinear simulations, neural networks, finite automata, evolutionary stable strategies, causal conjunctures, agent-based simulations, and genetic algorithms.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e238309a1310" role="1" seniority_sort="1">
+                <display_name>Richard Freeman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

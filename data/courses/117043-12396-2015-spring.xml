@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117043" class_number="12396" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 97">Tutorial - Sophomore Year</title>
+            <notes> Required of concentrators.</notes>
+            <description>Introduction to methods and theories in the study of religion, including major themes and arguments that have defined the field. Course emphasizes critical thinking and writing skills.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e170393a1310" role="1" seniority_sort="1">
+                <display_name>Courtney Lamberth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159603" class_number="14729" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN 101">German Literature, Culture, and Society</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes> Readings and discussion in German.</notes>
+            <description>This course examines the major social-political trends and tensions that have informed literature and culture in the German-speaking countries. Students will develop the language skills to discuss, analyze, and interpret a variety of texts and cultural phenomena from the 18th to the 21st centuries, with special attention to social theory and political critique. Our readings and discussions are organized around pairs of thinkers from literary Realism and filmic representations to recent political editorials. We will put thinkers in dialogue with one another who address the same issues from a different time, angle, or place. Further emphasis is placed on the history of ideas and how it contributes to current issues and debates. Readings range from Goethe and Hegel through Benjamin and Brecht, Kafka and Jelinek, Arendt and Adorno.&amp;nbsp;&amp;nbsp;</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Boylston 104 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e198343a1310" role="1" seniority_sort="1">
+                <display_name>Dania Hueckmann</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

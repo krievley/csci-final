@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123590" class_number="12990" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 97">Sophomore Tutorial</title>
+            <notes> Required for concentrators in African and African American Studies. Open to all undergraduates.</notes>
+            <description>This course will examine the complexity of contemporary racial and ethnic experience in the United States, focusing on self-identified "mixed-race" groups and voluntary immigrant groups from Africa, Latin America, and the Caribbean (e.g. from Brazil, Cape Verde, Ethiopia, Haiti, Puerto Rico, and Nigeria). Interdisciplinary course readings will introduce key theoretical issues in the social sciences and humanities, such as cultural relativism, the social construction of race, class, gender, sexuality, and ethnicity, and the negotiation of identity in diaspora and minority settings. Assignments will include both written work and social engagement with local communities resulting in multimedia projects.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e133465a1310" role="1" seniority_sort="1">
+                <display_name>Eric Williams</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

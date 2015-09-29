@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121189" class_number="14467" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LIFESCI 1A">An Integrated Introduction to the Life Sciences: Chemistry, Molecular Biology, and Cell Biology</title>
+            <exam_group>FAS16_A</exam_group>
+            <notes> For more information about the assignment process, please see the course website in the fall. This course, in combination with Life Sciences 1b, constitutes an integrated introduction to the Life Sciences. This course, when taken for a letter grade, meets the General Education requirement in Science of Living Systems.</notes>
+            <description>What are the fundamental features of living systems? What are the molecules imparting them and how do their chemical properties explain their biological roles? The answers form a basis for understanding the molecules of life, the cell, diseases, and medicines. In contrast with traditional presentations of relevant scientific disciplines in separate courses, we take an integrated approach, presenting chemistry, molecular biology, biochemistry, and cell biology framed within central problems such as the biology of HIV and cancer.</description>
+            <department code="LSCI">Life Sciences</department>
+            <course_group code="LIFESCI">Life Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Science Ctr Hall B (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e270405a1310" role="1" seniority_sort="1">
+                <display_name>Robert Lue</display_name>
+            </person>
+            <person id="d1e153010a1310" role="2" seniority_sort="2">
+                <display_name>Susan Mango</display_name>
+            </person>
+            <person id="d1e116649a1310" role="2" seniority_sort="3">
+                <display_name>Daniel Kahne</display_name>
+            </person>
+            <person id="d1e270414a1310" role="2" seniority_sort="4">
+                <display_name>Richard Losick</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

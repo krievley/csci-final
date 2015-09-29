@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128041" class_number="14126" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 175">Glucose: From Molecule to Society</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes>M., W., at 11, and a lab component to be arranged   </notes>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 54; MCB 52 or permission of the instructor.</prereq>
+            <description>We will explore the biochemistry, cell biology, and physiology that make glucose our main source of energy. How did humans depend on and crave this molecule? What consequences does it hold for normal metabolism and disease? Students will integrate evolution, endocrinology, biostatistics, bioengineering, and regenerative biology approaches in considering sugar and all its consequences. Finally, we will evaluate legal and business issues necessary to move scientific and technical innovations from the laboratory to the patient.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Sherman Fairchild G62 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6427a1310" role="1" seniority_sort="1">
+                <display_name>Richard Lee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

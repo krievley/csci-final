@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125527" class_number="16263" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1410">American Families, 1600-1900</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>Family forms in the United States have varied widely over the centuries. This course will consider the radical innovations of 17th century Puritans, eighteenth-century Moravians, and nineteenth-century Mormons; the role of the family in debates over slavery, immigration, and the status of American Indians; and the impact of legal, economic, and social changes on mainstream ideals and practices. Students will work with a wide variety of family records as well as public documents and will have the option of writing about their own family history.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Emerson 101 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e36720a1310" role="1" seniority_sort="1">
+                <display_name>Laurel Ulrich</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

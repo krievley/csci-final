@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="134669" class_number="15399" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MEDVLSTD 201">The Auxiliary Disciplines of Medieval History: Proseminar</title>
+            <notes>Course will include group analysis of a medieval manuscript from the Houghton Library&amp;#39;s collection.  </notes>
+            <description>Familiarizes scholars in all areas of medieval studies with the research tools and techniques for advanced study of late antique and medieval evidence: Latin palaeography, codicology, hagiography, late Latin philology, late antique studies, numismatics, diplomatic.</description>
+            <department code="MDST">Medieval Studies</department>
+            <course_group code="MEDVLSTD">Medieval Studies</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38417a1310" role="1" seniority_sort="1">
+                <display_name>Michael McCormick</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

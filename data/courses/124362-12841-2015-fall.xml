@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124362" class_number="12841" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEMBIO 350">Chemical Biology Research</title>
+            <notes>Members of the Committee  </notes>
+            <description>Upper level Chemical Biology students register for this course when they permanently join a lab. Students should register under the supervising PI.</description>
+            <department code="CHBI">Chemical Biology</department>
+            <course_group code="CHEMBIO">Chemical Biology</course_group>
+            <course_type>Laboratory Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e116649a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Kahne</display_name>
+            </person>
+            <person id="d1e116646a1310" role="1" seniority_sort="2">
+                <display_name>Suzanne Walker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

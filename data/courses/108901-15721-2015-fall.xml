@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108901" class_number="15721" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1010A">Intermediate Microeconomics</title>
+            <exam_group>FAS06_A</exam_group>
+            <notes> Economics 1010a fulfills the intermediate microeconomic theory requirement for Economics concentrators. Students may take either Economics 1010a or Economics 1011a for credit. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: Economics 10 and Mathematics 1a or their equivalents.</prereq>
+            <description>The course introduces core microeconomic models of consumers, firms, and markets, and develops their application to a broad range of economic and social issues in the real world. Prerequisites for this course include&amp;nbsp;Economics 10 and Mathematics 1a or their equivalents.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Emerson 105 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e10868a1310" role="1" seniority_sort="1">
+                <display_name>Maxim Boycko</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

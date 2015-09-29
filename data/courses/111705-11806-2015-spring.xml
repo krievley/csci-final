@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111705" class_number="11806" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPC-CONC 98R">Tutorial - Junior Year</title>
+            <notes>Deborah Foster and members of the Committee  Successful completion two terms of *Special Concentrations 98r are ordinarily required of all honors concentrators in their junior year. Exceptions to this can only be granted with the consent of the Faculty Adviser and the Director of Undergraduate Studies of Special Concentrations.</notes>
+            <department code="SPCN">Special Concentrations</department>
+            <course_group code="SPC-CONC">Special Concentrations</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

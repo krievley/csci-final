@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159826" class_number="15487" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94AM">Border Politics: Migration, Detention, and Il/legality</title>
+            <exam_group>FAS15_D</exam_group>
+            <description>This course dwells in under-explored border spaces such as airport waiting zones, undocumented crossings, cross-border protests, and detention centers. US borders with Canada and M&amp;eacute;xico offer comparative platforms for discussion of border politics. Despite efforts to harmonize immigration and refugee/asylum policies, US residents and their neighbors to the north and south face distinct economic, cultural, historical, and political landscapes. Students will explore and interrogate border practices, policies, and struggles and debate contemporary migration politics.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="CGIS Knafel K109 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e209987a1310" role="1" seniority_sort="1">
+                <display_name>Alison Mountz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

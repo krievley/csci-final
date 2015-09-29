@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121703" class_number="13023" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2460">Health Economics Workshop</title>
+            <notes> May be taken for credit only by dissertation students writing a research paper. Offered jointly with the Kennedy School as SUP-951.</notes>
+            <description>Focuses on theory, econometric models, and public policy of health care. Frontier work in health economics presented and discussed by instructors and outside speakers.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e157846a1310" role="1" seniority_sort="1">
+                <display_name>David Cutler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

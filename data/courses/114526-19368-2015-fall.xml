@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114526" class_number="19368" school_id="fas" section="004" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN 182">Modern Drama</title>
+            <description>Examines modern drama from Ibsen to Jelinek, tracing its structural transformations and devoting particular attention to the changing relation between the dramatic text, the idea of theater, and the stage itself. Works by Ibsen, Schnitzler, Kaiser, Pirandello, Brecht, Ionesco, Artaud, Beckett, DÃ¼rrenmatt, Handke, Weiss, MÃ¼ller, Wilson, and Jelinek. No knowledge of German required. All readings and discussions in English; German concentrators read the majority of texts in the original.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>1</credits>
+        </catalog_info>
+    </course>
+</courses>

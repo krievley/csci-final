@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109135" class_number="11755" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HBTM 367">Control of Endothelial Cell Fate and Vascular Development by Fluid Mechanical Forces</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="HBTM">Human Biology and Translational Medicine</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e4360a1310" role="1" seniority_sort="1">
+                <display_name>Guillermo Garcia-Cardena</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

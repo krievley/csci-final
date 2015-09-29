@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156464" class_number="15320" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FOLKMYTH 153">South Asian Folklore</title>
+            <exam_group>FAS05_C</exam_group>
+            <description>This course exposes students to key issues and theoretical concerns in the study of South Asian folklore, both of the subcontinent and the South Asian diaspora. We will examine multiple genres of South Asian folklore through a variety of themes and modes of expression. The course will be divided into seven modules: an introduction to folklore and folklore studies; folklore and nationalism; oral epics; folktales; narrative and gender; folk songs and ballads; belief; and folk drama, dance and puppetry. By exploring this diverse array of South Asian expressive traditions, students will gain a greater understanding of both the fields of Folklore and South Asian Studies.</description>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="Warren 102 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e140787a1310" role="1" seniority_sort="1">
+                <display_name>Leah Lowthorp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

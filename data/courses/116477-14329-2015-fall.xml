@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116477" class_number="14329" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BCMP 200">Principles of Molecular Biology</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes> Offered jointly with the Medical School as BP 723.0.</notes>
+            <prereq>Recommended: Intended primarily for graduate students familiar with basic molecular biology or with strong biology/chemistry background.</prereq>
+            <description>An advanced treatment of molecular biology's Central Dogma. Considers the molecular basis of information transfer from DNA to RNA to protein, using examples from eukaryotic and prokaryotic systems. Lectures, discussion groups, and research seminars.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:14:00" location="" start_time="10:45:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e188891a1310" role="1" seniority_sort="1">
+                <display_name>Joseph John Loparo</display_name>
+            </person>
+            <person id="d1e13035a1310" role="2" seniority_sort="2">
+                <display_name>Dipanjan Chowdhury</display_name>
+            </person>
+            <person id="d1e24177a1310" role="2" seniority_sort="3">
+                <display_name>Stirling Churchman</display_name>
+            </person>
+            <person id="d1e98858a1310" role="2" seniority_sort="5">
+                <display_name>Johannes Walter</display_name>
+            </person>
+            <person id="d1e188903a1310" role="2" seniority_sort="6">
+                <display_name>Timur Yusufzai</display_name>
+            </person>
+            <person id="d1e188906a1310" role="2" seniority_sort="7">
+                <display_name>Melissa Leger-Abraham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

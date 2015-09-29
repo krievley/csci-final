@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160523" class_number="16185" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 355">Visualizing, Analyzing and Presenting Macromolecular Structures with PyMOL</title>
+            <description>PyMOL is one of the most popular software programs to display and explore high-resolution structures of macromolecules. It is readily used to create publication-quality figures, and movies and animations of structural information. In this course, you will learn the basics of PyMOL and be able to display, explore and present three-dimensional structures of macromolecules. With this basic training, you will be able to generate high-quality images and simple movies, and have the resources to learn more on your own to generate more complex displays.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e231433a1310" role="1" seniority_sort="1">
+                <display_name>Rachelle Gaudet</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

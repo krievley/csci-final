@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113716" class_number="12402" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 3000">Research Paper</title>
+            <notes>Members of the Department  Ordinarily, this course is taken during the spring term of the second year of graduate study.</notes>
+            <description>Intended to fulfill the Research Paper Requirement for the PhD degree in Economics.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

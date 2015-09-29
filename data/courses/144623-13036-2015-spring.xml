@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144623" class_number="13036" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 2650B">History and Theory of Social Anthropology: Proseminar</title>
+            <notes> Required of candidates for the PhD in Social Anthropology. Not open to undergraduates.</notes>
+            <description>Continuation of Anthropology 2650a.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="12:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e26836a1310" role="1" seniority_sort="1">
+                <display_name>Susan Greenhalgh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

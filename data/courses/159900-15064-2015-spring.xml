@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159900" class_number="15064" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 253">Sexualities</title>
+            <notes> Five undergraduates may be admitted to this course with instructor's permission.</notes>
+            <description>Despite the ubiquity of sexual imagery in contemporary Western popular culture, most people regard sexuality to be an intimate topic that concerns the drives, experiences and pleasures of individuals. In this course, we will examine the social and pluralistic character of sexual desires, meanings, practices and politics. We will begin with some of conceptual foundations that ground contemporary sociological studies of sexuality (Freud, Foucault, Kinsey, Lauman, Plummer, Rubin), as well as some thorny methodological debates. (Is there a history of sexuality? How do we measure sexuality?) We will then examine some of the key fields in the sociology of sexualities, including work on sexual identities and social movements, the relationship between institutional contexts and sexual behavior, and intersections with the sociology of race, gender, risk, health and regulation. In each of these discussions, students will explore the varied methodological approaches to these topics within sociology, as well as some of the disciplinary and cultural challenges to making sexuality a central object of intellectual inquiry.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e79376a1310" role="1" seniority_sort="1">
+                <display_name>Tey Meadow</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

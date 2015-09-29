@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119630" class_number="12769" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MOD-HEB 130A">Advanced Modern Hebrew I</title>
+            <exam_group>FAS08_J</exam_group>
+            <notes> Conducted in Hebrew. Not open to auditors. Offered jointly with the Divinity School as 4042.</notes>
+            <prereq>Recommended: Modern Hebrew 120A/120B sequence, or equivalent level of proficiency.</prereq>
+            <description>This course constitutes the third year of the Modern Hebrew language sequence. The course emphasizes the development of advanced proficiency in all skills. Readings include texts of linguistic and cultural complexity that cover contemporary Israeli literature and culture.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MOD-HEB">Modern Hebrew</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="Sever 111 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e97863a1310" role="1" seniority_sort="1">
+                <display_name>Irit Aharony</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115517" class_number="14690" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="KOREAN 150A">Readings in Cultural Studies</title>
+            <exam_group>FAS13_G</exam_group>
+            <notes>Two additional hours to be arranged.  </notes>
+            <prereq>Recommended: Korean 140b or equivalent.</prereq>
+            <description>Selected readings in contemporary Korean on topics in art, film, drama, and cultural studies, supplemented by selections from audio-visual media on traditional and current cultural events. After completion of Korean 150a and 150b, students are expected to be able to participate in most formal and informal conversations on practical, social, professional, and abstract topics and read with almost complete comprehension and at normal speed expository prose on unfamiliar subjects and a variety of literary texts.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="KOREAN">Korean</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Northwest Bldg B110 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e62470a1310" role="1" seniority_sort="1">
+                <display_name>Heeyeong Jung</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

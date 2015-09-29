@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125197" class_number="13723" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ETHRSON 12">Political Justice and Political Trials</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Criminal trials have served throughout history to enforce revolutionary change, to impose conformity and stifle dissent, or, alternatively, to advance democracy. Students examine trials in their historical and moral context to weigh such issues as who can prosecute; can crimes be defined after the fact; can punishing speech be justified? Cases include Socrates, Louis XVI, General Dyer, the Soviet purges, Nuremberg, Eichmann, American cold-war hearings, and today's international tribunals and truth commissions.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="ETHRSON">Ethical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e7198a1310" role="1" seniority_sort="1">
+                <display_name>Charles Maier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121738" class_number="16895" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1950">Intermediate Statistical Analysis in Psychology</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Required of doctoral students in Psychology.</notes>
+            <prereq>Recommended: Psychology 1900 or the equivalent.</prereq>
+            <description>This course offers intense, foundational exposure to psychological statistics, focusing heavily on analysis of variance (one-way, factorial, repeated-measures, mixed-model). Other topics include: exploratory data analysis, sampling distributions, null hypothesis significance testing, t-tests, fixed versus random effects, post hoc and planned comparisons, correlation, simple regression, the general linear model, chi-square tests, nonparametric statistics, confidence intervals, and meta-analysis.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:59:00" location="William James 105 (FAS)" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e150260a1310" role="1" seniority_sort="1">
+                <display_name>Patrick Mair</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

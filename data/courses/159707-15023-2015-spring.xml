@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159707" class_number="15023" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LIFESCI 50B">Integrated Science</title>
+            <notes> Life Sciences 50a and 50b when taken together for a letter grade fulfill the General Education requirements of Science of Living Systems, Science of the Physical Universe, and Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: High school calculus.</prereq>
+            <description>This is an intensive two-semester, double course that introduces the natural sciences as an integrated whole to students who have a very strong interest in science. Our goal is to teach students how to solve scientific problems by drawing methods and concepts from biology, chemistry, physics, and mathematics. The course uses examples from biology as an integrating theme, principles from physics and mathematics to reduce complex problems to simpler forms, and computer simulation to allow students to develop their intuition about the behavior of the dynamical systems that control the physical and biological universe. The course includes bootcamps to introduce students to biological experiments and the computer language, Matlab. Each semester will include a project lab, in which students will work in small teams to do original research on unsolved biological problems.Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="LSCI">Life Sciences</department>
+            <course_group code="LIFESCI">Life Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>16</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e129667a1310" role="1" seniority_sort="1">
+                <display_name>Andrew W. Murray</display_name>
+            </person>
+            <person id="d1e215740a1310" role="1" seniority_sort="2">
+                <display_name>Michael Desai</display_name>
+            </person>
+            <person id="d1e224254a1310" role="1" seniority_sort="3">
+                <display_name>Cassandra Extavour</display_name>
+            </person>
+            <person id="d1e15921a1310" role="1" seniority_sort="4">
+                <display_name>Benjamin de Bivort</display_name>
+            </person>
+            <person id="d1e112416a1310" role="1" seniority_sort="5">
+                <display_name>Erel Levine</display_name>
+            </person>
+            <person id="d1e224263a1310" role="1" seniority_sort="6">
+                <display_name>Mary Wahl</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112349" class_number="11692" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 21W">Research at the Harvard Forest: Global Change Ecology-Forests, Ecosystem Function, the Future</title>
+            <notes>Open to Freshmen only. Four weekends at the Harvard Forest in Petersham, MA (Fri, 3pm-Sun, late afternoon) dates TBA. Transportation, accommodations, and meals at the Harvard Forest will be provided.   Harvard Forest, Petersham, MA --4 weekend-long field trips, TBD   Four weekends at the Harvard Forest in Petersham, MA (Fri, 3pm-Sun, late afternoon) dates TBA. Transportation, accommodations, and meals at the Harvard Forest will be provided.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course explores state-of-the-art research, tools and measurements used to investigate and predict climate change through ongoing studies at the Harvard Forest's 3,500 acre outdoor laboratory in Petersham, MA. The seminar consists of four weekend-long field trips (Friday evening-Sunday) to the Harvard Forest and a final on-campus meeting. Students develop skills for evaluating, discussing, and presenting the ecological evidence for climate change, including feedbacks between forests and the atmosphere and long-term impacts on forest ecosystems.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e412695a1310" role="1" seniority_sort="1">
+                <display_name>David Foster</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

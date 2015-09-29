@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159902" class_number="15213" school_id="fas" section="01" term_code="fall">
+        <catalog_info>
+            <title short_title="CHNSHIS 201">Intellectual Debates in China Today</title>
+            <exam_group>FAS08_G</exam_group>
+            <notes> Readings will be in Chinese and English.</notes>
+            <description>The seminar explores different positions that well-known intellectuals are taking around three larger issues: political systems, culture, and individual values/morality. In each area we will look at the divergent arguments that are being advanced and how intellectuals locate themselves in the context of China&amp;rsquo;s recent intellectual past and, in some cases, China&amp;rsquo;s intellectual history since ancient times. The undercurrent is the problem of what a &amp;ldquo;Chinese&amp;rdquo; identity can be in a global context and whether it is necessary. There will be a combination of common readings to establish issues and individual reports on particular figures and writings.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSHIS">Chinese History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Barker 211 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e28308a1310" role="1" seniority_sort="1">
+                <display_name>Peter K. Bol</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

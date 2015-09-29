@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160718" class_number="17364" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 176">World Literature, Postcolonial Studies, Francophonie and Creolization: Reading in Context</title>
+            <exam_group>FAS08_G</exam_group>
+            <notes>This course complements the jointly listed Wellesley Coll./Harvard University course (French 182) taught at the Wellesley Newhouse Humanities Center on Tuesday evening 6-8 pm. But participation in the joint Wellesley/Harvard course, although recommended, is NOT a requirement for enrollment in this course.  This course is taught in English, but students specializing in French will have a session in French and write their papers in French.</notes>
+            <description>This course provides an overview of major trends in Francophone and postcolonial studies thatcorrelate with the field of world literature/litt&amp;eacute;rature-monde.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Boylston 403 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43325a1310" role="1" seniority_sort="1">
+                <display_name>Francoise Lionnet</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

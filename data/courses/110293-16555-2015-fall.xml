@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110293" class_number="16555" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 134X">How Sweet is it to be Loved By You: Black Love and the Emotional Politics of Respect</title>
+            <exam_group>FAS09_B</exam_group>
+            <description>The word `Love' is almost never used in any portrayal or description of the African American community's daily life in contemporary media and in the social sciences. But in fact, Love, in all its many forms, familial, erotic, romantic, fraternal, is abundant, sometimes dominant, in Black culture: song, film, literature. This course will review and analyze the social science literature on intersubjectivity, family, language and ritual and closely read, watch and listen to some of the many Black artists who have looked deeply at this thing called Love.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="104 Mount Auburn St 201 (HKS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e75353a1310" role="1" seniority_sort="1">
+                <display_name>Marcyliena Morgan</display_name>
+            </person>
+            <person id="d1e55983a1310" role="1" seniority_sort="2">
+                <display_name>Jamaica Kincaid</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

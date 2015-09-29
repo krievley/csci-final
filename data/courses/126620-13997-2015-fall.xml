@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126620" class_number="13997" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1052">The Application of fMRI in Cognitive Neuroscience Research</title>
+            <exam_group>FAS12_E</exam_group>
+            <notes> Open to graduate students and advanced undergraduates with permission of instructor.</notes>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18, Science of Living Systems 15, or MCB 80 before enrolling in this course.</prereq>
+            <description>Functional magnetic resonance imaging (fMRI) is one of the most widely used methods in cognitive neuroscience research. In this course, students will learn the basics of fMRI research and gain hands-on experience in conducting fMRI experiments. In the first part of the course, students will have an overview of the fMRI methods, including how fMRI works, basic designs of fMRI experiments, fMRI data collection, analysis and interpretation, and current applications of fMRI in cognitive neuroscience research. In the second part of the course, students will design and conduct fMRI experiments and analyze fMRI data.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="William James 765 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e87894a1310" role="1" seniority_sort="1">
+                <display_name>Yaoda Xu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

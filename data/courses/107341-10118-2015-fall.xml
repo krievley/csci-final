@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107341" class_number="10118" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="US-WORLD 35">Dilemmas of Equity and Excellence in American K-12 Education</title>
+            <exam_group>FAS08_J</exam_group>
+            <notes>See the course website for more details about the lottery process for this course.&amp;nbsp;  </notes>
+            <description>Events such as Teach for America's 20th anniversary and films like Waiting for Superman highlight urgent concerns about the quality and reach of American schooling in the 21st century. Against this backdrop, the course grapples with several dilemmas that have defined American K-12 education throughout history. What constitutes educational excellence? Can excellence be achieved for everyone? Why do we have schools and what is their purpose? Given that families, politicians, and the courts often disagree vehemently about the answers to these questions, the course considers who and what will define the future of American education and its role in society.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="US-WORLD">United States in the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Larsen 106 (HGSE)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e22555a1310" role="1" seniority_sort="1">
+                <display_name>Katherine K. Merseth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

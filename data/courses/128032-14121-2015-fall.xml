@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128032" class_number="14121" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SYSTBIO 303QC">Dynamic and Stochastic Processes in Cells 1</title>
+            <notes>Tu., Th., 10-11:30, and a weekly section to be arranged   Tuesday September 3, 2013-Thursday, October 10, 2013. Students enrolled in SystBio303qc can never enroll in SystBio304qc.</notes>
+            <prereq>Recommended: College-level calculus.</prereq>
+            <description>We will examine how the some of the key requirements of living systems are implemented at the molecular level and how quantitative experimental methods and mathematical analysis can help us understand them.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+    </course>
+</courses>

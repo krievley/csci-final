@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125838" class_number="13676" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GENETIC 219">Inheritance and Weird Stuff</title>
+            <prereq>Recommended: Primarily for first-year graduate students, but is open to medical students and advanced undergraduates. A basic understanding of genetics recommended.</prereq>
+            <description>Focus on patterns of inheritance, including those that were once considered extraordinary but are now recognized as paradigms spanning fungi to humans. Expectations: questions, ideas, conversation during class. No tests, problem sets, or papers.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e108028a1310" role="1" seniority_sort="1">
+                <display_name>Chao-ting Wu</display_name>
+            </person>
+            <person id="d1e269028a1310" role="1" seniority_sort="2">
+                <display_name>Kami Ahmad</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

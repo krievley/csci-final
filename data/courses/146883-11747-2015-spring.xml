@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146883" class_number="11747" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 147">Philosophy of Language</title>
+            <description>Our language use lies at the intersection of our richly detailed, idiosyncratic point of view and the fact that we all use the same, shared language, grounded in part in our shared biology. Our language lies at the intersection of how we make sense of the world in a way that may be quite thoroughly detached from the world and the way that we speak about the world. This course looks at the tensions that arise as we try to understand how language can mediate all of these aspects of our lives. In other words, we&amp;#39;ll look at the relation between meaning and epistemic concerns, as well as the role that the world plays in constituting content. We&amp;#39;ll look at recent feminist work on language as our main case studies.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e44734a1310" role="1" seniority_sort="1">
+                <display_name>Bernhard Nickel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160727" class_number="17552" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BX">World War I in Fiction, Film, Poetry, and Memoir</title>
+            <exam_group>FAS12_G</exam_group>
+            <description>On the centenary of WWI, this seminar will explore a wide range of representations of the conflict that began in the Balkans but swept through Europe to the Middle East and Russia, to the Atlantic, Pacific, and Indian Oceans, to the Mediterranean, Baltic, and Black Seas, and drew in soldiers and civilians from Africa, Asia, and the Americas. By looking closely at materials across genres and cultural forms, we will examine the contradictions and contingencies of the war that set the stage for a century of political, social, and cultural history.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="Barker 133 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e97169a1310" role="1" seniority_sort="1">
+                <display_name>Lauren Kaminsky</display_name>
+            </person>
+            <person id="d1e63762a1310" role="1" seniority_sort="2">
+                <display_name>Steven Biel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

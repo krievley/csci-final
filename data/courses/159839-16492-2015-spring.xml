@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159839" class_number="16492" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 22D">Time for Sleep: Impact of sleep deficiency and circadian disruption in our 24/7 Culture</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>What is sleep? Why do we sleep? Why don&amp;#39;t we sleep? How much sleep do you need? What are circadian rhythms? How do technology and culture impact sleep? Evaluates the role of sleep and circadian timing in maintaining health, improving performance and enhancing safety. Explores causes and consequences of the epidemic of sleep disorders and deficiency in our society, with particular attention to impacts on brain (learning and memory, mood and cognition) and body (appetite and metabolism, hormones and heart) functions. Personal and public policy approaches to issues such as drowsy students, drowsy drivers and drowsy doctors will be addressed.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e100805a1310" role="1" seniority_sort="1">
+                <display_name>Charles Czeisler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

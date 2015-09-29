@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124313" class_number="12733" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1472">The Ethical and Religious Thought of Martin Luther King, Jr.</title>
+            <notes> Expected to be offered annually. Offered jointly with the Divinity School as 2721.</notes>
+            <description>A study of the life, thought, and actions of Martin Luther King, Jr. An ethical analysis of his primary concepts, ideas, and strategies based upon a reading and discussion of his writings and their sources.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e493502a1310" role="1" seniority_sort="1">
+                <display_name>Preston Williams</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

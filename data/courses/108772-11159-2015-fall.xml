@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108772" class_number="11159" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ITAL 262">About Time: Nostalgia, Apocalypse, and Change in Italian Culture</title>
+            <exam_group>FAS08_H</exam_group>
+            <notes> Conducted in Italian.</notes>
+            <description>Studies the development of the concept of time in modern thought, with examples drawn mostly from Italian literature. Readings include Galileo, Vico, Leopardi, Verga, Pirandello, Tomasi di Lampedusa, Buzzati.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:59:00" location="Boylston 335 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25963a1310" role="1" seniority_sort="1">
+                <display_name>Francesco Erspamer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

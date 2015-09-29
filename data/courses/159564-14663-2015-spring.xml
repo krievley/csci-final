@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159564" class_number="14663" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2325">The Political Thought of Hannah Arendt: Seminar</title>
+            <description>This graduate seminar examines the political thought of Hannah Arendt with some attention to biographical and historical-contextual conditions that shaped her work.Â&#160; We will begin with the early dissertation on Saint Augustine and the biography of Rachel Varnhagen, to the early reflections on totalitarianism and the later report on the Eichmann trial, along with a sustained examination of her major contributions to political theory, The Human Condition, On Revolution, and The Life of the Mind.Â&#160; Along the way we will consider major knots of interpretative controversy such as the banality of evil thesis, the question of Arendt&amp;rsquo;s intellectual debts to Heidegger, and Arendt&amp;rsquo;s contribution to Cold-War liberalism.Â&#160; The course will be limited to twelve students and will require some familiarity with political theory, political philosophy, and/or intellectual history.Â&#160; Visiting lectures by several major scholars of Arendt&amp;rsquo;s work will be scheduled throughout the semester (outside of regular course times).</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e37396a1310" role="1" seniority_sort="1">
+                <display_name>Peter Gordon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

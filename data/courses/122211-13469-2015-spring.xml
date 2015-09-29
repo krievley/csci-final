@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122211" class_number="13469" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SYSTBIO 201">Principles of Animal Development from a Systems Perspective</title>
+            <description>Intensive and critical analysis of systems approaches to circuits and principles controlling pattern formation and morphogenesis in animals. Students develop their own ideas and present them through mentored "chalk talks" and other interactive activities.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

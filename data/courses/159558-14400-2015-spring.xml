@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159558" class_number="14400" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SLAVIC 142">Russian and Soviet Avant-Garde Theater</title>
+            <description>Explores the wave of radical reforms and revolutions in drama, staging and acting methods and systems, from Anton Chekhov and Konstantin Stanislavsky to Vladimir Mayakovsky and Vsevolod Meyerhold. Examines plays and productions against the broader Russian and early Soviet cultural, political and social background. Key notions include: emotional memory, biomechanics, Constructivism, theatricalization of life. Follows the effects innovative theories and practices in Russian and Soviet theater had on the style of film and stage productions as well as theater and drama studies across Europe and in the United States, including Brecht&amp;rsquo;s Verfremdung, Method acting, and performance theory.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e54249a1310" role="1" seniority_sort="1">
+                <display_name>Daria Khitrova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

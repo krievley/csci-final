@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="135062" class_number="15029" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="LATIN H">Introductory Latin Prose Composition</title>
+            <exam_group>FAS17_A</exam_group>
+            <prereq>Recommended: Latin Ba or equivalent.</prereq>
+            <description>Practice in the translation of sentences and connected prose passages from English into Latin, with review of Latin syntax.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="Boylston 237 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e93414a1310" role="1" seniority_sort="1">
+                <display_name>Carlo Vessella</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122177" class_number="19217" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LATIN AC">Review and Reading</title>
+            <notes> No auditors. May be taken Pass/Fail.</notes>
+            <description>For students with more than one year of formal training in Latin who do not place into Latin Ba. The course will combine a review of morphology and syntax with readings from prose authors. Students are prepared for Latin Ba or Bb.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

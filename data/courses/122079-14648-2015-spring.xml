@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122079" class_number="14648" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 270">Proseminar in Film and Visual Studies: History</title>
+            <notes> Required of all Film and Visual Studies graduate students, as well as graduate students intending to declare a secondary field in Film and Visual Studies. This course has an additional weekly film screening, Fridays 1pm to 4pm.</notes>
+            <description>Considers film history and the relations between film and history as well as pertinent theoretical approaches to historiography. Critical readings of exemplary film historical studies and careful scrutiny of films both in and as history.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e5137a1310" role="1" seniority_sort="1">
+                <display_name>Eric Rentschler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

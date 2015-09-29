@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146222" class_number="14200" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 375">Evolutionary Dynamics and Population Genetics</title>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e215740a1310" role="1" seniority_sort="1">
+                <display_name>Michael Desai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159664" class_number="14682" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 180C">World Theater</title>
+            <exam_group>FAS08_J</exam_group>
+            <description>This course will examine theatrical forms and practices developed in Africa, Asia, and the Americas, as well as modern and contemporary intercultural performances. Exploring a wide range of performances, including Chinese regional theater, puppet theaters, theater of the oppressed, and postcolonial theater, students will investigate how notions of traditional, national, and global theater have been consolidated and contested.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:59:00" location="Barker 024 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e58143a1310" role="1" seniority_sort="1">
+                <display_name>Ju Yon Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

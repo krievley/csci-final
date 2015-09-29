@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113410" class_number="14243" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 175">Computer Graphics</title>
+            <exam_group>FAS14_D</exam_group>
+            <prereq>Recommended: Computer Science 51 or 61, Applied Mathematics 21b or Mathematics 21b.</prereq>
+            <description>This course covers the fundamentals of 3D computer graphics using a modern shader-based version of OpenGL. Main topics include: geometric coordinate systems and transformations, keyframe animation and interpolation, camera simulation, triangle rasterization, material simulation, texture mapping, image sampling and color theory. The course also touches on ray tracing, geometric modeling and simulation-based animation.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Maxwell Dworkin G125 (SEAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e91352a1310" role="1" seniority_sort="1">
+                <display_name>Steven Gortler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

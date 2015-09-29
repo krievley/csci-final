@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113934" class_number="14083" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 305">Individual Reading and Research</title>
+            <notes>Hours to be arranged   </notes>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

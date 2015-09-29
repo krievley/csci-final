@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113699" class_number="12352" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WELSH 128">Introduction to Modern Welsh</title>
+            <exam_group>FAS11_B</exam_group>
+            <notes>Catherine McKenna and others  The combination of Welsh 128 followed by Welsh 129r satisfies the language requirement. It is recommended in any case that this course be followed by Welsh 129r. May not be taken Pass/Fail. Not open to auditors.</notes>
+            <description>Introduction to the Welsh language as spoken and written today, designed for those with little or no prior knowledge of this vibrant Celtic language. Intensive conversation practice is provided, and students learn to write fluently. Internet, audio and video exercises using dialogue, music and film augment a contextualized grammatical survey, and use of authentic literary texts increases as the course progresses.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="WELSH">Welsh</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Friday" end_time="10:59:00" location="Warren 201 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63327a1310" role="1" seniority_sort="1">
+                <display_name>Catherine McKenna</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

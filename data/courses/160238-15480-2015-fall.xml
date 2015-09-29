@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160238" class_number="15480" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1998">Science, Medicine &amp; Environment in Japan</title>
+            <exam_group>FAS06_E</exam_group>
+            <description>This course explores early modern and modern Japanese history from the vantage point of the history of science and medicine, as well as environmental history. Particular attention is dedicated to epidemics and conquest, animal extinctions, industrial pollution and human health, and natural disasters and the threat of climate change. This course positions the environment as vital to understanding Japan&amp;rsquo;s past and future.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Robinson 106 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e36675a1310" role="1" seniority_sort="1">
+                <display_name>Brett Walker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

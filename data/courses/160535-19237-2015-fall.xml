@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160535" class_number="19237" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CLS-STDY 113">Magicians, Healing Gods, and Holy Men</title>
+            <description>This course will examine magic, divination, and other unconventional religious phenomena in the Greco-Roman world by focusing on extraordinary practices and practitioners. The topics to be explored include soliciting curative dreams from the gods; employing protective magic to ward off disease and other dangerous forces; using aggressive forms of magic to ensnare the object of one&amp;rsquo;s sexual desires or harm one&amp;rsquo;s opponents; the rise of &amp;ldquo;holy men&amp;rdquo; believed to have supernatural powers; and attempting to foresee the future through astrology or various forms of divination. The sources for these phenomena, most of which are strikingly different from those typically encountered when studying the ancient world, provide fresh perspectives.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLS-STDY">Classical Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

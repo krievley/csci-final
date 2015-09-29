@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109804" class_number="15723" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ARABIC 243DR">Advanced Readings in Classical Arabic Bridge IV: Religious Sciences</title>
+            <prereq>Recommended: Three years of Arabic or equivalent level of proficiency.</prereq>
+            <description>Reinforcement of advanced classical Arabic grammar and stylistics, and introduction to various genres of Quran, Hadith, Sira and Tafsir.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e139603a1310" role="1" seniority_sort="1">
+                <display_name>Suheil Laher</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

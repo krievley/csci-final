@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111430" class_number="10925" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="LATIN BA">Latin Prose Selections (Classical)</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes>Ivy Livingston and assistant  </notes>
+            <prereq>Recommended: Latin Ab, Aab, Ac, or equivalent.</prereq>
+            <description>A bridge between the study of Latin grammar and the reading of prose authors; intended to develop reading and translation skills and introduce prose styles. The readings are short selections from a variety of genres by authors such as Cicero, Pliny, Nepos, Sallust, and Petronius.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Robinson 106 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e194a1310" role="1" seniority_sort="1">
+                <display_name>Ivy Livingston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160211" class_number="16660" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 43C">Human Rights and the Global South</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar studies how human rights perspectives in the Global South illuminate relations between state authority and individuals and defines standards of behavior that societies agree to aspire to reach. Topics include the 1948 Universal Declaration of Human Rights, rights in political and economic spheres, the rights of women, children, and refugees, international human rights law and international humanitarian law, and the state, regional, and international processes and structures that establish and monitor the regime of international human rights law.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

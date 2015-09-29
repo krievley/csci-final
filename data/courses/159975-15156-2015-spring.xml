@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159975" class_number="15156" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 99B">Senior Thesis Tutorial</title>
+            <notes> Required of, and ordinarily limited to, seniors completing the History concentration's thesis program. Permission must be obtained from the Tutorial Office.</notes>
+            <description>Research and writing the senior thesis in History. Part two of a two-part series.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="20:59:00" location="" start_time="18:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e174914a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth More</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

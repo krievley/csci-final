@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118876" class_number="16948" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TDM 105">Introduction to Dramaturgy (Adaptation and A.R.T. 2015-16 Season)</title>
+            <exam_group>FAS18_H</exam_group>
+            <description>In this course, students will learn about the roles and responsibilities of a dramaturg in the rehearsal room and in a theater company, with a particular focus on the ways dramaturgs and playwrights adapt novels, screenplays, and personal memoirs for the stage. Focusing on productions in the American Repertory Theater&amp;#39;s 2015-16 season and on work originally developed at the A.R.T. and subsequently staged in New York City, students will engage with artists and writers in discussions about adaptation, and write their own dramatic adaptation. In addition, students will explore performance histories, translations, and dramatic structures of plays and musicals, and learn about the steps a dramaturg takes to prepare for a production. Students will also read and evaluate new scripts submitted to the A.R.T. and the A.R.T. Institute for Advanced Theater Training. Students will use the Harvard Theater Collection to research a play, opera, or musical of his or her choice and write an essay analyzing the production history.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="Loeb Drama Ctr C (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e268364a1310" role="1" seniority_sort="1">
+                <display_name>Ryan McKittrick</display_name>
+            </person>
+            <person id="d1e268367a1310" role="1" seniority_sort="2">
+                <display_name>Diane Paulus</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

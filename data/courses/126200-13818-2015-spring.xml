@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126200" class_number="13818" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCILIVSY 19">Nutrition and Global Health</title>
+            <description>This course will introduce students to nutrition and global health problems through exploration of demographic, epidemiological, biological, social, political, and economic determinants of nutritional status. Emphasis will be placed on the role of nutritional status and dietary intake, both as a determinant and as a consequence, of these health problems. Students will be encouraged to think critically about the major challenges to improve nutrition and health at a global level, with a focus on nutrition and infectious diseases, maternal and child health, and chronic diseases. Nutritional assessment, study design, and efficacy of nutrition interventions, will be explored in detail.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCILIVSY">Science of Living Systems</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e155014a1310" role="1" seniority_sort="1">
+                <display_name>Clifford W. Lo</display_name>
+            </person>
+            <person id="d1e436428a1310" role="2" seniority_sort="2">
+                <display_name>Christopher Duggan</display_name>
+            </person>
+            <person id="d1e436431a1310" role="2" seniority_sort="3">
+                <display_name>Wafaie Fawzi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

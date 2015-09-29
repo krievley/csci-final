@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110808" class_number="10832" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 25A">Honors Linear Algebra and Real Analysis I</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes>Only for students with a strong interest and background in mathematics. There will be a heavy workload. May not be taken for credit after Mathematics 23.&amp;nbsp;  For students with a strong interest and background in mathematics. Expect to spend a lot of time doing mathematics.  May not be taken for credit after Mathematics 23. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: 5 on the Calculus BC Advanced Placement Examination and some familiarity with writing proofs, or the equivalent as determined by the instructor.</prereq>
+            <description>A rigorous treatment of linear algebra. Topics include: Construction of number systems; fields, vector spaces and linear transformations; eigenvalues and eigenvectors, determinants and inner products. Metric spaces, compactness and connectedness.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Science Ctr Hall E (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e65326a1310" role="1" seniority_sort="2">
+                <display_name>Tasho Kaletha</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

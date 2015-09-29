@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146787" class_number="11908" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IMMUN 357">Microbial-epithelial-immune Cell Interactions in Mucosal Tissues</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e195848a1310" role="1" seniority_sort="1">
+                <display_name>Richard Blumberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

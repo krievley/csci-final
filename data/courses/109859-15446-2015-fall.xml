@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109859" class_number="15446" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 179">The Freudian Century</title>
+            <exam_group>FAS04_A</exam_group>
+            <description>Explores the consolidation and rise to prominence of a distinctively modern psychological perspective on human nature, motivation, and desire from 1900 to the present. Opens with the debut of therapeutic culture and the Freudian recasting of the self, with attention to dreams, sexuality, interiority, gender, and cultures of trauma. Moves to the mid-century period and beyond, the heyday of the psychological perspective in the United States, looking at the psychology of affluence, the invention of "identity," the new narcissism, and personalities and power in the workplace. Ends with an assessment of the virtues and liabilities of the 21st century expressive self.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Harvard Hall 103 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e96316a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth Lunbeck</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

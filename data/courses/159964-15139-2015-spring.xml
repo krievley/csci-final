@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159964" class_number="15139" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 99B">Tutorial - Senior Year</title>
+            <description>Supervised research for the senior thesis, under the mentorship of a Harvard facultymember. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6033a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Blitzstein</display_name>
+            </person>
+            <person id="d1e33856a1310" role="1" seniority_sort="2">
+                <display_name>Michael Parzen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

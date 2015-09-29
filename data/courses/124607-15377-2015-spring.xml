@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124607" class_number="15377" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 182">From R &amp; B to Neo Soul: Black Popular Music and Cultural Transformation</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for either Culture and Belief or Aesthetic and Interpretive Understanding, but not both.</notes>
+            <description>The course focuses on the history of African American popular music from Ray Charles to P-Funk to Erykah Badu with particular emphasis on its long-term impact on American culture. The rise of classic R &amp; B, Soul, Motown, Funk, the Philly Sound and Neo-Soul are featured. Key artists include Ray Charles, Aretha Franklin, the Supremes, Curtis Mayfield, James Brown, Stevie Wonder, George Clinton, Michael Jackson, Prince, Jill Scott, Erykah Badu, Usher, Alicia Keys, and D'Angelo. The course is especially concerned with tracing the interrelationships among music, politics, spirituality, and race relations during the Civil Rights and Black Power years and their legacy for today. During these years the sound of African America indelibly shaped mainstream American popular culture in far reaching and transformative ways.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e23219a1310" role="1" seniority_sort="1">
+                <display_name>Ingrid Monson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

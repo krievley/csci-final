@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159787" class_number="15066" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BL">American Memorials from Slavery to September 11</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>This course will investigate the role memorials play in society and examine the politics of memory in order to better understand the dynamic nature of creating meaning in the past and present from American monuments. We will broaden our conception of monuments beyond stone statues to include museums, national parks, music, art, film and the web. Movies and viewings of local memorials will supplement our seminar experience.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Barker 128 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e223473a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Eaton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

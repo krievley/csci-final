@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156157" class_number="11212" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 1253">Sexual Health and Reproductive Justice</title>
+            <exam_group>FAS13_G</exam_group>
+            <description>This intermediate-level seminar investigates the connections between sexuality, reproduction, public health, and social justice. We will examine how inequities related to gender, race/ethnicity, socioeconomic position, and sexual orientation influence the sexual and reproductive health and rights of socially and economically marginalized groups of women in the contemporary United States, especially women of color and poor and low-income women but also lesbian, bisexual, and transgender women. Using public health and social justice lenses, we will focus on the following topics: pregnancy, birth, abortion, contraception, forced sterilization, sexual violence, cervical cancer, and HIV/AIDS.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Boylston G02 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e144009a1310" role="1" seniority_sort="1">
+                <display_name>Madina Agenor</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115494" class_number="17908" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 3460C">Research in Health Economics</title>
+            <exam_group>FAS16_B</exam_group>
+            <description>Participants discuss recent research in health economics. Course may also include presentation of original research by participants. Open to doctoral students only.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="09:29:00" location="Littauer L330 (HKS)" start_time="08:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e87704a1310" role="1" seniority_sort="1">
+                <display_name>Joseph P. Newhouse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

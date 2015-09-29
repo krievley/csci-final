@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112430" class_number="14394" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCIPHUNV 12">Natural Disasters</title>
+            <description>Natural disasters, such as earthquakes, hurricanes, and floods, claim thousands of lives and cause tens of billions of dollars in damage each year. Moreover, changes in Earth's climate are raising sea level, changing precipitation patterns, and likely causing an increase in the occurrence of damaging storms, putting more of our increasing exposed global population at risk. In this course we develop an understanding of these natural hazards from an earth science perspective, and examine several case studies to assess their catastrophic impacts. Given our scientific understanding of these phenomena, we examine ways to assess and forecast future natural disasters, and to mitigate the adverse impacts to our societies. Sections will emphasize the use of GIS technology to measure the impacts of natural hazards.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e254246a1310" role="1" seniority_sort="1">
+                <display_name>Brendan Meade</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

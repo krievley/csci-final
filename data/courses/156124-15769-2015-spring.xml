@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156124" class_number="15769" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 170">Biopolitics and Vampire Aesthetics, 1716-2016</title>
+            <notes> Readings and discussions in English. Open to freshmen with permission of the instructor.</notes>
+            <description>This course traces the infamous bloodsucker&amp;#39;s bite-marks through major periods of European literature from the 18th century to the present, exploring how the notion of vampirism is inextricably linked with the emergence of what Michel Foucault has famously called `biopolitics&amp;#39; or &amp;#39;bio-power&amp;#39;. Since the 18th century, institutions such as schools, clinics and prisons have exerted an increasing &amp;ldquo;hold over life&amp;rdquo; (Foucault), conditioning the ways in which we think and act. Why does the emergence of these modern institutions coincide precisely with the vampire&amp;#39;s first appearance in European literature? Have the arts been defying the biopolitical hold over life by creating a vampiric aesthetics? We pursue these questions by engaging in a dialogue between literature, film, the natural sciences, and critical theory. Readings include canonical authors such as Goethe, Byron, Hoffmann, Baudelaire, Nietzsche, Stoker, Tawada.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e16929a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Suetterlin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109544" class_number="10424" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="US-WORLD 39">History of American Democracy</title>
+            <exam_group>FAS13_C</exam_group>
+            <notes>PREPARATION REQUIRED  &amp;nbsp;for first day of class.  Please see the course website for specific requirements. If student interest exceeds the course limit, a random lottery will be conducted. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results. See the course website for more details.  Offered jointing with the Business School as 1139. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Today we often hear that American democracy is broken-but what does a healthy democracy look like? How has American democratic governance functioned in the past, and how has it changed over time? This course approaches American history with these questions in mind. Based on the case method, each short reading will introduce students to a different critical episode in the development of American democracy, from drafting of the Constitution to contemporary fights over same-sex marriage. The discussion-based classes will encourage students to challenge each other's assumptions about democratic values and practices, and draw their own conclusions about what "democracy" means in America.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="US-WORLD">United States in the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="Aldrich 207 (HBS)" start_time="15:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e1310a1310" role="1" seniority_sort="1">
+                <display_name>David Moss</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

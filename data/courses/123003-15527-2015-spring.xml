@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123003" class_number="15527" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1420">American Economic Policy</title>
+            <notes> Offered jointly with the Kennedy School as API-126. This course offers an optional writing requirement which if completed will satisfy the concentration writing requirement.</notes>
+            <prereq>Recommended: Economics 1010a1, 1010a2, or 1011a, or permission of instructor.</prereq>
+            <description>Analyzes major issues in American economic policy including taxation, Social Security, health care reform, budget policy, monetary and fiscal policy, and exchange rate management. Current economic issues and policy options discussed</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19759a1310" role="1" seniority_sort="1">
+                <display_name>Lawrence H. Summers</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

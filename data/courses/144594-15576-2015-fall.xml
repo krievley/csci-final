@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144594" class_number="15576" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 10">Foundations of Biological Diversity</title>
+            <exam_group>FAS18_A</exam_group>
+            <notes> Knowledge of introductory molecular, cellular biology, and genetics is recommended. This course, when taken for a letter grade, meets the General Education requirement for Science of Living Systems.</notes>
+            <description>An integrated approach to the diversity of life, emphasizing how chemical, physical, genetic, ecological and geologic processes contribute to the origin and maintenance of biological diversity. Topics to be covered include the evolution of metabolic pathways, multicellularity and structural complexity; causes and consequences of differences in diversity over space and time; the role of species interactions (including symbioses) as an evolutionary force; and the evolution of humans and their impact on the environment.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="Science Ctr Hall E (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e170664a1310" role="1" seniority_sort="11">
+                <display_name>Brian Farrell</display_name>
+            </person>
+            <person id="d1e17179a1310" role="1" seniority_sort="12">
+                <display_name>Andrew Richardson</display_name>
+            </person>
+            <person id="d1e105883a1310" role="1" seniority_sort="13">
+                <display_name>Elena Kramer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

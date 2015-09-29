@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159903" class_number="15068" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98PC">Comparing India and China</title>
+            <notes> This course will be lotteried.</notes>
+            <description>In the late 1940s, India witnessed a peaceful transition to democracy, while China experienced a Communist revolution. After this divergence, both countries began pursuing market reforms in the effort to accelerate economic growth in the 1980s and 1990s. We will explore the ways in which power has been consolidated and distributed under these very different regimes and the implications this has had for a range of socio-political and economic outcomes, including famine, economic development, and urbanization. Throughout the course we will place India and China in the context of comparative debates about other parts of the developing world.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e31290a1310" role="1" seniority_sort="1">
+                <display_name>Nara Dillon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

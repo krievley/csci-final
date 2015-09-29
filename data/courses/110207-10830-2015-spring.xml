@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110207" class_number="10830" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SAS 196">Capitalism and Cosmology in Modern India</title>
+            <notes> Offered jointly with the Divinity School as 3529.</notes>
+            <description>This course will explore the lives, politics, and cosmologies of working-class persons in modern India. The course will examine contemporary debates on globalization, development, and ecology; workers' experiences of factory work, informality, and agitations; and workers' religious practices, theologies, and cosmological visions. Core concerns of the course will include inquiries into the appropriate categories for understanding workers' lives and visions, and the possibilities for autonomous, nonviolent politics among working people in India. The course will draw upon a range of sources, including anthropology, history, religious studies, epics, and Hindi cinema.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SAS">South Asian Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e40127a1310" role="1" seniority_sort="1">
+                <display_name>Shankar Ramaswami</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

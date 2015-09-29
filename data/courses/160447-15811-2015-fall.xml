@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160447" class_number="15811" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APMTH 254">Information Processing and Statistical Physics</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes> Applied Mathematics 254 is also offered as Engineering Sciences 254.  Students may not take both for credit.</notes>
+            <prereq>Recommended: Analysis (Math 21a/b, or equivalent), Probability (Statistics 110, Engineering Sciences 150, or equivalent).</prereq>
+            <description>This course introduces students to several fundamental notions and methods in statistical physics that have been successfully applied to the analysis of information processing systems. Discussions will be focused on studying such systems in the infinite-size limit, on analyzing the emergence of phase transitions, and on understanding the behaviors of efficient algorithms. This course seeks to start from basics, assuming just undergraduate probability and analysis, and in particular assuming no knowledge of statistical physics. Students will take an active role by applying what they learn from the course to their preferred applications.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="Maxwell Dworkin 223 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e157560a1310" role="1" seniority_sort="1">
+                <display_name>Yue Lu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

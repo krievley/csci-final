@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130702" class_number="10714" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RUSS 115">Advanced Russian for Academic and Professional Communication</title>
+            <prereq>Recommended: Russian 113, 114, or permission of the instructor.</prereq>
+            <description>Emphasis on close reading and stylistic analysis of the Russian language with continued development of grammatical, sociolinguistic, strategic, and discourse competencies at an advanced level. Emphasis on reading with considerable practice in speaking, presenting, and writing for professional and academic purposes.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e115611a1310" role="1" seniority_sort="1">
+                <display_name>Veronika Egorova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

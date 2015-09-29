@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110768" class_number="16664" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 910R">Supervised Research</title>
+            <notes> This course is administered by the Psychology Undergraduate Office. Email psychology@wjh.harvard.edu for questions about the course.</notes>
+            <description>Independent empirical research (laboratory or field) conducted under the supervision of a departmental faculty member. Research report or equivalent paper required. May be taken up to three times for College credit; limits on research courses for concentration credit apply.An application is required for admission; due to the Psychology Undergraduate Office the day before Study Cards are due.http://undergrad.psychology.fas.harvard.edu/forms</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6193a1310" role="1" seniority_sort="1">
+                <display_name>Jill Hooley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

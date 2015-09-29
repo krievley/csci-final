@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119985" class_number="13040" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 202">Intermediate Quantitative Research Methods</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Required of, and limited to, first-year graduate students in Sociology</notes>
+            <prereq>Recommended: Familiarity with basic statistics.</prereq>
+            <description>Descriptive and inferential techniques used in quantitative sociological research. Emphasis is on the fundamentals of the linear regression model for continuous response variables, focusing on assumptions and interpretation. Motivation, application, and presentation are stressed; topics include categorical covariates, interactions, and diagnostics. Because the linear regression model is the foundation for more specialized models that are often applied in sociological research, the aim of this course is to develop the skills necessary to (a) understand quantitative sociological research, (b) produce convincing analysis, (c) evaluate quantitative analysis, and (d) learn more specialized techniques as needed.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="William James 450 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e79053a1310" role="1" seniority_sort="1">
+                <display_name>Jason Beckfield</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

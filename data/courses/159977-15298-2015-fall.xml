@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159977" class_number="15298" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 157K">The Age of Albrecht Durer: Prints and Drawings at Harvard</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>Examines the revolution in image making that occurred in Germany during the early modern period. Focussing on Durer&amp;#39;s achievements, but ranging widely through other Northern Renaissance masters, this course is also a primer in close looking at original works of art in the Museum&amp;#39;s Art Study Center.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Art Museums 0600" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e22191a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Koerner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

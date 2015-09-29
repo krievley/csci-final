@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126761" class_number="14891" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1557">Unitarian and Universalist History in the United States</title>
+            <notes> Offered jointly with the Divinity School as 2776.</notes>
+            <description>This survey course will trace the history of both Unitarianism and Universalism from their eighteenth-century origins to the present. Focusing especially on the experiences of local congregations, we will explore the diverse starting points of liberal religion in the United States; the challenges of Transcendentalism, spiritualism, and humanism; the interplay between liberal religion and social reform; and the experience of consolidation in the twentieth century.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e64032a1310" role="1" seniority_sort="1">
+                <display_name>Dan McKanan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

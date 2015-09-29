@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108992" class_number="11530" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 208RS">Ethnomusicology: Seminar</title>
+            <exam_group>FAS12_E</exam_group>
+            <description>African Music and Theory from the South.&amp;nbsp; This seminar explores leading contemporary cultural theorists of Africa such as Achille Mbembe, Jean and John Comaroff, Kofi Agawu, and Ngugi Wa Thiong&amp;rsquo;o in relationship to classic issues in the study of African musics.&amp;nbsp; Beginning with popular, regional, and international musical genres the course takes hybridity as a point of departure and then examines historical presumptions about the nature of tradition in the ethnomusicological literature on African music.&amp;nbsp; Classic issues in African music, such as rhythm, transcription, orality, social engagement, and religion are explored in the context of the anthropological and postcolonial literatures.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="Music Davison Seminar Rm (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e23219a1310" role="1" seniority_sort="1">
+                <display_name>Ingrid Monson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

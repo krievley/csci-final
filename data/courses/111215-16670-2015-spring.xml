@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111215" class_number="16670" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELLBIO 207">Developmental Biology: Molecular Mechanisms of Vertebrate Development</title>
+            <notes> Offered jointly with the Medical School as CB 710.0. Includes lectures and conference sessions in which original literature is discussed in depth. Short research proposals are required in lieu of exams.</notes>
+            <description>Analyzes the developmental programs of frog, chick, zebrafish, and mouse embryos, emphasizing experimental strategies for understanding the responsible molecular mechanisms that pattern the vertebrate embryo. Morphogenesis, organogenesis, stem cells and regeneration will also be discussed.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e257369a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Lassar</display_name>
+            </person>
+            <person id="d1e47910a1310" role="1" seniority_sort="2">
+                <display_name>John Flanagan</display_name>
+            </person>
+            <person id="d1e305437a1310" role="2" seniority_sort="3">
+                <display_name>Wolfram Goessling</display_name>
+            </person>
+            <person id="d1e60674a1310" role="2" seniority_sort="4">
+                <display_name>Jordan Kreidberg</display_name>
+            </person>
+            <person id="d1e277568a1310" role="2" seniority_sort="5">
+                <display_name>Sean Megason</display_name>
+            </person>
+            <person id="d1e305110a1310" role="2" seniority_sort="6">
+                <display_name>Trista North</display_name>
+            </person>
+            <person id="d1e161430a1310" role="2" seniority_sort="7">
+                <display_name>Ramesh Shivdasani</display_name>
+            </person>
+            <person id="d1e320352a1310" role="2" seniority_sort="8">
+                <display_name>Jessica Whited</display_name>
+            </person>
+            <person id="d1e49818a1310" role="2" seniority_sort="9">
+                <display_name>Malcolm Whitman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117263" class_number="12439" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 44T">The Atomic Bomb in History and Culture</title>
+            <exam_group>FAS14_H</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The explosion of the atomic bomb over the Japanese city of Hiroshima in 1945 ushered in a new era of warfare, of scientific prominence, of civic anxiety, and political challenge. Explores the interaction of science, politics, strategy, and culture in the studies of historians as well as in the literature, films, and theater from the early years of the twentieth century through the 1970s and 1980s dealing with the atom and the atom bomb.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e55508a1310" role="1" seniority_sort="1">
+                <display_name>Everett Mendelsohn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

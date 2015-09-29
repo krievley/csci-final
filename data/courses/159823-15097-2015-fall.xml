@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159823" class_number="15097" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 68EC">Education and Community in America</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>Explores efforts to realize the civic purpose of American universities, particularly in terms of attempts to engage local communities through educational outreach programs.&amp;nbsp; Examines major periods of experimentation and innovation in the 20th and 21st centuries, from the settlement house movement of the early 1900s to recent efforts to revive the public mission of universities through service-learning and other forms of civic education. This course is an activity-based learning course, limited to students who are concurrently participating in one of PBHA&amp;rsquo;s education-related service programs. Class discussions and assignments will make active links with students&amp;rsquo; service work.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="William James 303 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172503a1310" role="1" seniority_sort="1">
+                <display_name>Ariane Mary Liazos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

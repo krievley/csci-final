@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160960" class_number="18278" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH CSSR">The Short Screenplay: Workshop</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+            <description>This class introduces the short screenplay -anywhere from one to thirty formatted pages. Students will learn the basics of this challenging form by viewing short films and reading short screenplays, short stories, and short creative essays.We&amp;#39;ll focus on character and plot in the scripts we develop because many short films-even highly lauded ones-are lacking in these areas. The goal of the course is to write scripts that can actually be produced, so we&amp;#39;ll also consider budgetary matters when we&amp;#39;re writing.Prior screenwriting experience is required.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Robinson 107 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e187103a1310" role="1" seniority_sort="1">
+                <display_name>Mark Poirier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

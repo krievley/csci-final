@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122605" class_number="16528" school_id="fas" section="0026" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 3010">Special Reading and Research</title>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e15678a1310" role="1" seniority_sort="1">
+                <display_name>Felix Warneken</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

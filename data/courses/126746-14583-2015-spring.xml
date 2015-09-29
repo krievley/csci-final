@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126746" class_number="14583" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCRB 162">Experimental Regenerative Biology</title>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 54, or permission of the instructor.</prereq>
+            <description>This laboratory course will allow advanced undergraduate students to explore classical and modern experimental models of regeneration, and through experimentation, understand the important concepts and key challenges of the regenerative biology field. We will focus in particular on the regeneration of complex tissues and entire organ systems using both invertebrate and vertebrate models, including the planarian worm, the salamander, and the mouse.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e116697a1310" role="1" seniority_sort="1">
+                <display_name>Qiao Zhou</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

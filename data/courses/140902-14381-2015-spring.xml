@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="140902" class_number="14381" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 234">Topics in Marine Biology</title>
+            <prereq>Recommended: Permission of instructor.  Course note:  Course is designed for advanced undergraduate students only and graduate students.</prereq>
+            <description>This seminar explores the fragility and resilience of marine life and ecosystems in the face of perturbations such as habitat fragmentation, land use change, anthropogenic climate change, pollution, alien species, and unsustainable fishing practices.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e32388a1310" role="1" seniority_sort="1">
+                <display_name>Robert M. Woollacott</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

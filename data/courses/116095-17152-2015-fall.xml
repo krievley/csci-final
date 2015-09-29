@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116095" class_number="17152" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1861">Developmental Psychopathology</title>
+            <exam_group>FAS03_D</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and PSY 18 before enrolling in this course.</prereq>
+            <description>An overview of psychological problems and mental disorders in childhood and adolescence. Topics include internalizing conditions (e.g., anxiety, depression), externalizing conditions (e.g., conduct disorder and ADHD), eating disorders, autism, and child responses to maltreatment and other forms of trauma. Theoretical perspectives, diagnostic criteria, etiology, and treatment approaches are examined.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:29:00" location="William James B6 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e27271a1310" role="1" seniority_sort="1">
+                <display_name>John Weisz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

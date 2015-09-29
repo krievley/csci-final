@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110055" class_number="10747" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 20">Contemporary Painting Practice: Beyond the Surface</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>Through image presentations and readings, students will be introduced to the art movements from the 1960s to the present - POP, OP, Capitalist Realism, Neo Expressionism, New Image Painting, Figuration Libre, Junge Wilde, Transavantegarde, Neo Geo, Neo Pop, etc. Students will create paintings for critique that reflect these artists' beliefs and concerns.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e240358a1310" role="1" seniority_sort="1">
+                <display_name>Annette Lemieux</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

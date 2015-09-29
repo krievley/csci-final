@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160363" class_number="15400" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EGYPTIAN 200X">Egyptian Text Reading - HarvardX</title>
+            <description>An Egyptian text reading course; enrolled students will develop Professor Manuelian&amp;#39;s proposed HarvardX course based on the Giza Project.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="EGYPTIAN">Egyptian</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e24584a1310" role="1" seniority_sort="1">
+                <display_name>Peter Der Manuelian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

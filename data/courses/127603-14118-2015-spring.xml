@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127603" class_number="14118" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BPH 306QC">Tuberculosis</title>
+            <notes>Offered jointly with School of Public Health as IID 202.   Offered jointly with School of Public Health as IID 202.</notes>
+            <description>This is a comprehensive survey course on tuberculosis featuring lectures by some of the leading authorities in the field. The first half of the course focuses on population issues (TB epidemiology in the US and the world), transmission, modeling, and programmatic issues (the essentials of good TB control both here and in high burden countries). The second month deals more with the biomedical aspects of TB, immunology, genetics, diagnosis, decision analysis, and treatment, again, both here and abroad. There is a field trip to the Massachusetts State Laboratory. Because of involvement of several of the faculty, special attention is paid to the global problem of multidrug resistant TB, and the work of Partners in Health, an NGO associated with the medical school. During the second month, medical students join the SPH students for an elective course involving patient interviews at the state TB hospital. They present these cases and related topics in class during the second month. SPH students are evaluated on the basis of class participation and one or more presentations on relevant TB topics of interest. The course ends on or near World TB Day, with optional TB-related activities in the Boston area.</description>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:20:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e244936a1310" role="1" seniority_sort="1">
+                <display_name>Sarah Fortune</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

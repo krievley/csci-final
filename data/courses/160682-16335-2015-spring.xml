@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160682" class_number="16335" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL 172">Made In Italy: Italian Fashion Through the Ages</title>
+            <notes> Reading in Italian and English. Discussion in Italian or English depending on enrollment.</notes>
+            <description>For over half a century, fashion has defined the image of Italy and Italians abroad. Both a business and an art, key to self-expression and subject to the regulation of church and state, profoundly personal and constitutive to national and international politics, fashion has drawn conspicuous resources, generated artifacts and attracted considerable intellectual attention.&amp;nbsp; The course will reflect on how fashion was represented in Italian literature, the visual and performing arts and in legal and scholarly discourse from the Renaissance to the present. Topics will include the birth of &amp;ldquo;made in Italy&amp;rdquo; after World War II; fashion under fascism; the phenomenon of castrati and cicisbei; Renaissance self-fashioning and the relationship between fashion and modernity.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e74142a1310" role="1" seniority_sort="1">
+                <display_name>Maria Grazia Lolla</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128156" class_number="14144" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 21">The Dynamic Earth: Geology and Tectonics Through Time</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes> Course includes a weekly three-hour lab to be arranged and two field trips. 
+This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+            <description>Students will learn how the Earth works and how critical events in Earth history shaped their surroundings. We will explore what the Earth is made of, why there are continents and oceans, and how plate tectonics provides a unifying model to explain geological observations. Topics covered include the discovery of deep time, the relationship between geology and topography, the geology of our surroundings, plate tectonics, magnetism, chemical differentiation at subduction zones and mid-ocean ridges, mountain building, basin formation, isostasy, heat flow, convection, and feedbacks with the fluid Earth. Ultimately we will use physical processes to explain the patterns of nature. Our treatment will be quantitative with applications to other phenomena, and based on sound physics. Field trips provide opportunities to learn how to read rocks, to see data in the field, and to interpret observations in terms of their possible history and forces acting in and on the Earth.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:29:00" location="Geological Museum 102 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e22789a1310" role="1" seniority_sort="1">
+                <display_name>Francis Macdonald</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

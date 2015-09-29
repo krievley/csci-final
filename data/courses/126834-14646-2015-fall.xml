@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126834" class_number="14646" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ETHRSON 28">Moral Inquiry in the Novels of Tolstoy and Dostoevsky</title>
+            <exam_group>FAS15_A</exam_group>
+            <description>This course considers how Tolstoy and Dostoevsky take up moral inquiry in their fiction, introduces students to philosophical texts that informed their major fiction, and asks why the novel as a literary genre may be a good forum for the discussion of ethics. We will read Tolstoy's Anna Karenina, Dostoevsky's Notes from Underground and The Brothers Karamazov, as well as selected texts from Rousseau, Schopenhauer, Nietzsche, and others.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="ETHRSON">Ethical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="Harvard Hall 201 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e111119a1310" role="1" seniority_sort="1">
+                <display_name>Justin Weir</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

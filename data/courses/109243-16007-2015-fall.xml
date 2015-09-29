@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109243" class_number="16007" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ISLAMCIV 170">Islam, Modernity and Politics</title>
+            <exam_group>FAS14_G</exam_group>
+            <notes> Offered jointly with the Divinity School as 3368.</notes>
+            <description>The aim of this seminar is to study the evolution of Islamic thought and political practices in Muslim societies from the 19th to the early 21st centuries. Attention will be devoted to the patterns of interaction between the Muslim World and the West because it is our assumption that these patterns contribute to influence ideological formations and modes of religious/political mobilizations in the Muslim World. By the end of the eighteenth century, much of the Muslim World was in "decline" whereas European imperial powers, mainly France and Great Britain, were on the rise. The course will explore the response of Muslim societies and intellectuals to the rise of European prominence. The major 19th century reformist movements that appeared in the Muslim World will be discussed, ranging from movements advocating mild reform to those rejecting all influence of "Western civilization" and advocating a return to the Tradition of Muhammad. In the twentieth century, virtually all the Muslim World came under European colonial domination. During colonial rule and after, the Muslim world experienced major transformations which affected the nature and administration of law, politics and society. It is in this context, that the new Islamic revival that some have called "Islamism" was articulated as an alternative to Westernization. The course will address the rise of contemporary "Islamism," as an alternative to Western domination and modernization/Westernization. The major theorists of political Islam as well as the different trajectories of "Islamism" in diverse Muslim societies will be covered. The impact of political Islam in the West will also be addressed. The final part of the course will assess the trajectories of political Islam and address the ongoing debates on post-Islamism, secularism and modernity.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:59:00" location="Divinity 211 (HDS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11836a1310" role="1" seniority_sort="1">
+                <display_name>Ousmane Oumar Kane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

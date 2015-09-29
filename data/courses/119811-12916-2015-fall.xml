@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119811" class_number="12916" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 160R">Composition: Proseminar</title>
+            <exam_group>FAS09_B</exam_group>
+            <prereq>Recommended: One course in theory/composition or permission of the instructor.</prereq>
+            <description>Open to students prepared for individual work in composition. Incorporates readings and final performance of students' work.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="Music PH4 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e196127a1310" role="1" seniority_sort="1">
+                <display_name>Richard Beaudoin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

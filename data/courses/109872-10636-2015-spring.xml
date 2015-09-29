@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109872" class_number="10636" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MBB 980G">The Origins and Evolution of Cognition: A Comparative Study of Human and Nonhuman Abilities</title>
+            <notes>Preference to juniors in MBB tracks or MBB secondary field.  </notes>
+            <description>Most scientists agree cognition is widespread in nature and involves an organism processing information to solve problems (like avoiding predators, finding prey, attracting a mate, achieving shelter), and in humans higher-level reasoning and conceptualizing. Less clear are the origins and evolutionary basis of cognition-what evolutionary pressures were exerted that selected for such processing? Explores possible ways to answer this question with research in anthropology, neurobiology, philosophy, psychology, genetics, sociality, and other disciplines. Faculty from a variety of departments attend discussions in their areas of expertise and assist students in coming to their own conclusions.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e22696a1310" role="1" seniority_sort="1">
+                <display_name>Irene Pepperberg</display_name>
+            </person>
+            <person id="d1e329830a1310" role="1" seniority_sort="2">
+                <display_name>Guven Guzeldere</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

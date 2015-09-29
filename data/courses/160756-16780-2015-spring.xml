@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160756" class_number="16780" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 282G">Chinese Apocalyptic Art: Anatomy of an Dunhuang Cave</title>
+            <description>The seminar focuses on a Dunhuang cave with vexed ties to Harvard. Mural fragments acquired by Langdon Warner-led Harvard team now reside in Harvard Art Museums. Visually restoring the fragments to the existing cave, the seminar explores the programmatic integrity of the cave decoration. In particular, it seeks a deep understanding of the role of apocalypse in the cosmic vision the cave evokes. The seminar also aims to create an educational media presentation of the cave.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e29595a1310" role="1" seniority_sort="1">
+                <display_name>Eugene Wang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

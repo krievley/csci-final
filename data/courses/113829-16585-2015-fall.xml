@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113829" class_number="16585" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2690HFA">Environmental Economics and Policy Seminar</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes> Primarily for graduate students in economics or related fields with environmental interests. Offered jointly with the Kennedy School as API-905Y.</notes>
+            <prereq>Recommended: Graduate-level course in microeconomic theory.</prereq>
+            <description>Selected topics in environmental and resource economics. Emphasizes theoretical models, quantitative empirical analysis, and public policy applications. Includes invited outside speakers.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:29:00" location="Littauer Ctr 382 (HKS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e177003a1310" role="1" seniority_sort="1">
+                <display_name>Robert Stavins</display_name>
+            </person>
+            <person id="d1e177006a1310" role="2" seniority_sort="2">
+                <display_name>Martin Weitzman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

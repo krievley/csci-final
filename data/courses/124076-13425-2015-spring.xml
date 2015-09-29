@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124076" class_number="13425" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2726">Theoretical and Empirical Perspective on Entrepreneurship: Economics and Finance</title>
+            <notes> Offered jointly with the Business School as 4350.</notes>
+            <description>Entrepreneurship is a complex phenomenon that has attracted little academic attention. This course explores the emerging work in this area. Students taking the course for credit will be expected to complete two referee reports and a paper.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

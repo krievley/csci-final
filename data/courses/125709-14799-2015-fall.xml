@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125709" class_number="14799" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN 182">Music and German National Identity</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>Introduction to the relationship between 'German' music, history, society and politics. By analyzing texted (vocal) music in various settings - historical, political, filmic, literary - this course revisits important and often controversial moments in musical history that have shaped German cultural and national identity. Musical genres include the Lied, folk song, the choral symphony, opera, cabaret, post-war popular music, and contemporary hip-hop. Reading and listening in German and English; discussion in German. An ability to read musical notation is not required.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Lowell Hall B-12 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172264a1310" role="1" seniority_sort="1">
+                <display_name>Lisa Parkes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

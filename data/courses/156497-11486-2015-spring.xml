@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156497" class_number="11486" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MBB 980K">Fighting Cancer with the Mind</title>
+            <notes>Preference to juniors in MBB tracks or MBB secondary field.  </notes>
+            <description>Using contemporary mind-body practices as context, examines evidence (or lack of evidence) linking psychological practices with cancer survival. We will (1) review theoretical foundations for these links including psychoanalysis, psychoneuroimmunology, and cognitive-behavioral therapy; (2) analyze legitimation of mind-body practices for cancer in popular media; (3) interview mind-body medicine practitioners; and (4) examine published scientific data. Students will choose one mind-body practice for in-depth study, analyzing its underlying theories, scientific evidence, and appeal to patients.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e340902a1310" role="1" seniority_sort="1">
+                <display_name>William Pirl</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

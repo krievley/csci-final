@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108447" class_number="15533" school_id="fas" section="003" term_code="spring">
+        <catalog_info>
+            <title short_title="MODMDEST 300">Direction of Master's Thesis</title>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MODMDEST">Modern Middle East</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e25472a1310" role="1" seniority_sort="1">
+                <display_name>Baber Johansen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118130" class_number="12047" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 174">The African City</title>
+            <description>This seminar investigates critical issues in Africa's rich urban centers. Architecture, city planning, spatial framing, popular culture, and new art markets will be examined.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e73038a1310" role="1" seniority_sort="1">
+                <display_name>Suzanne Blier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

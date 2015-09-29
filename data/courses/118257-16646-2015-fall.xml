@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118257" class_number="16646" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 3336HFRA">Economic History Workshop</title>
+            <exam_group>FAS14_G</exam_group>
+            <description>Intended for students writing dissertations related to economic history themes and/or methodology and for others with interests in economic history. Discusses research papers presented by scholars at Harvard and elsewhere.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:29:00" location="Littauer Ctr M16 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18759a1310" role="1" seniority_sort="1">
+                <display_name>Claudia Goldin</display_name>
+            </person>
+            <person id="d1e161018a1310" role="2" seniority_sort="2">
+                <display_name>Eric Chaney</display_name>
+            </person>
+            <person id="d1e529a1310" role="2" seniority_sort="3">
+                <display_name>Nathan Nunn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

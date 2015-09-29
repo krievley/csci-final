@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156004" class_number="14898" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BC">We the Readers: Reading Communities in Early America</title>
+            <description>This seminar asks who was reading, what was read, and how reading was practiced, imagined, and used in early America.&amp;nbsp; Focusing on moments when reading&amp;rsquo;s potential to create or divide communities was under question, &amp;quot;We the Readers&amp;quot; considers how the mundane acts of reading printed sermons, daily newspapers, bestselling novels, political pamphlets, and urban signs were understood to have varying consequences for women, Native Americans, subjects, citizens, and slaves&amp;mdash;and through them, a nation.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e329315a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Brady</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

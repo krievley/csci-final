@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160730" class_number="17555" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90CA">Cocaine: Customs and War in the Americas</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>No Latin American commodity produced in the last century has been as destructive as cocaine. No other substance has drawn as much attention from scholars, journalists, filmmakers and state agencies. In this seminar, students will look at a variety of primary and secondary sources: accounts of historians, anthropologists, filmmakers, witnesses and survivors. We will ask questions about the content of these texts and look at their form, while also thinking about their audiences, their genres and ideologies. Doing so will enable us to gain a new understanding of the U.S. and Latin America, and to reevaluate the relationship between them.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Sever 302 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e221927a1310" role="1" seniority_sort="1">
+                <display_name>Ezer Vierba</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

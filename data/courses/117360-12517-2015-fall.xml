@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117360" class_number="12517" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 277">Literature, Diaspora, and Global Trauma</title>
+            <exam_group>FAS01_D</exam_group>
+            <description>Examines creative and critical discourse from and about the global African, Asian (Chinese, Indian, Japanese, Korean, Vietnamese), and Middle Eastern (Jewish, Palestinian) diasporas.&amp;nbsp; Focuses on the relationship among diaspora, migration, and trauma, and on the relationship between these phenomena and constructions of artistic and cultural identities, transculturation, translation, multilingualism, global history, and world literature.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:59:00" location="Dana Palmer 102 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e9111a1310" role="1" seniority_sort="1">
+                <display_name>Karen Thornber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

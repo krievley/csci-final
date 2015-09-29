@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115731" class_number="16424" school_id="fas" section="008" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 310">Individual Reading Tutorial</title>
+            <notes> Students may not register for this course until their adviser and the faculty member with whom they plan to work have approved a program of study.</notes>
+            <description>Allows students to work with an individual member of the faculty in a weekly tutorial.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

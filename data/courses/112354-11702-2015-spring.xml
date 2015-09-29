@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112354" class_number="11702" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 296B">Proseminar on Inequality and Social Policy II</title>
+            <notes>Also taught by David Deming (HGSE)  Offered jointly with the Kennedy School as SUP 922.&amp;nbsp;  Offered jointly with the Kennedy School as SUP 922. For 2014-15, FAS offers this course as Government 2340b.</notes>
+            <prereq>Recommended: SUP-921</prereq>
+            <description>Deals with causes and possible cures for economic inequality, including skill differences, discrimination, immigration, household composition, residential segregation, and the welfare state.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e80849a1310" role="1" seniority_sort="1">
+                <display_name>Lawrence Bobo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109989" class_number="10706" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2151">The Comparative Politics of Eurasia</title>
+            <description>Examines trends in national and transnational politics in the post-Soviet states with special attention to identity, leadership, institutions, economic problems, and the role of great powers. Explores these topics through readings, discussion, and focused case studies.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e13105a1310" role="1" seniority_sort="1">
+                <display_name>Alexandra Mary Vacroux</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

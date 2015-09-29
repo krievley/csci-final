@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111958" class_number="15069" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CULTBLF 38">Apocalypse Then! Forging the Culture of Medieval Rus'</title>
+            <notes> All readings in English. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>When the natives of Medieval Rus (later Russians, Ukrainians, and Belarusians) accepted Orthodox Christianity in the 10th century, their nature-based paganism gave way to a powerfully sensual belief system that made good use of the visual and the verbal to prepare these newest Christians for the coming Apocalypse and Last Judgment. We investigate this transformation from the conversion of Saint Vladimir and the excesses of Ivan the Terrible through the Time of Troubles and the modern turn of Peter the Great. The class features close analysis of architecture, icons and frescoes, ritual, folklore, literature, and history to understand this shift in worldview, including the role of women. Special attention is devoted to the ways in which Medieval Rus is portrayed in film, opera, and ballet.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e234820a1310" role="1" seniority_sort="1">
+                <display_name>Michael Flier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

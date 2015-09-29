@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160456" class_number="15858" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="CLASPHIL 224">Epigraphy and Religion</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>This course will examine a wide variety of Greek and Latin inscriptions reflecting on the religious beliefs and practices of the Greek East and Latin West from the Archaic Period to Late Antiquity, and in doing so will illustrate different approaches to interpreting documentary and sub-literary sources.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASPHIL">Classical Philology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Boylston 203 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e120125a1310" role="1" seniority_sort="1">
+                <display_name>Gil Renberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

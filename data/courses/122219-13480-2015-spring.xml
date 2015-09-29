@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122219" class_number="13480" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 19B">Linear Algebra, Probability, and Statistics for the Life Sciences</title>
+            <notes> This course is recommended over Math 21b for those planning to concentrate in the life sciences and ESPP. Can be taken with Mathematics 21a. Students who have seen some multivariable calculus can take Math 19b before Math 19a. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Not to be taken in addition to Mathematics 21b or Applied Mathematics 21b.</prereq>
+            <description>Probability, statistics and linear algebra with applications to life sciences, chemistry, and environmental life sciences. Linear algebra includes matrices, eigenvalues, eigenvectors, determinants, and applications to probability, statistics, dynamical systems. Basic probability and statistics are introduced, as are standard models, techniques, and their uses including the central limit theorem, Markov chains, curve fitting, regression, and pattern analysis.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e479631a1310" role="1" seniority_sort="1">
+                <display_name>Rosalie Belanger-Rioux</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125001" class_number="13552" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1402">Early Christian Thought 2: The Latin Tradition</title>
+            <notes>Tu., Th., 11:30&amp;#8211;1 and hour to be arranged.   Offered jointly with the Divinity School as 1750.</notes>
+            <description>This introductory course will focus on the major Latin authors of the late antique Christian West (second through ninth centuries). Authors will include Tertullian, Ambrose, Jerome, Augustine, Cassian, Gregory the Great, Boethius, and John Scottus Eriugena.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e55047a1310" role="1" seniority_sort="1">
+                <display_name>Charles Stang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110957" class_number="14438" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 13">Scriptures and Classics</title>
+            <description>An introduction to the history of religion through selective reading in significant, iconic texts from diverse religious and cultural traditions. Considers important themes (e.g., suffering, death, love, community, transcendence) as well as problems of method and definition as they present themselves in the sources considered. Readings from texts such as the Upanisads, Bhagavad Gita, Dhammapada, Lotus Sutra, Analects, Chuang Tzu, Gilgamesh, Black Elk Speaks, Aeneid, Torah, Talmud, New Testament, and Qur'an.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e51263a1310" role="1" seniority_sort="1">
+                <display_name>William A. Graham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

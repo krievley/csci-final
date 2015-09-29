@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123659" class_number="15763" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 22M">The Human Brain</title>
+            <exam_group>FAS13_G</exam_group>
+            <notes> Open to Freshmen only. This seminar is designed for non-science concentrators.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Investigates human brain function through famous neurological cases and what we have learned from them: Broca's patient "Tan" whose case led to the identification of one of the brain's language areas; Phineas Gage, whose injury to a specific brain region changed his personality dramatically; and patient HM who, after brain surgery, no longer could remember things for more than a few minutes. Readings will be from my book Creating Mind.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:29:00" location="Northwest Bldg 353 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e225124a1310" role="1" seniority_sort="1">
+                <display_name>John Dowling</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

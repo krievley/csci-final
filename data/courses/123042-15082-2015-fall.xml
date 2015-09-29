@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123042" class_number="15082" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2446R">Clinical Research Laboratory</title>
+            <notes> Open to graduate and undergraduate students working in the instructor's laboratory.</notes>
+            <description>Provides instruction and experience conducting clinical research in laboratory and clinical settings, with a special focus on severe psychopathology. Topics will include: Self-Injurious behaviors, depression, and adult attachment patterns in close relationships.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Laboratory Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6193a1310" role="1" seniority_sort="1">
+                <display_name>Jill Hooley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

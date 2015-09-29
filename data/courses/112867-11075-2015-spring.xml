@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112867" class_number="11075" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 287">Topics in Computational Linguistics and Natural Language Processing</title>
+            <notes> The course is being offered jointly with the linguistics program as Linguistics 287, with computationally-oriented final projects. Students may not take both Computer Science 287r and Linguistics 287 for credit.</notes>
+            <prereq>Recommended: Computer Science 187 or Linguistics 116 or permission of instructor.</prereq>
+            <description>In-depth investigation of topics in computational linguistics and natural-language processing. Students discuss research papers and undertake a significant research project. This term, the course will focus on synchronous grammars and their use for formal modeling of the semantics of natural language, including background on Montague grammar, pertinent logic, lambda calculus, applications to machine translation and other language-processing problems.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e49268a1310" role="1" seniority_sort="1">
+                <display_name>Alexander Rush</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

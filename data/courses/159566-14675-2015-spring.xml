@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159566" class_number="14675" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 290B">Current Topics in Molecular, Cellular and Organismal Biology</title>
+            <description>This class teaches students how to publicly present scientific papers to a diverse audience with emphasis on contextualizing the scientific problem under discussion, critically presenting the essential data, and using an engaging presentation style. Required for all first and second year graduate students in the Molecules, Cells and Organisms (MCO) Training Program. This course is part two of a two part series.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="16:29:00" location="" start_time="15:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e41847a1310" role="1" seniority_sort="1">
+                <display_name>Vladimir Denic</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

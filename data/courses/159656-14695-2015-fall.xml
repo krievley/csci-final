@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159656" class_number="14695" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1930">Literature and Social History: A View from Brazil</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>The objective of this course is to study major authors and works of nineteenth-century Brazilian fiction. Writing fiction from a spot deemed to be in the &amp;ldquo;periphery&amp;rdquo; of the western world meant a difficult and complex engagement with European literary and intellectual traditions. The course will focus primarily on the evidence regarding changes in the politics of social dominance in the period &amp;ndash;from slavery and paternalism to the worlds and meanings of &amp;ldquo;free&amp;rdquo; labor. Questions of class, gender and race in the general context of defining and setting new limits of citizenship rights will be emphasized.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Robinson 106 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40908a1310" role="1" seniority_sort="1">
+                <display_name>Sidney Chalhoub</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

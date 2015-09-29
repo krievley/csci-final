@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159691" class_number="14758" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1021">Religious Diversity and The Age of Pluralism</title>
+            <exam_group>FAS12_G</exam_group>
+            <description>How has the diversity of religion in today&amp;#39;s world brought new challenges to nations, societies, and communities?&amp;nbsp; How has religious diversity given rise to new theological and spiritual perspectives within each religious tradition? What does interfaith mean in the many contexts of human life and faith today? We will look at both civic and religious perspectives on the problems of religious difference, considering major writings on the meanings and regimes of religious pluralism in the U.S., Europe, and India.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="Barker 403 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e54862a1310" role="1" seniority_sort="1">
+                <display_name>Diana Eck</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

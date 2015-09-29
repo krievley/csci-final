@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156003" class_number="11109" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90L">Stories of Slavery and Freedom</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>In the last generation, scholars have revolutionized our understanding of slavery and freedom in the modern Atlantic world. This sea-change has been the result of a major methodological shift: to view this history through the eyes of slaves rather than the eyes of masters. This course will examine the history of the "black Atlantic" through a diverse range of cultural texts--poetry, pamphlets, court cases, petitions, autobiographies, novels, speeches, and sermons--produced by slaves, free blacks, and abolitionists from the Age of Revolution to emancipation.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Sever 308 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e134296a1310" role="1" seniority_sort="1">
+                <display_name>Timothy McCarthy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

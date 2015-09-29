@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108001" class_number="19330" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 230RS">Sounds Studies</title>
+            <description>Course examines central themes in the emerging field of sound studies as they intersect with topics in music theory. We explore a range of histories, theories, archeologies and ethnographies of sound and listening, along with topics in media theory, science and technology studies, performance studies, and music analysis.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

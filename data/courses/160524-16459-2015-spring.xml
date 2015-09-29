@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160524" class_number="16459" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 233">Writing Across Cultures: Literatures of the World (from 1750 to the present)</title>
+            <description>	An overview of world literature in the modern period through a series of international styles and literary ideological movements. In lectures, discussions, and close readings of theoretical and imaginative texts from around the world, we will examine &amp;quot;world literature&amp;quot; as an emerging concept in relation to such forces as censorship, propaganda, translation, centers, contact zones, and canon formation.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e42229a1310" role="1" seniority_sort="1">
+                <display_name>William Todd</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

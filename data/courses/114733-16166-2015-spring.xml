@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114733" class_number="16166" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2880">Advanced Seminar on China's International Relations</title>
+            <prereq>Recommended: For graduate students only. Ability to read Chinese documents is required. Prior course work in international relations theory and in Chinese foreign policy strongly recommended.</prereq>
+            <description>An intensive reading and research course in the application of social science theories and methods to the study of Chinese foreign policy. Topics will include structural, economic, normative, domestic, political, and psychological theories, research methods and data sources, and their use in the analysis of China&amp;rsquo;s bilateral and multilateral international relations.&amp;nbsp;For graduate students only.&amp;nbsp;Ability to read Chinese documents is required. Prior course work in international relations theory and in Chinese foreign policy strongly recommended.&amp;nbsp; </description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19657a1310" role="1" seniority_sort="1">
+                <display_name>Alastair Johnston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

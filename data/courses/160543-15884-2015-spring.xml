@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160543" class_number="15884" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 160M">James Joyce and the Modern Novel</title>
+            <description>This course examines several major novels from the late 19th and early 20th centuries with special attention to the way fiction captures both psychological depth and social breadth. We read Feodor Dostoevsky&amp;rsquo;s Crime and Punishment, George Eliot&amp;rsquo;s Middlemarch, Henry James&amp;rsquo;s The Portrait of a Lady, Marcel Proust&amp;rsquo;s Swann&amp;rsquo;s Way and James Joyce&amp;rsquo;s Ulysses. The survey combines a detailed discussion of the masterpieces themselves with the historical and cultural contexts that shaped them.&amp;nbsp;</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Discussion</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

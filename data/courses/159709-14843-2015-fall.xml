@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159709" class_number="14843" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1330">Ancient Greek Sanctuaries: Sacred Games</title>
+            <exam_group>FAS03_D</exam_group>
+            <notes> Enrollment limited to 15 with the permission of the instructor, by application 
+at the first course meeting. Offered jointly with the Divinity School as 3111.</notes>
+            <description>Why were ancient Greek athletic competitions conducted as religious tradition and ritual observance? What was the relationship of the idealized Greek athlete to the Olympian world of the gods, and the chthonic, local world of the heroes? How were athletics related to political power and cultural memory? Exploring the four classical sanctuaries that were the sites of Panhellenic games (Olympic, Pythian [Delphi], Nemean, and Isthmian [Corinth]), as well as the Panathenaic Games in Athens, this course considers both archeological and literary evidence.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Rockefeller 116 (HDS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e55231a1310" role="1" seniority_sort="1">
+                <display_name>Kimberley Patton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

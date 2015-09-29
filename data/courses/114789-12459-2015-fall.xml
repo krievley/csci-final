@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114789" class_number="12459" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 115">Cellular Basis of Neuronal Function</title>
+            <exam_group>FAS14_A</exam_group>
+            <description>The essential function of a neuron is to processes complex signals derived from the external world. To accomplish this function, neurons employ diverse mechanisms that respond to chemical and electrical signals with incredible sensitivity and plasticity. In this course, we will study these electrical, molecular, and cellular processes using biophysical and biological approaches. Specifically, we will explore topics on excitable membranes, neurotransmission, ion channels, dendritic integration, intracellular signaling, and synaptic plasticity in the context of various model circuits in the brain.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="14:59:00" location="Biological Labs 1080 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e98995a1310" role="1" seniority_sort="1">
+                <display_name>Venkatesh Murthy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

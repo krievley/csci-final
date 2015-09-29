@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118858" class_number="12369" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 255">Social Stratification: Seminar</title>
+            <exam_group>FAS18_H</exam_group>
+            <notes>&amp;nbsp; &amp;nbsp;  </notes>
+            <description>This course examines the dimensions and magnitude of inequality in industrial societies, with a heavy emphasis on the United States since the mid-20th century. The readings and class discussion are designed to expose students to a broad range of influential pieces in the social stratification literature. In particular, we will study inequality through: pay for work, race, neighborhoods, gender, family, mobility, education, social capital, and rising income inequality since 1980.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="William James 450 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e17325a1310" role="1" seniority_sort="1">
+                <display_name>Alexandra Killewald</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

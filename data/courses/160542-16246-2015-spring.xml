@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160542" class_number="16246" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 154F">Faulkner, Morrison, and the Representation of Race</title>
+            <description>This course has two abiding aims. One is to explore in depth&amp;mdash;and back to back&amp;mdash;the fiction of (arguably) the two major 20th-century novelists concerned with race in America. The other is to work toward evaluative criteria that might be genuinely attentive to both the intricacies of race and the achievements of form. &amp;nbsp;A particular challenge will be the following: how to focus on race (and secondarily gender) yet keep the two writers&amp;#39; distinctive voices from disappearing into &amp;quot;white/male&amp;quot; and &amp;quot;black/female.&amp;quot; Faulkner readings will include some short stories as well as Light in August, Absalom, Absalom!, and Go Down, Moses. &amp;nbsp;Morrison readings will include Playing in the Dark as well as Sula, Song of Solomon, Beloved, A Mercy, and Home.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111385" class_number="16588" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 219R">19th- and 20th-Century Music</title>
+            <notes> Open to undergraduates with permission of instructor.</notes>
+            <description>Technologies of Sound 1830-1930. This seminar gives an overview of scholarship about sound technology, and seeks concrete object lessons by examining inventions, instruments, and devices, as well as musical works and films. We will cover philosophical approaches to techne; ideas about inscription and prosthesis; and sound technology&amp;rsquo;s role in epistemologies of the senses and cognition.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e61875a1310" role="1" seniority_sort="1">
+                <display_name>Carolyn Abbate</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159735" class_number="16248" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 31C">American Moderns and Photography</title>
+            <exam_group>FAS14_H</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course explores Modern American fiction from Du Bois and Stein through Anderson, Toomer, Cather, Hemingway, Fitzgerald, Faulkner and Dos Passos.&amp;nbsp; We focus on form and structure in relation to meaning and subject matter (love, sex, family, community, race, war, bureaucracy, and alienation), and the lines of influence these writers had on each other.&amp;nbsp; Each of these writers was greatly influenced by photography, and we examine the degree to which the form and structure of their fiction was inspired by Alfred Stieglitz&amp;rsquo; Camera Work and similar art books and exhibitions.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Lamont Library 240 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e57590a1310" role="1" seniority_sort="1">
+                <display_name>John Stauffer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

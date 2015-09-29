@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126360" class_number="19358" school_id="fas" section="003" term_code="fall">
+        <catalog_info>
+            <title short_title="NEUROBIO 101">Neurobiology 101 for Sectioning</title>
+            <exam_group>FAS06_E</exam_group>
+            <department code="NEURO">Neurobiology</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+    </course>
+</courses>

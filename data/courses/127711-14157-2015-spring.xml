@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127711" class_number="14157" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 304QC">Regeneration and Repair in the Mammalian Nervous System: Cellular and Molecular Mechanisms</title>
+            <notes> Given in alternate years.</notes>
+            <description>Approaches toward mammalian neural regeneration, comparing and contrasting development with adult plasticity/repair. Overview lectures and discussion of primary literature, motivated by motor and sensory circuitry central to spinal cord injury, ALS, and peripheral nerve injury.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="19:29:00" location="" start_time="17:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e108073a1310" role="1" seniority_sort="1">
+                <display_name>Zhigang He</display_name>
+            </person>
+            <person id="d1e260607a1310" role="2" seniority_sort="2">
+                <display_name>Larry Benowitz</display_name>
+            </person>
+            <person id="d1e168222a1310" role="2" seniority_sort="3">
+                <display_name>Jeffrey Macklis</display_name>
+            </person>
+            <person id="d1e99328a1310" role="2" seniority_sort="4">
+                <display_name>Clifford Woolf</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

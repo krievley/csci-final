@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108495" class_number="16255" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 89H">Henry Kissinger: Statecraft in Theory and Practice</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>As National Security Adviser and Secretary of State, Henry Kissinger was the architect of the policy of d&amp;eacute;tente with the Soviet Union, of the &amp;quot;opening&amp;quot; to China, and of the effort to salvage &amp;quot;peace with honor&amp;quot; in Vietnam. Yet Kissinger should be understood as a scholar as well as a statesman. Using selections from his writings, this seminar will assess Kissinger in his own terms and in the context of modern international history.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="CGIS South S354 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e35075a1310" role="1" seniority_sort="1">
+                <display_name>Niall Ferguson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

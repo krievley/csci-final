@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125226" class_number="13605" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 23M">Nutrition and Public Health</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> Clinical rounds with Nutrition Support Services at Children's Hospital are optional.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Introduction to the critical reading of technical nutrition and medical literature; surveys current issues in public health and public policy relating to nutrition. Critical analysis of different types of medical literature: historical monographs, metabolic laboratory observations, clinical case reports, epidemiological surveys, prospective randomized controlled trials, metaanalyses, and literature reviews. Prepares science and non-science concentrators to examine critically current controversies for themselves; requires active participation and presentation by students.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:29:00" location="Eliot House Common Rm" start_time="18:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e155014a1310" role="1" seniority_sort="1">
+                <display_name>Clifford W. Lo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122248" class_number="13499" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 153BR">Intermediate Animation Workshop</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.
+
+This course has an additional weekly film screening, Friday, 1-3 pm.</notes>
+            <prereq>Recommended: This course welcomes both introductory level and intermediate level students.</prereq>
+            <description>This course offers returning animators a chance to extend and deepen skills and understanding of animation and to make a more substantial piece of work, alongside introductory level students who will learn some basic tools of animation. Additional exercises encourage students to challenge themselves and explore a range of creative possibilities.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e50757a1310" role="1" seniority_sort="1">
+                <display_name>Ruth S. Lingford</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

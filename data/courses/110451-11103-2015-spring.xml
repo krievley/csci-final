@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110451" class_number="11103" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 64">The Cell Biology of Human Life in the World</title>
+            <description>This course teaches fundamental concepts in cell biology in the context of individual life histories drawn from different parts of the world. Each life case focuses on key aspects of human development, growth, aging and disease while providing a nuanced view of the interplay between the life sciences, geography and culture. For example, a comparative discussion of aging in the United States and Japan is used to explore diet, cellular metabolism and its relationship to protein damage and turnover, while the Human Immunodeficiency Virus and AIDS in South Asia is used to explore mucosal immunity and the basis for estimating relative infection risk. Each case delves into the cell biology of major biological events across the life history of the human</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e270405a1310" role="1" seniority_sort="1">
+                <display_name>Robert Lue</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

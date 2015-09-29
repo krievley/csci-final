@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114019" class_number="18489" school_id="fas" section="011" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 396">Preparation for General Examinations</title>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e42454a1310" role="1" seniority_sort="1">
+                <display_name>Panagiotis Roilos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

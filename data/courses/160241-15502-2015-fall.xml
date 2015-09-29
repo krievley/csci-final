@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160241" class_number="15502" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1047">Anglo-Saxon and Viking-Age England, AD 400-1100: An Archaeology</title>
+            <exam_group>FAS07_A</exam_group>
+            <description>This course explores the archaeology of Anglo-Saxon and Anglo-Scandinavian England, from the withdrawal of the Late Roman imperial administration until the immediate aftermath of the Norman Conquest. Themes examined include: the creation of &amp;lsquo;Anglo-Saxon&amp;rsquo; societies in different parts of England, from a combined heritage derived from northern Germany, southern Scandinavia and Britain itself; evidence of pagan beliefs and the conversion to Christianity; reflections of social hierarchy in rural settlement and cemetery evidence; transformations from central places to towns; the Viking impact and the creation of the kingdom of England, AD 800-1000;&amp;nbsp; and Eleventh-century England from the Danish to Norman conquests.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Sever 106 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38508a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Loveluck</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

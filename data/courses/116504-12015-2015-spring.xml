@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116504" class_number="12015" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELTIC 300">Reading and Research</title>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="CELTIC">Celtic</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e87755a1310" role="1" seniority_sort="4">
+                <display_name>Tomas O Cathasaigh</display_name>
+            </person>
+            <person id="d1e63327a1310" role="1" seniority_sort="5">
+                <display_name>Catherine McKenna</display_name>
+            </person>
+            <person id="d1e63330a1310" role="1" seniority_sort="6">
+                <display_name>Natasha Sumner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

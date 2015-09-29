@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156645" class_number="11547" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2390">Development Economics</title>
+            <exam_group>FAS08_A</exam_group>
+            <description>This course will cover macro-economic topics including aggregate and non-aggregate growth models, models of technology diffusion and choice; topics in finance including financial development and economic growth, consumer finance; small and medium enterprise finance; debt and equity markets; the role of management and corporate governance; the political economy of finance, and corruption; and a range of topics on the role of population, culture, ethnicity, leaders, corruption in economic development, and the efficacy of industrial policy and foreign aid.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Sever 102 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e535a1310" role="1" seniority_sort="1">
+                <display_name>Michael Kremer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

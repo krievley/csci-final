@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159929" class_number="15114" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 98BE">Culture, Power, and Politics</title>
+            <description>This course examines the role of meaning-making in political life, focusing on how people&amp;#39;s understandings of political phenomena affect their political choices, how political actors frame their claims in order to mobilize public support, and how political institutions and bureaucratic classification systems shape inequality. The material will prepare students for developing their own research projects, which will be collaboratively workshopped in class.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="12:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e33804a1310" role="1" seniority_sort="1">
+                <display_name>Bart Bonikowski</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

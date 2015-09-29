@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111530" class_number="11044" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 2002">Causal Inference</title>
+            <exam_group>FAS03_D</exam_group>
+            <prereq>Prerequisite: Government 2000 AND Government 2001</prereq>
+            <description>Substantive questions in empirical social science research are often causal. Does voter outreach increase turnout? Do political institutions affect economic development? Are job training programs effective? This class will introduce students to both the statistical theory and practice behind making these kinds of causal inferences. We will cover causal identification, potential outcomes, experiments, matching, regression, difference-in-differences, instrumental variables estimation, regression discontinuity designs, sensitivity analysis, dynamic causal inference, and more. The course will draw upon examples from political science, economics, sociology, law, public health, and public policy.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="CGIS Knafel K354 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e58195a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Blackwell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117239" class_number="16583" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 252">Sounds of Silence</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes> Conducted in French.</notes>
+            <description>Silence, feared and revered by literature as its ambiguous dark double (mirror of textual dissolution/sign of textual self-transcendence) is never far from the text. This seminar will explore silence as it haunts nineteenth-century texts.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Boylston 403 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43686a1310" role="1" seniority_sort="1">
+                <display_name>Janet Beizer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

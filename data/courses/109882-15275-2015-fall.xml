@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109882" class_number="15275" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ESPP 77">Technology, Environment, and Society</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes>Weekly section to be arranged.  Offered in alternate years.</notes>
+            <description>Our interactions with the natural world are increasingly mediated through changes in technology. Technologies create risks, generate solutions, reshape the environment, and alter our perception of the boundaries between nature and artifice. This course draws on major theories of technology and society to inform and deepen our understanding of environmental problems and policy options.</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Emerson 108 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11740a1310" role="1" seniority_sort="1">
+                <display_name>Sheila Jasanoff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

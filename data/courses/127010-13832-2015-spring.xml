@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127010" class_number="13832" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LIFESCI 120">Global Health Threats</title>
+            <notes> This course cannot be taken if MCB 120 has already been taken. LS 120 cannot be taken concurrently with MCB 120.</notes>
+            <prereq>Prerequisite: LS 1a and LS 1b, or LPS A and one additional course from the following: Chemistry 27, Engineering 53, Life Sciences 2, MCB 60, MCB 52, MCB 54, OEB 10, OEB 53, or SCRB 10.</prereq>
+            <description>The multidisciplinary application of epidemiology, molecular biology and genetics, pathogenesis, drug discovery, immunology and vaccine development, and economic analysis to understanding and combating major threats to human health in developing countries. Emphasis will be on critical readings and scientific writing. Grades will be based on papers in which students will propose the application of multidisciplinary approaches to global health threats not covered in lecture.&amp;nbsp;</description>
+            <department code="LSCI">Life Sciences</department>
+            <course_group code="LIFESCI">Life Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e270414a1310" role="1" seniority_sort="1">
+                <display_name>Richard Losick</display_name>
+            </person>
+            <person id="d1e325151a1310" role="2" seniority_sort="2">
+                <display_name>Barry Bloom</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

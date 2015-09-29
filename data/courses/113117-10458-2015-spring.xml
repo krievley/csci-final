@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113117" class_number="10458" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 98BR">Methods Tutorial</title>
+            <notes>Joseph Koerner and members of the Department  Required of concentrators, generally in the Junior year.</notes>
+            <description>An introduction to the methods and research skills of art and architectural history.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e22191a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Koerner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110317" class_number="15631" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1876">Society, Culture, and Modernity in Greece</title>
+            <description>This course explores the socio-cultural dynamics of modern Greece through ethnographies, films, and media representations. Special attention will be paid to Greek notions of tradition, history, and heritage; resistance, anarchy, and social banditry; the impact of urbanization; and the ongoing economic crisis in relation to concepts of interpersonal and international debt.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e31242a1310" role="1" seniority_sort="1">
+                <display_name>Michael Herzfeld</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

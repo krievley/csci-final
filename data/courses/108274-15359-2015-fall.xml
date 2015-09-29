@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108274" class_number="15359" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 170">Culture and Networks</title>
+            <exam_group>FAS04_A</exam_group>
+            <description>This course will serve as an overview of the growing field of network research with a particular focus on how patterns of social interaction shape and are themselves shaped by cultural preferences and meaning-making processes. We will discuss a variety of substantive topics, including musical tastes, romantic relationships, organizational collaboration and competition, and social movement mobilization, while paying particular attention to the increasingly important role of social media in establishing and maintaining social ties.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="CGIS South S001 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e33804a1310" role="1" seniority_sort="1">
+                <display_name>Bart Bonikowski</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112630" class_number="15716" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 144R">Networks Design Projects</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes> Preference given to upper-class undergraduates or graduate students in computer science or in business.</notes>
+            <prereq>Recommended: Programming experience (CS 50 should be fine) and interest in the subject matter. Importantly, CS 143 is NOT a prerequisite. Labs and extra support will provide intensive preparation in the first weeks of the semester to help students quickly obtain the networking background necessary to excel in the course.</prereq>
+            <description>Networking has evolved to a new era of supporting large-scale distributed computing for big data. These new networks are software defined in the sense that they can be dynamically programmed to meet various communications needs in computing. In CS 144r/244r, students will obtain the knowledge and experience necessary not only to understand this momentous technological shift in networking, but also to be able to play a part themselves. To this end, the course will not only teach the fundamental concepts necessary to understand this emerging field of software-defined networking, but also real world applications of the technologies such as next-generation ultra-dense 5G cellular networks, as well as their connection with complementary topics such as machine learning. The class will be organized into the following eight modules: A View of the Future: The Promise of Next Generation Networking; Basic Network Design and Protocols; Datacenter Design and Networking; Software Defined Networking; Cross-Disciplinary Applications of Next Generation Networking: Machine Learning, Distributed Computing, and Consumer Applications; Wireless Networking: 5G Networks and Millimeter Wave Communication; Connecting the Internet of Things; Next Generation Networking Enabled Infrastructure: Network Function Virtualization. Students will gain mastery of the subject through lectures, programming assignments, discussion of the latest networking literature, and a final project. Students will have wide latitude in designing and implementing a final project they are passionate about. Industry partners will support the course and provide resources for the final projects.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Maxwell Dworkin 119 (SEAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e54107a1310" role="1" seniority_sort="1">
+                <display_name>H. Kung</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

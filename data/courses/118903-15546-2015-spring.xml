@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118903" class_number="15546" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCILIVSY 17">Human Physiology: From Personal To Public Health</title>
+            <description>The course introduces students to the functioning of the human body in health and disease. Students will examine critical determinants of their own health (genetics, diet, sleep, exercise, stress, social interactions) and also consider how these and other factors impact the health of diverse communities in both rich and poor countries. Emphasis will be placed on responses of the human organism to infection, injury, and environmental stress, and on topics with high public health impact (obesity, smoking, mental health). Activities include lectures, 3 guided laboratories/demonstrations, weekly sections to review key concepts, and a directed term project.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCILIVSY">Science of Living Systems</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e108358a1310" role="1" seniority_sort="1">
+                <display_name>Stephanie Shore</display_name>
+            </person>
+            <person id="d1e444054a1310" role="2" seniority_sort="2">
+                <display_name>Nancy Long Sieber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

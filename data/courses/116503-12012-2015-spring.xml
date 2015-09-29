@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116503" class_number="12012" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 123">Algebra II: Theory of Rings and Fields</title>
+            <prereq>Prerequisite: Mathematics 122 or Mathematics 55a</prereq>
+            <description>Rings and modules. Polynomial rings. Field extensions and the basic theorems of Galois theory. Structure theorems for modules.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e3494a1310" role="1" seniority_sort="1">
+                <display_name>Arul Shankar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

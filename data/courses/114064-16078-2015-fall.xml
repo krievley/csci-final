@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114064" class_number="16078" school_id="fas" section="046" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 3000">Direction of Doctoral Dissertations</title>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e38553a1310" role="1" seniority_sort="1">
+                <display_name>Jill Lepore</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

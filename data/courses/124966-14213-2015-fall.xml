@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124966" class_number="14213" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ASTRON 200">Radiative Processes in Astrophysics</title>
+            <exam_group>FAS08_A</exam_group>
+            <notes> Open to seniors concentrating in Astrophysics or Physics. This course is offered each year.</notes>
+            <prereq>Recommended: Physics 143a.</prereq>
+            <description>This course offers a survey of radiative processes of astrophysical importance from radio waves to gamma rays. Topics include thermal and non-thermal processes, including bremsstrahlung, synchrotron radiation, and Compton scattering; radiation in plasmas; aspects of atomic and molecular spectra.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Observatory A 101 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e243938a1310" role="1" seniority_sort="1">
+                <display_name>Ramesh Narayan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

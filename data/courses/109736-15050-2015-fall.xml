@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109736" class_number="15050" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94LG">Legalism</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>The course invites students to explore the distinctive characteristics of legalistic modes of thought and the moral justifications offered for legalism. We will also consider a variety of moral objections to legalism: the power of romantic resistance to rule-making and rule-following, "realism" and others. Legalistic practices and institutions - juries, university disciplinary committees, contracts, "truth commissions", and others -- provide materials for reflecting on the use and misuse of rule-making and rule-following. Readings include political theory, literature, and court cases.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="CGIS Knafel K107 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e5188a1310" role="1" seniority_sort="1">
+                <display_name>Nancy Rosenblum</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

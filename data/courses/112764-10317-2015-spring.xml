@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112764" class_number="10317" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HLTHPOL 3000">Doctoral Dissertation Research</title>
+            <notes>Members of the Committee  </notes>
+            <description>Dissertation research.</description>
+            <department code="HPOL">Health Policy</department>
+            <course_group code="HLTHPOL">Health Policy</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

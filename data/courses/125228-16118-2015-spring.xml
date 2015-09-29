@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125228" class_number="16118" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1359">The Road to the White House</title>
+            <notes>american_subfield  </notes>
+            <description>Examines the role of presidential campaigns and elections in American politics. Studies the origins and evolution of the presidential nominating and electoral process and explores how modern campaigns inform, influence, and mobilize voters. Topics include the role of political parties and candidates, campaign strategies and issues, political advertisement and media coverage, and campaigning and governing. Special efforts will be made to incorporate major developments in the 2012 campaign with political science research on presidential campaigns and elections.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e115287a1310" role="1" seniority_sort="1">
+                <display_name>Carlos Diaz Rosillo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

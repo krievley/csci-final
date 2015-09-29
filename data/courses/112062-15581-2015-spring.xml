@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112062" class_number="15581" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1010B">Intermediate Macroeconomics</title>
+            <notes> Economics 1010b fulfills the intermediate macroeconomic theory requirement for Economics concentrators. Students may take either Economics 1010b or Economics 1011b for credit.  This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning..</notes>
+            <prereq>Recommended: Economics 10a . While no specific mathematics course is required, knowledge of calculus at the level of Mathematics 1a is assumed.</prereq>
+            <description>Theories and evidence on economic growth and fluctuations. Determination of gross domestic product, investment, consumption, employment, and unemployment. Analysis of interest rates, wage rates, and inflation. Roles of fiscal and monetary policies.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e402279a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Foote</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

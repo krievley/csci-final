@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116041" class_number="15019" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ASTRON 99A">Senior Thesis in Astrophysics</title>
+            <exam_group>FAS03_D</exam_group>
+            <notes> This course is offered each year.</notes>
+            <prereq>Prerequisite: Astronomy 98</prereq>
+            <description>Individually supervised reading and research leading to the senior thesis. The Harvard-Smithsonian Center for Astrophysics is home to one of the largest groups of astronomers in the world, providing extensive opportunities for undergraduate research. Part one of a two part series.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e27172a1310" role="1" seniority_sort="1">
+                <display_name>David Charbonneau</display_name>
+            </person>
+            <person id="d1e27175a1310" role="1" seniority_sort="2">
+                <display_name>Alicia Soderberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

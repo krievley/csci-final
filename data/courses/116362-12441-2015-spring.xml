@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116362" class_number="12441" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 6">Introduction to Environmental Science and Engineering</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+            <prereq>Recommended: The course presumes basic knowledge in chemistry, physics, and mathematics at the high school level.</prereq>
+            <description>This course will provide an introduction to environmental science and engineering through case studies of some of the most pressing environmental issues. Course modules will include climate and air quality; food production and environmental impact; availability and quality of water; species biodiversity and ecosystem services; and ecological economics, risk management and environmental policy. Case studies will provide an introduction to the fundamental principles underlying disciplines in environmental research including chemistry, hydrology, soil science, ecology, statistics, and economics. Engineering solutions to societal problems will be discussed in the context of energy availability, air and water pollution control, design of effective monitoring strategies for ecological populations, and metrics used to evaluate the effectiveness of environmental policies.
+
+&amp;nbsp;</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e22098a1310" role="1" seniority_sort="1">
+                <display_name>Elsie Sunderland</display_name>
+            </person>
+            <person id="d1e14629a1310" role="1" seniority_sort="2">
+                <display_name>Patrick Ulrich</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

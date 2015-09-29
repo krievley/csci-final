@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119217" class_number="12548" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2430">Cultural and Individual Diversity</title>
+            <exam_group>FAS12_E</exam_group>
+            <notes> Limited to Harvard doctoral students in clinical psychology.</notes>
+            <description>Examines cultural, racial, ethnic, and other individual differences in human behavior which affect the practice of psychology. Reviews current science examining the relations between these factors and human behavior, psychopathology, and provision of psychological services.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="William James 1251 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e85827a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Nock</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

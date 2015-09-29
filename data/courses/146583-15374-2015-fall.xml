@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146583" class_number="15374" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 210">Early Middle English Identities: Graduate Seminar</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>Post-Conquest literature in England witnessed the formation of new linguistic and national identities. At times retrospective and nostalgic, at times innovative, it was a period of ambivalence on many levels. We will read through a variety of genres, with facing page translations for the more difficult texts, but always with attention to the language. Texts include Lawman's Brut, The Owl and the Nightingale, various lyrics, the South English Legendary, Sir Orfeo, Dame Sirith, and others.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Barker 269 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e59730a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Donoghue</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

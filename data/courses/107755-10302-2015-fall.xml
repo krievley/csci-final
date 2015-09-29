@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107755" class_number="10302" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="NEUROBIO 230">Visual Recognition: Computational and biophysical perspective</title>
+            <exam_group>FAS13_E</exam_group>
+            <notes> Course website: &lt;a href="http://klab.tch.harvard.edu/academia/classes/hms_neuro300_vision/hms_neuro300_vision.html"&gt;Neurobiology 230, Visual Recognition&lt;/a&gt;
+
+Neuro 230 cannot be taken if Neuro 130 has been taken. Neuro 230 cannot be taken concurrently with Neuro 130.</notes>
+            <prereq>Anti-Req: NEURO 130</prereq>
+            <description>Examines how neuronal circuits represent information and how those circuits are implemented in artificial intelligence algorithms. Topics: architecture of visual cortex, neurophysiology, visual consciousness, computational neuroscience, models of pattern recognition and computer vision.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:29:00" location="Biological Labs 1075/1077(FAS)" start_time="15:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e31760a1310" role="1" seniority_sort="1">
+                <display_name>Gabriel Kreiman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160954" class_number="16909" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 284">Optimization Algorithms for Robotics</title>
+            <prereq>Recommended: Linear algebra and calculus. Prior exposure to robotics and dynamics is helpful, but not required. Students will be expected to complete programming problems in MATLAB.</prereq>
+            <description>Computational methods have revolutionized the way we control the motions of complex, nonlinear, and underactuated robots. In this course, we study a variety of optimization algorithms for designing and stabilizing trajectories for walking, manipulating, and flying systems. Topics will include optimal control (HJB and Pontryagin&amp;rsquo;s minimum principle), nonlinear optimization, trajectory planning (shooting and direct methods) and stabilization, model-predictive control, legged systems (classical models, humanoids, centriodal dynamics), convex methods for control and stability analysis, and optimization through frictional contact. Students will gain practical experience implementing modern algorithms to control a variety of simulated systems using the Drake software toolbox.**http://drake.mit.edu</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e285726a1310" role="1" seniority_sort="1">
+                <display_name>Scott Kuindersma</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

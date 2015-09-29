@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109297" class_number="10106" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 3011">The Behavioral and Experimental Economics Workshop</title>
+            <prereq>Prerequisite: (Economics 2010a OR Economics 2020a) AND (Economics 2010b OR Economics 2020b)</prereq>
+            <description>For students with an interest in economic theory. Faculty presentations by Harvard and MIT economists and invited guests. The location alternates between Harvard and MIT.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15776a1310" role="2" seniority_sort="1">
+                <display_name>Jerry Green</display_name>
+            </person>
+            <person id="d1e15779a1310" role="2" seniority_sort="2">
+                <display_name>David Laibson</display_name>
+            </person>
+            <person id="d1e15782a1310" role="2" seniority_sort="3">
+                <display_name>Tomasz Strzalecki</display_name>
+            </person>
+            <person id="d1e15785a1310" role="2" seniority_sort="4">
+                <display_name>Matthew Rabin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118139" class_number="11957" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ASTRON 202A">Galaxies and Dynamics</title>
+            <exam_group>FAS17_B</exam_group>
+            <notes> This course offered in alternate years.</notes>
+            <description>An overview of extragalactic astronomy. Galaxy formation, evolution and properties, galactic dynamics, clustering, gas dynamics, star formation and other topics at the frontiers of extragalactic astronomy.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Observatory A 101 (FAS)" start_time="09:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e160964a1310" role="1" seniority_sort="1">
+                <display_name>Charles Conroy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

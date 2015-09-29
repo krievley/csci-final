@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119681" class_number="12903" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 269R">Topics in Statistical Physics and Physical Biology</title>
+            <prereq>Recommended: Physics 262, Applied Physics 284 or equivalent.</prereq>
+            <description>Introduction to strongly interacting soft condensed matter and biophysical systems. We begin with the physics of cells and related single molecule experiments on bio-polymers such as DNA, RNA and proteins. A major part of the course will then focus on genetic engineering, and the non-equilibrium statistical dynamics of genetic circuits and neural networks.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e112416a1310" role="1" seniority_sort="1">
+                <display_name>Erel Levine</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

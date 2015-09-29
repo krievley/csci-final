@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160375" class_number="15449" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94RU">Multinational Corporations and Global Governance</title>
+            <description>Globalization is a fact of everyday life, and multinational corporations are widely regarded as its major drivers and beneficiaries. Yet the social sciences have done a relatively poor job in elucidating MNCs as self-constituting entities, some of which operate in more countries and territories than sit in the United Nations. This seminar examines how the current form of corporate globalization came about, the influence MNCs exercise in relation to global governance, and by what means the globally fragmented political system can address negative effects of and promote positive contributions by MNCs. Examples are drawn largely from the field of human rights.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

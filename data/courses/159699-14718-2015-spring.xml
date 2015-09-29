@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159699" class_number="14718" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 105B">Fundamentals of Computational Neuroscience</title>
+            <prereq>Prerequisite: LS 1a AND MCB 80</prereq>
+            <description>The brain is an extremely complex computing device. Computational neuroscience seeks to understand brain function by constructing mathematical models of the nervous system to summarize our knowledge and gain new insights into how neurons perform basic tasks, e.g., encode stimuli, form memories, or generate movements. This course presents computational techniques for investigating, modeling, and understanding the function of neurons, neuronal networks, and systems. Students must complete both terms of this course(parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NEURO">Neurobiology</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:29:00" location="" start_time="19:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e140891a1310" role="1" seniority_sort="1">
+                <display_name>Alexander Mathis</display_name>
+            </person>
+            <person id="d1e315842a1310" role="1" seniority_sort="2">
+                <display_name>Ashesh Dhawale</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

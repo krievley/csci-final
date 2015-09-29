@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109733" class_number="10555" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94PY">Revolution and Politics in Contemporary Iran</title>
+            <exam_group>FAS05_C</exam_group>
+            <description>Iran is increasingly a significant power in the Middle East and a salient country to global affairs. Accordingly, this course examines the intricacies of Iranian politics since the 1979 revolution. It explores a broad range of topics including the causes of the Iranian revolution; the political implications of the Islamic regime's institutional architecture; the competitive factional dynamics within the ruling elite; Iranian foreign policy, Iran-US relations, and nuclear negotiations; and Shia political ideology.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="CGIS South S040 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7144a1310" role="1" seniority_sort="1">
+                <display_name>Payam Mohseni</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

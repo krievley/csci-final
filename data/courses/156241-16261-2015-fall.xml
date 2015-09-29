@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156241" class_number="16261" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 34V">Broadway Musicals: History and Performance</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Student musicians and actors are welcome in the course, as are students who love to watch shows but not necessarily perform in them. Ability to read music is desirable but not required.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar will explore a core group of Broadway musicals. Historical, musical, and theatrical discussions will be paired with student performances and staging of individual scenes (done under the guidance of Allegra Libonati from the A.R.T. Institute). The seminar will touch on signal moments over the course of the &amp;ldquo;Golden Age&amp;rdquo; of the musical, stretching up to the present day:&amp;nbsp;Oklahoma!&amp;nbsp;(1943),&amp;nbsp;South Pacific&amp;nbsp;(1949),&amp;nbsp;West Side Story&amp;nbsp;(1957),&amp;nbsp;A Chorus Line&amp;nbsp;(1975),&amp;nbsp;Wicked&amp;nbsp;(2003), and&amp;nbsp;In the Heights (2008). The class will attend a performance of Stephen Sondheim&amp;rsquo;s A Little Night Music&amp;nbsp;at Boston&amp;#39;s Huntington Theatre. Blending historical study and hands-on practice, this seminar aims to offer a wide range of perspectives on the interpretation and performance of Broadway musicals.&amp;nbsp;</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Music PH4 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60234a1310" role="1" seniority_sort="1">
+                <display_name>Carol Oja</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

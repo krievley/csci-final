@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127207" class_number="13761" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BBS 301">Embedded Teaching Practicum (for Graduate Teaching Assistants)</title>
+            <notes> TAs should contact Jason Heustis (Ronald_Heustis@hms.harvard.edu).</notes>
+            <description>Course for TAs currently teaching in an approved BBS Core Course. The embedded teaching practicum provides practice-based training in facilitating a group discussion; professionalism in the classroom; curriculum design, course evaluation and assessment development; and preparation for teaching throughout and beyond time in graduate school. Teaching assistants are provided training and experience in the development of an early-career teaching philosophy.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BBS">Biological and Biomedical Sciences</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e7093a1310" role="1" seniority_sort="1">
+                <display_name>Johanna Gutlerner</display_name>
+            </person>
+            <person id="d1e305251a1310" role="2" seniority_sort="2">
+                <display_name>Ronald Heustis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

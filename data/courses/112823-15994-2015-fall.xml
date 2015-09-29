@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112823" class_number="15994" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RUSS BA">Intermediate Russian I</title>
+            <exam_group>FAS10_A</exam_group>
+            <prereq>Recommended: Russian Aa-Ab, Aab, Ata-Atb, Ah, or placement at the B-level. Familiarity with fundamentals of Russian grammar, particularly case endings, verb conjugation, and elementary competence in spoken Russian.</prereq>
+            <description>Part one of a two part intermediate course in modern Russian language and culture for students with previous study of the language. Further development of vocabulary and oral expression within a comprehensive review of Russian grammar. All four major communicative skills (speaking, listening comprehension, reading, writing) are stressed as students learn to use the language both as a means of communication and as a tool for reading and research. Systematic study of word formation and other strategies are taught to help free students from excessive dependence on the dictionary and develop confidence in reading. Vocabulary is thematically organized to include such topics as self and family, education, work, human relationships, politics, and national attitudes and is reinforced through film and the reading of classical and contemporary fiction and history. Practice in the etiquette of common social situations (sociolinguistic competence). Computer exercises on selected topics. Any full course in Russian at the B-level (Russian Ba-Bb, Russian Bta-Btb, or Intensive Russian Bab) will prepare students for continued study of Russian at the advanced level (Russian 101) and for study or travel abroad in Russian-speaking countries.Please note that this course will also meet for two additional hours of speaking practice to be arranged the first week of classes. See&amp;nbsp;language course notes on our website&amp;nbsp;for information about sectioning, pass/fail, satisfactory/unsatisfactory, auditing, and language track information.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Science Ctr 104 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e14486a1310" role="1" seniority_sort="11">
+                <display_name>Steven Clancy</display_name>
+            </person>
+            <person id="d1e115611a1310" role="1" seniority_sort="12">
+                <display_name>Veronika Egorova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

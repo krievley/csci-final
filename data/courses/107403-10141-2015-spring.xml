@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107403" class_number="10141" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1760">Behavioral Finance</title>
+            <prereq>Recommended: Econ 1723</prereq>
+            <description>Theory and evidence on mispricing in financial markets due to investor psychology or institutional constraints. Broad themes are the practical limits of arbitrage, models of psychological behavior, and predictability of security returns. Specific topics may include market bubbles and crashes, closed end funds, value vs. growth, momentum, the money management industry, and short sale constraints.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e358477a1310" role="1" seniority_sort="1">
+                <display_name>Owen Lamont</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

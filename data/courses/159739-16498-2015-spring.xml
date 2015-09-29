@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159739" class_number="16498" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 31R">Guilty until Proven Innocent. Finding Justice and Truth in the Middle Ages</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Diving into the world of medieval law and rituality, students will discover the &amp;ldquo;Real Game of Thrones&amp;rdquo;. We are going to explore concepts of justice and law, encompassing the first written laws from the time of the so-called Barbarian Invasions, Church law, and reminiscences of pre-Christian rituals. The place of the divine in search of truth and justice, of women in a male-dominated culture, of Jews in a world ruled by Christian sovereigns will be analyzed in particular. Students will work with primary sources in order to elucidate the ways in which truth and justice were searched and established.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e125311a1310" role="1" seniority_sort="1">
+                <display_name>Racha Kirakosian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

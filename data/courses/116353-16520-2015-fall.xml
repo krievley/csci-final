@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16520" school_id="fas" section="217" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>Who gets ahead in America? Why do some succeed while others fail?&amp;nbsp; How do we account for the influence of various complex factors&amp;mdash;societal, community, family, and individual psychology, to name just a few? How do adolescents today handle the pressure to achieve what seems to go hand-in-hand with being an American teenager? In this course, we will examine questions of success, failure, achievement, and identity viewed through the lens of current theories in psychology. We will begin with a longitudinal, ethnographic study of four American children. Through case material that details their daily lives, we will explore how factors like race, gender, and the wealth of their families affected these children&amp;rsquo;s lived experiences of childhood and, when they were older, their chances of successfully getting into college. Next, we will examine two popular narratives of success and failure&amp;mdash;the documentary film  Hoop Dreams , which tells the story of two teenagers from Chicago who aimed to be good enough at basketball to play for the NBA, and  The Overachievers , a best-selling journalistic account of the pressure for academic achievement felt by students at an elite public high school on the East Coast. We&amp;rsquo;ll read sources that explore how passion, motivation, and a quest for competence all contribute to an individual&amp;rsquo;s drive to succeed. In the final unit of the course, we will explore the consequences of achievement pressure on students&amp;rsquo; mental health during the college years, examining research on topics such as sleep deprivation, perfectionism, depression, and suicide. Throughout the course, we will use psychological theory to motivate questions and answers about human behavior in a society where the demand for success can be tantalizingly high and the fear of failure devastatingly relentless. </notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="Sever 109 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172972a1310" role="1" seniority_sort="1">
+                <display_name>Julia Hayden</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

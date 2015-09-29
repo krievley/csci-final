@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126848" class_number="17159" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1555">Wired to Connect? The Neuroscience of Social Understanding and Interaction.</title>
+            <exam_group>FAS06_E</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18, Science of Living Systems 15 or MCB 80 before enrolling in this course.</prereq>
+            <description>By some accounts, the large expansion of the human brain evolved due to the complex demands of dealing with social others&amp;mdash;competing or cooperating with them, deceiving or empathizing with them, understanding or misjudging them. This discussion-based seminar surveys the emerging field of social cognitive neuroscience and its multi-level, multi-method approach to understanding the brain in its social context. We will review current theories and methods guiding the field and recent research examining the neural bases of social processes, including: theory of mind, empathy, morality, social decision-making, intergroup relations, among others.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="William James 1465 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e65908a1310" role="1" seniority_sort="1">
+                <display_name>Mina Cikara</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

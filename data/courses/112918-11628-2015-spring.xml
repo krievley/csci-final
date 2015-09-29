@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112918" class_number="11628" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GREEK BB">Selections from Homer's Iliad</title>
+            <notes>Ivy Livingston and assistant  </notes>
+            <prereq>Recommended: Greek Ab, Aab, Ac, or equivalent.</prereq>
+            <description>An introduction to Homeric poetry: language, meter, formulae, and type scenes.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e194a1310" role="1" seniority_sort="1">
+                <display_name>Ivy Livingston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

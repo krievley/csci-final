@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111843" class_number="11984" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPC-CONC 97R">Tutorial - Sophomore Year</title>
+            <notes>Deborah Foster and members of the Committee  Ordinarily taken by honors sophomores.</notes>
+            <department code="SPCN">Special Concentrations</department>
+            <course_group code="SPC-CONC">Special Concentrations</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

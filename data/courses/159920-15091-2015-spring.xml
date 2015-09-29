@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159920" class_number="15091" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2339RB">Economic History Lunch</title>
+            <notes> Primarily, but not exclusively, for doctoral students in economics who have passed their oral examinations. Popularly known as The History Tea.</notes>
+            <description>Participants discuss recent research in economic history and present their own work in progress. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e18759a1310" role="1" seniority_sort="1">
+                <display_name>Claudia Goldin</display_name>
+            </person>
+            <person id="d1e79652a1310" role="1" seniority_sort="2">
+                <display_name>James Robinson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

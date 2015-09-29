@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156440" class_number="16962" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2310">Social Capital and Public Affairs: Research Seminar</title>
+            <notes> Offered jointly with the Kennedy School as DPI-360. Meets at the Kennedy School.</notes>
+            <description>Topics in the relationship between politics and civil society in the US.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e79698a1310" role="1" seniority_sort="1">
+                <display_name>Robert Putnam</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

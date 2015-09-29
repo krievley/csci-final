@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108705" class_number="11157" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 91R">Supervised Reading and Research</title>
+            <notes>Lisa Parkes  Permission of the Director of Undergraduate Studies is required.</notes>
+            <description>Advanced reading in topics not covered in regular courses.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e16929a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Suetterlin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

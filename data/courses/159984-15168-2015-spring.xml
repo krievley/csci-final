@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159984" class_number="15168" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ESPP 90Y">World Food Systems and the Environment</title>
+            <description>This seminar examines the world&amp;rsquo;s systems for the production and distribution of food as they relate to the earth&amp;rsquo;s physical, chemical, and biological systems.&amp;nbsp; Using scientific readings, papers about economics and politics, and cases about firms, we consider agriculture and food from scientific, public policy, and business strategy perspectives and in relation to environmental issues such as&amp;nbsp;greenhouse gas emissions, carbon and nitrogen&amp;nbsp;cycles, water and soil conservation (including erosion, pollution, and salinization), and the use of genetically modified organisms.&amp;nbsp; Geographic and topical coverage will be broad:&amp;nbsp; the Americas, Europe, Asia, and Africa; as well as water, seeds, fertilizers, animal protein, trade and development.&amp;nbsp;We expect to have numerous guests from the scientific community, government, and business. Some backgroundin biology, government or economics is useful, but not required. &amp;nbsp;</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e66926a1310" role="1" seniority_sort="1">
+                <display_name>Noel Holbrook</display_name>
+            </person>
+            <person id="d1e455247a1310" role="1" seniority_sort="2">
+                <display_name>Robert Paarlberg</display_name>
+            </person>
+            <person id="d1e455250a1310" role="1" seniority_sort="3">
+                <display_name>Forest Reinhardt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156929" class_number="15826" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 27J">Prediction: From Ancient Omens to Modern Computer Simulations</title>
+            <exam_group>FAS14_H</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>We will discuss the variety of approaches humans have taken to predicting their own future. Early weeks will focus on Omens, Oracles, Religion and Prophecy. Next, we will move on to the so-called Scientific Revolution, exemplified by the work of Galileo, and the Age of Exploration, enabled by John Harrison's solution to finding longitude at sea. The last several weeks of the seminar will focus on predictive work in epidemiology, finance, and climate, and ultimately on work about the Universe's future. Students will conclude with a discussion of how computer models of health/wealth/climate combine to predict our future.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:29:00" location="Emerson 318 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e59058a1310" role="1" seniority_sort="1">
+                <display_name>Alyssa Goodman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

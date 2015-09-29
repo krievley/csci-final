@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159562" class_number="14780" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1938">MEGA China</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>More than any other country in the recent past, China has attempted to solve its problems through massive, mostly state-led projects of technological and social transformation. Whether it is the construction of dams, railways, and special economic zones, or the mobilization of entire populations during the Great Leap Forward and the one-child policy, the Chinese have consistently sought solutions by going big. In this seminar, we shall examine a variety of such MEGA projects as a window onto some of the central themes in twentieth century Chinese history: state-society relations, economic development, environmentalism, technological change, inequality, and law and justice.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="CGIS South S040 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e19328a1310" role="1" seniority_sort="1">
+                <display_name>Arunabh Ghosh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

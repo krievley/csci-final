@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145150" class_number="12965" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 214">Biology of Acoustic Communities</title>
+            <prereq>Recommended: OEB 10 or permission of the instructor.</prereq>
+            <description>Four principal animal groups (insects, frogs, birds and mammals) sing and call in habitats around the world. We discuss the ecology, evolution and characteristics of such acoustic communities and the hypothesis that their members compete for "bandwidth". We discuss readings on acoustic ecology and evolution, and listen to (and watch, via spectrum analysis) soundscapes from selected tropical and temperate habitats. The capstone will be a fieldtrip to record natural soundscapes.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

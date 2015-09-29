@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109829" class_number="10608" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 255">Metamorphoses of the Vampire</title>
+            <notes> Conducted in French or English.</notes>
+            <description>The vampire myth came of age with literary modernism and shares with it an identity in displacement, fragmentation, and fluidity. Texts may include Baudelaire, Nodier, Balzac, Gautier, Maupassant, Rachilde, Stoker, Coppola, and theory.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

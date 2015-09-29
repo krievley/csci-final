@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160403" class_number="15685" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MODMDEST 315">Reading al-Manar in the Interwar Period</title>
+            <exam_group>FAS09_B</exam_group>
+            <description>Meeting approximately every other week, students will establish digital maps and databases based on al-Manar and other periodicals in Morocco, Tunisia, and Egypt in the Inter War Period. Enrollment only by instructor&amp;#39;s permission.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MODMDEST">Modern Middle East</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="Widener Library Q-Islamic(FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25382a1310" role="1" seniority_sort="1">
+                <display_name>Malika Zeghal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

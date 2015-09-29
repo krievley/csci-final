@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107332" class_number="15248" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 263">Historical Sociology: Cultural and Institutional Perspectives</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>The seminar explores the emergence, dynamics and interaction of cultural, structural and institutional processes in the development, and underdevelopment, of capitalism in selected western and non-western societies. Among the topics explored, through close study of selected texts, are: merchant capital, network channeling and cultural change in renaissance Italy; institutional, cultural and imperial factors in the rise and divergence of West European capitalism; networks and informal institutions in the rise of capitalism in China; cultural and institutional change in Tokugawa Japan; and the institutional and cultural origins of development and underdevelopment in Latin America and the Caribbean. Our readings and discussions will be guided by the recurring theoretical problems of causality, origins, continuity and change in institutional and cultural processes and the fundamental problem of how the past influences later periods and present outcomes.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="William James 601 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e26376a1310" role="1" seniority_sort="1">
+                <display_name>Orlando Patterson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

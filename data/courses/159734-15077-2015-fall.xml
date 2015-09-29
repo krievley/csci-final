@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159734" class_number="15077" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 32C">The Christian Bible Then and Now: Formations and Debates</title>
+            <exam_group>FAS13_G</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Politicians, writers, religious leaders, and others today make arguments using the Bible, whether leading with the clause &amp;ldquo;The Bible says. . .&amp;rdquo; or through allusions to or quotations of the Bible. Together in this seminar we&amp;rsquo;ll learn and practice the analytical tools for addressing such claims. The seminar explores ancient and modern formations and uses of the Christian Bible, including ancient processes of canonization. It also explores how the Bible has been mobilized recently in the U.S. to address issues of sex and sexuality, economics, ecology, race, and slavery.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Sever 303 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e55369a1310" role="1" seniority_sort="1">
+                <display_name>Laura Nasrallah</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

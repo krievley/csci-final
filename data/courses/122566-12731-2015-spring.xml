@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122566" class_number="12731" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 20">How to Create Things and Have Them Matter</title>
+            <notes> Open to all students by permission of instructor. All completely passionate students (any concentration) welcomed - no prior experience necessary.</notes>
+            <description>Students in this year's "How to Create Things &amp; Have Them Matter" class will form groups around art, design and engineering ideas that help address biodiversity and manage the incredible jellyfish blooms that have begun to accelerate the demise of our oceans. Students will learn to generate, develop and realize breakthrough ideas while learning basic skills of engineering design, brainstorming, prototyping, and public presentations. These ideas will be brainstormed with artist Mark Dion, whose 2014/2015 exhibition at Le Laboratoire Paris--and the new Laboratoire Cambridge--will give students the chance to participate in, and contribute to, a major art installation. The class will include opportunities for a jellyfish expedition in the Boston Harbor, a working trip to Cape Town, South Africa, an innovation workshop at Le Laboratoire, Paris, and funding for continued project development following the course.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e256008a1310" role="1" seniority_sort="1">
+                <display_name>David Edwards</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

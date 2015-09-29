@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121170" class_number="13384" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEMBIO 399">Introduction to Laboratory Research</title>
+            <description>This course is intended for Chemical Biology lab rotations.</description>
+            <department code="CHBI">Chemical Biology</department>
+            <course_group code="CHEMBIO">Chemical Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

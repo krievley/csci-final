@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159715" class_number="16162" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="SCAND 55">One Hundred Years of Scandinavian Cinema</title>
+            <description>This course explores Scandinavian cinema from the pioneers of the silent era to the globally successful hit films of the present day. Students will trace the development of Scandinavian cinema through the films of directors such as Viktor Sj&amp;ouml;str&amp;ouml;m, Carl Th. Dreyer, Lars von Trier, Ingmar Bergman and Lukas Moodysson and discover the profound influence the region&amp;rsquo;s films have had, and continue to have, on filmmaking in America and the world.&amp;nbsp;</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="SCAND">Scandinavian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:59:00" location="" start_time="12:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e175012a1310" role="1" seniority_sort="1">
+                <display_name>Agnes Broome</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

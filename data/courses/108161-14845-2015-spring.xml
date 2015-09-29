@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108161" class_number="14845" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CULTBLF 51">Making the Middle Ages</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>This course offers a general introduction to the cultures and beliefs of medieval Europe. We focus on a variety of artifacts and cultural productions as the centerpieces of a broad and interdisciplinary exploration of medieval studies. Using specific objects and texts as points ofÂ&#160;entry into a vanished world, we encourage students to explore those areas that interest them most, teasing out the cultures and beliefs of the past while simultaneously developing their skills in research and writing. Through collaborative projects and aÂ&#160;creative exploration of texts, images, and collections at Harvard and beyond, students will be invited to make their own Middle Ages.Â&#160;</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e48892a1310" role="1" seniority_sort="1">
+                <display_name>Nicholas Watson</display_name>
+            </person>
+            <person id="d1e347667a1310" role="2" seniority_sort="2">
+                <display_name>Sean Gilsdorf</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

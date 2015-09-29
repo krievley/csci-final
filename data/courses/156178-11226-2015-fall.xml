@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156178" class_number="11226" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 37Y">Muslim Voices in Contemporary World Literatures</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> No prior knowledge of Islam required. Assignments include compiling a portfolio of creative responses to the weekly readings using different media.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>What do Muslims think of acts of terrorism committed in the name of Islam, the mixing of religion with politics, the status and rights of women, the hegemony of the "West"? This seminar investigates the viewpoints of prominent Muslim writers on these and other "hot button" issues as reflected in novels, short stories and poetry from different parts of the world. Explores a range of issues facing Muslim communities in various parts of the world by examining the impact of colonialism, nationalism, globalization and politicization of Islam on the search for a modern Islamic identity. Readings of Muslim authors from the Middle East, sub-Saharan Africa, South Asia, Europe and America.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="21:29:00" location="Barker 211 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25336a1310" role="1" seniority_sort="1">
+                <display_name>Ali S. Asani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

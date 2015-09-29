@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109862" class_number="10630" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1605">Psychology of Language</title>
+            <prereq>Recommended: For psychology concentrators, Science of Living Systems 20. For linguistics concentrators: this course may be substituted for Linguistics 83 or Linguistics 101 as a requirement for the concentration.</prereq>
+            <description>How do children manage to learn the sounds, the words and the grammar of their native language in three years or less? Does the language that we speak change how we think? What happens in the mind (and brain) that allows us to convert sound into meaning during language comprehension (and meaning into motor movements during language production)? Why are human languages similar to each other in some ways, and what allows them to vary in others? We will explore these questions integrating the perspectives of linguistics, psychology and cognitive neuroscience.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e86143a1310" role="1" seniority_sort="1">
+                <display_name>Jesse Snedeker</display_name>
+            </person>
+            <person id="d1e212290a1310" role="2" seniority_sort="2">
+                <display_name>Gennaro Chierchia</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

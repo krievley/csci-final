@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160495" class_number="15731" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELTIC 105">The Folklore of Gaelic Ireland</title>
+            <notes> Weekly discussion section to be arranged.</notes>
+            <description>An introduction to the oral traditions of Gaelic Ireland, including tales and song. The process of collecting is explored, and various folkloristic theories and approaches applied in order to gain a deeper understanding of the material. No knowledge of Irish Gaelic required.&amp;nbsp;</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="CELTIC">Celtic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63330a1310" role="1" seniority_sort="1">
+                <display_name>Natasha Sumner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

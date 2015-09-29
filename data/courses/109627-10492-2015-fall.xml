@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109627" class_number="10492" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 21V">Black Holes, String Theory and the Fundamental Laws of Nature</title>
+            <exam_group>FAS05_C</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar will review both our established knowledge of the fundamental laws of nature as well as our best guesses and attempts to understand what might lie beyond our current knowledge. The black hole information puzzle, the nature of space and time at short distances, string theory, the Higgs boson, unification of the forces, quantum gravity and the origin of the universe will be among the topics covered.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:59:00" location="Jefferson 453 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e9796a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Strominger</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111407" class_number="16889" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2611">Industrial Organization II</title>
+            <description>Application of industrial organization to problems of public policy. Applied analysis of antitrust policy, network industries, vertical relationships, auctions, and other topics depending on interest.Note: Students are urged to take Economics 2610 before Economics 2611.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e174257a1310" role="1" seniority_sort="1">
+                <display_name>Robin Lee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

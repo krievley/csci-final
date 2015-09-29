@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114881" class_number="14642" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2400">Readings in Colonial and Revolutionary America: Proseminar</title>
+            <description>An introduction to scholarly literature on colonial and revolutionary America. Required for History Department graduate students specializing in US history. Open to those from other fields or programs.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e37126a1310" role="1" seniority_sort="1">
+                <display_name>Joyce Chaplin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

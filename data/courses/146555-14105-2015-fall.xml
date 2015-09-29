@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146555" class_number="14105" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 60">Migrations: Fictions of America</title>
+            <exam_group>FAS12_C</exam_group>
+            <description>This course will treat America as it was imagined and re-imagined between the 16th-21st centuries by successive waves of Europeans, Africans and their descendants. The course explores how evolving fictions of America's purpose, changing notions of America's geography and conflicting ideas of American character inform an emerging literary tradition. Readings list likely to include non-fiction by Harriot, Rowlandson, Mather, Franklin, Jacobs; shorter fiction by Irving, Hawthorne, Melville and Stein; novels by Cather, Norris and Morrison.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="Emerson 307 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e57958a1310" role="1" seniority_sort="1">
+                <display_name>Elisa New</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

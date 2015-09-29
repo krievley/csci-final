@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160759" class_number="16824" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MBB 980M">Functional Neuroimaging of Psychiatric Disorders: Insights into the Human Brain-Mind</title>
+            <description>Functional brain imaging has revolutionized the study of systems-level behavioral neuroscience and psychiatric disorders, through the ability to localize and characterize distributed brain activity directly associated with perception, cognition, emotion and behavior in disorders where there are not gross brain lesions.&amp;nbsp; This seminar will introduce students to translational neuroimaging methods at the interface of neuroscience, psychology and medicine.&amp;nbsp; It will cover recent and ongoing advances in our understanding of fronto-limbic-subcortical brain circuitry across the range of psychiatric disorders (e.g. mood disorders, anxiety disorders, psychotic disorders, personality disorders, addictions).&amp;nbsp; It will discuss new, emerging biological (as opposed to descriptive) taxonomies and conceptualizations of mental illness and its treatment.&amp;nbsp; It will explore the implications of such knowledge for issues such as consciousness, meaning, free will, emotion, resilience, and religiosity.&amp;nbsp; It will incorporate clinical observations, scientific data and readings, and examine future directions in brain-mind medicine.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e449868a1310" role="1" seniority_sort="1">
+                <display_name>David Silbersweig</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

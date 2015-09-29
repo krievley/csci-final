@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108727" class_number="16787" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ROM-STD 101">Romance Translation: Theory and Practice</title>
+            <exam_group>FAS08_G</exam_group>
+            <notes> Conducted in English.</notes>
+            <prereq>Recommended: An intermediate to advanced knowledge of at least one Romance language.</prereq>
+            <description>Translating for art's sake, or to form a national literature? Better yet, to foster ideological debate. And what about all those bad translations? Do you even need to know the original language? Come explore the theory and practice of translation in and from the Romance languages. Includes workshops on a variety of styles, literary devices, pragmatics, semantic and cultural distinctions.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ROM-STD">Romance Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:59:00" location="Sever 112 (FAS)" start_time="13:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="Sever 112 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

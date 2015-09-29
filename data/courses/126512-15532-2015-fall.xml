@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126512" class_number="15532" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1335">Behavioral Ecology of Chimpanzees</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes>This course counts towards the Human/Primate Behavior subfield requirement and the research seminar requirement in HEB.  This course counts towards the Human/Primate Behavior subfield requirement and the research seminar requirement in HEB.</notes>
+            <prereq>Recommended: Human Evolutionary Biology 1329; Human Evolutionary Biology 1330; Human Evolutionary Biology 1434; Organismic Evolutionary Biology 57; or permission of instructor</prereq>
+            <description>An advanced seminar on current topics in behavioral ecology research of chimpanzees and bonobos. Topics will include: foraging, dominance, cooperation, adolescence, reproductive strategies, culture, ranging, cognition, molecular ecology, and relationships. We will discuss behavioral flexibility of chimpanzees between different communities across Africa and learn how to collect and analyze behavioral data. We will compare the behavior of chimpanzees and bonobos with that of humans and examine how these species might serve as models for human evolution.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="Geological Museum 103A (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e105212a1310" role="1" seniority_sort="1">
+                <display_name>Zarin P. Machanda</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

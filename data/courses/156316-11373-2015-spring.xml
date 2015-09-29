@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156316" class_number="11373" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCIPHUNV 31">Energy Resources and the Environment</title>
+            <notes> This course is similar in content to EPS 109. Interested students may want to consult the Q evaluations from that course. Students who took EPS 109 may not take this course for credit.</notes>
+            <description>The course provides an overview of the energy resources that we use to sustain our global economies, and explores the impact of these activities on our environment. We address the full life cycle of each energy resource, including its origins, methods used to explore for and exploit it, how it is used in our economies, and the environmental impacts of these activities. Topics include coal, petroleum (conventional and unconventional), nuclear power, geothermal systems, and renewable energy options (hydro, tidal, solar, wind power). Lectures and labs will introduce students to data and methods used in these energy and environmental sectors.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e153370a1310" role="1" seniority_sort="1">
+                <display_name>John Shaw</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

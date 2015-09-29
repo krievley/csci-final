@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110287" class_number="15289" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FOLKMYTH 90S">African American Folktales</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>We will begin with tales from African cultures, investigating them as repositories of local knowledge, then turn to African-American tales, with stories ranging from tales about animals and tricksters to tales about origins, about magic and transformation, and about survival.</description>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Warren 102 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e123623a1310" role="1" seniority_sort="1">
+                <display_name>Maria Tatar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

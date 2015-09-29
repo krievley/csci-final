@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159689" class_number="14989" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 187A">Philosophy and Photography: Proseminar</title>
+            <exam_group>FAS14_F</exam_group>
+            <description>The seminar will examine the nature of photography and what makes it distinctive as a form of visual representation.&amp;nbsp; Topics include the nature of photographic &amp;#39;realism&amp;#39;, the difference between mechanical and &amp;#39;hand-made&amp;#39; images, and how these differences matter both epistemically and to our aesthetic, moral, and psychological responses to them.&amp;nbsp; Readings will be taken from writers such as Barthes, Bazin, Benjamin, Berger, Cavell, Sontag and others.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Emerson 107 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e71417a1310" role="1" seniority_sort="1">
+                <display_name>Richard Moran</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

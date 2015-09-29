@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159796" class_number="16499" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 32D">We Are the World</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>How did we come to think that everybody living everywhere might count as our fellow citizens? Since 1989, a long-term canon in philosophy has emerged, casting &amp;ldquo;cosmopolitanism&amp;rdquo; as long-brewing since the time of the Greeks, running through Immanuel Kant, into our own day, as a new theory called &amp;ldquo;global justice&amp;rdquo; prevailed. We will revisit this canon as intellectual historians, attempting to reconcile it with how sudden the turn to global justice in our own age of globalization and human rights has been, and how the specter of power has always haunted the most grandiose moral visions.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e38372a1310" role="1" seniority_sort="1">
+                <display_name>Samuel Moyn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

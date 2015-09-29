@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159554" class_number="14651" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2707">Comparative Slavery &amp; the Law: Africa, Latin America, &amp; the US: Seminar</title>
+            <exam_group>FAS15_D</exam_group>
+            <description>This seminar surveys the booming historiographies of slavery and the law in Latin America, the United States, and Africa. Earlier generations of scholars relied heavily on European legal traditions to draw sharp contrasts between U.S. and Latin American slavery. The most recent scholarship, however, approaches the legal history of slavery through slaves&amp;#39; legal initiatives and actions. These initiatives were probably informed by the Africans&amp;#39; legal cultures, as many of them came from societies where slavery was practiced. Our seminar puts African legal regimes (customary law, Islamic law) at the center of our explorations concerning slaves&amp;#39; legal actions in the Americas.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="CGIS South S450 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e41224a1310" role="1" seniority_sort="1">
+                <display_name>Emmanuel Akyeampong</display_name>
+            </person>
+            <person id="d1e36900a1310" role="2" seniority_sort="2">
+                <display_name>Alejandro de la Fuente</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

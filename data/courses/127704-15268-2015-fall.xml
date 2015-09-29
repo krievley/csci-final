@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127704" class_number="15268" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 3007A">Research Workshop in Political Economy</title>
+            <exam_group>FAS18_G</exam_group>
+            <description>Intended for graduate students in the third year and above, this course welcomes scholarship of all types and on all aspects of political economy. Intended to provide a venue in which to develop and to debate work in progress.&amp;nbsp;Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:59:00" location="CGIS Knafel K354 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e83281a1310" role="1" seniority_sort="1">
+                <display_name>Kenneth Shepsle</display_name>
+            </person>
+            <person id="d1e83235a1310" role="1" seniority_sort="2">
+                <display_name>Jeffry Frieden</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

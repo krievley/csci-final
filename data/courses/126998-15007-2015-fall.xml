@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126998" class_number="15007" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 50">Upper-Level French II: Recounting the Francophone Experience: Love, Loss, and Rebellion</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes> Conducted in French. Students may take no more than two courses numbered in the 50s. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the French 50 website.</notes>
+            <prereq>Recommended: French 40; a score of 721-750 on the SAT II test or the Harvard Placement test; or permission of course head.</prereq>
+            <description>This course builds on the interpersonal, interpretive, and presentational skills acquired in French 40, with a particular emphasis on honing students' writing proficiency. Students will read a broad range of stories, poems and essays, as well as view films and videos that explore timeless, ever-resonant themes: love and loss, culture and identity, and tradition and rebellion in the Francophone world. Using these texts, students will study and reproduce various genres of written and spoken French (description, portrait, film critique, etc.)</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sever 215 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e26226a1310" role="1" seniority_sort="1">
+                <display_name>Aurelie Chevant</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

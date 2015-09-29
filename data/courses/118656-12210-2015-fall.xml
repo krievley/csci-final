@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118656" class_number="12210" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 321">Topics in Mathematical Physics</title>
+            <prereq>Prerequisite: Graduate Students Only</prereq>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e45077a1310" role="1" seniority_sort="1">
+                <display_name>Arthur Jaffe</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

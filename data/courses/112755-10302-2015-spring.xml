@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112755" class_number="10302" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MED-SCI 399">Topics in Medical Sciences</title>
+            <description>Subject selected by students and faculty member.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="MED-SCI">Medical Sciences</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e19281a1310" role="1" seniority_sort="1">
+                <display_name>David Cardozo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

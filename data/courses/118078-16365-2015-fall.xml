@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118078" class_number="16365" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 201B">Current Methods in Ethnomusicology</title>
+            <exam_group>FAS02_B</exam_group>
+            <notes> May be taken by students from other departments with permission of instructor.</notes>
+            <description>Focuses on introduction to scholarly study of music with emphasis on the history and methodologies of ethnomusicology. Theories of music in culture, field methods, analytical and notational strategies, and critical tools for scholarship.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:59:00" location="Music Davison Seminar Rm (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e23219a1310" role="1" seniority_sort="1">
+                <display_name>Ingrid Monson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

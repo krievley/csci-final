@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123874" class_number="13062" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98JL">Global Social Movements</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes>This course will be lotteried.   This course will be lotteried.</notes>
+            <description>Social movements are often considered a driving force behind political, social, and cultural change. This course explores the major theoretical and empirical approaches used in the social sciences to understand social movements. The course will examine a range of case studies including movements dealing with environmental justice, health, citizenship, and racial inclusion taken from a range of national contexts. Particular attention will be paid to transnational human rights and other activism.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="William James 303 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e322341a1310" role="1" seniority_sort="1">
+                <display_name>Alison Jones</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

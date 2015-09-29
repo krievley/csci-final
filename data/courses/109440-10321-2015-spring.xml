@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109440" class_number="10321" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 74J">Children and Childhood in America, 1640-Present</title>
+            <description>This course explores the literature in the history of children and childhood in America from the 17th century to the present. It is organized chronologically but is also topical in approach. Fundamental questions posed by historians in this burgeoning field will be examined. Students will learn how to develop a nuanced critique of works in the field and how to research and interpret primary sources.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e341603a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Lassonde</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

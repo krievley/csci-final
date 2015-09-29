@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159742" class_number="15539" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 40H">Poverty and Development</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>We will consider a number of important questions in the field of development economics: Why are some countries so rich and others so poor? What factors have determined which countries prosper? Can these factors be changed with specific economic policies? If so, what are they and how are they best implemented? Are there country-specific characteristics that determine economic fate? Or, is prosperity just the result of luck?&amp;nbsp; Does the enjoyment of the rich somehow depend on the continuing suffering of the poor?</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e529a1310" role="1" seniority_sort="1">
+                <display_name>Nathan Nunn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

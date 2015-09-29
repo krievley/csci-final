@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109475" class_number="10393" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 41E">The American Death Penalty: Morality, Law, and Politics</title>
+            <exam_group>FAS05_C</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar will address the American death penalty, now an anomalous practice among Western democracies. We will explore the controversies that swirl around the institution of capital punishment in the distinct but related contexts of morality, law, and politics. How have the abstract arguments of moral philosophers informed American constitutional interpretations of commitments to "due process," "equal protection," and protection against "cruel and unusual punishments"? How have the arguments of moral philosophers and the interpretations of the Supreme Court affected the political sphere? What is the future of the anomalous American death penalty?</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="Lamont Library 230 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11490a1310" role="1" seniority_sort="1">
+                <display_name>Carol Steiker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

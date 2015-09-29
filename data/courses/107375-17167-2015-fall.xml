@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107375" class_number="17167" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="HIND-URD 91R">Hindi-Urdu Supervised Readings</title>
+            <notes> Offered at the discretion of the instructors. Not open to auditors.</notes>
+            <description>Instruction in Hindi-Urdu in topics not covered in the regular curriculum.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="HIND-URD">Hindi-Urdu</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e23846a1310" role="1" seniority_sort="1">
+                <display_name>Richard Delacy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

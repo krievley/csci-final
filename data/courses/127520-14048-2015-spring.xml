@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127520" class_number="14048" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HBTM 301QC">Case Studies in Human Biology and Translational Medicine</title>
+            <notes>January 2016 dates TBA.  This is an intensive January term course. Restricted to Leder students only.</notes>
+            <description>Two-week course that is required of and restricted to first-year LHB students. Each week of the course focuses on a different "case study" in translational medicine.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="HBTM">Human Biology and Translational Medicine</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="10:29:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e363718a1310" role="1" seniority_sort="1">
+                <display_name>Caren Solomon</display_name>
+            </person>
+            <person id="d1e363721a1310" role="2" seniority_sort="2">
+                <display_name>Mary Hamel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116607" class_number="12130" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 327">Rotation Course in Neurosciences</title>
+            <notes> Primarily for students in Neuroscience.</notes>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e14393a1310" role="1" seniority_sort="1">
+                <display_name>Rosalind Segal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

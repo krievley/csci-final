@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109447" class_number="10350" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 144">Logic and Philosophy</title>
+            <notes>Friday class meetings will be held at the discretion of the instructor.  </notes>
+            <description>Three philosophically important results of modern logic: G&amp;ouml;del&amp;rsquo;s incompleteness theorems; Turing&amp;rsquo;s definition of mechanical computability; Tarski&amp;rsquo;s theory of truth for formalized languages. Discusses both mathematical content and philosophical significance of these results.Prerequisite: Some knowledge of deductive logic.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e51807a1310" role="1" seniority_sort="1">
+                <display_name>Warren Goldfarb</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

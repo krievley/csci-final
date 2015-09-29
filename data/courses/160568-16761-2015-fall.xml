@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160568" class_number="16761" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 296">Global Pop Music (Graduate Seminar in General Education)</title>
+            <exam_group>FAS17_E</exam_group>
+            <description>Exploration of current trends and issues in popular music production from around the world, including fusion, sampling and local and global scenes, through consideration of a broad range of contemporary examples.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="Music Davison Seminar Rm (FAS)" start_time="09:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60418a1310" role="1" seniority_sort="1">
+                <display_name>Sindhumathi Revuluri</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

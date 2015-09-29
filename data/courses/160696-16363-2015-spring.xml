@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160696" class_number="16363" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1557">Self Regulation and the Pursuit of Personal Goals</title>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PsSY18 or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>Have you ever abandoned a New Year&amp;rsquo;s resolution? Do you find yourself flipping through Facebook as a final exam nears? These common experiences can be explained by self-regulation, an exciting yet elusive construct that has captured the attention of researchers across psychology. In this course, students will explore the widespread influence of self-regulation through diverse scholarly sources accompanied by spirited discussion. Spanning several subdisciplines of psychology to address its hottest topics from the theoretical and empirical lens of self-regulation, we will divide the course by its many domains of practical relevance (e.g., behavior, emotion, learning) and apply them to students&amp;rsquo; own lives.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e218475a1310" role="1" seniority_sort="1">
+                <display_name>Amy Dent</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

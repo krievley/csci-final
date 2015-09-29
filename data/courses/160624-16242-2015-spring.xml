@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160624" class_number="16242" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 242">Computing at Scale</title>
+            <prereq>Recommended: Computer Science 50, Computer Science 61, Computer Science 124 or Applied Mathematics 120.</prereq>
+            <description>Scaling computation over distributed computing systems is essential for applications such as mathematical optimization involving massive amounts of data. For example, it can speed up performance tuning of a machine learning model by orders of magnitude. This is a rapidly advancing area with high interest from both academia and industry. In this course, students will learn not only efficient but also principled methods of mapping computation onto a large number of distributed compute nodes. Important, yet often difficult-to-comprehend concepts and techniques, will be covered. After having taken the course, it is expected that students can dive into these topics deeply by themselves, as needed.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e54107a1310" role="1" seniority_sort="1">
+                <display_name>H. Kung</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

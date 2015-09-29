@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120929" class_number="13181" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 212BR">Advanced Real Analysis</title>
+            <prereq>Prerequisite: Undergrads Require Mathematics 212A</prereq>
+            <description>Functional analysis related to quantum mechanics. Topics include (but not limited to) The Stone-von Neumann theorem, Gruenwald-van Hove theorem, Ruelle&amp;#39;s theorem on the continuous spectrum and scattering states, Agmon&amp;#39;s theorem on the exponential decay of bound states, scattering theory.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e104838a1310" role="1" seniority_sort="1">
+                <display_name>Shlomo Sternberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

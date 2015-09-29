@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108840" class_number="15058" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 106">Advanced Organic Chemistry</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes> Chemistry 30 or permission of instructor.</notes>
+            <prereq>Recommended: See Notes section</prereq>
+            <description>This course will survey modern organic chemistry from a fundamental perspective. The foundations of structure and bonding, donor-acceptor interactions, and conformational analysis will be considered in the context of pericyclic reactions and cyclic and acyclic stereocontrol. The behavior of reactive intermediates, the basis for enantioselective catalysis, and patterns in functional group reactivity will also be discussed.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Mallinckrodt 217 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e23420a1310" role="1" seniority_sort="1">
+                <display_name>Eugene Kwan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

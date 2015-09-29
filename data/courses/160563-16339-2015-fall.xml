@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160563" class_number="16339" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 17V">Modern Architecture</title>
+            <exam_group>FAS02_A</exam_group>
+            <description>This course charts the rise of the architectural avant-gardes and transformations in modern architecture in the 20th century. We explore the drama in the story of modern architecture, how major figures navigated cataclysmic events, shifting ideological and political forces, the changing demands of mass societies, and radical challenges to the modernist project itself, in their attempts to shape a new world. Along the way, we situate architecture within a broad cultural history encompassing art, film, and philosophy.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sackler Museum 318" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e161665a1310" role="1" seniority_sort="1">
+                <display_name>Jeffrey Lieber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

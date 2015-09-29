@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109429" class_number="14655" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2474">Law and Social Reform in 20th Century U.S. History: Seminar</title>
+            <notes> Offered jointly with the Law School as 2586.  The enrollment limit for FAS students is 11.  This course will meet at the Law School.</notes>
+            <description>This seminar considers issues in 20th-century movement for social reform from the perspective of legal history and the legal profession. It emphasizes matters of race, class and gender inequality and readings cover the black freedom struggle, women&amp;#39;s rights, the labor movement and anti-poverty struggles. Students read legal cases and works of historical and legal scholarship.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e7388a1310" role="1" seniority_sort="1">
+                <display_name>Tomiko Brown-Nagin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

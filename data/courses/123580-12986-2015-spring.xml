@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123580" class_number="12986" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 252R">Advanced Topics in Robotics Research</title>
+            <prereq>Recommended: Engineering Sciences 159/259 or equivalent, or permission of instructor.</prereq>
+            <description>A graduate seminar course on advanced topics in robotics research. Students read and present research papers and undertake a research project. Spring 2016 will focus on microfabrication and microrobotics.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e252123a1310" role="1" seniority_sort="1">
+                <display_name>Robert Wood</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

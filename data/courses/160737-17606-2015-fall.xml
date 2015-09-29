@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160737" class_number="17606" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCILIVSY 20S">Psychological Science Seminar</title>
+            <exam_group>FAS08_J</exam_group>
+            <notes>The course will be lotteried by application process, administered at the first meeting on Wednesday, September 2. See the course website for more details.  Instructor Signature Required for Enrollment. This section of the course is limited to 12 students. It is intended for students who, on the basis of their high-school preparation for writing and science, expect that they would benefit from additional faculty instruction. The Psychology concentration counts this course as equivalent to other versions of Science of Living Systems 20 in terms of concentration requirements and pre-requisites. Students who have completed another psychology course (including AP Psychology) may not enroll in this seminar.</notes>
+            <description>An introduction to the sciences of mind, including foundational concepts from neuroscience, evolution, genetics, philosophy, and experimental methods, and specific topics such as perception, memory, reasoning and decision-making, consciousness, child development, psychopathology, personality, language, emotion, sexuality, violence, morality and social relations.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCILIVSY">Science of Living Systems</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="William James 950 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e86188a1310" role="1" seniority_sort="1">
+                <display_name>Jason Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

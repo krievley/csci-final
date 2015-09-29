@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145803" class_number="14474" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 41">Arrivals: British Literature 700-1700</title>
+            <description>Across the period 700-1700 the shapes of British culture were absorbed from different centers of Western Europe. When these cultural forms arrive in Britain, they meet and mix with established cultures. This course will delineate the principal cultural forces (e.g. religious, political, social) that shaped England in particular. We will look to the ways in which those vibrant yet opposed forces find expression in the shape, or form, of literary works.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e48939a1310" role="1" seniority_sort="1">
+                <display_name>W. Simpson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115578" class_number="17163" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2500">Proseminar in Social Psychology</title>
+            <exam_group>FAS17_C</exam_group>
+            <notes> For doctoral students only.</notes>
+            <description>Advanced survey of classic and current research and theory in social psychology, including self, social cognition, attitudes, social influence, altruism and aggression, prejudice and discrimination, close relationships, and group dynamics.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="William James 1305 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e86188a1310" role="1" seniority_sort="1">
+                <display_name>Jason Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

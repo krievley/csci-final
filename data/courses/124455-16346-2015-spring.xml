@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124455" class_number="16346" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 137">Money, Work, and Social Life</title>
+            <description>Examining different sectors of the economy from corporations and finance to households, immigrants, welfare, and illegal markets, we explore how in all areas of economic life people are creating, maintaining, symbolizing, and transforming meaningful social relations. Economic life, from this perspective, is as social as religion, family, or education.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e79468a1310" role="1" seniority_sort="1">
+                <display_name>Filiz Garip</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

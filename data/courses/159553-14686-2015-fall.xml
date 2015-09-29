@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159553" class_number="14686" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="JAPNHIST 214R">Major Issues in the Study of Japanese Religions</title>
+            <exam_group>FAS12_F</exam_group>
+            <notes> Offered jointly with the Divinity School as 3961.</notes>
+            <description>This seminar is primarily for graduate students preparing for research and teaching in Japanese religions.&amp;nbsp; Because it will have a different focus each time it is offered, students may take it more than once.&amp;nbsp; The topic for Fall 2015 will be ethnographic studies of Shinto.&amp;nbsp; Future offerings of the course will focus on such topics as shrine festivals (matsuri), religion in the Japanese empire, and Japanese new religious movements.&amp;nbsp; Most readings will be in English, but Japanese-language readings will also be included.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNHIST">Japanese History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="CGIS South S354 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e19422a1310" role="1" seniority_sort="1">
+                <display_name>Helen Hardacre</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112485" class_number="11794" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 98A">Tutorial - Junior Year</title>
+            <notes>Hours to be arranged.   Sandra Naddaff and members of the department and Tutorial Board  </notes>
+            <description>An individualized course of study designed by junior concentrators in Comparative Literature to explore specific interests and fields, and ordinarily directed by a member of the Tutorial Board. Open to concentrators only.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e99721a1310" role="1" seniority_sort="1">
+                <display_name>Sandra Naddaff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

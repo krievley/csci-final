@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108471" class_number="10976" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EAFM 201">Media Mix: Representations and Meaning Between Media in Japan: Seminar</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>This course will explore different histories of the interconnection of media in Japan, from the early ties between theater, literature and cinema to the popularization of the media mix by the company Kadokawa and the current routes between manga, anime, light novels, films and games.For Fall 2015, classes will meet Thursday 2-4:29 and film screenings on Tuesday 6-7:59.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EAFM">East Asian Film and Media Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:29:00" location="Barker 012 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e27927a1310" role="1" seniority_sort="1">
+                <display_name>Alexander Zahlten</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

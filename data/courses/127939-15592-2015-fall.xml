@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127939" class_number="15592" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2341A">American Intellectual History: Seminar</title>
+            <exam_group>FAS09_C</exam_group>
+            <description>This course is intended for graduate students who wish to supplement the reading of primary and secondary sources in American intellectual history with the preparation of a research paper.&amp;nbsp; Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Robinson LL Library (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38598a1310" role="1" seniority_sort="1">
+                <display_name>James Kloppenberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

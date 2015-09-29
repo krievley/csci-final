@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111123" class_number="11916" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 264R">Electronic Music Composition: Seminar</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> Prerequisites for interpreters: Interest or experience in improvisation. For composers: previous course at HUSEAC or permission by instructor.</notes>
+            <description>This course is aimed towards improvising musicians and composers working with electronics. We will explore different existing improvisation strategiesfrom the 20th century and develop new pieces. Composers and interpreters alike will contribute to the concepts from solo to ensembleworks. Section time will be used to further our tools for live sound processing in Max/MSP.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e45737a1310" role="1" seniority_sort="1">
+                <display_name>Hans Tutschku</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

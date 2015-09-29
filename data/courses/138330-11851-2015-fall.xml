@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="138330" class_number="11851" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANE 310">Reading and Research in Ancient Near Eastern Archaeology</title>
+            <notes>Members of the Department  </notes>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ANE">Ancient Near East</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

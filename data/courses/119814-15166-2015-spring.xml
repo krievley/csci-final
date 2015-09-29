@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119814" class_number="15166" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ESPP 90E">Conservation Biology</title>
+            <notes>Hours to be arranged.  Local field trips within New England to be arranged.</notes>
+            <description>Conservation biology strives to describe, understand, and forecast biodiversity dynamics by applying ecological and evolutionary theory within the contexts of resource management, economics, sociology and political science. This course will explore the motivations for preserving biodiversity and the consequences of decision-making under conflicting interests. Major contemporary issues, and state-of-the-art tools and methodologies in conservation biology will be presented, with a focus on terrestrial ecosystems and mammal species. Case studies will include endangered species protection and reintroduction, habitat fragmentation, exotic species invasions, over-harvesting and sustainable development, apparent competition and predator-prey management. Local field trip within New England to be arranged.</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

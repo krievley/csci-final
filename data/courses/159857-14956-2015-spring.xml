@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159857" class_number="14956" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="UKRA AB">Elementary Ukrainian</title>
+            <description>An introductory course in modern Ukrainian language and culture, designed for students without previous knowledge who would like to speak Ukrainian or use the language for reading and research. All four major communicative skills (speaking, listening comprehension, reading, writing) are stressed. Students are exposed to Ukrainian culture through work with prose and poetry as they learn to use the language both as a means of communication and as a tool for reading and research. This year-long full course satisfies the foreign language requirement and prepares students for continued study of Ukrainian in intermediate-level courses and for study or travel abroad in Ukraine. &amp;nbsp;Part two of a two part series.Please see language course notes on our website for information about sectioning, pass/fail, satisfactory/unsatisfactory, auditing, and language track information.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="UKRA">Ukrainian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e67411a1310" role="1" seniority_sort="1">
+                <display_name>Volodymyr Dibrova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

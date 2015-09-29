@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110258" class_number="16562" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="NEC 91R">Supervised Reading and Research</title>
+            <description>Tutorial supervision of research in subjects not treated in regular courses.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="NEC">Near Eastern Civilizations</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e24584a1310" role="1" seniority_sort="1">
+                <display_name>Peter Der Manuelian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

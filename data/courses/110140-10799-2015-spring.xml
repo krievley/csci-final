@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110140" class_number="10799" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 196X">Contemporary Africa and Sustainable Development</title>
+            <description>How do we understand development in Africa? This introductory course explores the question of sustainable development through a number of methods and perspectives, such as education, health, governance, (post-)conflict, and human rights. The course will examine the challenges of development, understood as the interaction between economic, environmental, political, and social processes. Students will gain the tools needed to examine African contexts today, including policy choices and the use of indicators and comparative analysis.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e325897a1310" role="1" seniority_sort="1">
+                <display_name>Patrick Vinck</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

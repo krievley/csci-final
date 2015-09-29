@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160438" class_number="16774" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHNSLIT 129">Folklore in the Modern Chinese Cultural Imagination</title>
+            <exam_group>FAS15_D</exam_group>
+            <description>This seminar course examines the role of folklore and notions of cultural authenticity in the construction of the modern Chinese nation. With the launching of the &amp;ldquo;Folklore Studies Movement&amp;rdquo; in the 1910s, Chinese intellectuals discovered new sources for defining their cultural identity in the songs, legends and customs of the countryside. Ever since then, different representations of folk culture have been enlisted to define modern life in China, from the appropriation of folklore to create a new literature and the critical study of Chinese society through the lens of folk narratives and beliefs, to the adaptation of folk culture for disseminating revolutionary politics. We will look at folklore itself, sources on the study of folk culture, and modern works of poetry, fiction, film and music to examine the influence of ideas about cultural authenticity on literature, social science and politics in China over the span of the last century.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSLIT">Chinese Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Yenching Library 214 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e223623a1310" role="1" seniority_sort="1">
+                <display_name>Max Bohnenkamp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

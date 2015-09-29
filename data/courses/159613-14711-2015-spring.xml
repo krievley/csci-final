@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159613" class_number="14711" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 13E">History of Modern Mexico</title>
+            <description>This course explores the history of Mexico in the 19th and 20th centuries, emphasizing the importance of historical approaches to understanding critical phenomena in contemporary Mexican affairs. Topics covered include colonial legacies, race and ethnicity, the Mexican Revolution, the border, nation-building and development, Mexico-US relations, popular culture, economic crisis, the Zapatista rebellion, narco-violence and the &amp;quot;war on drugs,&amp;quot; and migration.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e27736a1310" role="1" seniority_sort="1">
+                <display_name>Kirsten Weld</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

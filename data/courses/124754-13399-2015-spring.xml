@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124754" class_number="13399" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LING 99B">Tutorial - Senior Year</title>
+            <notes>Both Linguistics 99a and 99b are required of all senior honors concentrators. Students who wish to enroll must obtain the signature of the Head Tutor.  Hours to be arranged  Kevin Ryan  Both Linguistics 99a and 99b are required of all senior honors concentrators. Students who wish to enroll must obtain the signature of the Head Tutor.</notes>
+            <prereq>Course open to Senior Students Only</prereq>
+            <description>Individual tutorial with a faculty member for research and writing of the Linguistics honors thesis. Graded Satisfactory or Unsatisfactory. An honors student who expects not to complete the thesis should consult with the Head Tutor about completing other substantial work to receive credit for the course.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

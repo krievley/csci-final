@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143005" class_number="12214" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 151">Applied Electromagnetism</title>
+            <prereq>Recommended: Basic electromagnetism (Applied Physics 50b, Physical Sciences 12b, Physics 11b (no longer offered), or 15b or equivalent), basic vector calculus (Applied Math 21a or equivalent), basic differential equations (Applied Math 21b or equivalent) and familiarity with Fourier analysis (Applied Math 21b or equivalent).</prereq>
+            <description>Electromagnetism and its applications in science and technology. Topics: Maxwell's equations; electromagnetic waves (e.g., light, microwaves, etc.); wave propagation through media discontinuity; transmission lines, waveguides, and microwave circuits; radiation and antennae; interactions between electromagnetic fields and matters; optics of solids; optical devices; origin of colors; interference and diffraction; lasers and masers; nuclear magnetic resonance and MRI; radio astronomy; wireless networking; plasmonic wave (charge density wave).</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

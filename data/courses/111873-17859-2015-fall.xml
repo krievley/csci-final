@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111873" class_number="17859" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CLASSIC 302">Special Examinations Direction</title>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASSIC">Classics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>16</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e38239a1310" role="1" seniority_sort="1">
+                <display_name>Kathleen Coleman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

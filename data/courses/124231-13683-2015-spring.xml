@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124231" class_number="13683" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1389">Economics of Global Health</title>
+            <notes>Guenther Fink and Margaret McConnell (Public Health)  Offered jointly with the Kennedy School as SUP-518.</notes>
+            <prereq>Recommended: Economics 1010a1, 1010a2, (or 1011a) and 1123 (or 1126).</prereq>
+            <description>This course examines health issues in developing countries from the standpoint of applied microeconomic research. Specific topics include: identifying the effect of health on growth and development and identifying the causal relationships between income, poverty, and health. We will also discuss health care delivery and human resource issues, the challenges of healthcare financing and health insurance, and the tension between equity and efficiency in the allocation of health resources.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

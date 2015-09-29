@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124589" class_number="13200" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 180">Science, Technology, and Society in Modern East Asia</title>
+            <exam_group>FAS04_A</exam_group>
+            <description>This course aims to survey the history of science and technology in East Asian countries - China, Japan and Korea - since the late 19th century. It will emphasize the mutual influence between science &amp;amp; technology and society to answer how they become major industrial powers in the 21st century.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Science Ctr 252 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e311621a1310" role="1" seniority_sort="1">
+                <display_name>Dong Won Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

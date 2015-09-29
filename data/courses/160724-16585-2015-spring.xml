@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160724" class_number="16585" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1056">Explaining Academic Achievement</title>
+            <notes>Instructor is Amy Dent  </notes>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>Is there a formula for academic success? Would it be the same for every student? Guided by these overarching questions, we will survey some of the most interesting and important factors that facilitate achievement during different stages of formal schooling. You will be introduced to the theoretical roots, empirical evidence, and practical implications of these factors as we integrate them throughout the semester to create an equation that attempts to explain academic achievement.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e218475a1310" role="1" seniority_sort="1">
+                <display_name>Amy Dent</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

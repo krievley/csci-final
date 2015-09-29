@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148158" class_number="14974" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1878B">Ottoman State and Society II (1550-1920)</title>
+            <exam_group>FAS04_B</exam_group>
+            <description>Surveys the transformations of the Ottoman order in the Middle East and southeastern Europe in the early modern era and in the long nineteenth century until the demise of the state. Topics include changes in the conduct of state; social and religious movements; the impact of the new world economy and new trade routes; relations with Europe; emergence of nationalism; the `Eastern Question.' Ethnic and religious diversity, rural society, urban popular culture, guilds, gender and family life are also examined. The importance of this era for understanding today's Middle East is stressed.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Robinson LL Library (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40638a1310" role="1" seniority_sort="1">
+                <display_name>Cemal Kafadar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

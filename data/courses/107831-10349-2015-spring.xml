@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107831" class_number="10349" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELLBIO 308QC">Introduction to Histology</title>
+            <description>The study of structure and how structure relates to function, in cells and tissues.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Laboratory Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e13032a1310" role="1" seniority_sort="1">
+                <display_name>Adrian Salic</display_name>
+            </person>
+            <person id="d1e342413a1310" role="1" seniority_sort="2">
+                <display_name>Gerald Greenhouse</display_name>
+            </person>
+            <person id="d1e105497a1310" role="2" seniority_sort="3">
+                <display_name>Stephen Liberles</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

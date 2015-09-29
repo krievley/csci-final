@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128327" class_number="14374" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="US-WORLD 34">The Civil War from Nat Turner to Birth of a Nation</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>This interdisciplinary course reframes traditional understandings of the Civil War in three ways. First, by showing that civil conflict in the United States began well before 1861 and ended well after 1865, taking the form of slave uprisings and Klan terrorism, as well as conventional war. Second, by showing that the former Confederacy won this longer Civil War by establishing a new order of black freedom. And third, by placing this war in the context of international politics and trade. "Readings" range from fiction, film, letters, and speeches to poetry, pamphlets, prints and photographs, songs, and history.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="US-WORLD">United States in the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57590a1310" role="1" seniority_sort="1">
+                <display_name>John Stauffer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

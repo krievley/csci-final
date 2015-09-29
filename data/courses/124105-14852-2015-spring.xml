@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124105" class_number="14852" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RUSS 103">Advanced Russian II: Reading, Composition, and Conversation</title>
+            <notes> Strongly recommended for students who plan to continue in Russian.</notes>
+            <prereq>Recommended: Russian 101 or placement at the 103 level.</prereq>
+            <description>Continuing work on vocabulary and grammar centering on verbs and verb government. Readings include works by Chekhov and Dostoevsky, poetry, and film.Please note that this course will also meet for two additional hours of speaking practice to be arranged the first week of classes. See&amp;nbsp;language course notes on our website&amp;nbsp;for information about sectioning, pass/fail, satisfactory/unsatisfactory, auditing, and language track information.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e115611a1310" role="1" seniority_sort="1">
+                <display_name>Veronika Egorova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

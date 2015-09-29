@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120838" class_number="13093" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 62">Advanced Conversation and Composition</title>
+            <notes> Conducted in German.</notes>
+            <prereq>Recommended: German 61, equivalent preparation, or permission of the instructor.</prereq>
+            <description>This course is designed to further students' spoken and written German at the advanced level. Students will analyze and practice the stylistic and rhetorical features of various written and spoken genres. By focusing on aspects of contemporary society in the German-speaking countries, students will broaden and refine their vocabulary and idiom, become sensitized to different registers, as well as hone points of grammar.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e172264a1310" role="1" seniority_sort="1">
+                <display_name>Lisa Parkes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

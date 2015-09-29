@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109864" class_number="15704" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1844">Religion, Gender, Identity in 21st Century Diasporic Muslim Fiction</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> Offered jointly with the Divinity School as 3590.</notes>
+            <description>Diasporic Muslim fiction in the West: We will read 21st century novels by writers of Muslim background based in Europe and the U.S.&amp;mdash; exploring, among others, themes of border crossings, the Muslim immigrant experience, figurations of gender and sexuality, and representations - and contestations - of Islam in the West. Readings include (provisional list): Ben Jalloun, Leaving Tangier, Hosseini, The Kite Runner, Hamid, The Reluctant Fundamentalist, Lalami, Secret Son, Aboulela, Minaret, Jarrar,&amp;nbsp; A Map of Home, Shafak, Forty Rules of Love.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="Rockefeller 117 (HDS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18150a1310" role="1" seniority_sort="1">
+                <display_name>Leila Ahmed</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

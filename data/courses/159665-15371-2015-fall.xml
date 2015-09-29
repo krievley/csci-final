@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159665" class_number="15371" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 179B">Art Novels</title>
+            <exam_group>FAS02_A</exam_group>
+            <description>An exploration of the dynamic relationship between the American novel and the visual arts, from the late nineteenth century to the present day. What happens when novelists engage with painting, sculpture, photography, film and video, performance art, and other artistic practices? How do we understand the relations among verbal, visual, tactile, digital, and ambient media? The course begins with Henry James and ends with a contemporary art novel to be determined by the class. Other likely authors include: Gertrude Stein, Jean Toomer, James Baldwin, Vladimir Nabokov, John Updike, and Don DeLillo.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Barker 114 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e154444a1310" role="1" seniority_sort="1">
+                <display_name>David Alworth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

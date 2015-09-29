@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119243" class_number="12627" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1655R">Conceptual Development: Undergraduate Laboratory Course</title>
+            <notes>Open to undergraduates seeking research experience, especially in preparation for undergraduate theses.   Open to undergraduates seeking research experience, especially in preparation for undergraduate theses.</notes>
+            <description>Students participate in research on conceptual development and language acquisition. Each student has responsibility for a project. Weekly lab meeting to discuss student projects and readings relevant to them. Ten hours a week commitment (includes lab meeting).</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Workshop</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e85512a1310" role="1" seniority_sort="1">
+                <display_name>Susan Carey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

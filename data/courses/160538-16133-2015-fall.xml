@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160538" class_number="16133" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 2350">Ancient DNA and the New Science of the Human Past</title>
+            <exam_group>FAS08_H</exam_group>
+            <notes> Prospective students should submit a one-page essay explaining their interest in the course and the critical perspective that they expect to bring.</notes>
+            <description>The ability to sequence genomes from ancient remains is revolutionizing our understanding of past human behavior. This seminar will focus on what genome-wide studies of modern and ancient DNA have already shown, the tensions that have arisen between genetics and other disciplines, and possible ways to reconcile these tensions.&amp;nbsp; Enrollment will be limited to 15, chosen to represent a balance of disciplines touched on by the new data. Prospective students should submit a one-page essay explaining their interest in the course and the critical perspective that they expect to bring.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:59:00" location="Barker 114 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e208709a1310" role="1" seniority_sort="1">
+                <display_name>David Reich</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

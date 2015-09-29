@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109863" class_number="15699" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1551">Journeys</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> Offered jointly with the Divinity School as 3107.</notes>
+            <description>A growing number of books have appeared recently recounting personal journeys of faith &amp;mdash; faith searched for, wrestled with, lost, found, abandoned, affirmed, re-imagined, understood in new ways &amp;mdash; or any combination of these. We will read contemporary works in this genre exploring, among others, themes of religion, gender and identity. Our readings will include Sarah Sentilles,&amp;nbsp;Breaking Up with God, Joanna Brooks,&amp;nbsp;The Book of Mormon Girl, Chris Stedman,&amp;nbsp;Faithiest, Colleen Carroll Campbell,&amp;nbsp;My Sisters the Saints, and Lauren Winner,&amp;nbsp;Still: Notes on a Mid-Faith Crisis; Ann Lamott,&amp;nbsp;Help, Thanks, Wow.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18150a1310" role="1" seniority_sort="1">
+                <display_name>Leila Ahmed</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124312" class_number="15118" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEM 20">Organic Chemistry</title>
+            <notes> Chemistry 20/30 is an integrated two-semester sequence that prepares students to study chemistry and other physical sciences, whereas the Chemistry 17/27 sequence focuses on application of organic chemistry concepts to the life sciences. Either sequence satisfies the organic chemistry requirement for medical school and the chemistry concentration. The content of Chemistry 17 is accelerated and overlaps with topics from both Chemistry 20 and 30. Students may not count both Chemistry 17 and 20 toward the degree. However, Chemistry 27 and Chemistry 20/30 cover different material, so students may choose to take Chemistry 27 after completing the 20/30 sequence.</notes>
+            <prereq>Recommended: Open to students who scored 4 or 5 on the Chemistry Advanced Placement Examination, or who successfully completed Life Sciences 1A or Life and Physical Sciences A. Others should contact the instructor to discuss their preparation.</prereq>
+            <description>An introduction to structure and bonding in organic molecules; mechanisms of organic reactions; chemical transformations of the functional groups of organic chemistry; synthesis; determination of chemical structures by infrared and NMR spectroscopy.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108665" class_number="14601" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1540">Human Migration</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes>This course counts towards the research seminar requirement in HEB.  </notes>
+            <prereq>Recommended: Life Sciences 1b required.</prereq>
+            <description>The course will explore human migration at several scales, time depths and data sources, including the movement of humans out of Africa and the complex movements of the first farmers across Europe. We will explore the impacts that climates and disease burden have had on human migrations, and discuss recent movements of people and the reasons for migratory behavior in humans. In addition, a personal migration story will be developed by the class.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Peabody Museum 52H" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18098a1310" role="1" seniority_sort="1">
+                <display_name>Noreen Tuross</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

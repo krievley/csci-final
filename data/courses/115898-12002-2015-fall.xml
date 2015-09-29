@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115898" class_number="12002" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 213">In Search of a Medieval Subject</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes> Conducted in French. Open to qualified undergraduates with permission of the instructor.</notes>
+            <description>We will read various medieval authors ranging from Augustine to Christine de Pizan to identify a medieval subjectivity. Modern texts on subjectivity will be used as a counterpoint.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Boylston 335 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43460a1310" role="1" seniority_sort="1">
+                <display_name>Virginie Greene</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

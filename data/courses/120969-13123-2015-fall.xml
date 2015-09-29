@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120969" class_number="13123" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 25W">Responsibility, the Brain, and Behavior</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> The seminar may include a required trip outside of class time to Bridgewater State Hospital, Massachusetts's maximum security forensic hospital. Transportation will be provided free of charge.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Explores philosophical and legal bases of the concept of individual responsibility as applied in the criminal justice system. Examines how forensic mental health professionals assess an individual's mental state at time of an alleged criminal act, the legal standards applied, and the social and political forces that help shape the legal decision. Considers the insanity defense; examines modern concepts of the biological basis of behavioral disorders and their relationship to existing standards of criminal responsibility.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:59:00" location="Sever 305 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e270702a1310" role="1" seniority_sort="1">
+                <display_name>Ronald Schouten</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

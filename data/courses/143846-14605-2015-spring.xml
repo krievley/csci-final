@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143846" class_number="14605" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 190">Biology and Diversity of Birds</title>
+            <prereq>Recommended: OEB 10 or OEB 53 or permission of the instructor.</prereq>
+            <description>An introduction to the biology of birds. Covers the fossil record and theories for avian origins, physiology and anatomy, higher-level systematics and field characters of the ~27 orders, speciation processes, nesting and courtship behavior, vocalizations, mating systems and sexual selection, cooperative breeding, demography and conservation. Optional field trip during spring break. Laboratories will consist of gross anatomy, bird watching excursions in the Cambridge area, field techniques and specimen preparation, and systematic study of avian groups using the collections of the Museum of Comparative Zoology.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e221825a1310" role="1" seniority_sort="1">
+                <display_name>Scott Edwards</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

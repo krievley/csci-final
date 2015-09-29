@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123244" class_number="17172" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1651R">Language Development: Undergraduate Laboratory Course: Research Seminar</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes> For undergraduates seeking research experience, especially in preparation for undergraduate theses.</notes>
+            <prereq>Recommended: Science of Living Systems 20 or its predecessors plus either Psychology 13 or Science of Living Systems 15</prereq>
+            <description>Students participate in research on language acquisition, language comprehension, and language production. Each student has responsibility for a project. Weekly meeting to discuss student projects and readings that are relevant to them. Ten hours a week commitment (includes lab meeting).</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:29:00" location="William James 1050 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e86143a1310" role="1" seniority_sort="1">
+                <display_name>Jesse Snedeker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

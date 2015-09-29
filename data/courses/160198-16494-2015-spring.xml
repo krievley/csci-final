@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160198" class_number="16494" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 23C">Exploring the Infinite</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Infinity captivates the imagination. A child stands between two mirrors and sees herself reflected over and over again, trailing off to infinity. Does it go on forever? Does anything go on forever? Does time go on forever? Does the universe go on forever? In this seminar we will explore the mathematics of the infinite. We will see that there are higher and higher levels of infinity, and through this exploration we will see that the infinite is even more magnificent than one might ever have imagined.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e71602a1310" role="1" seniority_sort="1">
+                <display_name>Peter Koellner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159726" class_number="15828" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 30H">Living on the edge: imagining the unknown in ancient ethnography</title>
+            <exam_group>FAS13_G</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course explores how ancient Greeks and Romans thought about the edges of the known world. We will examine ancient accounts and images of people, cultural practices, and geography at the margins of western experience, and try to understand how such stories developed. Topics include maps, ethnocentrism, Orientalism, Roman triumphal processions, and science fiction. Our discussions will regularly draw on comparable ways of constructing the unknown in modern American culture.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Boylston 203 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e27028a1310" role="1" seniority_sort="1">
+                <display_name>Naomi Weiss</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

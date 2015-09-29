@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160371" class_number="15431" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 188">Open Minds, Wired Worlds: Computers and Cyberculture</title>
+            <description>From the birth of the electronic computer through the rise of social networking, this lecture course will trace both the eighty-year effort to create an electronic information machine, and the parallel effort to use this technology to enable people to create new kinds of communities. Beginning with the rise of information science and cybernetics, and continuing through the origins of digital logic and electronic computation, this course will explain the rise of smaller, faster, and more personal computers while examining the attendant political, social, and economic forces that spurred the development of a global communications network.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e94450a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Hersch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

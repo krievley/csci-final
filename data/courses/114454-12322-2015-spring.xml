@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114454" class_number="12322" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CATALAN 91R">Supervised Reading and Research</title>
+            <notes>Stacey Katz Bourns and members of the Department  This course is taught by members of the Department.</notes>
+            <description>Tutorial supervision of research on subjects not treated in regular courses. May be used for further language study after Catalan Ba or 20.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="CATALAN">Catalan</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

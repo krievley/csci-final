@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120237" class_number="15744" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 229R">Algorithms for Big Data</title>
+            <exam_group>FAS04_A</exam_group>
+            <prereq>Recommended: Mathematical maturity and comfort with algorithms (e.g. CS 124), discrete probability, and linear algebra.</prereq>
+            <description>This course will cover rigorous methods, based on solid theoretical foundations, for processing massive amounts of data. Topics discussed will include streaming and sketching algorithms, dimensionality reduction, and external memory algorithms, to name a few.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Maxwell Dworkin G115 (SEAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e14531a1310" role="1" seniority_sort="1">
+                <display_name>Jelani Nelson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

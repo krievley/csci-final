@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159720" class_number="15538" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 40C">Ancient Technology-China and Beyond</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>What is technology?&amp;nbsp; How do we understand its relevance to ancient societies?&amp;nbsp; This course introduces the concept of technology, especially as it is approached by archaeologists, using ancient China as a case study.&amp;nbsp; Through hands on experiences, the practices involved in different technologies are introduced, and the historical contexts of their development in ancient China are considered through readings that are discussed in class. The course covers stone tool production, agriculture, animal domestication and use, divination, metallurgy, pottery manufacture and more. Students will be involved in the creation of a museum exhibit based on artifacts from Harvard Museums.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e30960a1310" role="1" seniority_sort="1">
+                <display_name>Rowan Flad</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

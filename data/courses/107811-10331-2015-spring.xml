@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107811" class_number="10331" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1310">The Economy of China</title>
+            <notes> Writing requirement: A research paper is required. This course meets the concentration writing requirement.</notes>
+            <prereq>Recommended: Ec 10a and Ec 10b.</prereq>
+            <description>This course critically examines China's remarkable economic performance in the post-Mao era and places this performance in historical and comparative context. Topics covered include China's economic structure, institutions, inequality, trade, population, and public policy.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e28166a1310" role="1" seniority_sort="1">
+                <display_name>Richard Cooper</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

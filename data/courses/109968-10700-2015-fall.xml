@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109968" class_number="10700" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SYSTBIO 300QC">Advanced Topics in Systems Biology</title>
+            <description>Series of intensive seminars, each running for 6 hours. Three seminars, which can be taken in different terms, are required for credit.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>8</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6291a1310" role="1" seniority_sort="1">
+                <display_name>Timothy Mitchison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

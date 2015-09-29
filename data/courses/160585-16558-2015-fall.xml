@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160585" class_number="16558" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 985SA">Research in Political Economy, History, and Development Economics</title>
+            <exam_group>FAS05_D</exam_group>
+            <description>Hours to be arranged.&amp;nbsp;Workshop for seniors writing theses. Especially for work in political economy, history, or development economics, but open to all fields. Emphasis on choice of research topics, methodology, and data sources. Course requires written and oral presentations of work in progress leading toward completion of a major research paper or senior honors thesis. Part one of a two-part series.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e215138a1310" role="1" seniority_sort="1">
+                <display_name>Jonas Poulsen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160453" class_number="15690" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 126">Vertebrate Evolution</title>
+            <prereq>Recommended: OEB 53 or with permission of instructor. Life Sciences 2 recommended. 
+Lab component:  T, Th, 2:30pm-4:00pm for Spring 2016</prereq>
+            <description>This course provides a comprehensive survey of the origin and evolution of vertebrates through an examination of the fossil record. A primary focus will be on major events in Earth&amp;rsquo;s evolutionary history, with an emphasis on anatomical and physiological transformations in fish, amphibians, reptiles, birds and mammals.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e160621a1310" role="1" seniority_sort="1">
+                <display_name>Stephanie Pierce</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

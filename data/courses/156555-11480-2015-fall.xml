@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156555" class_number="11480" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 13">Morality and Its Critics</title>
+            <exam_group>FAS02_A</exam_group>
+            <notes>Tu., Th., at 12 (section to be arranged)   </notes>
+            <description>An introduction to ethics, focusing on two representative views of the nature and significance of morality. On one (utilitarianism), morality is roughly about doing what best serves the interests of everyone involved; on the other (associated with Immanuel Kant) it instead concerns relating to people on terms that respect their dignity and autonomy. We&amp;#39;ll explore these views in the context of issues ranging from animal rights and global poverty to happiness, manipulation, and responsibility, and we also consider whether both views might seriously exaggerate the place of morality in our lives.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Emerson 108 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e65756a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin Bagley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

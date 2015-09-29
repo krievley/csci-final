@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121346" class_number="15259" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="ARABIC 131A">Upper-Level Modern Arabic l</title>
+            <exam_group>FAS10_B</exam_group>
+            <notes> Not open to auditors.</notes>
+            <prereq>Recommended: Arabic Ba or equivalent.</prereq>
+            <description>Reading and discussion of selections from Arabic newspapers and journals on contemporary political, social, religious, and cultural issues in the Arab world. Emphasis on developing advanced reading and speaking skills, with some attention to writing and listening comprehension. Required textbook: al-Kitaab -Kitaab fii Ta'allum al-Arabiyya, Part III with DVDs.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="12:59:00" location="CGIS South S040 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e279207a1310" role="1" seniority_sort="1">
+                <display_name>Nevenka Korica Sullivan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

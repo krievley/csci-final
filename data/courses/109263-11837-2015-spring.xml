@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109263" class_number="11837" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 99B">Tutorial - Senior Year</title>
+            <notes>Nadine Weidman  Students are expected to complete a thesis or submit a research paper or other approved project in order to receive course credit. This course must be taken Sat/Unsat.</notes>
+            <description>Faculty-led seminar and intensive work with an individual advisor, directed towards production of the senior honors thesis.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e263449a1310" role="1" seniority_sort="1">
+                <display_name>Nadine Weidman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

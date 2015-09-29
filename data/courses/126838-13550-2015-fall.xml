@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126838" class_number="13550" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 35N">The Art and Craft of Acting</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> Students will be required to attend theater performances (dates TBD) during the course of the term. There will be no charge to the student.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Provides an introduction to acting by combining elements of a discussion seminar with exercises, improvisations and performance activities. Uses improvisation to improve group/ensemble dynamics, minimize habitual behaviors and to develop characters. Explores a range of acting techniques designed to give students greater access to their creativity, imagination and emotional life. In the later part of the term we will work on monologues. Students also attend and critique productions at the Loeb Drama Center and other theaters in the Boston area.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="29 Garden St 111" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e113765a1310" role="1" seniority_sort="1">
+                <display_name>Remo Airaldi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

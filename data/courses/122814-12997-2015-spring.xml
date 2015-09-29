@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122814" class_number="12997" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RUSS 114">Advanced Russian: Russian Cultural Self-Images and National "Mentality"</title>
+            <prereq>Recommended: Russian 103, 113, or permission of the instructor.</prereq>
+            <description>Through readings and film, we explore Russian cultural attitudes and self-images as socio-cultural context. Topics include cultural perceptions of self as nation and as cultural "mentality," the collective vs. the individual, attitudes toward friendship, the family and women, law, crime, prestige and success, and ethnic difference. Concentrates on vocabulary and phrasing, and includes extensive writing practice.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e68630a1310" role="1" seniority_sort="1">
+                <display_name>Natalia Pokrovsky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

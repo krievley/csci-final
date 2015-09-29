@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="18656" school_id="fas" section="250" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>What does it mean&amp;mdash;and what has it meant&amp;mdash;to have a body?&amp;nbsp; Is a body a physical boundary separating a self from the rest of the world?&amp;nbsp; If so, how do we account for cases like contagion or reproduction, where bodies implicate one another?&amp;nbsp; How does the way we think about our bodies depend upon both the technologies we use to manage, diagnose, and measure them and the artistic forms we use to represent them?&amp;nbsp; We&amp;rsquo;ll begin to explore these questions by visiting the Warren Anatomical Museum and the Putnam Gallery to examine Harvard&amp;rsquo;s morbidly fascinating collections of medical curiosities and instruments&amp;mdash;which include phrenological models of the brain, fetal skeletons, medical diagrams and prints, early X-ray machines, Civil War surgical instruments, and even Phineas Gage&amp;rsquo;s skull.&amp;nbsp; In our second unit, we will read across the boundaries of theology, literature, and science&amp;mdash;genres we usually imagine as distinct&amp;mdash;to understand how writers from a range of perspectives have grasped and represented the origin, construction, and development of the human body.&amp;nbsp; We will examine the works of Jean Baptiste de Lamarck, William Paley, and Charles Darwin and analyze A. S. Byatt&amp;rsquo;s treatment of their debate in her novella, &amp;ldquo;Morpho Eugenia.&amp;rdquo;&amp;nbsp; This interest in how the body has been understood in the past will inform your final research paper, where you will analyze representations of the body in the contemporary texts or contexts of your choice.&amp;nbsp; Possibilities include (but are not limited to) disease films, modern dance, nude portraiture, college athletics, fitness magazines, and advertising.&amp;nbsp; Throughout the semester, we will ask how and why the body has been theorized in such conflicting ways, calling into question any singular understanding of what constitutes a human body. </notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Barker 316 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e158346a1310" role="1" seniority_sort="1">
+                <display_name>Rebecca Summerhays</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123660" class_number="16556" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 40I">The Supreme Court in U.S. History</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Often described as the world's most powerful court, the US Supreme Court has not always enjoyed high prestige or unquestioned authority. The Court's significance has waxed and occasionally waned, with the variations typically depending on surrounding currents in the nation's social and political history. Examines the history of the Court from the nation's founding to the present. Highlights relation between constitutional law and ordinary politics, and the ways in which they influence one another.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e211222a1310" role="1" seniority_sort="1">
+                <display_name>Richard Fallon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

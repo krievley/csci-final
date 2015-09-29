@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160680" class_number="16334" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SYSTBIO 300HFB">Introduction to Systems Biology Research</title>
+            <description>Series of lectures to introduce the research areas of current program faculty in systems biology. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

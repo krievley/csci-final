@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111710" class_number="17410" school_id="fas" section="006" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 300">Reading and Research for Advanced Students</title>
+            <description>Individual work on specific topics not included in the announced course offerings.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e61829a1310" role="1" seniority_sort="1">
+                <display_name>Chaya Czernowin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

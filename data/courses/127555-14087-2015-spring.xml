@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127555" class_number="14087" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GENETIC 302QC">Teaching 101: Bringing Effective Teaching Practices to your Classroom</title>
+            <description>Survey basics of effective teaching practices, focusing on practical application and real-life examples. Topics include effective lecturing techniques, using goals and learning styles to inform lesson planning and design, assessing student understanding, and facilitating discussions.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e7093a1310" role="1" seniority_sort="1">
+                <display_name>Johanna Gutlerner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

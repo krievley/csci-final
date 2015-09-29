@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159821" class_number="14991" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98PB">Global Slums</title>
+            <notes> This course will be lotteried.</notes>
+            <description>This course investigates &amp;ldquo;the slum&amp;rdquo; as a social product, an icon of disorder, and a setting for diverse cultures and modes of sociality. By comparing ethnographic case studies of slums from around the world, we explore how slums emerge at the intersection of global inequalities, state planning, and the insurgent practices of the poor. Topics we cover include: rural-urban migration, spatial segregation, housing and infrastructure, informal markets, sustainability, and urban social movements.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e204281a1310" role="1" seniority_sort="1">
+                <display_name>Kristin Skrabut</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

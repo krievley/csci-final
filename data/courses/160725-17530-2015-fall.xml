@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160725" class_number="17530" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 291N">Miraculous Images in the New World</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>&amp;nbsp;This seminar will be a comparative analysis of those Christian images in the New World that come to be considered in some way as being extraordinary and therefore developed their own cults.&amp;nbsp; We will examine well-known images such as the Virgin of Guadalupe, the Virgin of Chiquinquir&amp;aacute;, the Virgin of Copacabana, Nuestro Se&amp;ntilde;or de los Temblores, el Se&amp;ntilde;or de los Milagros as well as more regionally important cult images.&amp;nbsp; Are the miraculous images of colonial Latin America some how distinct from those of Spain?&amp;nbsp; Are the narratives about them somehow distinct?&amp;nbsp; That is, how does the universality of the Catholic Church become localized through miraculous images, and how does the concept of localization shift historically from the sixteenth to the eighteenth century.&amp;nbsp; A sub-text to the seminar will consider issues of orthodox and unorthodox referentiality (blasphemy, idolatry, doubling. etc.) as articulated through miraculous images and the texts produced in relation to them.&amp;nbsp; A second interest centers on the corporeal presence of the mystical in the human body such as Santa Rosa of Lima and how it becomes marked both during and after life.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Sackler Museum 515" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e171077a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Cummins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

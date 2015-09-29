@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145409" class_number="14391" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 242">Population Genetics</title>
+            <prereq>Recommended: LS1b or permission of the instructor.</prereq>
+            <description>Mathematical theory, experimental data, and history of ideas in the field, including analytical methods to study genetic variation with applications to evolution, demographic history, agriculture, health and disease. Includes lectures, problem sets, and student presentations.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108217" class_number="10773" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SHBT 202">Clinical Aspects of Hearing and Speech</title>
+            <notes> Offered jointly with HST 724 at MIT. Classes to be held at the Massachusetts Eye and Ear Infirmary (MEEI)</notes>
+            <prereq>Recommended: Anatomy of Speech and Hearing, Acoustics of Speech and Hearing or permission of the course director</prereq>
+            <description>Clinical approach to speech and hearing disorders as practiced by physicians, audiologists, speech clinicians, rehabilitation specialists, bioengineers. Includes observation of patient care in clinic and operating room, audiology/balance disorders experience, lectures and discussion groups.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="18:59:00" location="" start_time="17:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19188a1310" role="1" seniority_sort="1">
+                <display_name>Konstantina Stankovic</display_name>
+            </person>
+            <person id="d1e345700a1310" role="2" seniority_sort="2">
+                <display_name>Ramon Franco</display_name>
+            </person>
+            <person id="d1e345703a1310" role="2" seniority_sort="3">
+                <display_name>Sharon Kujawa</display_name>
+            </person>
+            <person id="d1e345706a1310" role="2" seniority_sort="4">
+                <display_name>Conrad Wall</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110063" class_number="19275" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="APMTH 140R">Computational Geometry</title>
+            <notes> Grading based on final project, in-class assignments, in-class participation. No written exams, no written homework outside class. You will present your finished programs and pretty pictures to the class.</notes>
+            <prereq>Recommended: Applied Mathematics 21a/b or Mathematics 21a/b. You know how to multiply matrices and vectors. No previous programming experience required.</prereq>
+            <description>An inquiry based and hands on exploration in computational geometry. Topics include: projective geometry (duality between points/lines, symmetry among spheric/planar/hyperbolic geometry), linear algebra (vectors, matrices, symmetry groups) and recursion. We will draw pretty pictures (fractals, tesselations, algebraic curves, etc.). We will write computer programs in Mathematica (and possibly Java, if time permits).</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

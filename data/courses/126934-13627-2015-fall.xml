@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126934" class_number="13627" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 135">Physics and Chemistry: In the Context of Energy and Climate at the Global and Molecular Level</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> EPS 135 is also offered as ES 135. Students may not take both for credit.</notes>
+            <prereq>Recommended: Physical Sciences 1, or Physical Sciences 11, or permission of instructor.</prereq>
+            <description>A solution to the problems set by the intersection of global energy demand and climate feedbacks requires the teaching of physics and chemistry in that context. Core topics include thermodynamics, free energy, entropy, acid-base and oxidation-reduction reactions, electrochemistry, electromagnetic induction, circuit theory, AC and DC circuits, the nature of photons and of electromagnetic radiation, photochemistry, materials, catalysis, kinetics, molecular bonding, and biological processes for energy conversion and storage.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Geological Museum 105 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e22842a1310" role="1" seniority_sort="1">
+                <display_name>James Anderson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

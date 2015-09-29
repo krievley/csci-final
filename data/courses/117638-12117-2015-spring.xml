@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117638" class_number="12117" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ROM-LANG 300">Seminar for Dissertation Writing in the Romance Literatures</title>
+            <prereq>Recommended: Completion or imminent completion of PhD general examinations.</prereq>
+            <description>Addresses audience, voice, and ethics of critical writing (quotation, acknowledgement, controversy); and practical strategies for prospectus preparation, chapter organization, conference and job talks, publication. Meetings use manuscript work-shopping, reading, oral presentations, and guest lectures.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ROM-LANG">Romance Languages</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

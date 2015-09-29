@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156115" class_number="15654" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1790">American Foreign Policy</title>
+            <notes>IR_subfield  </notes>
+            <description>Examines and explains the international actions of the US Government. Explanations drawn from history, international relations theory, and from the study of American political and bureaucratic institutions. Emphasis is placed on the recent rise of the US to a position of unprecedented military dominance, how this military power has been used, and how other states, non-state actors, or global governance institutions have responded.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e33341a1310" role="1" seniority_sort="1">
+                <display_name>Joshua Kertzer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

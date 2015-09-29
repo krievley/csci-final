@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159722" class_number="15043" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 21H">Modern Civilization and the Rise of Heart Disease</title>
+            <exam_group>FAS14_F</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Heart diseases have plagued humans since ancient times, but only in the past century has heart disease become epidemic throughout the world. The rise of heart disease has been strongly influenced by modernization of civilization. Conversely, breakthroughs in heart disease research have strongly influenced society and our personal behavior. In this seminar, we will examine some of the major intersection events between heart disease and modern society over the past century. In addition, we will visit a high technology modern cardiology facility and watch some technology in action.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:29:00" location="Sherman Fairchild G62 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6427a1310" role="1" seniority_sort="1">
+                <display_name>Richard Lee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

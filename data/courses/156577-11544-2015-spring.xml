@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156577" class_number="11544" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG 174">The Sublime: Millenarism and Redemption in Brazilian Culture</title>
+            <notes>Instructor to be determined  </notes>
+            <description>As a composite resulting from the convergence of many mitho-poetic traditions from Iberia, West Africa and South America, Brazilian culture thrives on Magic lore.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

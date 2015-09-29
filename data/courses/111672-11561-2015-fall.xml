@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111672" class_number="11561" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 90R">Supervised Research</title>
+            <notes>David Morin and members of the Department  A list of possible faculty sponsors and their fields is available in Lyman 238 and on the Physics Department Web page. Course enrollment forms may be obtained from Lyman 238.</notes>
+            <description>Primarily for selected concentrators in Physics, or in Chemistry and Physics, who have obtained honor grades in Physics 15 and a number of intermediate-level courses. The student must be accepted by some member of the faculty doing research in the student's field of interest. The form of the research depends on the student's interest and experience, the nature of the particular field of physics, and facilities and support available. Students wishing to write a senior thesis can do so by arranging for a sponsor and enrolling in this course.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e53929a1310" role="1" seniority_sort="1">
+                <display_name>David J. Morin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

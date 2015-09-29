@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114640" class_number="14649" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RUSS AH">Russian for Heritage Speakers</title>
+            <exam_group>FAS08_J</exam_group>
+            <description>Grammar and vocabulary review for students with a Russian-speaking family background. The course covers the entire case system, verb conjugation, aspect, motion constructions, and other essential grammar topics. Emphasis on reading, writing, spelling, and word formation.Please language course notes on our website&amp;nbsp;for information about sectioning, pass/fail, satisfactory/unsatisfactory, auditing, and language track information.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Robinson 106 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e115611a1310" role="1" seniority_sort="1">
+                <display_name>Veronika Egorova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

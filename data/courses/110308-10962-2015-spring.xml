@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110308" class_number="10962" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 46K">The Terrorist</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course will introduce students to the study of terrorism. We will cover the history and evolution of the tactic, from the Zealots to al Qaeda to the Tsarnaev Brothers. We will assess terrorists' motivations and how they market their causes to various publics. Why do terrorists do what they do? We will explore risk factors at various levels, including global, national, group, and personal. After completing this course, we expect that students will have a much more nuanced and intellectually grounded understanding of terrorism.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e329266a1310" role="1" seniority_sort="1">
+                <display_name>Jessica Stern</display_name>
+            </person>
+            <person id="d1e270702a1310" role="2" seniority_sort="2">
+                <display_name>Ronald Schouten</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120837" class_number="17007" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 3680HFA">Research in Environmental Economics</title>
+            <exam_group>FAS18_I</exam_group>
+            <notes> Open to doctoral students only.</notes>
+            <description>Participants discuss recent research in environmental and natural resource economics and present their own work in progress.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e177003a1310" role="1" seniority_sort="1">
+                <display_name>Robert Stavins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

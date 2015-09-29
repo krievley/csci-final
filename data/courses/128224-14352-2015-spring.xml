@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128224" class_number="14352" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="E-PSCI 22">The Fluid Earth: Oceans, Atmosphere, Climate, and Environment</title>
+            <notes> Course includes a weekly three-hour lab to be arranged.
+This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe.</notes>
+            <description>This course introduces students to the fluid Earth, emphasizing Earth's weather and climate, the carbon cycle, and global environmental change. The physical concepts necessary for understanding the structure, motion and energy balance of the atmosphere, ocean, and cryosphere are covered first, and then these concepts are applied in exploring major earth processes. Examples from Earth's past history, on-going changes in the climate, and implications for the future are highlighted.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e207669a1310" role="1" seniority_sort="1">
+                <display_name>Peter Huybers</display_name>
+            </person>
+            <person id="d1e281791a1310" role="1" seniority_sort="2">
+                <display_name>Ann Pearson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

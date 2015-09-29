@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123456" class_number="18991" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 99XA">Thesis Tutorial in Archaeology - Senior Year</title>
+            <description>Research and writing of the Senior Thesis. Limited to honors candidates. Signature of the faculty adviser on a departmental form is required. This form is available from the Head Tutor for Archaeology or downloadable from the department&amp;#39;s Anthropology (Archaeology) website. Part one of a two part series.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="19:59:00" location="Tozzer 416 (FAS)" start_time="18:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e30960a1310" role="1" seniority_sort="1">
+                <display_name>Rowan Flad</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

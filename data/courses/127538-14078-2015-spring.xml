@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127538" class_number="14078" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCWORLD 44">Human Trafficking, Slavery and Abolition in the Modern World</title>
+            <description>This course surveys the nature, types and extent of modern servitude, distinguishing broadly between those resulting from international trafficking such as trans-national prostitution, human smuggling into bonded labor, child soldiering and organ trafficking, and more intra-national forms such as debt-bondage and the domestic exploitation of women and other vulnerable groups. Examines the conceptual and theoretical issues raised in attempts to distinguish among these types of differential power relations; the empirical difficulties of estimating the magnitude of what are inherently secretive processes; and the ideological controversies surrounding the subject. Explores ethical, socio- political and practical issues raised by these trends.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e26376a1310" role="1" seniority_sort="1">
+                <display_name>Orlando Patterson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

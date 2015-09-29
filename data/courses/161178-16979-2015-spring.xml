@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="161178" class_number="16979" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="UKRA AR">Elementary Ukrainian Tutorial</title>
+            <description>Individualized study of the Ukrainian language at the elementary level, conducted as a tutorial. Contact hours with language coach. Emphasis on literacy.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="UKRA">Ukrainian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e67411a1310" role="1" seniority_sort="1">
+                <display_name>Volodymyr Dibrova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

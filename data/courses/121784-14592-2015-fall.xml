@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121784" class_number="14592" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 175K">American and European Art, 1945-1975</title>
+            <exam_group>FAS18_F</exam_group>
+            <description>This course will examine artistic production in the US and Europe between 1945 and 1975 to clarify some of the most crucial questions of this thirty year period: How did post war visual culture repress or acknowledge the recent 'caesura of civilization' brought about by World War II?; how did the neo-avantgarde position itself with regard to the legacies of the avantgardes of the 1920s?; how did artistic production situate itself in relation to the newly emerging apparatus of Mass Media culture?</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Sackler Museum 029" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e185747a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin Buchloh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119533" class_number="12690" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1300">Western Intellectual History: Greco-Roman Antiquity</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>A survey of major themes in the intellectual history of the Greek and Roman World, with special attention to metaphysics, psychology, ethics and the philosophic life. Readings in the Presocratics, Plato, Aristotle, Lucretius, Epictetus, Cicero, Seneca, Marcus Aurelius, Plotinus, Augustine, and Boethius.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Holden Chapel Classroom (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38823a1310" role="1" seniority_sort="1">
+                <display_name>James Hankins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

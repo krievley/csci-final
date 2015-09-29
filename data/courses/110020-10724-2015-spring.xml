@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110020" class_number="10724" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BE 191">Introduction to Biomaterials</title>
+            <prereq>Recommended: Physical sciences 1, Math 1b.</prereq>
+            <description>A biomaterial is any form of matter that is produced by or interacts with biological systems. One of the pillars of biomedical engineering is to use naturally derived and synthetic biomaterials to treat, augment, or replace human tissues. This course examines the structure, properties and processing of biomaterials.</description>
+            <department code="BME">Biomedical Engineering</department>
+            <course_group code="BE">Biomedical Engineering</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e112745a1310" role="1" seniority_sort="1">
+                <display_name>Neel Joshi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

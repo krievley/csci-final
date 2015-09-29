@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="140850" class_number="14283" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2040">Contemporary Topics in Psychopathology</title>
+            <notes> Required of, and limited to, first- or second-year Harvard doctoral students in clinical psychology.</notes>
+            <description>Advanced survey of current topics in experimental psychopathology.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6193a1310" role="1" seniority_sort="1">
+                <display_name>Jill Hooley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

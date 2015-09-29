@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111129" class_number="19278" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="CHNSE 140A">Advanced Modern Chinese</title>
+            <notes> Conducted in Chinese. No auditors. May not be taken Pass/Fail.</notes>
+            <prereq>Recommended: Chinese 130b, Chinese 130xb</prereq>
+            <description>Rapid reading of selections from books and articles.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSE">Chinese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

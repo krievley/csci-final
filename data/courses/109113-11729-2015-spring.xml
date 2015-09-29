@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109113" class_number="11729" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 307QC">Molecular Causes of Congenital Defects of the CNS</title>
+            <notes> Given every three years.</notes>
+            <description>Congenital defects can be caused by inheritance of a defective gene, maternal infection, or prenatal exposure to environmental teratogens. Use of mutant mouse strains and genomic sequencing have been particularly useful in the rapid proliferation of our understanding of the cellular and molecular mechanisms by which congenital defects of the brain or nervous system arise, and how they lead to functional consequences that range from biochemical abnormalities to gross structural defects.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e127888a1310" role="1" seniority_sort="1">
+                <display_name>Mary Loeken</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

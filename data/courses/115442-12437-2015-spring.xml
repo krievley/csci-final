@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115442" class_number="12437" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 253B">Quantum Field Theory II</title>
+            <prereq>Recommended: Physics 253a.</prereq>
+            <description>A continuation of Physics 253a. Topics include: the renormalization group, implications of unitarity, Yang-Mills theories, spontaneous symmetry breaking, weak interactions, anomalies, and quantum chromodynamics. Additional advanced topics may be covered depending on time and interest.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e627a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Jafferis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

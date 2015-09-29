@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126284" class_number="13724" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AESTHINT 37">Introduction to the Bible in the Humanities and the Arts</title>
+            <exam_group>FAS06_C</exam_group>
+            <notes> The course does not count for the English concentration "Arrivals" requirement. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>A course on the structure of the Bible, which William Blake called ``the great code of art.'' Major themes include the invention of God, the invention history, and the invention of the city (or rather, of two cities, that of the devil and that of God). About two-thirds of the Authorized Version (King James) of 1611 will be read.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="Harvard Hall 201 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25666a1310" role="1" seniority_sort="1">
+                <display_name>Gordon Teskey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116531" class_number="15562" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 236R">Topics at the Interface between Computer Science and Economics</title>
+            <prereq>Recommended: Mathematics 21b, Applied Mathematics 21b, or equivalent; Economics 1011a, or equivalent; or permission of instructor.</prereq>
+            <description>Interplay between computation and economics. Topics in electronic commerce, computational social choice, computational mechanism design, peer production, prediction markets and reputation systems. Readings in AI, theoretical CS, multi-agent systems, economic theory, and operations research.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e146335a1310" role="1" seniority_sort="1">
+                <display_name>Yiling Chen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

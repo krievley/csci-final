@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156139" class_number="15357" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 177">Poverty in America</title>
+            <exam_group>FAS07_B</exam_group>
+            <description>Fifty Years after President Lyndon B. Johnson launched the War on Poverty, America is still home to both abundant wealth and extreme deprivation. This course investigates poverty in America in historical and contemporary perspective. We will explore topics such as urban and rural poverty, the underground economy, and survival strategies of poor families. We will also study several large-scale anti-poverty programs with an eye toward what worked and what didn't, and we will review moral-political debates about the right to housing, living wages, welfare, social suffering, and other matters pertaining to American life below the poverty line.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="William James B1 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e56697a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Desmond</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

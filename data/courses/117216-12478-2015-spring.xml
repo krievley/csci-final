@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117216" class_number="12478" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 152R">Intermediate Video Workshop: Studio Course</title>
+            <notes>Students seeking to enroll are encouraged to bring to the first class meeting a paragraph describing a proposed project, whether extended or short  .  Students seeking to enroll should come to the first class meeting with a proposal for a video project to be completed in the course.</notes>
+            <prereq>Recommended: One VES half-course in video production.</prereq>
+            <description>A workshop for students with experience in video to explore further the capabilities of the medium by working in the nonfiction genres of the documentary, the experimental, and the experimental documentary. Students may work singly or together to make either an extended project or a series of shorts.â¨&amp;nbsp;&amp;nbsp;</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15106a1310" role="1" seniority_sort="1">
+                <display_name>Alfred Guzzetti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>
