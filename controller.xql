@@ -26,10 +26,45 @@ else
         <dispatch
             xmlns="http://exist.sourceforge.net/NS/exist">
             <redirect
-                url="test"/>
+                url="departments"/>
         </dispatch>
         
-        (: test page :)
+        (: departments page :)
+else
+    if ($exist:resource eq 'departments') then
+        <dispatch
+            xmlns="http://exist.sourceforge.net/NS/exist">
+            <forward
+                url="{$exist:controller}/xquery/departments.xq">
+                <set-attribute
+                    name="collection_path"
+                    value="{$collection_path}"/>
+                <set-attribute
+                    name="exist.root"
+                    value="{$exist:root}"/>
+                <set-attribute
+                    name="exist.path"
+                    value="{$exist:path}"/>
+                <set-attribute
+                    name="exist.resource"
+                    value="{$exist:resource}"/>
+                <set-attribute
+                    name="exist.controller"
+                    value="{$exist:controller}"/>
+                <set-attribute
+                    name="exist.prefix"
+                    value="{$exist:prefix}"/>
+            </forward>
+             <view>
+                <forward
+                    servlet="XSLTServlet">
+                    <set-attribute
+                        name="xslt.stylesheet"
+                        value="{concat($exist:root, $exist:controller, "/xsl/departments.xsl")}"/>
+                </forward>
+            </view>
+        </dispatch>
+
 else
     if ($exist:resource eq 'test') then
         <dispatch
@@ -64,8 +99,49 @@ else
                 </forward>
             </view>
         </dispatch>
+
+else
+    if ($exist:resource eq 'courses') then
+        <dispatch
+            xmlns="http://exist.sourceforge.net/NS/exist">
+            <forward
+                url="{$exist:controller}/xquery/courses.xq">
+                <set-attribute
+                    name="collection_path"
+                    value="{$collection_path}"/>
+                <set-attribute
+                    name="exist.root"
+                    value="{$exist:root}"/>
+                <set-attribute
+                    name="exist.path"
+                    value="{$exist:path}"/>
+                <set-attribute
+                    name="exist.resource"
+                    value="{$exist:resource}"/>
+                <set-attribute
+                    name="exist.controller"
+                    value="{$exist:controller}"/>
+                <set-attribute
+                    name="exist.prefix"
+                    value="{$exist:prefix}"/>
+                <set-attribute 
+                    name="xslt.querystring" 
+                    value="{request:get-query-string()}"/>
+            </forward>
+            <view>
+                <forward
+                    servlet="XSLTServlet">
+                    <set-attribute
+                        name="xslt.stylesheet"
+                        value="{concat($exist:root, $exist:controller, "/xsl/courses.xsl")}"/>
+                    <set-attribute 
+                        name="xslt.querystring" 
+                        value="{request:get-query-string()}"/>
+                </forward> 
+            </view>
+        </dispatch>
            
-(: everything is passed through :)
+ (: everything is passed through :)          
 else
     <dispatch
         xmlns="http://exist.sourceforge.net/NS/exist">
