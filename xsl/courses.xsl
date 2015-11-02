@@ -3,22 +3,38 @@
     <xsl:template match="/">
         <html>
             <head>
+                <meta charset="utf-8"/>
+                <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1"/>
                 <title>CSCI E-18, Assignment 2</title>
+                <xsl:comment>Bootstrap</xsl:comment>
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"/>
             </head>
             <body>
-                <h1>Harvard University<br/>Faculty of Arts and Sciences</h1>
-                <table>
-                    <thead>
-                        <th>Course Group</th>
-                        <th>Course</th>
-                        <th>Term</th>
-                        <th>Title</th>
-                        <th>Type</th>
-                    </thead>
-                    <tbody>
-                        <xsl:apply-templates/>
-                    </tbody>
-                </table>
+                <div class="container-fluid">
+                    <h1>Harvard University<br/>Faculty of Arts and Sciences</h1>
+                    <xsl:call-template name="breadcrumb"/>
+                    <table class="table table-bordered">
+                        <thead>
+                            <th>Course Group</th>
+                            <th>Course</th>
+                            <th>Term</th>
+                            <th>Title</th>
+                            <th>Type</th>
+                        </thead>
+                        <tbody>
+                            <xsl:apply-templates/>
+                        </tbody>
+                    </table>
+                </div><!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
+                    <xsl:text/>
+                </script><!-- Include all compiled plugins (below), or include individual files as needed -->
+                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
+                    <xsl:text/>
+                </script>
             </body>
         </html>
     </xsl:template>
@@ -42,6 +58,14 @@
                 </td>
             </tr>
         </xsl:for-each>
+    </xsl:template>
+    <xsl:template name="breadcrumb">
+        <ol class="breadcrumb">
+            <li>
+                <a href="./departments">Home</a>
+            </li>
+            <li class="active">Department</li>
+        </ol>
     </xsl:template>
     <xsl:template match="text()"/>
 </xsl:stylesheet>
