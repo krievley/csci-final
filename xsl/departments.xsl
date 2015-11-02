@@ -12,9 +12,9 @@
             </body>
         </html>
     </xsl:template>
-    <xsl:template match="result">
+    <xsl:template match="departments">
         <ul>
-            <xsl:for-each select="*[not(@code=preceding-sibling::*/@code)]">
+            <xsl:for-each select="*">
                 <li>
                     <strong>
                         <a href="courses?department={encode-for-uri(@code)}">
