@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160968" class_number="18385" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90CD">Red Tape: Bureaucracy in American Culture</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>Bureaucracy is boring. And yet, its dreary routines and million petty frustrations have inspired some of the most interesting art and thought of the past two centuries. Where did bureaucracy come from, and why has it proved such a persistent object of fascination, particularly in the U.S.? How have bureaucratic institutions (government agencies, the modern corporation, etc.) shaped culture, and how have cultural objects shaped our ideas about bureaucracy? Readings from Melville, Weber, Orwell, Arendt, and Foucault; films include The Apartment, Die Hard, and Contagion.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="Barker 128 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e198689a1310" role="1" seniority_sort="1">
+                <display_name>Nicholas Donofrio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

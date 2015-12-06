@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119866" class_number="16348" school_id="fas" section="022" term_code="fall">
+        <catalog_info>
+            <title short_title="BIOSTAT 350">Research</title>
+            <exam_group>FAS18_I</exam_group>
+            <description>For doctoral candidates who have passed their written qualifying examination and who are undertaking advanced work along the lines of fundamental or applied dissertation research in the department.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e251634a1310" role="1" seniority_sort="1">
+                <display_name>Corwin Zigler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

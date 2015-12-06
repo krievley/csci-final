@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110362" class_number="11013" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 96B">Connections - Studio II</title>
+            <notes>Instructor to be determined  </notes>
+            <prereq>Recommended: History of Art and Architecture 96a.</prereq>
+            <description>Over half the world's inhabitants live in urban environments. Understanding, engaging, and re-imaging the urban condition, with all its complexities, structures, processes, and idiosyncrasies has become a pressing issue for architects, landscape architects, and urban designers alike. This studio will focus on the urban condition as a byproduct of the connections between both human and nonhuman frameworks (systems + environments). Using diagramming and mapping processes, both iteratively and speculatively, students will investigate system-environment relationships through the examination of qualities, behaviors, and territories for a select set of urban agents. Each investigation will reveal latent, suppressed, emerging, provisional, and otherwise unmapped connections, which influence the formation of urban spaces, infrastructures, and technologies. Course material is presented through a series of exercises, lectures, workshops, and reviews, which introduce students to the application of foundational design principles and critical design strategies. This course fosters the development of a design methodology founded on thoughtful, creative, ethical and sustainable practices, and explores meaningful expressions for the built environment.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e339192a1310" role="1" seniority_sort="1">
+                <display_name>Zaneta HONG</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

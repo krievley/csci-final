@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125133" class_number="13656" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 23L">Medicine, Law, and Ethics: An Introduction</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Explores medical, legal, and ethical aspects of medical care, with particular attention to medical decision-making at the beginning and end of life, participants in research on human subjects, human reproductive technologies, mental illness, and experimentation on animals. Historical background of present-day medical practices and relevant law to be discussed.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

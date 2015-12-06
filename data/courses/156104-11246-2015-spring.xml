@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156104" class_number="11246" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BCMP 236">Modern Drug Discovery: from principles to patients</title>
+            <notes> This course is the combination of the BCMP 309qc and 307qc quarter courses, offered as half course. Students who plan to take the two quarters must sign up under BCMP 236.</notes>
+            <description>This course will familiarize students with central concepts in drug action and therapeutics at the level of molecules, cells, tissues and patients. These concepts and methods are central to modern drug development and regulatory evaluation. In the 1st half of the course we will cover drug-target interactions, Pharmacokinetics and Pharmacodynamics at a quantitative level, the clinical trials process, biomarkers and new frontiers in Therapeutic development. The 2nd half will focus on modern approaches to therapeutic discovery and development, both small molecules and protein based. Examples are drawn from numerous unmet medical needs including cancer, HIV, neurodegenerative and infectious diseases. The course will include computational exercises and a MATLAB workshop.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="16:59:00" location="" start_time="15:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e233814a1310" role="1" seniority_sort="1">
+                <display_name>Nathanael Gray</display_name>
+            </person>
+            <person id="d1e6291a1310" role="1" seniority_sort="2">
+                <display_name>Timothy Mitchison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160597" class_number="16222" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2420HFB">Research in Macroeconomics</title>
+            <notes> Popularly known as the Macro Lunch.</notes>
+            <description>Participants discuss recent research in macroeconomics and present their own work in progress. Open to doctoral students in economics who have passed their oral examinations. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60617a1310" role="1" seniority_sort="1">
+                <display_name>Emmanuel Farhi</display_name>
+            </person>
+            <person id="d1e60611a1310" role="2" seniority_sort="2">
+                <display_name>Alberto Alesina</display_name>
+            </person>
+            <person id="d1e45263a1310" role="2" seniority_sort="3">
+                <display_name>Robert Barro</display_name>
+            </person>
+            <person id="d1e60620a1310" role="2" seniority_sort="4">
+                <display_name>Benjamin Friedman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

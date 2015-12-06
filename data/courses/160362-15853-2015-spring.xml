@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160362" class_number="15853" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1080">Great Theorems of Microeconomic Theory</title>
+            <description>This course surveys the most important results in microeconomics that have shaped the field in the years since WWII. It has two objectives: (i) To understand how the questions were posed, who the main researchers were, and what external influences drove them to approach the subject as they did. This &amp;frac14; of the course is the modern history of micro-economic thought. (ii) The major results themselves. This &amp;frac34; of the course is quite technical. Class participants will present proofs of the results drawn from the literature. A paper is required at the end of the term. The paper will take one result, or a tightly grouped set of results, and must address both of the objectives of the class as stated above.The major theorems covered come from choice theory under certainty and uncertainty, general equilibrium theory, non-cooperative game theory, cooperative game theory, social choice and incentive theory.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e15776a1310" role="1" seniority_sort="1">
+                <display_name>Jerry Green</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

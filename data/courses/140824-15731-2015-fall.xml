@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="140824" class_number="15731" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 214R">Renaissance: Seminar</title>
+            <exam_group>FAS18_H</exam_group>
+            <notes> Open to undergraduates with permission of the instructor.</notes>
+            <description>Performers and Composers in Early Modern Europe. This course studies the relationship between improvised polyphony and written works by composers from Josquin des Prez to Arcangelo Corelli. Techniques examined include improvised canons, stretto fuga, fauxbourdon, and partimento. This hands-on, performerly perspective facilitates a series of reflections on the status of composers, singers, instrumentalists, and written &amp;quot;works&amp;quot; in histories of the period.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e21994a1310" role="1" seniority_sort="1">
+                <display_name>Kate van Orden</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

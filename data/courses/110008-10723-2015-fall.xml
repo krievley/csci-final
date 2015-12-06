@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110008" class_number="10723" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="UKRA BR">Intermediate Ukrainian</title>
+            <description>Individualized study of the Ukrainian language at the Intermediate level. Emphasis on reading with some practice in speaking and writing for professional and academic purposes. Conducted as a tutorial.Not open to auditors. Language tutorials are offered by application only upon approval by the Director of the Languages Program and the Office of Undergraduate Education. See note on independent language tutorials on our website for details about the application process.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="UKRA">Ukrainian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e67411a1310" role="1" seniority_sort="1">
+                <display_name>Volodymyr Dibrova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

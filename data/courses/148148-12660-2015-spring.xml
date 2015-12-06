@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148148" class_number="12660" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 156">Signals and Systems</title>
+            <prereq>Recommended: Applied Mathematics 21b or Mathematics 21b.</prereq>
+            <description>Time and frequency domain representations and analysis of signals and systems. Convolution and linear input-output systems in continuous and discrete time. Fourier transforms and Fourier series for continuous- and discrete-time signals. Laplace and Z transforms. Analog and digital filtering. Modulation. Sampling. FFT. Applications in circuit analysis, communication, control, and computing.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e190378a1310" role="1" seniority_sort="1">
+                <display_name>Vahid Tarokh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

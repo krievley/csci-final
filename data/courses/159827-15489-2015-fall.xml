@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159827" class_number="15489" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94CS">To Vote or Not to Vote: voting behavior and electoral institutions</title>
+            <exam_group>FAS12_E</exam_group>
+            <description>What is voting? Why do people vote? And what institutions shape voting behaviors? This course addresses these questions by combining classical work on voting behavior with less known literature on voting as protest and identity affirmation. The course also investigates voting institutions (e.g., electoral systems and compulsory voting regulations), their pathologies (e.g., vote buying and electoral fraud) and their role in shaping voting behaviors.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="CGIS Knafel K109 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e161759a1310" role="1" seniority_sort="1">
+                <display_name>Chiara Superti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

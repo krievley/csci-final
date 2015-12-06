@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122596" class_number="12693" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BCMP 218">Molecular Medicine</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Faculty mentors will guide student-led discussions of the papers. Jointly offered with the Medical School as HT 140.</notes>
+            <prereq>Recommended: College-level mastery of principles of cellular and molecular biology and genetics.</prereq>
+            <description>A seminar on various human diseases and their underlying genetic or biochemical bases. Primary scientific papers discussed. Lectures by faculty and seminars conducted by students, faculty supervision.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e247829a1310" role="1" seniority_sort="1">
+                <display_name>George Daley</display_name>
+            </person>
+            <person id="d1e247832a1310" role="2" seniority_sort="2">
+                <display_name>David Cohen</display_name>
+            </person>
+            <person id="d1e247835a1310" role="2" seniority_sort="3">
+                <display_name>Irving London</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

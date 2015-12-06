@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110751" class_number="10537" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 139">Statistical Sleuthing Through Linear Models</title>
+            <exam_group>FAS17_B</exam_group>
+            <notes>Fall: M., W., 9:30-11, and a weekly section to be arranged; Spring: To be aranged, and with a weekly section also to be arranged.  </notes>
+            <prereq>Recommended: Statistics 100 or equivalent and Mathematics 19a and 19b or equivalent.</prereq>
+            <description>A serious introduction to statistical inference with linear models and related methods. Topics include t-tools and permutation-based alternatives, multiple-group comparisons, analysis of variance, linear regression, model checking and refinement, and causation versus correlation. Emphasis on thinking statistically, evaluating assumptions, and developing tools for real-life applications.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Science Ctr Hall A (FAS)" start_time="09:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e65567a1310" role="1" seniority_sort="1">
+                <display_name>Kevin A. Rader</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159808" class_number="15832" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 32H">European and American Pop Art 1955-1975</title>
+            <exam_group>FAS13_G</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The seminar will introduce undergraduate students to some of the key moments in the history of international Pop Art, from 1955-1975, from Richard Hamilton in Great Britain and the New Realists in Paris to Jasper Johns, Robert Rauschenberg and Andy Warhol in New York and Ed Ruscha in Los Angeles. While the historical accounts of how a mass cultural iconography defined artistic production at that&amp;nbsp;&amp;nbsp; time will be the major project of the seminar, some of the key theoretical questions concerning the relationship between avant-garde and mass culture in the twentieth century will be addressed as well.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Sackler Museum 119" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e185747a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin Buchloh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

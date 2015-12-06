@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119850" class_number="14733" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="BIOSTAT 245">Analysis of Multivariate and Longitudinal Data</title>
+            <notes> Offered jointly with the School of Public Health as BIO245.</notes>
+            <prereq>Prerequisite: Biostatistics 231 AND Biostatistics 235</prereq>
+            <description>The multivariate normal distribution, Hotelling's T2, MANOVA, repeated measures, the multivariate linear model, random effects and growth curve models, generalized estimating equations, multivariate categorical outcomes, missing data, computational issues for traditional and new methodologies.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:20:00" location="" start_time="10:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e253379a1310" role="1" seniority_sort="1">
+                <display_name>Sebastien Haneuse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

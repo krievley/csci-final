@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160614" class_number="17133" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1200">Neanderthals and Human Evolutionary History</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes>This course counts towards the Human Evolution subfield requirement in HEB.  Freshman and sophomore students considering a concentration in Human Evolutionary Biology are encouraged to enroll.</notes>
+            <description>This course explores the human fossil record, including the earliest evidence of putative bipedal humans in the late Miocene, and continuing up to the origin and expansion of modern humans in the Upper Paleolithic. Students will be challenged to critically evaluate on-going debates in paleoanthropology, and will develop skills in reading and discussing primary scientific literature. The second half of the course will focus on the discovery and study of our &amp;quot;cousins,&amp;quot; the Neanderthals. The recent history of the Neanderthals will be explored in detail, mirroring intellectual developments in biological anthropology ranging from the re-conceptualization of race to innovations in recovering ancient DNA.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:29:00" location="Peabody Museum 52H" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e108804a1310" role="1" seniority_sort="1">
+                <display_name>Tanya Smith</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

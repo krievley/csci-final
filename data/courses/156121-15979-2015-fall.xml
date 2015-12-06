@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156121" class_number="15979" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ARABIC 251R">Classical Arabic Texts: Seminar</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes>Because the first day of fall 2015 FAS classes is following a Monday schedule, the first meeting of this class will be on  Wednesday, September 2 .  </notes>
+            <prereq>Recommended: Three years of Arabic. Students are expected to be able to read 15-20 pages of classical Arabic per week.</prereq>
+            <description>Readings on selected topics in Islamic intellectual history.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Robinson 206 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e139603a1310" role="1" seniority_sort="1">
+                <display_name>Suheil Laher</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

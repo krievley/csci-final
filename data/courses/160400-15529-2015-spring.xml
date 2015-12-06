@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160400" class_number="15529" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1975">The History of Policing in the United States</title>
+            <description>This course will investigate &amp;ldquo;the police power of the state&amp;rdquo; and its expression in the institutions called &amp;ldquo;the police.&amp;rdquo; We will inquire into the what, how, and why of policing, across a long sweep of US history, from the antebellum South to New York City of the 1990s. Students will engage with policing from a variety of angles, from social theory to legal and political history to popular culture. A key task of this course is to ask how the US history of race relations has intersected with the history of policing, including in key moments of crisis and transformation.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e467261a1310" role="1" seniority_sort="1">
+                <display_name>Stuart Schrader</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

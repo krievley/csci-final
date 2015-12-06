@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116622" class_number="12110" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1304">Brain Damage as a Window into the Mind: Cognitive Neuropsychology</title>
+            <exam_group>FAS15_D</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14 or MCB 80 before enrolling in this course.</prereq>
+            <description>Examines the patterns of perceptual, motor, cognitive, and linguistic impairments resulting from brain damage. The focus is on the implications of the various types of neuropsychological deficits (such as visual neglect, dyslexia, and aphasia) for theories of the mind and the functional organization of the brain.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="William James B4 (FAS)" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e85963a1310" role="1" seniority_sort="1">
+                <display_name>Alfonso Caramazza</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

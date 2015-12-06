@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156215" class_number="11252" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 137">Energy within Environmental Constraints</title>
+            <exam_group>FAS16_A</exam_group>
+            <prereq>Recommended: Advanced high school mathematics, chemistry, and physics.</prereq>
+            <description>This course provides a systematic introduction to the energy system for students in engineering and applied sciences. Students should gain a working understanding of the some of the most important energy technologies, from prime movers--gas turbines, steam cycles, and reciprocating engines--to secondary energies including fuel production and refining technologies and the electricity transmission and distribution system. The course aims at a systematic understanding of the energy system's environmental footprint as a tool to help students who will work to reduce it. Energy is a commodity. One cannot hope to re-shape the energy system to meet environmental constrains without a rough working understanding of energy markets--costs, prices and elasticities of supply and demand. So the course will integrate engineering economics and other applied social sciences into the treatment of energy technologies to enable a system's view of energy.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="09:59:00" location="Maxwell Dworkin 119 (SEAS)" start_time="08:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e3402a1310" role="1" seniority_sort="1">
+                <display_name>David Keith</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

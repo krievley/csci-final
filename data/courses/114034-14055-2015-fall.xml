@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114034" class_number="14055" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ARABIC 130A">Upper-Level Classical Arabic I</title>
+            <exam_group>FAS10_B</exam_group>
+            <notes> Not open to auditors. Offered jointly with the Divinity School as 4353.</notes>
+            <prereq>Recommended: Arabic Ba or equivalent, or may be taken separately with permission of the instructor.</prereq>
+            <description>Concentration on readings from classical Islamic texts, with emphasis on Qur&amp;#39;an, had&amp;icirc;th, s&amp;icirc;ra, and tafs&amp;icirc;r literature; directed readings and textual analysis; review of classical Arabic morphology and syntax.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="09:59:00" location="Sever 215 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e32587a1310" role="1" seniority_sort="1">
+                <display_name>Dalia Abo-Haggar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

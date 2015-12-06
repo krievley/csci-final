@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120939" class_number="13093" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GIKUYU 101AR">Reading in Gikuyu</title>
+            <notes>John Mugane and assistant  Not open to auditors.</notes>
+            <prereq>Recommended: Gikuyu B or equivalent.</prereq>
+            <description>Advanced reading in Gikuyu.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="GIKUYU">Gikuyu</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e7845a1310" role="1" seniority_sort="1">
+                <display_name>John Mugane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

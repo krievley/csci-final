@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125516" class_number="14602" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="US-WORLD 41">Power and Protest: The United States in the World of the 1960s</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>This course charts the key events, actors, ideas and strategies of collective movements for social change during the "long 1960s." It situates these mobilizations within the key economic, social and political developments in the post-World War II period in the United States and the world. Topics include Cold War politics from Eisenhower to Nixon, the civil rights movement, the new left, the women's movement, the war in Vietnam, black power, as well as the emergence of a revitalized political Right. The legacies of these movements and the more recent economic and political shifts that have challenged some of their core assumptions are also considered.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="US-WORLD">United States in the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e40548a1310" role="1" seniority_sort="1">
+                <display_name>Lisa McGirr</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

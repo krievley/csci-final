@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159938" class_number="16895" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 59H">Spanish for Latino Students II: Connecting with Communities</title>
+            <description>An advanced language course for Spanish heritage learners that aims to: strengthen students&amp;rsquo; oral and written linguistic range, with emphasis on Spanish use for academic contexts; and to further develop students&amp;rsquo; critical language and social awareness around important issues for Latinos in our globalized era: Spanish as global language, identity, language rights, global migration and labor, U.S.-Latino America relations, food and environment, the &amp;rsquo;war on drugs&amp;rsquo;. Students explore these topics through various genres (newspapers and academic articles, debates, literary essays, short novels, poetry, visual art, film and music) and through 4 hours a week of community service.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e2836a1310" role="1" seniority_sort="1">
+                <display_name>Maria Parra-Velasco</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

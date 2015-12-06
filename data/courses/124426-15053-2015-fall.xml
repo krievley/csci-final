@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124426" class_number="15053" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 2176">Varieties of Capitalism and Social Inequality</title>
+            <exam_group>FAS07_F</exam_group>
+            <description>Explores economic and social inequality in the affluent democracies. How do institutional arrangements reconcile efficiency and equality and affect the dynamics of redistribution? How is institutional change best understood? Taught with Kathleen Thelen of MIT.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="12:59:00" location="CGIS Knafel K450 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e83005a1310" role="1" seniority_sort="1">
+                <display_name>Peter Hall</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

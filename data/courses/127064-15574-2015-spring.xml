@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127064" class_number="15574" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1115">Social Movements, Protest and Politics in Comparative Perspective</title>
+            <notes>comparative_subfield  </notes>
+            <description>Reviews the contemporary literature on collective action, protest, and social movements. Focuses primarily on political factors facilitating protest, repertoires of contention, the role of cultural factors and the construction of identities through collective action, and methods of studying collective action. Cases will be drawn from different regions and historical periods.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e84857a1310" role="1" seniority_sort="1">
+                <display_name>Grzegorz Ekiert</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

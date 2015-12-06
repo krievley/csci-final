@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118290" class_number="14538" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCWORLD 34">The Caribbean: Globalization, Socio-Economic Development &amp; Cultural Adaptation</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Caribbean societies are largely the economic and political creations of Western imperial powers and are among the earliest products of globalization. Though in the West, they are only partly of it, and their popular cultures are highly original blends of African, European and Asian forms. The course examines the area as a system emerging through genocide, piracy, plantation slavery, colonialism and globalization, from a situation of great social and cultural diversity to the present tendency toward socio-economic and cultural convergence. Patterns of underdevelopment and government are explored through national case studies (Puerto Rico, Cuba, Jamaica &amp; Haiti) and selected, region-wide modern issues (hurricanes, earthquakes and other natural disasters; migration &amp; transnationalism; crime &amp; drug trafficking), as are cultural adaptations through studies of Afro-Caribbean religions, folkways, and music. America's special role in the region is emphasized.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Emerson 108 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e26376a1310" role="1" seniority_sort="1">
+                <display_name>Orlando Patterson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

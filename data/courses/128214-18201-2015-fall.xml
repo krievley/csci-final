@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128214" class_number="18201" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MBB 980E">Music, Mind, and Brain</title>
+            <exam_group>FAS09_C</exam_group>
+            <description>Survey of neuropsychology of music. Examines psychological and neural substrates of music perception and cognition (pitch and consonance, melody and harmony, timbre, rhythm and meter, Gestaltist grouping processes). Then considers affective psychology (emotion, meaning, pleasure), music therapy, music and language, and developmental, comparative, and evolutionary perspectives.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="William James B4 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e213020a1310" role="1" seniority_sort="1">
+                <display_name>Peter Cariani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

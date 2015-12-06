@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="131334" class_number="11841" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHNSHIS 270A">Research Methods in Late Imperial Chinese History I: Seminar</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Open to qualified undergraduates with permission of instructor.</notes>
+            <prereq>Recommended: Chinese 106b or equivalent in foundation literary Chinese.</prereq>
+            <description>Training in the use of a wide array of sources, methods, and reference tools for research in the history of late imperial China, focusing upon the reading and analysis of different types of Qing-era documents, official and unofficial. Students will write a research paper using documents provided in class. Reading knowledge of modern and literary Chinese required.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSHIS">Chinese History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="CGIS South S003 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e28449a1310" role="1" seniority_sort="1">
+                <display_name>Mark Elliott</display_name>
+            </person>
+            <person id="d1e31337a1310" role="1" seniority_sort="2">
+                <display_name>Michael Szonyi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

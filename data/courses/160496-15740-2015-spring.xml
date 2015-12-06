@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160496" class_number="15740" school_id="fas" section="01" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 170">Broken Brains</title>
+            <notes> Enrollment limited to 20.</notes>
+            <description>An exploration of the complex relationship between doctors and scientists who study and treat different kinds of &amp;ldquo;broken brains,&amp;rdquo; the patients they study and treat, and larger public conversations about being human in today&amp;rsquo;s neurological society. Topics include iconic cases of brain damage that catalyze new scientific understandings (like the case of H.M.), the study of brain damage in war, the emergence of writings (including memoirs and novels) that attempt to describe &amp;quot;what it is like&amp;quot; to suffer from disorders like autism and Alzheimer&amp;rsquo;s, and controversies over recent efforts to see psychiatric disorders like depression as simple products of a chemically &amp;ldquo;broken brain.&amp;rdquo;</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e70285a1310" role="1" seniority_sort="1">
+                <display_name>Anne Harrington</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

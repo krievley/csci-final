@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148318" class_number="13691" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH CWAR">Advanced Fiction: Workshop</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+            <description>In this advanced fiction workshop you will continue your writing practice by discussing many phases of the writing process--note taking, drafting, revising and offering feedback--so that you can continue to develop your own process and discipline.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Barker 222 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e105400a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Gilmore</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

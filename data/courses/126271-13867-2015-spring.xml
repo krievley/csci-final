@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126271" class_number="13867" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MICROBI 201">Molecular Biology of the Bacterial Cell</title>
+            <description>This course is devoted to bacterial structure, physiology, genetics, and regulatory mechanisms. The class consists of lectures and group discussions emphasizing methods, results, and interpretations of classic and contemporary literature.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="MICROBI">Microbiology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e255037a1310" role="1" seniority_sort="1">
+                <display_name>David Rudner</display_name>
+            </person>
+            <person id="d1e179647a1310" role="2" seniority_sort="2">
+                <display_name>Thomas Bernhardt</display_name>
+            </person>
+            <person id="d1e253000a1310" role="2" seniority_sort="3">
+                <display_name>Simon Dove</display_name>
+            </person>
+            <person id="d1e105348a1310" role="2" seniority_sort="4">
+                <display_name>Ann Hochschild</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124008" class_number="15367" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 2460">Issues in Human Evolution</title>
+            <notes> Limited to graduate students in Human Evolutionary Biology. Must be taken while auditing Science of Living Systems 16.</notes>
+            <prereq>Course open to Graduate Students Only</prereq>
+            <description>A discussion course for graduate students in Human Evolutionary Biology. Topics will include origins of hominids, radiation of hominins, origins of the genus Homo, and origins of Homo sapiens.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e113469a1310" role="1" seniority_sort="1">
+                <display_name>David Pilbeam</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

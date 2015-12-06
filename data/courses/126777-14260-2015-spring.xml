@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126777" class_number="14260" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 980B">Education in the Economy</title>
+            <notes>M., 2&amp;#8211;4   </notes>
+            <prereq>Recommended: Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prereq>
+            <description>An exploration of the role of education in the economy using historical, comparative, and current policy perspectives. Topics include the theory of human capital, role of education in economic growth and distribution, the educational production function, vouchers, charter schools, class size, standards, school equalization, for-profit educational institutions, and the gender gap in college completion. A serious research paper is required, as are several short critical essays of the literature.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e18759a1310" role="1" seniority_sort="1">
+                <display_name>Claudia Goldin</display_name>
+            </person>
+            <person id="d1e60725a1310" role="2" seniority_sort="2">
+                <display_name>Lawrence Katz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

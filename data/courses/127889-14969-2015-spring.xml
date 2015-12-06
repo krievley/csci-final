@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127889" class_number="14969" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL 50">Advanced Written Expression: Italy in Other Words</title>
+            <notes> Conducted in Italian. Appropriate for concentrators electing the Italian Studies or Romance Studies track. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors.</notes>
+            <prereq>Recommended: A score between 721-750 on the SAT II or on the Harvard Placement Test; Italian 40; or permission of course head.</prereq>
+            <description>Italia scritta e descritta. A theme-based course designed to develop advanced competence in written expression through guided examination of stylistics and pragmatics. The course includes readings from a variety of literary genres, films, workshops, and a series of guest lectures by our faculty on design, women and society, cinema, fiction, and other subjects. Consult the course website for current semester topics.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

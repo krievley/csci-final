@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160663" class_number="16316" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 250HFB">Colloquium on Teaching Pedagogy</title>
+            <notes> Required of all third year music department graduate students. This course must be taken Sat/Unsat.</notes>
+            <description>The Craft of Teaching. Devoted to the craft of teaching, the course considers all major facets of academic teaching practices (lectures, tutorials, discussion, syllabi, advising, grading, etc.). Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60418a1310" role="1" seniority_sort="1">
+                <display_name>Sindhumathi Revuluri</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

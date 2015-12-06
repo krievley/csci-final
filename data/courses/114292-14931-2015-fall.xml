@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114292" class_number="14931" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="JAPAN 130A">Intermediate Japanese II</title>
+            <exam_group>FAS10_C</exam_group>
+            <notes>Class meets five times a week, additional discussion sections to be arranged.  </notes>
+            <prereq>Recommended: Japanese 120b or equivalent.</prereq>
+            <description>Third-year intermediate advanced course. Development of skills in reading authentic materials from contemporary Japanese media and fiction and in aural comprehension of contemporary television news and drama with decreased reliance on pedagogical aids. Development of speaking and writing skills to an increasingly sophisticated level. Introduction of approximately 200 additional Chinese characters beyond those introduced in 120b.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPAN">Japanese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Thursday Friday" end_time="10:59:00" location="Northwest Bldg B105 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e76338a1310" role="1" seniority_sort="1">
+                <display_name>Wakana Maekawa</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

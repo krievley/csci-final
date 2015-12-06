@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119441" class_number="18161" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH 70C">Tales of Two Spains: A Survey of Spanish Modern Literature and Culture (18th to 21st centuries)</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes> Conducted in Spanish.</notes>
+            <prereq>Recommended: Prerequisite: A score above 780 on the SAT II or the Harvard Placement test; a 50- or 60-level course in Spanish; or permission of course head.</prereq>
+            <description>This course presents a diverse set of literary and cultural materials that will help understand Spain&amp;rsquo;s frequently contested Modernity. The guiding topic of discussion will be the conflicting definitions of Spanish national identity from the 18th to the 21stcenturies. Materials include short stories, philosophical and political essays, travelers&amp;rsquo; letters, memoirs, journals, travelogues, films and poems.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:59:00" location="Boylston 403 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e65024a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Aguirre-Oteiza</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

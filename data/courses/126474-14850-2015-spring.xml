@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126474" class_number="14850" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 2441">Grief and the Emotions: Ancient Philosophy and Theology</title>
+            <notes> Offered jointly with the Divinity School as 1893.</notes>
+            <description>This course examines the topic of grief in the ancient Mediterranean world. We shall work with a variety of materials: New Testament texts (especially the letters of Paul), funerary monuments and inscriptions, Roman-period consolation letters and literature, philosophical writings, tragedies, satiric writing on funerals, and scholarly hypotheses regarding lifespan (especially that of mothers and the issue of infant mortality). Special attention will be paid to political and economic issues (including slavery), as well as to instructions to women about how to mourn. The course will be punctuated by modern writings on grief.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e55369a1310" role="1" seniority_sort="1">
+                <display_name>Laura Nasrallah</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

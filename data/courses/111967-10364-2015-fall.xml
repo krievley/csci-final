@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111967" class_number="10364" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 95">Topics in Current Research</title>
+            <exam_group>FAS13_E</exam_group>
+            <notes>The course meets Monday afternoon, 3:00-4:15 and Wenesday, 7 pm - 8:59 pm.&amp;nbsp;  This course may not be taught spring term, 2016.  Primarily for junior and senior concentrators, however interested sophomores are welcome.</notes>
+            <description>The goal of this tutorial is twofold. First, students will learn about a range of modern physics research topics from experts at Harvard as well as from one another. Every Wednesday evening a faculty member speaks on his/her area of research, preceded by assigned reading and a student presentation designed to introduce the basic physics, as well as important developments and burning problems at the frontiers of that particular research area. Second, the tutorial provides structured activities to help students develop practical skills for their future careers, expanding knowledge on unfamiliar subjects, participating in discussions, presenting and writing clearly about complex topics, and engaging in self and peer evaluation.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:15:00" location="Lyman 330 (FAS)" start_time="15:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="20:59:00" location="Jefferson 356 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e191501a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Stubbs</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156390" class_number="11417" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1836AR">Sensory Ethnography I:: Studio course</title>
+            <notes> Students must also attend all VES 158ar classes. Emphasis is on pre-production and production in the spring, and on post-production in the fall. Interview with instructor and teaching assistant required for admission.</notes>
+            <description>First half of a year-long sequence in which students apply media anthropological theory and conduct ethnography using film, video, sound, and/or still photography.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

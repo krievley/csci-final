@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113873" class_number="14736" school_id="fas" section="003" term_code="fall">
+        <catalog_info>
+            <title short_title="CHNSE BA">Elementary Modern Chinese</title>
+            <exam_group>FAS10_B</exam_group>
+            <notes>Classes meet five days a week, additional discussion sections to be arranged. 
+&amp;nbsp;  No auditors. May not be taken Pass/Fail.</notes>
+            <description>Non-intensive introduction to modern Chinese pronunciation, grammar, conversation, reading, and writing.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSE">Chinese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="Vanserg 29 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e98602a1310" role="1" seniority_sort="1">
+                <display_name>Jie Ying</display_name>
+            </person>
+            <person id="d1e98605a1310" role="2" seniority_sort="2">
+                <display_name>Jennifer Li-Chia Liu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

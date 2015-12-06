@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118221" class_number="11990" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ROM-STD 201">Questions of Theory</title>
+            <exam_group>FAS12_G</exam_group>
+            <notes> Conducted in English. Required of all graduate students in Romance Languages and Literatures.</notes>
+            <description>The seminar is built around a sequence of fundamental questions regarding the literary disciplines, their history and epistemology. Discussions are instigated by readings in philology, stylistics, the history of ideas, semiotics, structuralism, psychoanalysis, post-structuralism, film theory, genetic criticism, literary sociology, cultural studies, and digital humanities.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ROM-STD">Romance Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="Barker 114 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42905a1310" role="1" seniority_sort="1">
+                <display_name>Verena Conley</display_name>
+            </person>
+            <person id="d1e42680a1310" role="1" seniority_sort="2">
+                <display_name>John T. Hamilton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

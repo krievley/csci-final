@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142657" class_number="12072" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCWORLD 13">Japan in Asia and the World</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Japan is a collection of islands, but its past and present unfolds through continuous interaction with wider worlds. This course places Japan in contexts of Asian and global history. It begins with the people, institutions, and ideas of premodern Japan, from the emergence of a court-centered state 1500 years ago to a warrior-dominated society centuries later. We then examine the tumultuous process of change from the 19th century through the present and explore how people in Japan have dealt with the dilemmas of modernity that challenge us all.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e20033a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Gordon</display_name>
+            </person>
+            <person id="d1e31195a1310" role="1" seniority_sort="2">
+                <display_name>David Howell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

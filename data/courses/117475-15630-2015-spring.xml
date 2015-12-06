@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117475" class_number="15630" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1860">Colonial Departures</title>
+            <description>Following World War II, the fabric of European empire in Asia and Africa began to unravel. Some through revolutionary violence, others through peaceful negotiation, new nations declared themselves free of colonial domination. We examine colonialism's 20th century heyday, decline, and aftermath from an anthropological perspective, giving particular attention to local decolonizing practices and to the many forms the postcolonial condition may take.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e43738a1310" role="1" seniority_sort="1">
+                <display_name>Mary Steedly</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

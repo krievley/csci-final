@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116295" class_number="12360" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2006">Formal Models of Domestic Politics</title>
+            <prereq>Prerequisite: Government 2005</prereq>
+            <description>An understanding of introductory game theory and basic mathematical tools is required. Topics covered include some combination of the following: electoral competition under certainty and uncertainty, special interest politics, veto players, coalitions, delegation, political agency, and regime change.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

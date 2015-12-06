@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110614" class_number="16023" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="LATIN 117">Livy</title>
+            <description>An introduction to Livy's style and historical methods, with attention to Livy's place in the tradition of Roman historiography. Readings mainly from the narrative of early Rome.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e120125a1310" role="1" seniority_sort="1">
+                <display_name>Gil Renberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

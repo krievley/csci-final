@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108353" class_number="10909" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SLAVIC 157">Some Versions of Russian Pastoral</title>
+            <notes> No knowledge of Russian required.</notes>
+            <description>Readings of 18th- through 20th-century Russian literature, including prose and verse by Karamzin, Pushkin, Sergei Aksakov, Goncharov, Turgenev, Saltykov-Shchedrin, Tolstoy, and Gorky. Discussion focuses on contemporary cultural contexts and on theoretical issues.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e42229a1310" role="1" seniority_sort="1">
+                <display_name>William Todd</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

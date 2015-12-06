@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160214" class_number="15309" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 61G">In and Out of Actions: An Introduction to Performance Art</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Open to students of all levels.
+Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>This course introduces students to the history and practice of performance art, social practice and event-based art making.&amp;nbsp; Starting with our own bodies, and working outward through texts, sites, histories, and fictions, we will complete short gestural exercises, write and interpret scores, and develop situation-specific projects.&amp;nbsp; This course will introduce movements and artists including the Futurists, Black Mountain College, Allan Kaprow, the Gutai Group, Womanhouse, and many more. Experimentation, collaboration, and participation will be encouraged.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

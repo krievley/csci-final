@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123001" class_number="13249" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BCMP 381">Functional Small Molecules for Biological Discovery</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e233814a1310" role="1" seniority_sort="1">
+                <display_name>Nathanael Gray</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

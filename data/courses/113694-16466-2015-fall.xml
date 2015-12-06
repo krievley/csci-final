@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113694" class_number="16466" school_id="fas" section="007" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 3000A">Reading and Research Seminar</title>
+            <description>Small seminar on special topics. May be arranged with faculty listed under Government 3000. Requires written work as does Government 3000, but also involves regular class meetings.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e79837a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Carpenter</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

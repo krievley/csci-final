@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160617" class_number="16239" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 3450HFB">The Public Economics and Fiscal Policy Seminar</title>
+            <description>Invited speakers present theoretical and empirical research on a broad range of topics related to the design of government policy. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e183192a1310" role="1" seniority_sort="1">
+                <display_name>Nadarajan Chetty</display_name>
+            </person>
+            <person id="d1e60725a1310" role="1" seniority_sort="2">
+                <display_name>Lawrence Katz</display_name>
+            </person>
+            <person id="d1e157846a1310" role="1" seniority_sort="3">
+                <display_name>David Cutler</display_name>
+            </person>
+            <person id="d1e60731a1310" role="1" seniority_sort="4">
+                <display_name>Edward Glaeser</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

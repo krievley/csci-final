@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156452" class_number="11458" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 212">Probability II</title>
+            <notes> Formerly Sat 210b</notes>
+            <description>A graduate introduction to advanced probability. Foundations of probability: exchangeability and de Finetti's type theorem. Martingales: convergence theorems, optional stopping, Polya urn schemes and applications to statistics. Poisson processes: general spaces, marked processes, applications to Bayesian nonparametrics. Gaussian processes: existence theorem, Brownian bridges, meanders and excursions. Empirical processes: inequalities, central limit theorems and the bootstrap. Markov Chains: ergodicity, convergence and MCMC algorithms. Stochastic calculus: Ito's formula.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="11:59:00" location="" start_time="10:30:00"/>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e26884a1310" role="1" seniority_sort="1">
+                <display_name>Natesh Pillai</display_name>
+            </person>
+            <person id="d1e26884a1310" role="1" seniority_sort="1">
+                <display_name>Natesh Pillai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

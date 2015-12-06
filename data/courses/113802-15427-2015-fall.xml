@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113802" class_number="15427" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN AA">Beginning German</title>
+            <exam_group>FAS10_A</exam_group>
+            <description>An introduction to German language and culture designed for students with little or no knowledge of the language. Encompasses all four skills: speaking, listening, reading, and writing. Class sessions emphasize the development of oral proficiency. Instruction is supplemented by literary and non-literary texts, videos, and Internet activities. The first half of this course may not be taken as a half course for credit toward the AB degree; there are no exceptions to this rule. May not be taken Pass/Fail. Not open to auditors. Students must complete both terms of this course (parts A and B) in order to receive credit.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="09:59:00" location="Barker 024 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172264a1310" role="1" seniority_sort="1">
+                <display_name>Lisa Parkes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

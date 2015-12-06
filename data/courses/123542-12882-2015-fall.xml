@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123542" class_number="12882" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 2088">Ethical Foundations of Political Thought</title>
+            <exam_group>FAS14_F</exam_group>
+            <description>This class will cover areas of contemporary moral philosophy (for instance, utilitarianism, freedom, the nature of value, consent, well-being and desert) that are of particular relevance to political theorists.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="CGIS South S450 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e81372a1310" role="1" seniority_sort="1">
+                <display_name>Michael Rosen</display_name>
+            </person>
+            <person id="d1e86652a1310" role="1" seniority_sort="2">
+                <display_name>Eric Beerbohm</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

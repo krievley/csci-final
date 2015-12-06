@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160232" class_number="15467" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 196H">A History of Latin American Cinema</title>
+            <exam_group>FAS02_A</exam_group>
+            <notes>&amp;nbsp;This course has required weekly screenings Wednesdays from 4pm to 6pm.  This course has required weekly film screenings on Wednesdays from 4pm to 6pm.</notes>
+            <description>An overview of the history and development of cinema throughout Latin America, beginning with the impact of the neo-realist movement in the 1950s, moving to the modernist experimentation of the 1960s and 1970s, and concluding with examples of recent directions in film and media. We will investigate the frequent interaction between the realms of &amp;ldquo;fiction&amp;rdquo; and &amp;ldquo;documentary&amp;rdquo; that has characterized so much of the best Latin American cinema. Filmmakers to be discussed include Bu&amp;ntilde;uel, Rocha, Guti&amp;eacute;rrez Alea and Martel.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Carpenter B04 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e213502a1310" role="1" seniority_sort="1">
+                <display_name>Richard Pena</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

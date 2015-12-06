@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159640" class_number="14908" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 13C">St. Louis from Lewis and Clark to Michael Brown</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>St. Louis was the epicenter of American empire in the nineteenth century: the point of embarkation for Lewis and Clark; the military headquarters for U.S. Indian wars.&amp;nbsp;&amp;nbsp; It was likewise central to the history of slavery: from the Missouri Compromise to Dred Scott.&amp;nbsp; The city&amp;rsquo;s intertwining of the history of empire and race continued through the twentieth century in its prominent role in the defense industry as well as the history of segregation, urban &amp;ldquo;redevelopment,&amp;rdquo; and police violence. How does the global capitalist and imperialist history of St. Louis relate to its recalcitrant inequality, structural racism, and endemic violence?</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="CGIS Knafel K450 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e39139a1310" role="1" seniority_sort="1">
+                <display_name>Walter Johnson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119874" class_number="12981" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="YIDDISH BA">Intermediate Yiddish I</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes> Additional sections at different times may be added as needed.</notes>
+            <prereq>Recommended: Yiddish AA/AB sequence,  or equivalent.</prereq>
+            <description>Further development of reading, writing, speaking, and oral comprehension skills. Introduction to the main Yiddish dialects: Central (&amp;ldquo;Polish&amp;rdquo;), Southeastern (&amp;ldquo;Ukrainian&amp;rdquo;), and Northeastern (&amp;ldquo;Lithuanian/Belorussian&amp;rdquo;). Course materials include selections from Yiddish fiction, poetry, drama, films, songs, the press, and private correspondence&amp;mdash;from the late nineteenth century to the present. Visits by native Yiddish speakers.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="YIDDISH">Yiddish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:29:00" location="Semitic Museum 304" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e208396a1310" role="1" seniority_sort="1">
+                <display_name>Yuri Vedenyapin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

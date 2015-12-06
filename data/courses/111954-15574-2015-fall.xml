@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111954" class_number="15574" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LING 105">Sounds of Language</title>
+            <exam_group>FAS02_A</exam_group>
+            <description>What are the sounds of the world languages, and how are they organized to make words and sentences? Why are some sounds hard to hear or make? Is there a `universal inventory&amp;#39; of sounds? This class introduces students to the sounds of the world&amp;#39;s languages, and provides tools for studying them systematically. We will study the setup to transfer thoughts from one brain to another.&amp;nbsp;</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Sever 302 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e191448a1310" role="1" seniority_sort="2">
+                <display_name>Cheng-Yu Tsai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121331" class_number="15373" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2059">Decision Theory</title>
+            <description>The course focuses on classical models of choice in abstract settings, as well as uncertain and intertemporal environments. We will also study recent models that incorporate insights from psychology, such as temptation and self-control.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15782a1310" role="1" seniority_sort="1">
+                <display_name>Tomasz Strzalecki</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

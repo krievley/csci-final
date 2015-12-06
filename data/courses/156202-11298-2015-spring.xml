@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156202" class_number="11298" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APCOMP 297R">Computational Science and Engineering Capstone Project</title>
+            <description>The CSE capstone project is intended to integrate and apply the skills and ideas CSE students acquire in their core courses and electives. By requiring students to complete a substantial and challenging collaborative project, the capstone course will prepare students for the professional world and ensure that they are trained to conduct research. There will be no homework or lectures. Students will be dealing with real-world problems, messy data sets, and the chance to work on an end-to-end solution to a problem using computational methods.</description>
+            <department code="COMPSE">Applied Computation</department>
+            <course_group code="APCOMP">Applied Computation</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e2318a1310" role="1" seniority_sort="1">
+                <display_name>Pavlos Protopapas</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

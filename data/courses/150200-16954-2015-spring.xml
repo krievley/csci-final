@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="150200" class_number="16954" school_id="fas" section="13" term_code="spring">
+        <catalog_info>
+            <title short_title="INDSTUDY 1">Independent Study</title>
+            <notes> A student may petition to take up to a total of four, four-credit courses of Independent Study. Independent Study courses are subject to the same rules for dropping and withdrawing as any other course.
+The petition requires the signatures of a qualified adviser and the student's resident dean, as well as an outline of the student's proposed project. It must be submitted to the Allston Burr Resident Dean for approval, ordinarily in the first week of the term.</notes>
+            <description>Independent Study is designed to provide credit for field research, academic study not available in regular course work, or practice or performance in the arts. What distinguishes a suitable project is the application of analytical skills to the object of Independent Study.&amp;nbsp; Any sophomore, junior, or senior whose previous record is satisfactory may petition to undertake Independent Study for non-letter-graded credit.&amp;nbsp; Students may access the petition for Independent Study on the Office of Undergraduate Education website.</description>
+            <department code="NODEPT"/>
+            <course_group code="INDSTUDY"/>
+            <course_type>Independent Study</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e200796a1310" role="1" seniority_sort="1">
+                <display_name>Amanda Lobell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

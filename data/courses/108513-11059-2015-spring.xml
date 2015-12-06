@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108513" class_number="11059" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 34O">You and Your Camera</title>
+            <notes> Arrangements for loaned cameras will be made for those that do not own one.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The goal of representing the 3-dimensional world on a 2-dimensional surface dates back at least as far as the approximately 30,000 year old cave drawings. For all of these past centuries there were relatively few people who could create realistic 2 dimensional images of the people and things that wanted preservation. Although photography has changed this there are still significant differences between the images that most people create and the photographs of our leading photographers. In this seminar we will discuss the artistic history, the nature of vision and the fundamental physics on which modern digital photography is based.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e66874a1310" role="1" seniority_sort="1">
+                <display_name>Peter S. Pershan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

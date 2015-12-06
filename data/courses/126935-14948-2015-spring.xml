@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126935" class_number="14948" school_id="fas" section="005" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH AB">Beginning French II: Exploring Parisian Life and Identity</title>
+            <notes> French Ab may count towards the language requirement. May not be taken Pass/Fail. Not open to auditors. Graduate students at the GSAS may take the course Sat/Unsat with the permission of course head. Section on-line on the French Ab iSite.  This course is taught by members of the Department.</notes>
+            <prereq>Recommended: Completion of French Aa, or a score no lower than 301 and no higher than 450 on the SAT II test or the Harvard Placement test.</prereq>
+            <description>In the second course in the Elementary French sequence, students will engage in an online simulation of life in Paris while exploring diverse facets of Parisian identity. Through the interpretation and analysis of Parisian texts, film, paintings, and photography, students will actively engage in oral and written communication in the past, present, and future. Students will learn to make suggestions, express emotions and opinions, extend invitations, and convey hypothetical situations.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e114899a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Mills</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

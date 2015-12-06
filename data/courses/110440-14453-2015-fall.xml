@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110440" class_number="14453" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HUMAN 10A">A Humanities Colloquium:  From Homer to Descartes</title>
+            <exam_group>FAS01_D</exam_group>
+            <notes>The course will be lotteried by application process, administered at the first meeting, on Thursday, September 3. See the course website for more details.  Weekly two-hour sections in this course are led by the professors. The course is designed for freshmen and sophomores interested in further work in the Humanities, but all students are welcome. Humanities 10b, which meets in the Spring, includes works by Montaigne, Shakespeare, Franklin, Goethe, Austen, Wagner, Nietzsche, Freud, Joyce, Arendt, and Kieslowski. Freshmen who have been recommended for Expos 20 may take the full year of Hum 10a/b for Expos credit.  This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding. This course, when taken for a letter grade together with Humanities 10b, meets the General Education requirements for both Aesthetic and Interpretive Understanding and Culture and Belief. The course may not be taken Pass/Fail, and auditors are not permitted.</notes>
+            <description>2,500 years of essential works alongside current art events. Humanities 10a includes works by Homer, Plato, Thucydides, Virgil, Augustine, Dante, Chaucer, Shakespeare, Descartes, as well as the Hebrew Bible and the New Testament. All sections are led by professors.</description>
+            <department code="HUM">Humanities</department>
+            <course_group code="HUMAN">Humanities</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:29:00" location="Boylston 110 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e69548a1310" role="1" seniority_sort="11">
+                <display_name>Alison Simmons</display_name>
+            </person>
+            <person id="d1e38239a1310" role="2" seniority_sort="12">
+                <display_name>Kathleen Coleman</display_name>
+            </person>
+            <person id="d1e50665a1310" role="2" seniority_sort="13">
+                <display_name>Jay Harris</display_name>
+            </person>
+            <person id="d1e135870a1310" role="2" seniority_sort="14">
+                <display_name>Jonathan Bolton</display_name>
+            </person>
+            <person id="d1e125311a1310" role="2" seniority_sort="15">
+                <display_name>Racha Kirakosian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

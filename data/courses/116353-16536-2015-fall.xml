@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16536" school_id="fas" section="233" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>Everyone lives by rules, no matter how free they may feel. Some of these rules are written; others are unspoken. While we typically associate political rights with what it means to be &amp;ldquo;free,&amp;rdquo; the seemingly small social conventions of everyday life can limit our real or perceived liberties in powerful ways, too. The codes of conduct we follow when, for example, we use social media, when we go on dates, or when we work for a company all have the capacity to rein us in, and if we knowingly or unknowingly violate those norms, our freedom may be at the price of our membership in a community. This course will use literature and film to interrogate the relationship between social rules and individual freedom while considering the following questions: What does it really mean to be &amp;ldquo;free&amp;rdquo;? How does social obligation impact our access to personal freedom? Are we even aware of the ways that society controls our behavior, or are rules of social conduct largely invisible? As we seek the answers to these questions, we&amp;rsquo;ll start Unit 1 by performing close analysis of several short stories from both American and international authors&amp;mdash;including Willa Cather, Flannery O&amp;rsquo;Connor and National Book Award winner Ha Jin&amp;mdash;and discuss how they negotiate the relationship between individual desire and social expectation. In Unit 2, we&amp;rsquo;ll turn to films like  Mean Girls ,  The Social Network , and  The Graduate  as we read theories of individual and collective freedom, questioning how the socially constrained environments of high school and college impact individuals&amp;rsquo; behavior and choices. Finally, we will conclude with a culminating research paper in which students will choose from novels, movies, or television series like  Mad Men  and  Downton Abbey , in order to deconstruct the social pressures that impinge on us today. </notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="CGIS South S003 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e193511a1310" role="1" seniority_sort="1">
+                <display_name>Margaret Rennix</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

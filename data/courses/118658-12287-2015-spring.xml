@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118658" class_number="12287" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2450B">Public Economics and Fiscal Policy II</title>
+            <prereq>Prerequisite:  (Economics 2010a AND Economics 2010b) OR (Economics 2020a AND Economics 2020b)</prereq>
+            <description>This course covers theoretical and empirical applications of public economics to policy debates. Topics include education, local public finance, fiscal federalism, housing policy, corporate and international taxation, social security, and macroeconomic stabilization using fiscal policy.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

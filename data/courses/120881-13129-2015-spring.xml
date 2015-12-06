@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120881" class_number="13129" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCIPHUNV 30">Life as a Planetary Phenomenon</title>
+            <description>This course considers the relationship between life and the planet on which it resides. It examines the scientific quest to understand where life might thrive beyond Earth. On Earth, life was born of planetary processes and has been sustained by plate tectonics and other physical processes. Through evolution, life has in fact emerged as major influence on our planet's surface. Fundamental features of terrestrial life and evolution are addressed in the context of astronomy, planetary physics and chemistry. These, in turn, provide a basis for the exploration for other habitable planets, both within our solar system and in the greater universe.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e244122a1310" role="1" seniority_sort="1">
+                <display_name>Dimitar Sasselov</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

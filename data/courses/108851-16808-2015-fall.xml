@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108851" class_number="16808" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 366HFRA">Introduction to Research</title>
+            <prereq>Recommended: Statistics 211a.</prereq>
+            <description>Introduction to the process of developing research ideas into publications in Statistics, using case studies and actual research projects. Emphasizes scientific communication in research papers and presentations, deciphering referee reports, and finding the right forum.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="19:59:00" location="Science Ctr 706 (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e26884a1310" role="1" seniority_sort="1">
+                <display_name>Natesh Pillai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

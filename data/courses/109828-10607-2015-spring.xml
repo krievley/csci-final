@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109828" class_number="10607" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 130">Re-Imagining the Early Modern Subject</title>
+            <description>Analysis of connections between sensibility and the rational in literary, artistic, philosophical and political discourses of the French 17th and 18th Century. Discussion of works by La Bruyere, Descartes, Mme de Lafayette, Poussin, Racine, Chardin, Diderot, PrÃ©vost, Rousseau, among others, in the transition from absolutism to the Revolution .</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127474" class_number="14023" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BCMP 301QC">Translational Pharmacology</title>
+            <notes>January 2016 dates TBA.  </notes>
+            <description>This intensive course held during the first two full weeks of January (ten days) covers principles of pharmacology and their translation into new drug development. Students participate in project groups composed of both graduate students and post-graduate M.D.'s to propose a drug development strategy from target choice through clinical trials. There are two hours of lectures each of the first eight mornings; afternoons include case studies discussed by Harvard faculty and faculty from the pharmaceutical and biotechnology industries, or time to work on the project. Evaluation is based on the project and class participation. Enrollment may be limited.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e185107a1310" role="1" seniority_sort="1">
+                <display_name>Donald Coen</display_name>
+            </person>
+            <person id="d1e52404a1310" role="1" seniority_sort="2">
+                <display_name>David Golan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

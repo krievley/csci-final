@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120844" class_number="14762" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 215">Philosophical Mysticism -- Meister Eckhart and His Influence on German Philosophy and Literature</title>
+            <notes> Readings available in both German and English; discussions in English.</notes>
+            <description>Modern Philosophy from Hegel to Heidegger and Derrida, and German literature from Novalis to Paul Celan and Ingeborg Bachmann has been highly influenced by so called &amp;quot;mystical&amp;#39; traditions. Meister Eckhart&amp;#39;s philosophical mysticism played a major role in the history of modern thought. Reading the key texts written by him will provide the basis on which we will discuss their impact on 19th and 20th century authors and philosophers. We will explore the ways in which medieval mystical thought has shaped the modern discussion and formation of a concept of subjectivity.	&amp;nbsp;			Knowledge of Medieval German is required (offered in Fall Term 2015 as German 200).&amp;nbsp;</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e125311a1310" role="1" seniority_sort="1">
+                <display_name>Racha Kirakosian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

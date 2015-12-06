@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126430" class_number="13838" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TURKISH 150A">Advanced Ottoman Turkish I</title>
+            <notes> Not open to auditors.</notes>
+            <prereq>Recommended: Turkish 140 or equivalent; one year of Arabic or Persian desirable.</prereq>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="TURKISH">Turkish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="18:59:00" location="Widener Library Q-Islamic(FAS)" start_time="17:00:00"/>
+                <meeting days_of_week="Thursday" end_time="18:59:00" location="Widener Library Q-Islamic(FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e80075a1310" role="1" seniority_sort="1">
+                <display_name>Himmet Taskomur</display_name>
+            </person>
+            <person id="d1e80075a1310" role="1" seniority_sort="1">
+                <display_name>Himmet Taskomur</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

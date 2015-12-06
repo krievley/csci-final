@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160882" class_number="18133" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 123">Island Literature</title>
+            <exam_group>FAS14_A</exam_group>
+            <description>All the world&amp;#39;s a planetary stage. Islands, both a part of and apart from the main, offer ready-made laboratories for linguistic, narratological, and political investigation. Islandness encourages political and economic philosophy, geography, psychology, and vacation. This course focuses on island literature, with special attention to works by Homer, More, Shakespeare, Defoe, and Wagner, as well as works by cinematographers like Bergman and paingers like B&amp;ouml;cklin.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Dana Palmer 102 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25614a1310" role="1" seniority_sort="1">
+                <display_name>Marc Shell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

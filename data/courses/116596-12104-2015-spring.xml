@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116596" class_number="12104" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 3300">Supervised Field Work in Anthropology</title>
+            <notes>Members of the Department  May be taken by graduate students for academic credit, but since it is tuition-free, does not count for residence credit leading to reduced tuition. Open to students with adequate previous training in the subject.</notes>
+            <description>General instruction in field methods and practice in the various divisions of anthropology, including archaeology, ethnography, and physical anthropology. Instructional personnel and location of course vary with the research program of the staff. Lectures, conferences, field and laboratory work.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

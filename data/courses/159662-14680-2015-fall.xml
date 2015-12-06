@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159662" class_number="14680" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 144M">Ethical Problems in 18th-Century Literature</title>
+            <description>How does what we read change us? Can literature help readers to confront their prejudices and improve their knowledge? Can it assist in recognizing and responding to the suffering of others? The eighteenth century took seriously the idea that literature and the arts could encourage wisdom and shape better citizens. Over the period, numerous intellectuals, from British poets to French philosophes, waged and increasingly vigorous debate over the pedagogic and didactic functions of literature. We will pay special attention to the conceptual and rhetorical tools by which authors sought to inculcate certain values in their readers. Authors may include Bunyan, Dryden, Richardson, Johnson, Rousseau, Wollstonecraft, and Edgeworth.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Memorial Hall 202 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e57912a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Osadetz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

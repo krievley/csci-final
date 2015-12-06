@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126792" class_number="14667" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1040">Theology in an Interreligious Perspective</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Offered jointly with the Divinity School as 3101.</notes>
+            <prereq>Recommended: Prior knowledge of either tradition, though desirable, is not required.</prereq>
+            <description>This course examines the processes by which theologians study theologies across religious boundaries, bringing this learning into dialogue with home traditions, by careful comparison, dialogical reflection, and, ideally, a well-informed theological understanding of what it means to belong to one tradition and learn from another. Readings include (by way of example) Hindu primary texts and texts from the Roman Catholic traditions, but students are encouraged to bring their knowledge of and interest in other traditions to the discussions.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e54955a1310" role="1" seniority_sort="1">
+                <display_name>Francis Clooney</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

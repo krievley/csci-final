@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121191" class_number="13413" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LIFESCI 1B">An Integrated Introduction to the Life Sciences: Genetics, Genomics, and Evolution</title>
+            <notes> This course, in combination with Life Sciences 1a, constitutes an integrated introduction to the Life Sciences. This course, when taken for a letter grade, meets the General Education requirement in Science of Living Systems.</notes>
+            <description>How are observable characteristics of organisms influenced by genetics? How do genomes change over time to produce the differences we see among species? This course takes an integrated approach, showing how genetics and evolution are intimately related, together explaining the patterns of genetic variation we see in nature, and how genomics can be used to analyze variation. In covering Mendelian genetics, quantitative genetics, and population genetics, this course will emphasize developments involving our own species.</description>
+            <department code="LSCI">Life Sciences</department>
+            <course_group code="LIFESCI">Life Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e173475a1310" role="1" seniority_sort="1">
+                <display_name>John Wakeley</display_name>
+            </person>
+            <person id="d1e112551a1310" role="2" seniority_sort="2">
+                <display_name>Pardis Sabeti</display_name>
+            </person>
+            <person id="d1e216714a1310" role="2" seniority_sort="3">
+                <display_name>Kevin Eggan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

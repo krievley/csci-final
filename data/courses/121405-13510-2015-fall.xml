@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121405" class_number="13510" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 320">Microrobotics and Bio-inspired Autonomous Robotic Systems</title>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e252123a1310" role="1" seniority_sort="1">
+                <display_name>Robert Wood</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125331" class_number="15281" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1019">Basic Mathematics for Social Scientists</title>
+            <exam_group>FAS08_K</exam_group>
+            <description>The aim of this course is to provide the students of social sciences with a conceptual understanding of the basic notions of calculus and matrix algebra.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="13:59:00" location="CGIS South S001 (FAS)" start_time="12:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e291815a1310" role="1" seniority_sort="1">
+                <display_name>Pedram Safari</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

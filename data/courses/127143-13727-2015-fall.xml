@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127143" class_number="13727" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FOLKMYTH 170">Folk Art in the Modern World</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>Folk art is a world-wide phenomenon, with a lasting importance to modern culture and to national identities. But what are the commonalities and variations in how folk art is defined, what types are prized, and how is it studied, perpetuated, and preserved?</description>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Warren 102 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e156394a1310" role="1" seniority_sort="1">
+                <display_name>Felicity Lufkin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

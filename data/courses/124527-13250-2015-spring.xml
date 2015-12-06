@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124527" class_number="13250" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="UYGHUR 300">Readings in Uyghur Language and Literature</title>
+            <notes>Hours to be arranged.   </notes>
+            <prereq>Recommended: Uyghur 120B or permission of instructor.</prereq>
+            <description>Guided readings in advanced Uyghur-language texts. May be repeated for credit.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="UYGHUR">Uyghur</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e28449a1310" role="1" seniority_sort="1">
+                <display_name>Mark Elliott</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

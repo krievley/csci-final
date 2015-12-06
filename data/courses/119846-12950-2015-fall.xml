@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119846" class_number="12950" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BIOSTAT 232">Methods I</title>
+            <exam_group>FAS18_I</exam_group>
+            <notes>A weekly 90-minute lab.  Offered jointly with the School of Public Health as BIO232.</notes>
+            <prereq>Prerequisite: Biostatistics PhD Program</prereq>
+            <description>Introductory course in the analysis of Gaussian and categorical data. The general linear regression model, ANOVA, robust alternatives based on permutations, model building, resampling methods (bootstrap and jackknife), contingency tables, exact methods, logistic regression.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:20:00" location="" start_time="10:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e251483a1310" role="1" seniority_sort="1">
+                <display_name>Eric Tchetgen Tchetgen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

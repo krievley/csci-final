@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127009" class_number="13673" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 290A">Current Topics in Molecular, Cellular and Organismal Biology</title>
+            <exam_group>FAS13_F</exam_group>
+            <notes>Vladimir Denic, and members of the Department  Required for all first and second year graduate students in the Molecules, Cells and Organisms (MCO) Training Program. This course must be taken Sat/Unsat.</notes>
+            <description>This class teaches students how to publicly present scientific papers to a diverse audience with emphasis on contextualizing the scientific problem under discussion, critically presenting the essential data, and using an engaging presentation style.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="16:29:00" location="Biological Labs 1080 (FAS)" start_time="15:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e41847a1310" role="1" seniority_sort="1">
+                <display_name>Vladimir Denic</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

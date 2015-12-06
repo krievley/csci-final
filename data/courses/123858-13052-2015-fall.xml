@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123858" class_number="13052" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ESPP 90N">China's Energy Economy: Perspectives from the Past: Challenges for the Future</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>The seminar will provide a historical perspective on the development of the Chinese economy with emphasis on the energy sector, including analysis of related environmental problems. Energy options available for China's future will be discussed, including opportunities for clean-coal technology, nuclear, wind, hydro, and biofuels. The seminar will discuss tradeoffs implicit in these choices with respect to reconciling competing goals for environmental protection and economic development.</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Geological Museum 310 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e99674a1310" role="1" seniority_sort="1">
+                <display_name>Michael McElroy</display_name>
+            </person>
+            <person id="d1e225413a1310" role="2" seniority_sort="2">
+                <display_name>Xi Lu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

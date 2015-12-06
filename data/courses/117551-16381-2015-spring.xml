@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117551" class_number="16381" school_id="fas" section="01" term_code="spring">
+        <catalog_info>
+            <title short_title="KORHIST 240R">Selected Topics in Premodern Korean History: Seminar</title>
+            <prereq>Recommended: Korean History 111 or equivalent and reading proficiency in Korean. Reading ability in classical Chinese and Japanese helpful.</prereq>
+            <description>Reading and research of selected primary sources and secondary works on premodern Korean history.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="KORHIST">Korean History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e20994a1310" role="1" seniority_sort="1">
+                <display_name>Sun Joo Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114351" class_number="15129" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 50A">Introduction to Non Fiction Filmmaking</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.   FIRST MEETING NOTE:  First meeting will be Thursday, Sept. 3 from 1pm-2pm; there will be no meeting on Tuesday, Sept. 8.  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>Introductory exercises in live-action 16mm filmmaking culminating in the production of a nonfiction film as a group project in the spring term. &amp;nbsp;Part one of a two part series.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Sever B10 (FAS)" start_time="13:00:00"/>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Sever B10 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e98006a1310" role="1" seniority_sort="1">
+                <display_name>Ross McElwee</display_name>
+            </person>
+            <person id="d1e98006a1310" role="1" seniority_sort="1">
+                <display_name>Ross McElwee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116633" class_number="14968" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="KOREAN 140A">Advanced Korean</title>
+            <exam_group>FAS03_A</exam_group>
+            <prereq>Recommended: Korean 130b or equivalent.</prereq>
+            <description>Development of skills in reading materials from contemporary Korean media and fiction and in aural comprehension of contemporary television news and drama with decreased reliance on pedagogical aids. After successful completion of fourth-year Korean, students should be able to satisfy the requirements of various everyday school, and work situations and follow essential points of written discourse which are abstract and linguistically complex, and also to write about a variety of topics in detail with precision.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="KOREAN">Korean</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Sever 302 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e96924a1310" role="1" seniority_sort="1">
+                <display_name>Joungmok Lee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

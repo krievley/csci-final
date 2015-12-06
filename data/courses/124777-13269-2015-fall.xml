@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124777" class_number="13269" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 41P">American Presidential Campaigns and Elections 1960-2016</title>
+            <exam_group>FAS15_E</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>What can we learn from earlier presidential elections about the presidential election of 2012 and our own political era? In this seminar, we examine changes and continuities in campaigns and elections since 1960; demographic and opinion shifts over the last fifty years; the nature and structure of American public opinion; and ways American news media transmit information and people learn about matters in the public sphere. Through this lens, we will come to better understand the politics, issues and society of our own time.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Boylston 105 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e298045a1310" role="1" seniority_sort="1">
+                <display_name>Maxine Isaacs</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122333" class_number="14833" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 100">The Missing Matlab Course: An Introduction to Programming and Data Analysis</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Course meeting time includes lecture and lab. Students are not allowed to audit the course except for an exceptional circumstance (requires permission of the instructor). Given in alternate years.</notes>
+            <prereq>Recommended: Mathematics 1a, b; or equivalent.</prereq>
+            <description>An overview of modern computational tools with applications to the Earth Sciences. Introduction to the MATLAB programming and visualization environment. Topics include: statistical and time series analysis, visualization of two- and three-dimensional data sets, tools for solving linear/differential equations, parameter estimation methods. Labs emphasize applications of the methods and tools to a wide range of data in Earth Sciences.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Geological Museum 103C (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e74702a1310" role="1" seniority_sort="1">
+                <display_name>Miaki Ishii</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

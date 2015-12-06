@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115732" class_number="16844" school_id="fas" section="033" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 390">Individual Research</title>
+            <description>Requires students to identify and carry out a research project under the guidance of a member of the faculty. Graduate students may use this course to begin work on the research paper required for admission to candidacy.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e73727a1310" role="1" seniority_sort="1">
+                <display_name>James Sidanius</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160452" class_number="15822" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 160">Space Science and Engineering: Theory and Application</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>This course is an introduction to the challenges involved in designing spacecraft for observation of Earth and exploration of other planets. Topics covered include basic atmospheric and planetary science, key principles of remote sensing, telemetry, orbital transfer theory, propulsion and launch system design, and thermal and power management.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Cruft 309 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e217729a1310" role="1" seniority_sort="1">
+                <display_name>Robin Wordsworth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

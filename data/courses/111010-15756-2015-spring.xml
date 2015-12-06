@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111010" class_number="15756" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 1B">Calculus, Series, and Differential Equations</title>
+            <notes>Required first meeting in spring: Monday, January 25, 8:30 am, Science Center D.  Spring section times: M.W.F. at 10; M.W.F. at 11; M.W.F. at 12; Tu.Th. 10-11:30 (with sufficient enrollment); Tu Th 11:30-1 (with sufficient enrollment).  Peter Garfield, Jameel Al-Aidroos, Sarah Chisholm, Dusty Grundmeier, and members of the Department.  &amp;nbsp;  This is a lecture taught in small sections. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: Mathematics 1a or Ma and Mb; or 5 on the AB advanced placement test; or an equivalent background in mathematics.</prereq>
+            <description>Speaking the language of modern mathematics requires fluency with the topics of this course: infinite series, integration, and differential equations. Model practical situations using integrals and differential equations. Learn how to represent interesting functions using series and find qualitative, numerical, and analytic ways of studying differential equations. Develop both conceptual understanding and the ability to apply it.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e208344a1310" role="1" seniority_sort="1">
+                <display_name>Peter M. Garfield</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

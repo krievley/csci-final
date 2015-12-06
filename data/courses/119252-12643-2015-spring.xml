@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119252" class_number="12643" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 308">Biologically-Inspired Multi-Agent Systems, Distributed Systems, and Computational Biology</title>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e258594a1310" role="1" seniority_sort="1">
+                <display_name>Radhika Nagpal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

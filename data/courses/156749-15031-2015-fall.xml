@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156749" class_number="15031" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 137">The Later Philosophy of Wittgenstein</title>
+            <exam_group>FAS18_A</exam_group>
+            <notes>Friday class meetings will be held at the discretion of the instructor.  </notes>
+            <description>A close reading of Ludwig Wittgenstein&amp;#39;s Philosophical Investigations, focusing on its treatments of the topics of meaning, reference, rule-following, cognition, perception, &amp;quot;the private mental realm&amp;quot; knowledge, skepticism, and the nature of philosophy. Attention to Wittgenstein&amp;#39;s philosophical methodology, with its claim to dissolve philosophical problems rather than propose solutions to them.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="Emerson 305 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e51807a1310" role="1" seniority_sort="1">
+                <display_name>Warren Goldfarb</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

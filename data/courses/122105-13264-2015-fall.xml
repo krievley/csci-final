@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122105" class_number="13264" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2888R">Economics of Science and Engineering Workshop</title>
+            <exam_group>FAS18_I</exam_group>
+            <notes> Offered jointly with the Business School as 4245.</notes>
+            <description>Focus on work force and career issues. Topics include: Effects of globalization on work force and innovation, growth of networks in work; impact of career incentives on productivity; university policies; mobility between academe and industry; link between ideas and outputs.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="13:29:00" location="Baker Library 102 (HBS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e238309a1310" role="1" seniority_sort="1">
+                <display_name>Richard Freeman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

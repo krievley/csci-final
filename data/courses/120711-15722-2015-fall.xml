@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120711" class_number="15722" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1011A">Intermediate Microeconomics: Advanced</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning. Economics 1011a fulfills the intermediate microeconomic theory requirement for Economics concentrators. Students may take either Econ 1010a or Econ 1011a for credit. However, starting in Fall 2014, concentrators who receive less than a  B- in this course must enroll in Economics 975a (Microeconomic Theory Tutorial). Exception: Concentrators who already took their macroeconomic theory requirement (Econ 1010b/1011b) prior to Fall 2014 are held to the old rule: concentrators who earn below an average grade of B-/C+ in their two economic theory requirements must enroll in Econ 975.</notes>
+            <prereq>Recommended: Mathematics 21a or permission of the instructor.</prereq>
+            <description>Economics 1011a is similar to Economics 1010a, but more mathematical and covers more material. The course teaches the basic tools of economics and to apply them to a wide range of human behavior. Prerequisites for this course include&amp;nbsp;Mathematics 21a or permission of the instructor.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Jefferson 250 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60731a1310" role="1" seniority_sort="1">
+                <display_name>Edward Glaeser</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

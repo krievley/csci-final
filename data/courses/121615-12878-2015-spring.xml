@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121615" class_number="12878" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="E-PSCI 203">Earthquakes and Faulting</title>
+            <notes> Given in alternate years.</notes>
+            <prereq>Recommended: Applied Mathematics 21a, b.</prereq>
+            <description>Earthquake phenomenology in the context of plate tectonics. Continuum mechanics and elastic deformation; seismic wave radiation. Earthquake cycle models and constraints from tectonic geodesy. Earthquake geology and paleoseismology. Source physics, fault friction, rupture dynamics. Deformation rates and fault system structure. Quantitative seismic hazard analysis.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Friday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e254246a1310" role="1" seniority_sort="1">
+                <display_name>Brendan Meade</display_name>
+            </person>
+            <person id="d1e28674a1310" role="1" seniority_sort="2">
+                <display_name>James Rice</display_name>
+            </person>
+            <person id="d1e153370a1310" role="1" seniority_sort="3">
+                <display_name>John Shaw</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

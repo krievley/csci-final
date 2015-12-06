@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111036" class_number="11914" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 111">Introduction to Theoretical Statistics</title>
+            <notes>Tu., Th., 1&amp;#8211;2:30, and weekly sections to be arranged.   </notes>
+            <prereq>Recommended: Mathematics 19a and 19b or equivalent and Statistics 110.</prereq>
+            <description>Basic concepts of statistical inference from frequentist and Bayesian perspectives. Topics include maximum likelihood methods, confidence and Bayesian interval estimation, hypothesis testing, least squares methods and categorical data analysis.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e65567a1310" role="1" seniority_sort="1">
+                <display_name>Kevin A. Rader</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

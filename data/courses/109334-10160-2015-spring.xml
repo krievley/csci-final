@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109334" class_number="10160" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 40K">America's $3 Trillion Challenge: Health Care Access and Productivity in the Health Reform Era</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Health care in the United States is often criticized for its expense, ineffectiveness, and inequity. Every policy solution for increasing access to care faces the challenge of dealing with its costs. Because per capita annual health expenditures exceed 8,000 dollars, the subsidies needed to support health insurance expansions are large and controversial. The fundamental challenge to improving health and health care is to rationalize expenditures by improving the efficiency or productivity of care. This seminar explores barriers to health care productivity in the U.S, along with potential approaches to enhance the value of care.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e340328a1310" role="1" seniority_sort="1">
+                <display_name>Alan Garber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

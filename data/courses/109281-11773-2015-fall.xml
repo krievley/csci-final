@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109281" class_number="11773" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TURKISH 130A">Advanced Turkish I</title>
+            <notes> Not open to auditors.</notes>
+            <description>Gaining and improving advanced language skills in Modern Turkish through reading, writing, listening, and speaking with special emphasis on the proper usage of vocabulary and idiomatic expressions.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="TURKISH">Turkish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e331a1310" role="1" seniority_sort="1">
+                <display_name>William Granara</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160758" class_number="18022" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MBB 980L">Dopamine</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes>Not open to students who have taken Neurobiology 95hfh or Neurobiology 101hfb.  </notes>
+            <description>A Parkinson&amp;#39;s victim regains control of her body with l-dopa. A schizophrenic man paralyzed by fear and hallucinations is freed from a mental institution by clozapine. A meth addict lies, cheats, and steals, ending up emaciated and dead. Miracles and monstrosities, all related to a single molecule - dopamine. This seminar will focus on this single chemical neurotransmitter through three phases of study. The first phase orients students to tools from multiple traditional disciplines (behavioral neuroscience, behavioral pharmacology, neuroanatomy, and psychiatry) through examples of specific and important disease states (Parkinson&amp;rsquo;s Disease and schizophrenia), covering a historical perspective through to a current and sophisticated consensus (i.e., review articles from within the last two years). The second phase introduces the Socratic method of critical analysis of original research articles so students learn how to arrive at their own conclusions and synopsis, particularly regarding a controversial subject such as drug addiction. In the third phase, students use original articles on a relevant subject for presentation of the issues and then engage in scientific discourse with their fellow students and the instructor. Ultimately, the students should come to understand precisely how science is advanced through research, starting with multiple traditional approaches and an historical framework, proceeding with integration of new original articles by peer review and complex scientific discourse after publication, and finally, integration into accepted consensus by the field.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Sever 109 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e272497a1310" role="1" seniority_sort="1">
+                <display_name>Simon Caine</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

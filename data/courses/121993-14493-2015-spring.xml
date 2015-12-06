@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121993" class_number="14493" school_id="fas" section="001L" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 191R">Advanced Laboratory</title>
+            <notes> A substantial amount of outside reading is expected. Physics 191R is the same course as Physics 247R; if you are a graduate students, please enroll in 247R.</notes>
+            <prereq>Recommended: Physics 15a or 16, 15b, 15c. Physics 143a is highly recommended.</prereq>
+            <description>Students carry out three experimental projects selected from those available representing condensed matter, atomic, nuclear, and particle physics. Included are pulsed nuclear magnetic resonance (with MRI), microwave spectroscopy, optical pumping, Raman scattering, scattering of laser light, nitrogen vacancies in diamond, neutron activation of radioactive isotopes, Compton scattering, relativistic mass of the electron, recoil free gamma-ray resonance, lifetime of the muon, studies of superfluid helium, positron annihilation, superconductivity, the quantum Hall effect, properties of semiconductors. The facilities of the laboratory include several computer controlled experiments as well as computers for analysis.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Laboratory</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e248716a1310" role="1" seniority_sort="1">
+                <display_name>Ronald Walsworth</display_name>
+            </person>
+            <person id="d1e88211a1310" role="1" seniority_sort="2">
+                <display_name>Isaac F. Silvera</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

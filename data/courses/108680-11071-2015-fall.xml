@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108680" class_number="11071" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 209A">Africa Rising? New African Economies/Cultures and Their Global Implications</title>
+            <exam_group>FAS18_G</exam_group>
+            <notes>The first AAAS 209a class will be held on Wednesday, September 2 (as this is a Monday schedule) at 12pm (Locke Room, Barker 230). However, there will not be an evening section (6-8pm) on Wednesday September 2. The first 6-8pm evening section (African Studies Workshop) will take place September 14. The evening sessions will take place in Robinson Lower Level Library.  </notes>
+            <description>In a story titled Africa Rising (2011), The Economist argued that the continent epitomizes both the &amp;quot;transformative promise of [capitalist ] growth and its bleakest dimensions.&amp;quot; This workshop will explore Africa&amp;#39;s changing place in the world - and the new economies, legalities, socialities, and cultural forms that have arisen there. It will also interrogate the claim that the African present is a foreshadowing of processes beginning to occur elsewhere; that, therefore, it is a productive source of theory about current conditions world-wide. The workshop, open to faculty and students, will meet Mondays from 6:00-7:30. 15 students will be permitted to take it as a course; they will also meet on Mondays, 12:00-1:30. Grades will be based on participation and a term essay.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:29:00" location="Barker 230 (FAS)" start_time="12:00:00"/>
+                <meeting days_of_week="Monday" end_time="19:59:00" location="Robinson LL Library (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7942a1310" role="1" seniority_sort="1">
+                <display_name>Jean Comaroff</display_name>
+            </person>
+            <person id="d1e7939a1310" role="1" seniority_sort="2">
+                <display_name>John Comaroff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

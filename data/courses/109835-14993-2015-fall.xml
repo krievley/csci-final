@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109835" class_number="14993" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 18S">Arts of South and Southeast Asia</title>
+            <exam_group>FAS18_F</exam_group>
+            <description>This is an introduction to the arts of South and Southeast Asia from the second millennium BCE to the present. Each lecture will examine selective artifacts and sites to understand the history of major artistic traditions developed in response to cultural exchanges and political dynamics within and beyond the region. By examining a wide range of material, such as Buddhist sculptures, Hindu temples, Jain manuscript paintings, Islamic tombs, calendar art, and so on, with fundamental art historical questions, we will consider what makes the arts of South and Southeast Asia unique as well as universal in the twenty-first century context.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Sackler Museum 318" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e16321a1310" role="1" seniority_sort="1">
+                <display_name>Jinah Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

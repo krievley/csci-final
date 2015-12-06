@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108588" class_number="11031" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="CLASSIC 360">Teaching Colloquium</title>
+            <exam_group>FAS14_G</exam_group>
+            <notes>Ivy Livingston and assistant  This course must be taken Sat/Unsat. Not repeatable for credit. No auditors.</notes>
+            <description>A practicum course in the craft of teaching. Topics include designing syllabi and assessments, responding to student writing, and guiding classroom discussion. Strategies will be applicable to courses working entirely in English as well as to those in the languages.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASSIC">Classics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:59:00" location="Boylston 203 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e194a1310" role="1" seniority_sort="1">
+                <display_name>Ivy Livingston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

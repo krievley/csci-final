@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109009" class_number="11552" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SHBT 303">Sensory Coding and Feedback Control, in the Mammalian Cochlea; Mechanisms of Sensorineural Hearing</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e18940a1310" role="1" seniority_sort="1">
+                <display_name>M. Liberman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

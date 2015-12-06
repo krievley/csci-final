@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145419" class_number="12816" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EASTD 97AB">Introduction to the Study of East Asia: Issues and Methods</title>
+            <notes>James Robson and members of the Department  Required of sophomore concentrators and secondary field candidates. Open to freshmen. EAS 97ab may not be taken Pass/Fail.</notes>
+            <description>This interdisciplinary and team-taught course provides an introduction to several of the approaches and methods through which the societies and cultures of East Asia can be studied at Harvard, including history, philosophy, literary studies, political science, film studies, anthropology and gender studies. We consider both commonalities and differences across the region, and explore how larger processes of imperialism, modernization, and globalization have shaped contemporary East Asian societies and their future trajectories.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EASTD">East Asian Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e10308a1310" role="1" seniority_sort="1">
+                <display_name>James Robson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

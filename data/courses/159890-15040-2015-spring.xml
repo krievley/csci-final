@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159890" class_number="15040" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EASTD 99B">Tutorial - Senior Year</title>
+            <notes>	Hours to be arranged.  	&amp;nbsp;  	Taught by James Robson and members of the Department.  All students writing an EAS or joint EAS thesis will attend a research and writing workshop that meets twice each term.</notes>
+            <description>Thesis guidance under faculty direction.&amp;nbsp;Part two of a two part series.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EASTD">East Asian Studies</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e10308a1310" role="1" seniority_sort="1">
+                <display_name>James Robson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

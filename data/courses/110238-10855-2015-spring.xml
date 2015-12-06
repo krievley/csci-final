@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110238" class_number="10855" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELLBIO 311QC">Recent Advances in Cell Biology</title>
+            <notes>January 2016 dates TBA.  This is an intensive January course.</notes>
+            <description>Provides a comprehensive overview on the most recent advances in cell biology, covering hands-on experimental sessions including, electron microscopy, live cell imaging, single molecule imaging, 3D cultures, quantitative proteomics, protein interaction mapping, and more.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e97908a1310" role="1" seniority_sort="1">
+                <display_name>David Van Vactor</display_name>
+            </person>
+            <person id="d1e222500a1310" role="1" seniority_sort="2">
+                <display_name>Wade Harper</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

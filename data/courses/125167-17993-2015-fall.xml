@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125167" class_number="17993" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TIBET 203">Readings in Madhyamaka/Dbu ma</title>
+            <exam_group>FAS15_E</exam_group>
+            <description>In this course, we will deal with Gser mdog Paá¹ chen&amp;#39;s (1428-1507) critique in selected passages from his Dbu ma rnam nges rgya mtsho of Tsong kha pa&amp;#39;s (1357-1419)&amp;nbsp; Madhyamaka position. To do so we will also aim to identify those passages from Tsong kha pa&amp;#39;s oeuvre that are criticized in the context of the writings of their Indian Buddhist precursors.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="TIBET">Tibetan</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="1 Bow St 317 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e29454a1310" role="1" seniority_sort="1">
+                <display_name>Leonard W. J. van der Kuijp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

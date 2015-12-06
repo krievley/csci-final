@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108137" class_number="10695" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 310">Qualifying Paper</title>
+            <exam_group>FAS14_G</exam_group>
+            <notes> Required of, and ordinarily limited to, third-year graduate students while writing the qualifying paper. Not repeatable for credit.</notes>
+            <description>Guides students through the process of producing an original research paper of high quality. Readings and discussion cover the identification of appropriate research problems, the nature of causal reasoning, and data analysis and write-up.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:59:00" location="William James 601 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e33804a1310" role="1" seniority_sort="1">
+                <display_name>Bart Bonikowski</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

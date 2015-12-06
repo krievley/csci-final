@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109873" class_number="10651" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2475">Legal History Workshop</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes>Offered jointly with the Law School as 2596. Open to undergraduates with the permission of the Instructor. This course will meet at the Harvard Law School. Law students have a choice of enrolling in the workshop for two or three credits. Law students who choose to write a substantial paper will receive three credits upon successful completion of the course; law students who do not complete substantial papers will receive two credits. All FAS graduate students who enroll in the workshop must complete a substantial paper; all FAS students will receive three credits upon successful completion of the course.   Offered jointly with the Law School as 2596. Open to undergraduates with the permission of the Instructor. This course will meet at the Harvard Law School. Law students have a choice of enrolling in the workshop for two or three credits. Law students who choose to write a substantial paper will receive three credits upon successful completion of the course; law students who do not complete substantial papers will receive two credits. All FAS graduate students who enroll in the workshop must complete a substantial paper; all FAS students will receive four credits upon successful completion of the course.</notes>
+            <description>This workshop will examine major works in the field of legal history, important historiographical debates and critical methodologies. Students will participate in workshop presentations by leading scholars.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="18:59:00" location="Wasserstein 4059 (HLS)" start_time="17:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7388a1310" role="1" seniority_sort="1">
+                <display_name>Tomiko Brown-Nagin</display_name>
+            </person>
+            <person id="d1e7391a1310" role="2" seniority_sort="2">
+                <display_name>Kenneth Mack</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

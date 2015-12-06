@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160771" class_number="18028" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="NEUROBIO 337L">Human and primate social decision making, executing functioning and memory</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e155773a1310" role="1" seniority_sort="1">
+                <display_name>Ziv Williams</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

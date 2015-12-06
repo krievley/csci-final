@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160459" class_number="16130" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 217">What Makes a Cat?</title>
+            <exam_group>FAS13_E</exam_group>
+            <notes> Prerequisite: with permission of instructor. Seminar for graduate students with an enrollment of six students maximum. Location: Museum of Comparative Zoology 4 (Oceanography Seminar Room) and MCZ.  Vertebrate Preparation Laboratory.</notes>
+            <description>A student directed course that explores the origin and evolution of cats (Felidae) through a mixture of literature discussions, cadaveric dissection and fossil observation. Discussion topics will be broad and far reaching, including such things as: evolutionary dynamics, ecomorphology, and feeding and locomotor performance. Alongside in class discussions, students will participate in dissecting cadaveric felid material with the aim to build hands-on musculoskeletal knowledge.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Museum of Comp Zoology 4 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e160621a1310" role="1" seniority_sort="1">
+                <display_name>Stephanie Pierce</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

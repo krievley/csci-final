@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122854" class_number="12944" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SLAVIC 299">Proseminar</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes> Open to qualified undergraduates with permission of the instructor.</notes>
+            <description>Introduction to graduate study in Slavic. Selected topics in literary analysis, history, and theory.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Barker 373 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e111119a1310" role="1" seniority_sort="1">
+                <display_name>Justin Weir</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109894" class_number="15350" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 10B">Principles of Economics</title>
+            <notes> This course, when taken for a letter grade together with Economic 10a, meets the General Education requirement for either Empirical and Mathematical Reasoning or United States in the World, but not both.</notes>
+            <prereq>Recommended: Ec10a or permission of the instructor.</prereq>
+            <description>Economic growth, inflation, unemployment, the business cycle, the financial system, international capital flows and trade imbalances, and the impact of monetary and fiscal policy. The Department of Economics strongly encourages students considering a concentration in economics to take both Ec10a and Ec10b in their freshman year. These courses are required for all economics concentrators and are prerequisites for higher level courses in economics.&amp;nbsp;</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60626a1310" role="1" seniority_sort="1">
+                <display_name>N. Mankiw</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

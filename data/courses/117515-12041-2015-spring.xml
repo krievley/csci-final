@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117515" class_number="12041" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ASTRON 302">Scientists Teaching Science</title>
+            <notes>Open to graduate students in all areas of science. Assignments help illustrate research findings from life, earth, and physical science education. Undergraduates with an interest in teaching at the pre-college level may be admitted with instructor permission. This course offered each year.   Open to graduate students in all areas of science. Assignments help illustrate research findings from life, earth, and physical science education. Undergraduates with an interest in teaching at the pre-college level may be admitted with instructor permission. This course offered each year.</notes>
+            <prereq>Recommended: Experience as a teaching fellow or tutor.</prereq>
+            <description>Learn the secrets of lecturing well, leading discussions, connecting to real-world applications, and creating tests in any scientific discipline as we focus on relevant educational research and case studies, plus engage in practical classroom activities.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:29:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e43939a1310" role="1" seniority_sort="1">
+                <display_name>Philip Sadler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

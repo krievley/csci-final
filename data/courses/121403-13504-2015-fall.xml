@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121403" class_number="13504" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APPHY 225">Introduction to Soft Matter</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes>AP 225 will not meet on Thursday, Sept 3; the first class will be held on Tuesday, Sept 8.  </notes>
+            <prereq>Recommended: Knowledge of basic thermodynamics, statistical mechanics and differential equations.</prereq>
+            <description>Introduction to the physics of soft matter, also called complex fluids or squishy physics, includes the study of capillarity, thin films, polymers, polymer solutions, surfactants, and colloids,. Emphasis is on physical principles which scale bulk behavior. Students will understand the concepts, experimental techniques, and, especially, the open questions. Lecture notes are supplied in place of a textbook.</description>
+            <department code="APPHYS">Applied Physics</department>
+            <course_group code="APPHY">Applied Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Pierce 209 (SEAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e268177a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Lewis</display_name>
+            </person>
+            <person id="d1e15830a1310" role="1" seniority_sort="2">
+                <display_name>Shmuel Rubinstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

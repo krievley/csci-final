@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160632" class_number="16270" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 300HFB">Old and Middle English: Doctoral Conference</title>
+            <notes> Enrollment is open to all graduate students but is required of those who have been admitted to candidacy for the PhD and who intend to work on a medieval subject.</notes>
+            <description>The Conference focuses upon dissertations in progress and other research topics of mutual concern. Membership limited to faculty members teaching or conducting research in medieval English language and literature and to graduate students working in this field. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

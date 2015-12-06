@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148329" class_number="13932" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EASTD 91R">Supervised Reading and Research</title>
+            <notes>James Robson and members of the Department  Open to students who have given evidence of ability to do independent reading and research. May be taken on an individual basis or by small groups of students interested in working on the same topic. Permission of the Director of Undergraduate Studies required.</notes>
+            <description>Independent reading and research in East Asian Studies.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EASTD">East Asian Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e10308a1310" role="1" seniority_sort="1">
+                <display_name>James Robson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

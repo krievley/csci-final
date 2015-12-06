@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125374" class_number="12880" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 365">SEAS Teaching Practicum</title>
+            <notes>John A. Girash 6894  </notes>
+            <description>Gain effective skills for teaching applied sciences. Topics: presentation and communication, grading and giving feedback on assignments, cognition and learning, classroom practice and student interactions. Seminar style with an emphasis on observation, practice, feedback, discussion, and reflection.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:29:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e471179a1310" role="1" seniority_sort="1">
+                <display_name>John Girash</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

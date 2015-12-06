@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156210" class_number="11248" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 125">Algorithms and Complexity</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Students may not receive credit for both CS 125 and either CS 121 or CS 124.</notes>
+            <prereq>Recommended: Comfort with reading and writing mathematical proofs, at the level of Math 25 or 55 (which may be taken concurrently).</prereq>
+            <description>An accelerated introduction to theoretical computer science for students with strong mathematical preparation, to be taken in place of both Computer Science 121 and 124. Algorithm design methods, including graph algorithms, approximation algorithms, and randomized algorithms. Models of computation, computability theory, and computational complexity, including the P vs. NP question.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Maxwell Dworkin G125 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e144783a1310" role="1" seniority_sort="1">
+                <display_name>Michael Mitzenmacher</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

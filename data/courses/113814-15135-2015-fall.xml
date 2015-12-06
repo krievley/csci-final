@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113814" class_number="15135" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="ITAL AA">Beginning Italian I: Pathways to Italy</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes> Conducted in Italian. Students whose placement score does not entitle them to enter a more advanced course are assigned to Italian Aa. Students who have studied Italian for two years or more in secondary school must begin at Italian Ab or higher. May not be taken Pass/Fail but may be taken Sat/Unsat by GSAS students. Section on-line. Not open to auditors.
+
+This course is taught by members of the Department.</notes>
+            <description>For students with little or no knowledge of Italian. Aims at achieving basic communication skills and vocabulary. Emphasis on oral expression and listening comprehension. The cultural component examines everyday life through a comparative perspective: families, shopping, food culture. This course will give you the language you need to communicate effectively in Italy, and is the best way to prepare for a summer study in Italy. Course materials include workbook, audio-lab, and video.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="10:59:00" location="Barker 133 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

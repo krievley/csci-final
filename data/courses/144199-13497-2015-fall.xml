@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144199" class_number="13497" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 118">The History of African Americans From the Slave Trade to the Civil War</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>This course surveys African American History from the first migrations of Africans to the Americas during the Transatlantic Slave Trade to the eve of the U.S. Civil War. Atlantic in scope, our studies will consider black US history in the context of broader regional variations, highlighting both the distinctive and the unexceptional features of black society, culture, and politics. Lectures, readings, discussions, and assignments will emphasize several key themes: the indispensability of slavery to the colonial development of the Americas, the entrenchment of race as a mode of categorical belonging and discrimination, the continuity of multivalent struggles for dignity, freedom, and equality, and the shaping force of gender, geography, and imperial warfare in the transformations of the period. Special attention will be paid to the interpretive possibilities of representing this history in the form of data, argumentative prose, storytelling, and works of visual art.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Robinson 107 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e133465a1310" role="1" seniority_sort="1">
+                <display_name>Eric Williams</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

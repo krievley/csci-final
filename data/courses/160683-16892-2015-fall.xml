@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160683" class_number="16892" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1506">Groups and Networks: How Others Shape our Behavior, Beliefs, and Motivations</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes>Instructor is Olivia Kang  </notes>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>We are an intensely social species. We have vast and complex social networks, connect with strangers for common goals, and gain a sense of identity through our &amp;quot;in group.&amp;quot; Understanding the human mind therefore means understanding how we influence and are influenced by the larger social web around us. In this course, we will examine empirical research that reveals how groups work -- how they can make us smarter or dumber, how we form social bonds, how the making of &amp;quot;us&amp;quot; also means the making of &amp;quot;them,&amp;quot; and how our social networks transmit everything from democracy to disease.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="William James B1 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e269316a1310" role="1" seniority_sort="1">
+                <display_name>Olivia Kang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

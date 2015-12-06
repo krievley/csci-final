@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114770" class_number="15303" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1171">The Making of Modern Politics: The Development of Democracy in Europe from the Middle Ages to the Eu</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes>comparative_subfield  This course, when taken for a letter grade, meets the General Education requirement for Societies of the World. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>How are democracies created and why do they collapse? What causes revolution? What were the consequences of the industrial revolution? What roles do ideas, institutions and interests play in processes of political change? This course examines the long-term historical developments behind the creation of modern politics. Focusing on Britain, France, Germany and Italy from the 1600s to the 2000s, it explores the lessons Europe offers for the development of democracy.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:29:00" location="Sever 214 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e83005a1310" role="1" seniority_sort="1">
+                <display_name>Peter Hall</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

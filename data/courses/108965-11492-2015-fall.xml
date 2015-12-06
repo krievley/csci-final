@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108965" class_number="11492" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2082">Social Choice Theory</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>A basic course in social choice theory and its analytical foundations. The subject matter will include possibility theorems in voting and in welfare economics. Attention will be paid to implementation theory, the theory of justice, and the analysis of liberties and rights.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Emerson 307 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e93a1310" role="1" seniority_sort="1">
+                <display_name>Amartya Sen</display_name>
+            </person>
+            <person id="d1e96a1310" role="2" seniority_sort="2">
+                <display_name>Eric Maskin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

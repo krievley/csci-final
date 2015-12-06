@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113088" class_number="10396" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 3005">Reading and Research</title>
+            <description>Individual work or work in small groups (with a professor or lecturer in residence) in preparation for the general examination for the PhD degree, or work on special topics not included in course offerings.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

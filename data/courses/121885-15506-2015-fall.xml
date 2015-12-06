@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121885" class_number="15506" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 141">The Physics of Sensory Systems in Biology</title>
+            <exam_group>FAS03_A</exam_group>
+            <prereq>Recommended: Physics 11a,b or 15 a,b, required.</prereq>
+            <description>Living organisms use sensory systems to inform themselves of the sights, sounds, and smells of their surrounding environments. Sensory systems are physical measuring devices, and are therefore subject to certain limits imposed by physics. Here we will consider the physics of sensory measurement and perception, and study ways that biological systems have solved their underlying physical problems. We will discuss specific cases in vision, olfaction, and hearing from a physicist's point of view.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Lyman 330 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e151277a1310" role="1" seniority_sort="1">
+                <display_name>Aravinthan Samuel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

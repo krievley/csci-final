@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125615" class_number="13502" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPNLIT 162">Girl Culture, Media, and Japan</title>
+            <description>The course examines the ways in which girlhood and girl culture have figured in the construction of gender, nation, and popular medias in modern to contemporary Japan. We will study visual and textual mediums, including novels, magazines, films, manga, and animation, paying attention to principal transformations that have marked the history of modern girl culture in Japan. No prior knowledge of Japanese language or history is expected.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNLIT">Japanese Literature</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e29548a1310" role="1" seniority_sort="1">
+                <display_name>Tomiko Yoda</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

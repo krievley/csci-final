@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160328" class_number="15545" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 980Y">The Psychology and Economics of Beliefs</title>
+            <exam_group>FAS01_D</exam_group>
+            <description>This junior seminar focuses on how individuals and groups come to form beliefs about important things in their lives. What medicines are effective? What lifestyles are healthy? What investment strategies make sense? What careers are lucrative and rewarding? What is the right way to raise children? What economic systems are efficient and fair? We will review theories and evidence about how individuals develop their beliefs from personal observations and experience, and how people learn from each other. The organizing theme will be to compare the assumption of full rationality that is traditional in economic theory to evidence identified by psychologists and others about the types of errors people make. We will also explore what consequences these errors have. When do people become overconfident in their beliefs? Or instead not learn as much as they should? Are people&amp;#39;s beliefs internally consistent? When do groups of people all come to the same conclusions, vs. &amp;quot;polarize&amp;quot; into very different beliefs?Because of the heavy emphasis on rigorous formal theories and measurements along the lines of mainstream economics, the course requires background in microeconomics, mathematics, and statistics.Required readings for the course will include academic research in psychology, economic theory, empirical economics, and historical and sociological research describing the prevalence and changes in beliefs over time. The core requirement is to develop an independent research project in the tradition of theoretical or empirical economics, but regular reading and participation in will also be required.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:59:00" location="Littauer Ctr M17 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15785a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Rabin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111324" class_number="10611" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PERSIAN BA">Intermediate Persian I</title>
+            <exam_group>FAS07_D</exam_group>
+            <notes> Instructor: Sheida Dayani. Not open to auditors. Cannot be taken pass/fail.</notes>
+            <prereq>Recommended: Persian AA/AB sequence, or the equivalent.</prereq>
+            <description>A thorough review and continuation of modern Persian grammar with an emphasis on reading, writing, speaking, and listening comprehension. Includes an introduction to classical prosody. Course materials draw from both classical and modern poetry and prose.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="PERSIAN">Persian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="11:59:00" location="Robinson 105 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11438a1310" role="1" seniority_sort="1">
+                <display_name>Sheida Dayani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

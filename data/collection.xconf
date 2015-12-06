@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <fulltext default="none" attributes="false"/>
+        <create qname="title" type="xs:string"/>
+        <create qname="@code" type="xs:string"/>
+        <create qname="short_title" type="xs:string"/>
+        <ngram qname="@code"/>
+        <ngram qname="/courses/course/catalog_info/department/@code"/>
+        <ngram qname="/courses/course/catalog_info/course_group/@code"/>
+    </index>
+</collection>

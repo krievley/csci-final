@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159670" class_number="14740" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 190E">"Rotten English" Literature: Writing in English from Across the Globe</title>
+            <description>In this course we will read an eclectic range of twentieth-century literature written in &amp;ldquo;non-standard English&amp;rdquo; dialects, slangs, creoles, and pidgins, including Their Eyes Were Watching God; A Clockwork Orange; Lonely Londoners; Trainspotting; and Sozaboy: A Novel in Rotten English. We will focus on the relationship between language, power, and identity, paying special attention to questions of class, geography, race, and imperialism.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e61546a1310" role="1" seniority_sort="1">
+                <display_name>Marina Bilbija</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

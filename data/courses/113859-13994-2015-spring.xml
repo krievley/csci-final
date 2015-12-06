@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113859" class_number="13994" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GENETIC 322">Vertebrate Pattern Formation</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e88542a1310" role="1" seniority_sort="1">
+                <display_name>Clifford Tabin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

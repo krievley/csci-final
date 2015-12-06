@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156510" class_number="11447" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 2830">International Security Studies</title>
+            <exam_group>FAS01_E</exam_group>
+            <description>This course is a graduate-level research seminar in international security studies. The course has two related goals: to introduce students to interesting research and debates in the field, and to help each student to initiate a research project in this area.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="11:59:00" location="CGIS Knafel K401 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e59109a1310" role="1" seniority_sort="1">
+                <display_name>Anne Sartori</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

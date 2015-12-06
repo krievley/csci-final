@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109345" class_number="10174" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SYSTBIO 305QC">Practical Synthetic Biology</title>
+            <notes> January 12, 2015 - January 23, 2015. Class will be held in Warren Alpert RM 563, HMS. To register for this course, please contact the Systems Biology Department. Course website: http://isites.harvard.edu/k100763.</notes>
+            <description>Synthetic biology is a new discipline that seeks to enable the predictable engineering of biological systems. According to one conception of synthetic biology, proteins and genetic regulatory elements are modular and can be combined in a predictable manner. In practice however, assembled genetic devices do not function as expected. The purpose of the course is to go beyond the textbook, first-pass description of molecular mechanisms and focus on details that are specifically relevant to engineering biological systems.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+    </course>
+</courses>

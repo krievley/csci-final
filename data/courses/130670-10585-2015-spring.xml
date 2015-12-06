@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130670" class_number="10585" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 90FD">The Rhetoric of Frederick Douglass and Abraham Lincoln: Seminar</title>
+            <description>A critical examination of Douglass' and Lincoln's speeches and other exemplary writings from Lincoln's 1838 Lyceum Address to Douglass's 1894 "Lessons of the Hour." We explore Douglass' and Lincoln's respective rhetorical practices in relation to their politics.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57590a1310" role="1" seniority_sort="1">
+                <display_name>John Stauffer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

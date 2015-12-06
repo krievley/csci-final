@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159828" class_number="14894" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 990B">Senior Tutorial: Honors Thesis in Psychology</title>
+            <notes> Required of and limited to senior psychology concentrators in the general psychology Honors-eligible thesis track.</notes>
+            <prereq>Recommended: Approved thesis application and Psychology 1901.</prereq>
+            <description>Individual supervised thesis research supplemented with occasional group meetings to discuss major aspects of the thesis process (e.g., organizing, conducting, and presenting research). Graded Sat/Unsat. Prospectus meeting required for fall term credit, as well as a paper for students who divide course at mid-year. Submission of thesis required for full year credit. &amp;nbsp;Part two of a two part series.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e43786a1310" role="1" seniority_sort="1">
+                <display_name>Danielle Truxaw</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159882" class_number="15032" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CLASSIC 99B">Tutorial - Senior Year</title>
+            <notes>Taught by Kathleen Coleman and assistants.  May be counted for concentration. Divisible only with permission of the Director of Undergraduate Studies.</notes>
+            <description>Tutorial instruction for course credit (in addition to ordinary tutorial instruction) is open only to candidates for honors writing a thesis in their senior year whose applications for such instruction have been approved by the Director of Undergraduate Studies. Part two of a two part series.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASSIC">Classics</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e38239a1310" role="1" seniority_sort="1">
+                <display_name>Kathleen Coleman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115470" class_number="14522" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 10A">Introduction to Social Studies</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> This course is limited to sophomores and Social Studies concentrators. This course is a prerequisite for sophomores applying to Social Studies. Students planning to take this class must attend the first lecture to be admitted.</notes>
+            <description>This course offers an introduction to the classic texts of social theory of the eighteenth and nineteenth centuries. Our focus will be on the rise of democratic, capitalist societies and the concomitant development of modern moral, political, and economic ideas. Authors we will examine include Jean-Jacques Rousseau, Adam Smith, Alexis de Tocqueville, John Stuart Mill, and Karl Marx.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="William James B1 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38598a1310" role="1" seniority_sort="1">
+                <display_name>James Kloppenberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

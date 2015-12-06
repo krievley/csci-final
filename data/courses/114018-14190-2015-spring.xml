@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114018" class_number="14190" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GREEK AB">Beginning Greek</title>
+            <notes>Ivy Livingston and assistants  No auditors. May be taken pass/fail.</notes>
+            <prereq>Recommended: Greek Aa or equivalent.</prereq>
+            <description>Continuation of Greek Aa. Completion of basic grammar and reading of longer passages.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Thursday Friday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e194a1310" role="1" seniority_sort="1">
+                <display_name>Ivy Livingston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

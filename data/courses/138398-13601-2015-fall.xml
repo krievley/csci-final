@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="138398" class_number="13601" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 165">Water Engineering</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Offered jointly with the Design School as SCI-06273.</notes>
+            <prereq>Recommended: Physical Sciences 1 or Physical Sciences 11 or equivalent and Engineering Sciences 6 or equivalent or with permission of instructor.</prereq>
+            <description>Introduces the fundamentals of water biology, chemistry, physics and transport processes needed to understand water quality and water purification technologies. Practical instruction in basic water analyses concluding with a final water treatment project in place of exam.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Maxwell Dworkin 221 (SEAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e182044a1310" role="1" seniority_sort="1">
+                <display_name>Chad Vecitis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

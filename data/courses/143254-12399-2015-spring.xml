@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143254" class_number="12399" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IMMUN 204">Critical Readings for Immunology</title>
+            <notes> Required for first-year immunology students, open to second-year immunology students. No auditors. Offered jointly with the Medical School as IM 703.0.</notes>
+            <description>Original research articles from fields including immunology, biochemistry, genetics, and cell and developmental biology will be critically analyzed in an intensive small group format. Grading will be based on class participation and oral presentations.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="12:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e433111a1310" role="1" seniority_sort="1">
+                <display_name>Duane Wesemann</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

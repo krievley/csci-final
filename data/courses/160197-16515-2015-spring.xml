@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160197" class_number="16515" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 33R">The Chinese Language, Present and Past</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course offers an opportunity to learn about the Chinese language in ways that will be of use both to prospective Chinese language learners and to students curious about the structure, history, cultural traditions, and social relevance of the language. Taking a partly hands-on approach, we will examine the fundamental principles that make up the sound system and govern the grammar of Mandarin, looking closely at its system of tones, its writing system, and the issues of Chinese as a heritage language. Looking deeper, we will see how the study of Chinese can contribute to understanding language as a central component of human cognition.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e28402a1310" role="1" seniority_sort="1">
+                <display_name>C.-T. James Huang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

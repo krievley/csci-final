@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160577" class_number="16153" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ASTRON 301HFB">Journal Club</title>
+            <notes> This course is offered each semester (parts A and B) and attendance is required for all registered graduate students in Astronomy.</notes>
+            <description>Each week two speakers (faculty, lecturers, and students) will report on current research in astronomy, providing students with an opportunity to practice the organization and presentation of technical material. A minimum of one presentation will be expected from each student each year focused on their own research or new results in the literature. Faculty will similarly discuss recent results from the literature, as well as their own research as a way to provide an overview of research activities at the Harvard Astronomy Department. The course is intended as an opportunity for substantive discussion, as an opportunity to find out about research activities, and to foster interaction between the students and faculty. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.	&amp;nbsp;</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e8095a1310" role="1" seniority_sort="1">
+                <display_name>Edo Berger</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

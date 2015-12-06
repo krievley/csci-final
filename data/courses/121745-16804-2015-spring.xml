@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121745" class_number="16804" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GENETIC 228">Genetics in Medicine - From Bench to Bedside</title>
+            <notes> Course will include patient presentations and lectures by investigators known for their work in a specific disease area. Course will be held at MGH (transportation provided to MGH). Offered jointly with the Medical School as GN 711.0. For more information visit &lt;a href="http://www2.massgeneral.org/bbs/" target="_blank"&gt;Massachusetts General Hospital&lt;/a&gt; and select GEN 228.</notes>
+            <prereq>Recommended: Genetics 201 or equivalent.</prereq>
+            <description>Focus on translational medicine: the application of basic genetic discoveries to human disease. Will discuss specific genetic disorders and the approaches currently used to speed the transfer of knowledge from the laboratory to the clinic.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e130080a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Newton-Cheh</display_name>
+            </person>
+            <person id="d1e501896a1310" role="2" seniority_sort="2">
+                <display_name>David Sweetser</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

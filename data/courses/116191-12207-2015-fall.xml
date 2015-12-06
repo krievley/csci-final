@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116191" class_number="12207" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 152">Discrete Mathematics</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Covers material used in Computer Science 121 and Computer Science 124.</notes>
+            <prereq>Not to be taken in addition to Computer Science 20, Mathematics 55 or Mathematics 122.</prereq>
+            <description>An introduction to sets, logic, finite groups, finite fields, finite geometry, finite topology, combinatorics and graph theory.&amp;nbsp; A recurring theme of the course is the symmetry group of the regular icosahedron.&amp;nbsp; Elementary category theory will be introduced as a unifying principle.&amp;nbsp; Taught in a seminar format: students will gain experience in presenting proofs at the blackboard.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Northwest Bldg B106 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e53654a1310" role="1" seniority_sort="1">
+                <display_name>Paul Bamberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

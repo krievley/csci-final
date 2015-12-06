@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119711" class_number="15472" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SLAVIC 155">Dostoevsky</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> No knowledge of Russian required.</notes>
+            <description>Reading of Dostoevsky's major works, with a view to showing how the problems they contain (social, psychological, political, metaphysical) are inseparable not only from his time but from the distinctive novelistic form he created.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Barker 024 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42229a1310" role="1" seniority_sort="1">
+                <display_name>William Todd</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109605" class_number="10482" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2277">Eastern Europe: Peoples and Empires: Proseminar</title>
+            <description>This course is an introduction to major themes and debates in the early modern and modern history of the "other Europe." Its main focus is on the histories of European Russia, Ukraine, Belarus, Lithuania, and Poland. Readings discuss international and political developments in the region and their impact on the formation of imperial, national, religious and cultural identities from the rise of Reformation to the collapse of Communism. The course is designed to prepare students for a general exam field in East European history. It is open to graduate and advanced undergraduate students working on a senior thesis.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e37216a1310" role="1" seniority_sort="1">
+                <display_name>Serhii Plokhii</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

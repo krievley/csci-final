@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109474" class_number="10392" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 31P">Trials from Ancient Athens</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Prior knowledge of ancient history or ancient languages is not required; all readings are in translation and the seminar is designed to be of interest to those without a background in the ancient world.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>In classical Athens, litigants represented themselves before hundreds of jurors who rendered verdicts without instruction from a judge. We will read surviving Athenian court speeches involving homicide, assault, adultery, prostitution, slander, treason, citizenship, and commerce, as well as Plato's account of Socrates' defense speech. Taught by a law professor, the focus will be on comparing ancient and modern approaches to problems faced by all legal systems and on evaluating Athens' distinctively amateur legal system. Students will be expected to write one 5-page paper, to contribute to and lead one class discussion, and to participate in a "mock trial" of an Athenian homicide case.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Memorial Hall 303 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6628a1310" role="1" seniority_sort="1">
+                <display_name>Adriaan Lanni</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

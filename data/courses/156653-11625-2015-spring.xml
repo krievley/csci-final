@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156653" class_number="11625" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BPH 319QC">Biology and Control of Insect Vectors in Human Health</title>
+            <notes>The course runs from May 23, 2015 - May 15, 2015.   The course runs from March 23, 2015 - May 15, 2015.</notes>
+            <description>The course will provide an introduction to the biology, genetics and control of insect vectors of infectious diseases that are relevant for Public Health. The focus will be on the mosquito vectors of human malaria, however students will study other vector-borne diseases including African Trypanosomiasis, Dengue and Yellow Fever. The course will address the major biological components shaping vectorial capacity: vector/parasite interactions; immunity; host seeking behavior, reproduction; chemoreception. The role of symbionts and microbiota in insect physiology and disease transmission will also be discussed. Strengths and limitations of current control strategies based on the use of insecticides (bednets and sprays), traps, larvicidal compounds, biological agents and environmental strategies will be discussed, as well as novel strategies based on genetically modified organisms and paratransgenic control (bacteria/fungi). Students will also learn current methods for functional and comparative genomics of principal disease vectors.</description>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Lecture</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="18:20:00" location="" start_time="15:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e8458a1310" role="1" seniority_sort="1">
+                <display_name>Flaminia Catteruccia</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

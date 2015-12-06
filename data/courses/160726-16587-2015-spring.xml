@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160726" class_number="16587" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 171V">Contemporary Architecture and Critical Debates</title>
+            <description>Investigates architecture circa the 1960s to the present, focusing on such issues as the afterlife of modernism, the impact of globalization, and the spectacularization of culture in our time. Topics include: architecture and the visual culture of catastrophe, discourses on postmodernism, architecture&amp;rsquo;s relationship to &amp;ldquo;Reaganomics,&amp;rdquo; &amp;ldquo;fractal&amp;rdquo; sensibilities, architecture as the subject of contemporary art and exhibitions, the significance of Berlin, and the socio-cultural and political ramifications of the destruction of the World Trade Center.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e161665a1310" role="1" seniority_sort="1">
+                <display_name>Jeffrey Lieber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119534" class_number="12759" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1301">Western Intellectual History II: The Prehistory of Modern Thought</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>A survey of major themes in medieval and early modern intellectual history. Readings in Anselm, Abelard, Thomas Aquinas, William of Ockham, Petrarch, Machiavelli, Thomas More, Martin Luther, Montaigne, Francis Bacon, Descartes, Hobbes.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38823a1310" role="1" seniority_sort="1">
+                <display_name>James Hankins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

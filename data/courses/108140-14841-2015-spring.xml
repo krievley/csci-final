@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108140" class_number="14841" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 2479">Theopoetics and Poethics</title>
+            <notes> Offered jointly with the Divinity School as 2457.</notes>
+            <description>This course will explore approaches to God-talk that emphasize&amp;mdash;both in content and in style&amp;mdash;its character as intellectual discourse as well as creative practice. It will engage various contemporary &amp;ldquo;theopoetic&amp;rdquo; and &amp;ldquo;poethics&amp;rdquo; works to theorize their understandings of the relationship between the imagination, the world, and the divine. Readings will include philosophical and theological texts, including works by Rubem Alves, H&amp;eacute;l&amp;egrave;ne Cixous, Paul Tillich, and Amos Wilder, among others.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63671a1310" role="1" seniority_sort="1">
+                <display_name>Mayra Rivera Rivera</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

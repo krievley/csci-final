@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160502" class_number="15738" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SLAVIC 162">Vampire Stories: Culture, Politics, Science</title>
+            <notes>Taught by Visiting Professor, Tomislav Z. LonginoviÄ.  </notes>
+            <description>This course traces the figure of the vampire from its roots in Slavic folklore to the icon of contemporary popular culture.&amp;nbsp; Using innovative methodology of cultural translation, it provides students with in-depth analysis of the way vampire &amp;ldquo;travels&amp;rdquo; from its legendary Balkan homeland to the Hollywood studios.&amp;nbsp; Starting with medical and theological treatises on the first appearances of this undead revenant in c18, the course follows its transformation into a figure of Gothic literature during c19 and its domination of the horror genre in film and television during c20.&amp;nbsp; The focus of the course is on the way collective political anxieties are projected into this figure of popular culture over the ages.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e379841a1310" role="1" seniority_sort="1">
+                <display_name>Tomislav Longinovic</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

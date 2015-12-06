@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110761" class_number="10606" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 91">Supervised Reading and Research</title>
+            <notes> Usually intended for junior or senior concentrators in Earth and Planetary Sciences; open to sophomore concentrators under some circumstances.
+To enroll, students must submit a registration form, which includes permission of their faculty sponsor, to the Academic Administrator.</notes>
+            <description>Supervised reading and research on topics not covered by regular courses of instruction. Taught by faculty members of the department.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e22789a1310" role="1" seniority_sort="1">
+                <display_name>Francis Macdonald</display_name>
+            </person>
+            <person id="d1e24132a1310" role="1" seniority_sort="2">
+                <display_name>Jerry Mitrovica</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113262" class_number="15199" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ASTRON 191">Astrophysics Laboratory</title>
+            <notes> Primarily for concentrators in astrophysics or combined concentrators with physics. Students with physics as their primary concentration, but with a serious interest in astrophysics, may take this to satisfy their laboratory requirement (in lieu of Physics 191) upon petition to the Head Tutor in Physics. This course is offered each year.</notes>
+            <prereq>Prerequisite Astronomy 191: Astronomy 16, OR Astronomy 17, OR Physics 15C</prereq>
+            <description>Laboratory and observational projects in astrophysics. Students design and undertake two projects from a selection including: observational studies of the cosmic microwave background radiation, molecules in interstellar clouds, the rotation of the galaxy, galactic molecular sources with the submillimeter array (SMA), stars and clusters with the Clay Telescope; and laboratory experiments including super-conducting submillimeter detectors, x-ray CCDs, and hard x-ray imaging detectors and telescopes.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e243800a1310" role="1" seniority_sort="1">
+                <display_name>John Kovac</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

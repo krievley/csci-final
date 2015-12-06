@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156113" class_number="15571" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 103X">The Black Radical Tradition</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>This course functions, first and foremost, as a map of the major landmarks in twentieth-century black intellectual history. Using primary sources (that is, work written by black intellectuals rather than about them), the course engages the idea of a &amp;quot;black radical tradition&amp;quot;. The black radical tradition is bound together as a set of ideas that constructs and reconstructs philosophical and political connections across the rupturing history of black dispossession, displacement, and disenfranchisement. The black radical tradition, then, exists in dialectical tension with many of the key idioms of Enlightenment and liberal philosophy (freedom, progress, history, justice, civilization). We pay particular attention to how the black radical tradition has framed the relationship of black history to modernity and global historical developments; how it has posited black selfhood and black liberation over and against attempts to conscript the end of slavery into a seamless narrative about the triumph of liberal values; and finally, whether black desires and black life itself can ever be validated in the midst of ongoing anti-black racism.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Barker 230 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e148426a1310" role="1" seniority_sort="1">
+                <display_name>Justin Leroy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

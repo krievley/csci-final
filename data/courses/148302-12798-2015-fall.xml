@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148302" class_number="12798" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH CNNR">Creative Nonfiction: Workshop</title>
+            <exam_group>FAS05_D</exam_group>
+            <notes> Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+            <description>In any long-form nonfiction (essay, memoir, travelogue, journalism), there are countless ways of structuring and telling a true story. In this workshop, students examine various techniques for giving nonfiction material dramatic and suspenseful energy: chronology, argument, juxtaposition, retrospection, evolving revelation. In addition to workshopping student writing, we discuss examples of the genre by writers such as Julia Blackburn, Truman Capote, Spalding Gray, and Janet Malcolm. Assignments include two 10-15 page narratives, an extensive revision, and typed critiques of classmates' work.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="18:59:00" location="Barker 218 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e289942a1310" role="1" seniority_sort="1">
+                <display_name>Darcy Frey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

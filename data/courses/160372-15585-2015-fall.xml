@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160372" class_number="15585" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94AP">Democracy and Authoritarianism in Sub-Saharan Africa, 1950s - present</title>
+            <exam_group>FAS14_F</exam_group>
+            <description>This course looks at broad trends in the political dynamics of sub-Saharan Africa. The first half focuses on the brief moment of political pluralism at Independence and then authoritarian politics during the Cold War. The second half explores various aspects of multi-party politics since 1990. Students apply the theoretical concepts of each week to a country of their choosing. These exercises build in to a research prospectus due at the end of the semester.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="CGIS Knafel K108 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e26930a1310" role="1" seniority_sort="1">
+                <display_name>Cheryl Brown Welch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

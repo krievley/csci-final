@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156751" class_number="14267" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 101">Biology of Mammals</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes>Lab meeting:&amp;nbsp; Wednesdays, 2:30pm-5:30pm.&amp;nbsp; A second lab may be scheduled depending on enrollment.  Freshman only admitted under exceptional circumstances.
+
+Lab meeting:  Wednesdays, 2:30pm-5:30pm.  A second lab may be scheduled depending on enrollment.</notes>
+            <prereq>Recommended: LS 1b or OEB 10 recommended; students who haven't taken either course may require additional study on topics with which they are unfamiliar.
+
+OEB 101 will also include weekend field trips for whale watching and to the zoo.</prereq>
+            <description>An introduction to the biology of mammals. Lectures and laboratories examine the morphology, systematics, natural history, behavior, ecology, evolutionary relationships, and biogeography of all major taxa.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Museum of Comp Zool 101 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e56931a1310" role="1" seniority_sort="1">
+                <display_name>Jonathan Losos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

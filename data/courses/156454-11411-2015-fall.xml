@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156454" class_number="11411" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MICROBI 214">Mechanisms of Bacterial Pathogenesis and Host Immune Response</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>This course focuses on molecular mechanisms of bacterial pathogenesis and the host response to infection. The class consists of lectures and group discussions emphasizing methods, results, and interpretations of classic and contemporary literature. The course is designed to complement Microbiology 201.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="MICROBI">Microbiology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60925a1310" role="1" seniority_sort="1">
+                <display_name>Marcia Goldberg</display_name>
+            </person>
+            <person id="d1e60928a1310" role="2" seniority_sort="2">
+                <display_name>Jonathan Kagan</display_name>
+            </person>
+            <person id="d1e60931a1310" role="2" seniority_sort="3">
+                <display_name>Michael Starnbach</display_name>
+            </person>
+            <person id="d1e60934a1310" role="1" seniority_sort="4">
+                <display_name>Darren Higgins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112769" class_number="10320" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEM 27LAB">Organic Chemistry of Life Lab</title>
+            <notes>Instructor to be determined  </notes>
+            <description>Created to support sectioning toll for Labs for Chemistry 27.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Laboratory Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

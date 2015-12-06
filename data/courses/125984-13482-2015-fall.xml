@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125984" class_number="13482" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98LH">Education and American Society</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes>This course will be lotteried.   This course will be lotteried.</notes>
+            <description>Explores how education has been and continues to be a central institution of American society, reflecting social ideals and ideologies while also directly shaping the contours and structures of society in both productive and detrimental ways. Examines different philosophical foundations of formal learning and how those theories have become manifested across time in various educational practices. Investigates how schools currently operate, specific issues the American educational system faces, and the implications of various schooling practices for structuring American society.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Robinson 208 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38868a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Jewett</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

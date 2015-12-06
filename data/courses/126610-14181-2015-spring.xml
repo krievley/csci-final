@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126610" class_number="14181" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 110">Vector Space Methods for Differential Equations</title>
+            <prereq>Recommended: Mathematics 23a,b or 25a,b or Mathematics 19a,b or 21a,b plus any Mathematics course at the 100 level; or an equivalent background in Mathematics.</prereq>
+            <description>Develops the theory of inner product spaces, both finite-dimensional and infinite-dimensional, and applies it to a variety of ordinary and partial differential equations. Topics: existence and uniqueness theorems, Sturm-Liouville systems, orthogonal polynomials, Fourier series, Fourier and Laplace transforms, eigenvalue problems, and solutions of Laplace's equation and the wave equation in the various coordinate systems.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e53654a1310" role="1" seniority_sort="1">
+                <display_name>Paul Bamberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

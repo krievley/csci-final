@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107843" class_number="10356" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HBTM 200">Principles and Practice of Human Pathology</title>
+            <notes> Jointly offered with HMS as HT035.0</notes>
+            <description>Overview of human pathology, emphasis on mechanisms of disease and modern diagnostic technologies. Integrated lectures, labs, and student-driven term project leading to formal presentation on a medical, socioeconomic, or technological issue in human pathology.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="HBTM">Human Biology and Translational Medicine</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="10:59:00" location="" start_time="09:00:00"/>
+                <meeting days_of_week="Thursday" end_time="12:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e358429a1310" role="1" seniority_sort="1">
+                <display_name>Scott Lovitch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

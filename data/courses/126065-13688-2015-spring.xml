@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126065" class_number="13688" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANE 120B">Introduction to the Hebrew Bible/Old Testament 2: Latter Prophets and Writings</title>
+            <notes> Offered jointly with the Divinity School as 1103.</notes>
+            <description>A critical introduction to the literature and theology of the Hebrew Bible, considered in light of the historical contexts of its formation and the interpretive contexts of its reception within Judaism and Christianity. The course, the second part of a divisible, year-long sequence, will focus on the Latter Prophets and the Writings.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ANE">Ancient Near East</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e7799a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Teeter</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128053" class_number="14306" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98NC">The Economics of Education</title>
+            <notes> This course will be lotteried.</notes>
+            <description>This course examines economic aspects of education issues, using quantitative research. We will examine several of the major proposed strategies for improving schools including increasing school resources, enhancing school accountability, and improving teacher selection and training. We will also discuss higher education and education in developing economies. The class culminates with students writing a serious research paper.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e60737a1310" role="1" seniority_sort="1">
+                <display_name>Amanda Pallais</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109993" class_number="10709" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 248R">Topics in Experimental Particle Physics</title>
+            <exam_group>FAS12_D</exam_group>
+            <prereq>Recommended: Prerequisite: Physics 145 or equivalent, i.e. a course at the level of Griffiths, Introduction to Elementary Particles.</prereq>
+            <description>Topics in the elementary particle physics, focusing on experimental studies of the Standard&amp;nbsp;Model and&amp;nbsp;new physics&amp;nbsp;beyond the Standard Model in the past 20 years. Taught&amp;nbsp;partly in lectures&amp;nbsp;and in seminars.Prerequisite: Physics 145 or equivalent, i.e. a course at the level of Griffiths, Introduction to Elementary Particles.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="11:59:00" location="Jefferson 356 (FAS)" start_time="10:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e1808a1310" role="1" seniority_sort="1">
+                <display_name>Masahiro Morii</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

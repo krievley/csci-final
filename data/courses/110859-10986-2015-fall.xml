@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110859" class_number="10986" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RUSS 111">Advanced Russian: Readings in Russian/Post-Soviet Studies</title>
+            <exam_group>FAS12_A</exam_group>
+            <prereq>Recommended: Russian 101 and 103, Russian 102r, or placement at the level of Russian 111/113.</prereq>
+            <description>Reading and discussion of topics in the areas of history, economics, politics, and current events. Continued work on grammar and vocabulary with written exercises and compositions. TV viewing for comprehension development.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Barker 373 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e68630a1310" role="1" seniority_sort="1">
+                <display_name>Natalia Pokrovsky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

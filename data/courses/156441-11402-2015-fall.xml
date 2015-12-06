@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156441" class_number="11402" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94CA">Casino Capitalism: Gambling, Finance, and the Ethics of Speculation</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>Is casino gambling morally objectionable? What about financial speculation? Are they morally on a par? The seminar will explore ethical controversies about various risk-taking activities, from lotteries to life insurance to hedge funds.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="CGIS Knafel K107 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e82959a1310" role="1" seniority_sort="1">
+                <display_name>Michael Sandel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

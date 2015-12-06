@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109110" class_number="15616" school_id="fas" section="001L" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 145">Experimental Inorganic Chemistry</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> Chemistry 40 and either Chemistry 27 or 30, or permission of the instructor.</notes>
+            <prereq>Recommended: See Notes section</prereq>
+            <description>An introduction to experimental problems encountered in the synthesis, isolation, purification, characterization, and identification of inorganic compounds, with an emphasis in air-free synthetic techniques and spectroscopic characterization methods specifically applicable to complexes containing transition metals.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Laboratory</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e14901a1310" role="1" seniority_sort="1">
+                <display_name>Theodore Betley</display_name>
+            </person>
+            <person id="d1e14904a1310" role="1" seniority_sort="2">
+                <display_name>Austin Bennett Scharf</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

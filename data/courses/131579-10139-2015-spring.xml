@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="131579" class_number="10139" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 52">Biology of Plants</title>
+            <notes>Tu., Th., 10-11:30, one afternoon laboratory per week, plus occasional field trips   This course, when taken for a letter grade, meets the General Education requirement for Science of Living Systems.</notes>
+            <description>Introduction to the structure, diversity, and physiology of plants with an emphasis on evolutionary relationships and adaptations to life on land. Topics include growth, resource acquisition, interactions with other organisms (i.e., fungi, bacteria, insects), reproduction, and survival in extreme environments. Laboratory sessions provide an overview of plant and diversity and an introduction to basic physiological processes.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e105883a1310" role="1" seniority_sort="11">
+                <display_name>Elena Kramer</display_name>
+            </person>
+            <person id="d1e66926a1310" role="1" seniority_sort="12">
+                <display_name>Noel Holbrook</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

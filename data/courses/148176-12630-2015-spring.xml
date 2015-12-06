@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148176" class_number="12630" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 160">Modernization in the Visual United States Environment, 1890-2035</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with instructor about course enrollment procedure.  Offered jointly with the Graduate School of Design as 4303.</notes>
+            <prereq>Recommended: VES 107 or permission of the instructor.</prereq>
+            <description>Modernization of the US visual environment as directed by a nobility creating new images and perceptions of such themes as wilderness, flight, privacy, clothing, photography, feminism, status symbolism, and futurist manipulation as illustrated in print-media and other advertising enterprise.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e248813a1310" role="1" seniority_sort="1">
+                <display_name>John Stilgoe</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

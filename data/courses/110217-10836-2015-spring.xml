@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110217" class_number="10836" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2661R">Research Seminar in Nonverbal Behavior, Social Perception, and Psychophysiology</title>
+            <prereq>Recommended: Science of Living Systems 20 plus one from Psychology 13, 15, 16, 18, Science B 29 or MCB 80.</prereq>
+            <description>Students will gain human subject research skills and experience in the lab and online. We will cover a range of topics in social psychology, including but not limited to: nonverbal behavior, social perception, personal power, hormones, emotions, and performance in stressful situations. In biweekly meetings, students will have the opportunity to provide and receive feedback on the work of the lab as well as discuss relevant papers. In addition, monthly trainings will be held covering research tools such as eye-trackers, physiological measures, Qualtrics, and Mechanical Turk.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e431a1310" role="1" seniority_sort="1">
+                <display_name>Amy Cuddy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

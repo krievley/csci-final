@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122339" class_number="13413" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 53">Quantitative Physiology as a Basis for Bioengineering</title>
+            <exam_group>FAS18_A</exam_group>
+            <notes> Open to freshmen.</notes>
+            <description>A foundation in human organ systems physiology, including cardiac, respiratory, renal, gastrointestinal, and neural systems. Quantitative description of organ systems function and control in terms of physical principles and physiologic mechanisms. Simple mathematical models representing key aspects of organ systems function. Emphasis will be given to understanding the ways in which dysfunction in these systems gives rise to common human disease processes.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="60 Oxford St 330" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e245918a1310" role="1" seniority_sort="1">
+                <display_name>Maurice Smith</display_name>
+            </person>
+            <person id="d1e245921a1310" role="2" seniority_sort="2">
+                <display_name>Sujata K. Bhatia</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

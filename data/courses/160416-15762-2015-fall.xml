@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160416" class_number="15762" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 134">African-American Political Thought: From Slavery to Black Power</title>
+            <exam_group>FAS07_B</exam_group>
+            <description>This introductory course is a survey of influential figures and primary texts in the history of African-American political thought from some of the earliest extant political writings by African-Americans in the era of chattel slavery, through the classical phase of the civil rights movement and into the black nationalist and feminist writings of the late 1960s and 1970s. Close attention will be paid to African-American intellectuals&amp;rsquo; engagement with political debates in the U.S. and worldwide, as well as those more specific to competing traditions within African-American politics. Students will be expected to engage with both well-known African-American thinkers and less-remembered figures using interpretive approaches drawn from political theory and the history of political thought, which will be integrated throughout the syllabus. No prerequisite required.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Sever 102 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e90688a1310" role="1" seniority_sort="1">
+                <display_name>Brandon Terry</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

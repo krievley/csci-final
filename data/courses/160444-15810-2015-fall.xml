@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160444" class_number="15810" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="APCOMP 290R">Extreme Computing: Project-based  High Performance Distributed and Parallel Systems</title>
+            <exam_group>FAS08_I</exam_group>
+            <prereq>Recommended: Strong programming experience will be helpful.</prereq>
+            <description>Predictive computer simulations will play a critical role in scientific discoveries, national competitiveness, and in solving societal problems. For such predictions of real problems, the ability to scale the solution techniques, algorithms, and software to large-scale is necessary. This course will explore the techniques used for extreme computing (distributed cloud computing, scaling, performance, etc), supporting infrastructure (distributed file systems, replication, web services etc) and algorithms (MapReduce, Graph Methods, Kinetic Monte Carlo etc). Specifically, the course will identify three areas from physical, natural and social sciences that could be addressed by these techniques. The social sciences module will focus on customer reviews and influencing; the bio/health module will focus on cancer modeling; the materials module will focus on battery modeling. The faculty from Harvard, in collaboration with the visitors from National Cancer Institute and Argonne National Laboratories, will conduct the lectures and computer labs.&amp;nbsp; Computing resources will be provided for the class projects.</description>
+            <department code="COMPSE">Applied Computation</department>
+            <course_group code="APCOMP">Applied Computation</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Pierce 209 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e2318a1310" role="1" seniority_sort="1">
+                <display_name>Pavlos Protopapas</display_name>
+            </person>
+            <person id="d1e22101a1310" role="1" seniority_sort="2">
+                <display_name>Sadasivan Shankar</display_name>
+            </person>
+            <person id="d1e17757a1310" role="1" seniority_sort="3">
+                <display_name>Efthimios Kaxiras</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

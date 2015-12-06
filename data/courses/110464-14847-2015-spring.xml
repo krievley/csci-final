@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110464" class_number="14847" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AESTHINT 63">Masterworks of East Asian Cinema</title>
+            <notes> All films subtitled in English. No prior knowledge of East Asian history or film studies necessary.</notes>
+            <description>This course introduces major works, genres, and waves of East Asian cinema from the silent era to the present, including films from Mainland China, Japan, Korea, Taiwan, and Hong Kong. We will discuss issues ranging from formal aesthetics to historical representation, from local film industries to transnational audience reception. This course does not assume prior knowledge of East Asian culture or of film studies, but rather seeks to provide students with a basic understanding of modern East Asian cultural history through cinema, and with an essential toolkit for analyzing film and media, including narrative, cinematography, editing and sound. In addition to critical approaches, students are strongly encouraged to creatively respond to course materials by collaborating on their own short films, beginning with the illustration of film terms in the first two weeks and culminating in the Oscar-like "Golden Monkey Awards."</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e3209a1310" role="1" seniority_sort="1">
+                <display_name>Jie Li</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

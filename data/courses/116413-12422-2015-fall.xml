@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116413" class_number="12422" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VIROLOGY 200">Introduction to Virology</title>
+            <exam_group>FAS17_B</exam_group>
+            <notes> There will be a final project consisting of a proposal based on laboratory rotations (for Virology, BBS, or Immunology Program students) or a final paper based on a topic from the literature. Offered jointly with the &lt;a href="http://www.courses.fas.harvard.edu/6075"&gt; Medical School&lt;/a&gt; as MG 705.0.</notes>
+            <description>Introduction to virology. The lecture component reviews the basic principles of virology and introduces the major groups of human viruses. Weekly discussion groups critically analyze selected papers from the literature.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="VIROLOGY">Virology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:29:00" location="" start_time="09:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="10:29:00" location="" start_time="08:45:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e107388a1310" role="1" seniority_sort="1">
+                <display_name>Max Nibert</display_name>
+            </person>
+            <person id="d1e77760a1310" role="2" seniority_sort="2">
+                <display_name>David Knipe</display_name>
+            </person>
+            <person id="d1e187051a1310" role="2" seniority_sort="3">
+                <display_name>Priscilla Yang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

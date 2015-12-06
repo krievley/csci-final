@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115060" class_number="18165" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2650">Behavioral Approaches to Decision Making and Negotiation</title>
+            <notes> Offered jointly with the Business School as 4420. Open to juniors and seniors in psychology and economics who are writing, or plan to write, a senior thesis, and with instructor permission.</notes>
+            <description>Research overview of behavioral decision making and decision analytic perspectives to negotiation. Explores bounded rationality, decision biases, human decision making. Develops a behavioral decision perspective to negotiation, and examines how the field is currently evolving.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="12:59:00" location="Baker Library 102 (HBS)" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e107343a1310" role="1" seniority_sort="1">
+                <display_name>Francesca Gino</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

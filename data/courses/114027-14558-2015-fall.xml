@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114027" class_number="14558" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 104">Introduction to Quantitative Methods for Economics</title>
+            <exam_group>FAS02_A</exam_group>
+            <notes> Only one of the following courses may be taken for credit: Statistics 100, 101, 102, 104. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <description>A rigorous introduction to statistics for students intending to study economics. Examples drawn from finance, decision analysis and economic decision-making. In addition to descriptive statistics, probability, inference and regression modeling, also covers portfolio optimization, decision analysis, and time series analysis. Students with prior exposure to introductory statistics will find some overlap of material but be exposed to new applications and learn more advanced modeling techniques.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Science Ctr Hall B (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e33856a1310" role="1" seniority_sort="1">
+                <display_name>Michael Parzen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

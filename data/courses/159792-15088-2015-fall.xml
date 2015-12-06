@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159792" class_number="15088" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BQ">Early Modern Encounters</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>This course explores the dynamic and diverse movement of people, texts, ideas, and objects across the world during the early modern period (1300-1800). Each week approaches these global exchanges through a case study of a cross-cultural encounter from the Americas and Asia to Africa and Europe. The course will examine the major developments of the period such as the Renaissance, Reformation, Age of Discovery, and the Enlightenment from global and critical perspectives.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Robinson 105 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e222983a1310" role="1" seniority_sort="1">
+                <display_name>Michael Tworek</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

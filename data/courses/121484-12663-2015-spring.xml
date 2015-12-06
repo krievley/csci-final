@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121484" class_number="12663" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SANSKRIT 201BR">Advanced Philosophical Sanskrit</title>
+            <description>Topic to be announced.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SANSKRIT">Sanskrit</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

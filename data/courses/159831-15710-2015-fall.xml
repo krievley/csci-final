@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159831" class_number="15710" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 41H">Islam in Black America</title>
+            <exam_group>FAS14_H</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Much of the study of black religion in the United States has focused on its Christian roots.&amp;nbsp; And, while the predominant impulse of black religious expression in the American context came from Christian worshippers, Muslim adherents were among those first brought to America&amp;rsquo;s shores under the force and violence of slavery.&amp;nbsp; This course explores the history of Islam among African Americans from the ante-bellum period through the present.&amp;nbsp; It looks at significant moments in the development and transformation of Islam in the US through what Sherman Jackson calls its three &amp;ldquo;resurrections.&amp;rdquo; &amp;nbsp; &amp;nbsp;</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Barker 114 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e54770a1310" role="1" seniority_sort="1">
+                <display_name>Marla Frederick</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

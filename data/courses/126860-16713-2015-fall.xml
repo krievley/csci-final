@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126860" class_number="16713" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH 80T">Words of Which History is Made: Translation Workshop on 20th-Century Spain</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Conducted in Spanish. Recommended for concentrators.</notes>
+            <prereq>Recommended: A score of 800 on the SAT II test or on the Harvard Placement test, a previous course in Spanish at the 70-level, or permission of course head.</prereq>
+            <description>Through close readings and translations centering on 20th-century Spanish history and society, students hone their linguistic, grammatical, and stylistic skills, and acquire the interpretive skills required to comprehend and analyze increasingly complex literary and cultural texts. Course materials include short stories, poems, newspaper articles, memoirs, travel journals and historical essays.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Boylston G02 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e65024a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Aguirre-Oteiza</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

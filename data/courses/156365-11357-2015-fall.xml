@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156365" class_number="11357" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 280R">Theorizing Improvisation</title>
+            <exam_group>FAS02_B</exam_group>
+            <description>Theorizing Improvisation.This research-oriented seminar surveys the newly emerging, interdisciplinary area of critical improvisation studies, in which recent scholarship in African diasporic music and aesthetics joins a larger conversation on improvisation across multiple research fields in the arts, the sciences, and the humanities. Through a range of published and unpublished readings, mostly from the last two decades, we examine improvisation as a central feature of individual and collective subjectivities.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="Music PH6 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60142a1310" role="1" seniority_sort="1">
+                <display_name>Vijay Iyer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

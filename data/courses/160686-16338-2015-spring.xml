@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160686" class_number="16338" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1351">Object Representation in the Mind and Brain</title>
+            <prereq>Recommended: For Psychology concentrators, SLS 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15</prereq>
+            <description>How does our visual system translate complex arrays of visual inputs into meaningful objects that we can act upon? What do we need to construct a sound theory of object representation? What progress have researchers made in understanding this process over the past few decades? What information is essential and where is it computed and represented in the human brain? In this seminar, we will address these questions by reading and discussing key papers on object representation, critically evaluating results from behavioral, neurophysiological, neuropsychological, special population (e.g., blind individuals), neuroimaging, and computational studies. This seminar will not only provide a critical review of the current literature, but also identify important challenges that await future research.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e85963a1310" role="1" seniority_sort="1">
+                <display_name>Alfonso Caramazza</display_name>
+            </person>
+            <person id="d1e87894a1310" role="1" seniority_sort="2">
+                <display_name>Yaoda Xu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

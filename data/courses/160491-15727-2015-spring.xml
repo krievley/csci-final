@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160491" class_number="15727" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JEWISHST 157">The Binding of Isaac in Jewish, Christian, and Islamic Tradition</title>
+            <description>The Akeidah, or the Binding of Isaac, as told in Genesis 22, is one of the great Biblical stories and the foundation for one of the great themes of Western religion, the near-sacrifice and restoration of the beloved son.&amp;nbsp;&amp;nbsp; The story is also one of the most enigmatic texts in all Biblical literature, and a source for countless later re-tellings and re-imaginings in later Jewish, Christian, and Islamic literature.&amp;nbsp;&amp;nbsp; In this course, we will study the history of this narrative, its interpretation, and reception from the Bible through the contemporary period in order to show how a Biblical tradition develops and changes in response to historical and cultural change.&amp;nbsp; The focus will be on Jewish tradition but we will also read Greco-Roman, Christian and Islamic parallels because, as we shall see, no religious tradition in Western culture has ever developed in a vacuum.&amp;nbsp; In this way, we will also attempt to understand the very nature of Tradition-- the process by which the past is received and handed on to future generations-- as it figures in Judaism and Western culture in general.&amp;nbsp; &amp;nbsp;&amp;nbsp;All readings will be in English translation;&amp;nbsp; texts will include Biblical selections, Euripides, Hellenistic Jewish and Rabbinic works, medieval chronicles and commentaries, early Christian and Islamic sources, Kierkegaard, Kafka, and other modern prose and poetry including contemporary American and Israeli prose and poetry.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="JEWISHST">Jewish Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e199609a1310" role="1" seniority_sort="1">
+                <display_name>David Stern</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

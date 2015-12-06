@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16512" school_id="fas" section="209" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>The United States is arguably the most religiously diverse nation in the world. Americans possess a dizzying array of religious beliefs and behavior, and the First Amendment declares all are free to practice their faith. How do Americans&amp;mdash;even the nonreligious&amp;mdash;experience this religious panoply? Moving beyond abstract theology, this course explores the broad concept of  lived religion.  Across the United States, levels of religiosity remain high and recent controversies over a proposed Islamic community center in Lower Manhattan, Supreme Court rulings on female employees&amp;rsquo; access to contraception, and this summer&amp;rsquo;s religious resistance to same-sex marriage all testify to the persistence of devout religious belief. How might we balance the tension between an essentially secular national constitution and a Bill of Rights that guarantees the free exercise of religion? Are there common religious tenets that all Americans must share? Or should the public square be kept &amp;ldquo;naked&amp;rdquo; of religious adornment so as to welcome all? Through readings in fiction, law, history and sociology, we&amp;rsquo;ll tackle these fundamental questions. In Unit One, we&amp;rsquo;ll read  Disgraced , Ayad Akhtar&amp;rsquo;s 2013 Pulitzer Prize-winning play, in order to explore how religion affects intimate relationships among friends and co-workers. In the following unit, we&amp;rsquo;ll dissect two leading legal scholars&amp;rsquo; arguments over the place of religion in the public sphere, such as the inclusion of intelligent design in biology curricula and the placing of a cr&amp;egrave;che and menorah in front of city halls. In the final unit, we&amp;rsquo;ll explore the limits of religious freedom through a series of short case studies involving snake handling, home schooling, and kirpan wearing. In this final unit, students will write a research paper on a religious freedom topic of their choosing. </notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="Sever 104 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172659a1310" role="1" seniority_sort="1">
+                <display_name>Jacob Betz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

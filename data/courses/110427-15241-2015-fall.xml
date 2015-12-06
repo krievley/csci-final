@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110427" class_number="15241" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 40L">Free Speech</title>
+            <exam_group>FAS09_C</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>In this age of rapid globalization and heightened cross-cultural contacts, nations struggle to reaffirm their identities and values. In the United States, one of the most precious values is free speech, embedded in the First Amendment to the Constitution and regarded as a keystone of American democracy. But arguments over the boundaries of free speech have become intense, especially in the era of electronic communication. This seminar will examine the dialogue taking place within the United States and around the world on free speech issues - sometimes civil, but often a political or cultural confrontation that turns violent.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Morton Prince 21 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e137001a1310" role="1" seniority_sort="1">
+                <display_name>Sanford Ungar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

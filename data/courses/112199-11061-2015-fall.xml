@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112199" class_number="11061" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EMREAS 17">Logical Reasoning</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes>Fridays 1- 3 reserved for weekly quizzes.  </notes>
+            <description>The concepts and principles of symbolic logic: valid and invalid arguments, logical relations of statements and their basis in structural features of those statements, the analysis of complex statements of ordinary discourse to uncover their structure, the use of a symbolic language to display logical structure and to facilitate methods for assessing arguments. Analysis of reasoning with truth-functions (&amp;quot;and&amp;quot;, &amp;quot;or&amp;quot;, &amp;quot;not&amp;quot;, &amp;quot;if...then&amp;quot;) and with quantifiers (&amp;quot;all&amp;quot;, &amp;quot;some&amp;quot;). Attention to formal languages and axiomatics, and systems for logical deduction. Throughout, both the theory underlying the norms of valid reasoning and applications to &amp;ldquo;arguments in the wild&amp;rdquo; will be investigated.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="EMREAS">Empirical and Mathematical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Emerson 210 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e71187a1310" role="1" seniority_sort="1">
+                <display_name>Ned Hall</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

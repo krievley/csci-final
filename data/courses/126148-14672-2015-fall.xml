@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126148" class_number="14672" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCIPHUNV 20">What is Life? From Quarks to Consciousness</title>
+            <exam_group>FAS17_A</exam_group>
+            <notes>If student interest exceeds the course limit, a random lottery will be conducted.  See the course website for more details.   This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Science of Living Systems, but not both.</notes>
+            <description>This course views life through multiple lenses. Quantum physics involves uncertainty and randomness, and yet paradoxically it explains the stability of molecules, such as DNA, that encode information and are critical to life. Thermodynamics is about the universe's ever increasing disorder, and yet living systems remain ordered and intact. This course will examine how these physical laws underpin life and how life itself has diversified since originating 3.5 billion years ago.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Science Ctr 302 (FAS)" start_time="09:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e132120a1310" role="1" seniority_sort="1">
+                <display_name>Logan S. McCarty</display_name>
+            </person>
+            <person id="d1e132123a1310" role="2" seniority_sort="2">
+                <display_name>Andrew Berry</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

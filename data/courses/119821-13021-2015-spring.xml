@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119821" class_number="13021" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SWAHILI 101BR">Reading in Swahili II</title>
+            <notes>John Mugane and assistant  </notes>
+            <prereq>Recommended: Swahili 101ar or equivalent.</prereq>
+            <description>Advanced reading in Swahili II.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="SWAHILI">Swahili</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e7845a1310" role="1" seniority_sort="1">
+                <display_name>John Mugane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

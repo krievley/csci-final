@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117647" class_number="12029" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 99R">Tutorial</title>
+            <notes>Jacob Lurie and members of the Department  May be repeated for course credit with permission from the Director of Undergraduate Studies. Only one tutorial may count for concentration credit.</notes>
+            <description>Supervised small group tutorial. Topics to be arranged.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e69272a1310" role="1" seniority_sort="1">
+                <display_name>Jacob Lurie</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

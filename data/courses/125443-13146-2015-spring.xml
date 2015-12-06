@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125443" class_number="13146" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HSEMR-WI 75">The Laws of War</title>
+            <notes> Open to students from all Houses.</notes>
+            <prereq>Course open to Undergraduate Students Only</prereq>
+            <description>What are the "laws of war"? This seminar examines the historical development of two legal concepts: jus ad bellum, which judges the legitimacy of the use force in international relations; and jus in bello, which defines the duties of belligerents during an armed conflict. Drawing on this background in international and U.S. law, the seminar then explores how these laws have influenced the U.S. "War on Terror" and how they might shape future conflicts.</description>
+            <department code="HSEM">House Seminars</department>
+            <course_group code="HSEMR-WI">Winthrop House Seminar</course_group>
+            <course_type>House Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e203724a1310" role="1" seniority_sort="1">
+                <display_name>Gregg Peeples</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

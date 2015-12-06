@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127863" class_number="14981" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG AB">Beginning Portuguese II</title>
+            <notes> Conducted in Portuguese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Portuguese Ab website. Students with an advanced knowledge of Spanish should enroll in Portuguese Ad instead of Portuguese Ab.</notes>
+            <prereq>Prerequisite: Portuguese Aa</prereq>
+            <description>This course is a continuation of Portuguese Aa. By the end of the course, students should be able to communicate with native speakers about a wide range of topics, and they should have acquired insights into basic elements of Luso-Brazilian culture.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="16:29:00" location="" start_time="15:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e97122a1310" role="1" seniority_sort="1">
+                <display_name>Viviane Gontijo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

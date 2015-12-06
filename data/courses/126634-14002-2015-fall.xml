@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126634" class_number="14002" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AESTHINT 40">Monuments of Islamic Architecture</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>An introduction to ten iconic monuments of the Islamic world from the beginning of Islam to the early modern period. The course introduces various types of building-mosques, palaces, multifunctional complexes-and city types and the factors that shaped them, artistic, patronal, socio-political, religio-cultural, and economic. Each case study is divided into two lectures. The first presents the monument or city by "walking" through it. The second is devoted to themes elicited from the example, developed in light of comparative monuments, sites, and/or written sources, and to problems of patronage, production, audience and meaning as they pertain to architectural history.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Art Museums Deknatel Hall" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e115187a1310" role="1" seniority_sort="1">
+                <display_name>Gulru Necipoglu-Kafadar</display_name>
+            </person>
+            <person id="d1e115190a1310" role="2" seniority_sort="2">
+                <display_name>David J. Roxburgh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

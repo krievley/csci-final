@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109734" class_number="15100" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94LA">State-Society Relations in Latin America</title>
+            <description>Although democracy has consolidated in much of LA, the region's democracies diverge on many fronts. Why is civil society strong in some countries but not others? Why are states effective in some cases but weak in others? What explains the rise of powerful leftist and indigenous movements in some countries but not others? This seminar examines how evolving patterns of state-society relations underlie the "varieties of democracy" in contemporary Latin America, with a focus on Argentina, Bolivia, Mexico and Peru.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e338456a1310" role="1" seniority_sort="1">
+                <display_name>Alberto Vergara</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

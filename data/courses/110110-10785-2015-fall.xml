@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110110" class_number="10785" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 980P">Social Factors in the Development of Psychopathology</title>
+            <exam_group>FAS06_E</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and PSY 18 before enrolling in this course.</prereq>
+            <description>Does bullying lead to school shootings? Can Facebook cause depression? Are &amp;quot;fitspiration&amp;quot; communities dangerous? This course will review the role social factors (social support, social interactions, social functioning, and the broader social context of communities) relate to the development and maintenance of psychopathology on biological and behavioral levels. In the context of disorders such as schizophrenia, depression (including suicide), eating disorders, and post-traumatic stress disorder, this course will look at how social factors might contribute to the development of mental illness, as well as how social factors might be indicators of mental illness, and finally how social factors might mediate the severity of or even prevent the development of mental illness.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="20:59:00" location="William James 1465 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6190a1310" role="1" seniority_sort="1">
+                <display_name>Sarah Hope Lincoln</display_name>
+            </person>
+            <person id="d1e6193a1310" role="1" seniority_sort="2">
+                <display_name>Jill Hooley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

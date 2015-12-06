@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110836" class_number="10956" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2285">Political Science and China</title>
+            <notes> Requires background in contemporary Chinese history/politics.</notes>
+            <description>This graduate seminar gives students control over the secondary literature on Chinese politics, with special attention to competing theoretical and methodological approaches.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e29407a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth Perry</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124821" class_number="13305" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 300">Teaching Undergraduate Mathematics</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes>Robin Gottlieb and Brendan Kelly  </notes>
+            <description>Become an effective instructor. This course focuses on observation, practice, feedback, and reflection providing insight into teaching and learning. Involves iterated videotaped micro-teaching sessions, accompanied by individual consultations. Required of all mathematics graduate students.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:29:00" location="Science Ctr 507 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e205601a1310" role="1" seniority_sort="11">
+                <display_name>Robin Gottlieb</display_name>
+            </person>
+            <person id="d1e67932a1310" role="1" seniority_sort="12">
+                <display_name>Brendan Kelly</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

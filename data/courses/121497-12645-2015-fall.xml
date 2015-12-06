@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121497" class_number="12645" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="THI 103AR">Readings in Thai I</title>
+            <notes> Not open to auditors.
+
+Please contact the Department of South Asian Studies (southasianstudies@fas.harvard.edu) before the start of classes if you are interested in enrolling in a Thai language course. Students will be required to submit a statement demonstrating an academic need to enroll.
+
+First Meeting times will be posted on the Department of South Asian Studies' website in shortly before the term begins: sas.fas.harvard.edu</notes>
+            <description>This course is designed to focus on reading and comprehension. Selected readings will be both for academic purposes and for pleasure. Students will read newspaper and magazine articles; short stories; and passages covering topics such as history, science, politics, medicine, technology and more. This reading course will help students become more proficient with nuanced/implied meanings, bolster vocabulary and acquire familiarity with various professional jargon.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="THI">Thai</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="20:59:00" location="1 Bow St 317 (FAS)" start_time="17:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e31856a1310" role="1" seniority_sort="1">
+                <display_name>Parimal G. Patil</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

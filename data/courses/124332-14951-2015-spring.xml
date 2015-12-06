@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124332" class_number="14951" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH ACD">Intensive Beginning French: Parisian Identity through Visual Media</title>
+            <notes>The on-line request form is available on the French Acd iSite and must be submitted by August 28, 2015 (Fall Term) and January 15, 2016 (Spring Term).  May not be used to fulfill the language requirement and may not be taken Pass/Fail or Sat/Unsat. Not open to auditors. Students must participate in an interview with the French Acd course head and receive permission to enroll in the course.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: An advanced knowledge of at least one foreign language but no previous study of French.</prereq>
+            <description>This intensive Beginning French course provides an accelerated introduction to Beginning French with intensive work on interpersonal communication and interpreting and producing language in written and oral forms. Students explore diverse facets of Parisian identity through the interpretation of various forms of visual media. Students learn to speak and write in the past, present, and future, make descriptions, ask questions, make comparisons, accept and refuse invitations, give advice, and express hypothetical situations, emotions, and opinions.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e114899a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Mills</display_name>
+            </person>
+            <person id="d1e114899a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Mills</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

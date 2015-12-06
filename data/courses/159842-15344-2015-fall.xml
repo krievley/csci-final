@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159842" class_number="15344" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="MODGRK BA">Intermediate Modern Greek: Culture and Civilization</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes>Vassiliki Rapti and assistant  Part one of a two part series.</notes>
+            <prereq>Recommended: An elementary knowledge of modern Greek equivalent to that of Modern Greek Aa and Ab.</prereq>
+            <description>Aims at further development of skills in speaking, comprehension, reading, and writing. Selected readings in prose (literary and journalistic), poetry, folksongs, modern music, and theater serve as an introduction to aspects of modern Greek literature and culture. The course is conducted in Greek and focuses on topics selected by the instructor and the students in the first term. Grammar is reviewed in the context of readings. Instruction is supplemented by online instruction.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="MODGRK">Modern Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Boylston G02 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e204376a1310" role="1" seniority_sort="1">
+                <display_name>Vassiliki Rapti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

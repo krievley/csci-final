@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127826" class_number="16735" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CULTBLF 50">The European Postwar: Literature, Film, Politics</title>
+            <exam_group>FAS18_F</exam_group>
+            <notes>See course website for information on film screenings.&amp;nbsp;  The course includes six classic novels by postwar European author, and nine of the greatest postwar films by noteworthy European directors. This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief or Societies of the World, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>What happened in the last half century in European culture and politics? How can we read history through culture, and culture through history? This undergraduate lecture survey offers a general overview of European history since 1945, with a primary focus on some of the greatest works of postwar European film and literature. We will interrogate major trends in cinema and literature (e.g., expressionism, existentialism, neo-realism, minimalism, the New Wave, the realist political dramas of the 1970s, and so forth); in conjunction with new modalities of political discourse concerning communism, democracy, colonialism, and sexuality. Note: The course includes six classic novels by postwar European authors, and nine of the greatest postwar films by noteworthy European directors.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Sever 113 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e37396a1310" role="1" seniority_sort="1">
+                <display_name>Peter Gordon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

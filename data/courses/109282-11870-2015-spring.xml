@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109282" class_number="11870" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 229">Survey of Energy Technology</title>
+            <notes> This course must be taken Sat/Unsat. Cannot be used for SEAS concentration credit. Students may not take both Engineering Sciences 229 and Engineering Sciences 231 for credit.</notes>
+            <prereq>Recommended: Calculus of a single variable, one semester of college-level physics, and familiarity with chemistry at the high school advanced placement level.</prereq>
+            <description>Principles governing energy generation and interconversion. Current and projected world energy use. Selected important current and anticipated future technologies for energy generation, interconversion, storage, and end usage.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e108118a1310" role="1" seniority_sort="1">
+                <display_name>Michael Aziz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

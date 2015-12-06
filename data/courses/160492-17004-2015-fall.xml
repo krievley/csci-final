@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160492" class_number="17004" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CELTIC 260">Introduction to Breton Studies</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>This course provides an introduction to the language, literature, history and contemporary culture of Brittany through classroom instruction and discussion plus a fifteen-twenty page research paper.&amp;nbsp; Students who participated in the First Harvard Breton Workshop are eligible to register for the course.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="CELTIC">Celtic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Warren 201 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63327a1310" role="1" seniority_sort="1">
+                <display_name>Catherine McKenna</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

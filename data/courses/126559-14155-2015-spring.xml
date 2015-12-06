@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126559" class_number="14155" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2450">History of Schooling in America: Seminar</title>
+            <notes> Offered jointly with the Graduate School of Education as A-418.</notes>
+            <description>This course examines major issues in the development of schooling from the Colonial period to the present.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e39094a1310" role="1" seniority_sort="1">
+                <display_name>Julie Reuben</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160334" class_number="19342" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 181">Humans in Space: Past, Present, Future</title>
+            <description>This lecture course will survey the history of spaceflight, beginning with ancient anticipations and ending with space travel in the twenty-first century and beyond. From high-altitude ballooning and airplane flight to rocketry and interplanetary travel, we will both trace the development of technologies humans have used to leave their home planet, and place these technologies within the context of political, economic, and social change. The course will also examine how the development of space vehicles was accompanied by transformations of the human body and mind, from the development of high-altitude pressure suits to the rise of space psychology.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

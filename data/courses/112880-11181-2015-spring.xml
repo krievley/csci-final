@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112880" class_number="11181" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TDM 110">Beginning Acting</title>
+            <notes> Enrollment determined by audition. Students will audition for the course with a short improvisation described by the professor at the first class meeting.</notes>
+            <description>An exploration of the basic techniques of acting, beginning with exercises that flex the imagination and heighten observation; the course will then move towards work on rhythm, an actor's instincts, focus, concentration, and character with an ongoing emphasis in improvisation. The texts of Anton Chekhov will be used as a point of reference for the work. The latter part of the course will concentrate on selected scene study from Chekhov's major plays.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e396435a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Derrah</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111361" class_number="10710" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="E-PSCI 131">Introduction to Physical Oceanography and Climate</title>
+            <notes> When offered, a field trip to the Woods Hole Oceanographic Institution on Cape Cod will be included. EPS 131 is also offered as ES 131. Students may not take both for credit. Given in alternate years.</notes>
+            <prereq>Recommended: Applied Mathematics 21a,b; Physical Sciences 12a,b, Physics 15a,b,c or Applied Physics 50a,b; or permission of instructor.</prereq>
+            <description>Observations and understanding of ocean physics, from local beach waves to the effects of the oceans on global climate.&amp;nbsp; Topics covered include wave motions such as ocean surface waves, internal waves, tsunamis and tides; currents, including the wind driven circulation, and the Gulf stream; coastal upwelling and fisheries; temperature, salinity, the overturning thermohaline circulation and its effect on global climate stability and variability; basic fluid dynamics equations; El Ni&amp;ntilde;o; the oceans and global warming; Ocean observations by ships, satellites, moorings, floats and more.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e193956a1310" role="1" seniority_sort="1">
+                <display_name>Eli Tziperman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

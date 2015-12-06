@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144983" class_number="13002" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 96">Engineering Problem Solving and Design Project</title>
+            <exam_group>FAS17_B</exam_group>
+            <notes> Preference given to SB candidates.</notes>
+            <description>Semester-long team project that provides engineering experience working with clients on real-world problems. Projects provide exposure to problem definition, performance measurement, quantitative analysis, modeling, generation of creative solutions, engineering design trade-offs, and documentation/communication skills. Ordinarily taken in the junior year.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Maxwell Dworkin G135 (SEAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15524a1310" role="1" seniority_sort="1">
+                <display_name>David Mooney</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159552" class_number="14936" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHNSLIT 207">Between History and Literature</title>
+            <exam_group>FAS08_I</exam_group>
+            <description>This course will explore what it means to read historical texts as literature and to take a historical view of literary texts.&amp;nbsp; What role should historical understanding and historical imagination play in literary criticism?&amp;nbsp; What is the place of subjectivity in historical knowledge and the role of imagination in the writing of history?&amp;nbsp; How do allegorical and philological interpretations function in the reading of &amp;ldquo;historical&amp;rdquo; and &amp;quot;literary&amp;quot; texts?&amp;nbsp; Readings will include canonical texts deem foundational for both history and literature (e.g., Zuozhuan, Shiji), pairings of anecdotal literature and historiography (e.g., Shishuo xinyu&amp;nbsp;and Jinshu), reflections on the meanings of wen&amp;nbsp;and the rhetoric of historical writings (e.g., Wenxin diaolong, Shitong, Wenshi tongyi), poetry that defines the evolving ideal of the poet-historian (e.g., poems by Du Fu, Qian Qianyi, Wu Weiye), and seventeenth century drama focused on the representation of history (e.g., Li Yu&amp;rsquo;s Qingzhong pu, Kong Shangren&amp;#39;s&amp;nbsp;Taohua shan).</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSLIT">Chinese Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Sever 201 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e19610a1310" role="1" seniority_sort="1">
+                <display_name>Wai-Yee Li</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108359" class_number="14451" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="US-WORLD 38">Forced to be Free: Americans as Occupiers and Nation-Builders</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>The United States has launched numerous projects of military occupation and nation-building in foreign lands since the late 19th century. These have been contradictory enterprises, carrying ideals of freedom and self-determination "offered" by force or by fiat. This course will assess the meanings and legacies of these projects by examining the ideas, strategies, policies, and outcomes of occupations ranging from the Philippines and Haiti early on, to Japan, Germany, and Korea in mid-century to, most recently, Afghanistan and Iraq. The course focuses on American activities and ideas but also examines the responses of the occupied.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="US-WORLD">United States in the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="CGIS South S010 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e20033a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Gordon</display_name>
+            </person>
+            <person id="d1e20036a1310" role="2" seniority_sort="2">
+                <display_name>Erez Manela</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

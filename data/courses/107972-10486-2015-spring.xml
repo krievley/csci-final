@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107972" class_number="10486" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 89J">The United States and China: Opium War to the Present</title>
+            <description>This research seminar will focus on the history of Sino-American relations and interactions since the Opium War (1840s). It will examine major episodes such as the Boxer intervention, the first and second world wars, the Korea and Vietnam wars, the Mao-Nixon rapprochement, and the post-Mao transformations, and explore central themes such as immigration, trade, culture, diplomacy, and security.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e20036a1310" role="1" seniority_sort="1">
+                <display_name>Erez Manela</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

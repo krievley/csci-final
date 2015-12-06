@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110065" class_number="10756" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HLTHPOL 3050">Federal Research Funding</title>
+            <exam_group>FAS04_C</exam_group>
+            <notes> Required of AHRQ trainees.</notes>
+            <description>This course focuses on federal scientific research grant applications. Students will learn about the most common forms of federal grant applications, basic components of applications, and the scientific review process for NIH / AHRQ. Students will develop a dissertation grant application, and will review actual grant applications as part of the course.</description>
+            <department code="HPOL">Health Policy</department>
+            <course_group code="HLTHPOL">Health Policy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e148941a1310" role="1" seniority_sort="1">
+                <display_name>John Hsu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

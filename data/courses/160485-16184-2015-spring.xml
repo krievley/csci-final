@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160485" class_number="16184" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 353">Building Your Own Microscope</title>
+            <description>Microscopes of various sorts are used by most biologists, who typically buy these off the shelf. With a little knowledge, however, most biologists can build their own microscopes to do many of the things that the commercial ones do. In this&amp;nbsp; quarter course, you will learn to build an epifluorescence microscope and to acquire images using a computer.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e98995a1310" role="1" seniority_sort="1">
+                <display_name>Venkatesh Murthy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

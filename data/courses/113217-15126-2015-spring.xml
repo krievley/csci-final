@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113217" class_number="15126" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEM 161">Statistical Thermodynamics</title>
+            <prereq>Recommended: Chemistry 160 or Physics 143a, or equivalent. Math 21a, or equivalent.</prereq>
+            <description>An introduction to statistical mechanics, thermodynamics, and chemical kinetics with applications to problems in chemistry and biology.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e104553a1310" role="1" seniority_sort="1">
+                <display_name>Xiaowei Zhuang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

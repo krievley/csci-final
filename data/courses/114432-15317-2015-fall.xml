@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114432" class_number="15317" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1540">The American Presidency</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes>american_subfield  Offered jointly with the Kennedy School as DPI-115. Meets at FAS.</notes>
+            <description>Course analyzes the development and modern practice of presidential leadership. Examines the institutional presidency, presidential selection, decision making, and the relationship of the presidency with the executive branch, Congress, courts, interest groups, the press and the public. Considers the political resources and constraints influencing the President's ability to provide leadership in the US political system.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Harvard Hall 104 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e103638a1310" role="1" seniority_sort="1">
+                <display_name>Roger Porter</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

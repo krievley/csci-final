@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160588" class_number="16175" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2087HFRB">Advanced Topics in Theory</title>
+            <notes> Course will start in late October.</notes>
+            <prereq>Prerequisite:  Economics 2010a</prereq>
+            <description>The class will read and discuss current research in economics with a focus on game theory and decision theory. Students will be expected to make a verbal presentation. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e153073a1310" role="1" seniority_sort="1">
+                <display_name>Drew Fudenberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

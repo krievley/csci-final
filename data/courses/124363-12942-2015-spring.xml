@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124363" class_number="12942" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AMSTDIES 399">Direction of Doctoral Dissertation</title>
+            <department code="AMER">American Studies</department>
+            <course_group code="AMSTDIES">American Studies</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

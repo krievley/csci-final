@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112954" class_number="15125" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEM 135">Experimental Synthetic Chemistry</title>
+            <notes> Recommended as preparation for research in experimental organic and organometallic chemistry (Chemistry 98r and 99r), or related disciplines.  Recommended:  Chemistry 27 or 30, and permission of the instructor.
+
+NOTE:  Lab times are T, W, TH 12-8, plus four additional hours of laboratory time per week, with labs beginning the third week of the term.</notes>
+            <description>An introduction to the experimental problems encountered in the synthesis, isolation, purification, characterization, and identification of organic and organometallic compounds. &amp;nbsp;Students perform a variety of chemical syntheses which encourage technical proficiency and simulate actual research.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e14904a1310" role="1" seniority_sort="1">
+                <display_name>Austin Bennett Scharf</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

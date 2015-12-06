@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108994" class_number="11534" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BBS 230">Analysis of the Biological Literature</title>
+            <exam_group>FAS09_A</exam_group>
+            <notes> This course is required for first year BBS students, and is open only to BBS students.</notes>
+            <description>Students participate in intensive small group discussions focused on the critical analysis of basic research papers from a wide range of fields including biochemistry, cell and developmental biology, genetics, and microbiology. Papers are discussed in terms of their background, significance, hypothesis, experimental methods, data quality, and interpretation of results. Students will be asked to propose future research directions, to generate new hypotheses and to design experiments aimed at testing them. For the midterm and final exams the students will have to submit written critiques of recent papers from the literature, with an emphasis on proposing new experimental directions to test the models proposed in the papers.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BBS">Biological and Biomedical Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e13029a1310" role="1" seniority_sort="1">
+                <display_name>Michael Demian Blower</display_name>
+            </person>
+            <person id="d1e13032a1310" role="1" seniority_sort="2">
+                <display_name>Adrian Salic</display_name>
+            </person>
+            <person id="d1e13035a1310" role="2" seniority_sort="3">
+                <display_name>Dipanjan Chowdhury</display_name>
+            </person>
+            <person id="d1e13038a1310" role="2" seniority_sort="4">
+                <display_name>Stephen Elledge</display_name>
+            </person>
+            <person id="d1e13041a1310" role="2" seniority_sort="5">
+                <display_name>Jesse Gray</display_name>
+            </person>
+            <person id="d1e13044a1310" role="2" seniority_sort="6">
+                <display_name>Radhika Subramanian</display_name>
+            </person>
+            <person id="d1e13047a1310" role="2" seniority_sort="7">
+                <display_name>Peter Hammerman</display_name>
+            </person>
+            <person id="d1e13050a1310" role="2" seniority_sort="8">
+                <display_name>Andreas Herrlich</display_name>
+            </person>
+            <person id="d1e10492a1310" role="2" seniority_sort="9">
+                <display_name>Roberto Chiarle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

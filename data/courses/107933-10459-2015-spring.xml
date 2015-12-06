@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107933" class_number="10459" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 98ZB">Junior Tutorial for Thesis Writers in Social Anthropology</title>
+            <notes> Strongly recommended for any social anthropology junior intending to write a senior thesis. Taken in addition to the required fall term group junior tutorial, Anthropology 98za (formerly 98z).</notes>
+            <description>This individual tutorial is for social anthropology students intending to write a senior thesis, and is normally undertaken with an advanced graduate student during the second term of junior year. Students will have weekly meetings with the project advisor for the purposes of developing the appropriate background research on theoretical, thematic, regional, and methodological literature relevant to their thesis topic, and fully refining their summer research proposal. The tutorial's final paper will be comprised of a research proposal representing the research undertaken during the semester.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e91743a1310" role="1" seniority_sort="1">
+                <display_name>Ramyar Rossoukh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

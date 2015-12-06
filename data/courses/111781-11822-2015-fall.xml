@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111781" class_number="11822" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 305">Teaching Practicum</title>
+            <exam_group>FAS12_G</exam_group>
+            <notes> Required of and limited to graduate students in Sociology. Attendance at first meeting is required. Not repeatable for credit.</notes>
+            <description>This course is intended to enhance the teaching skills of graduate students in the
+Sociology Department. Through a combination of classroom discussions and teaching simulations, the seminar challenges students to discover and hone their teaching styles, to develop a personal philosophy about teaching and learning, to develop selfâconfidence leading and facilitating small and large group discussions, to learn about the teaching resources that are available to them throughout the university, to experiment with designing engaging courses of study, and to discover that teaching can be a rewarding and stimulating element of an academic career.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="William James 501 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e79284a1310" role="1" seniority_sort="1">
+                <display_name>Jocelyn Viterna</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

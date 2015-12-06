@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160762" class_number="18010" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CELLBIO 313QC">Introduction to Quantitative Microscopy &amp; Image Analysis</title>
+            <exam_group>FAS12_F</exam_group>
+            <notes>Course meets Sept 2 (Wed), 9 (Wed), 14 (Mon), 16 (Wed), 23 (Wed), 28 (Mon), 30 (Wed), Oct 7 (Wed).  </notes>
+            <description>When used properly, quantitative optical microscopy and computational image analysis are powerful tools for exploratory and mechanistic investigations of molecular and cellular processes. This quarter course is an introduction to experimental design and best practices for using optical microscopy techniques (fluorescence, confocal, TIRF, super-resolution, light sheet microscopy) and computational methods (image segmentation, filtering, object detection, tracking, image-derived data analysis, etc.) in cell biology research.&amp;nbsp; An emphasis is placed on making accurate and precise quantitative measurements from optical microscopy images.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="" start_time="10:00:00"/>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e168276a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Waters</display_name>
+            </person>
+            <person id="d1e168279a1310" role="2" seniority_sort="2">
+                <display_name>Hunter Elliott</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

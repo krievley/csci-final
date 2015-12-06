@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118136" class_number="14839" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ASTRON 16">Stellar and Planetary Astronomy</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe. This course is offered each year.</notes>
+            <prereq>Prerequisite: Physics 15a, Physics 16, or Physical Sciences 12a.  May be taken concurrently.</prereq>
+            <description>This course provides an introduction to the physical principles describing the formation and evolution of stars and their planetary companions. Topics include thermal radiation and stellar spectra; telescopes; energy generation in stars; stellar evolution; orbital dynamics; the Solar system; and exoplanets. This course includes an observational component: students will determine the distance to the Sun, and use the Clay Telescope atop the Science Center to study stellar evolution and detect exoplanets.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e245119a1310" role="1" seniority_sort="1">
+                <display_name>Karin Oberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

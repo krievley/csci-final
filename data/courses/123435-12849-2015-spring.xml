@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123435" class_number="12849" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 197">Poverty, Race, and Health</title>
+            <description>This course critically examines the health status of the poor, and of African Americans and other socially disadvantaged racial and ethnic groups in the US. Attention will be focused on the patterned ways in which the health of these groups is embedded in the social, cultural, political, and economic contexts, and arrangements of US society. Topics covered include the meaning and measurement of race, the ways in which racism affects health, the historic uses of minorities in medical research, how acculturation and migration affects health, and an examination of the specific health problems that disproportionately affect nondominant racial groups.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e73589a1310" role="1" seniority_sort="1">
+                <display_name>David Williams</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156258" class_number="15729" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1462">Catholicism in America</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>This course focuses on the American Catholic experience. We will discuss French and Spanish missions, Catholic immigration to the British colonies, the rise of nativism, and controversies over slavery, industrial capitalism, "Americanism," feminism, war, and sexuality. We will also discuss the transformation of the Catholic Church in the wake of Vatican II and contemporary divisions between "liberals" and "conservatives." Besides examining Catholic intellectual life, we will also explore Catholic popular religion and devotionalism. Throughout the course, we will focus on the historical development of the Catholic Church and the relationship between Catholics and American culture.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e135573a1310" role="1" seniority_sort="1">
+                <display_name>Catherine Brekus</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

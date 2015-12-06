@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125185" class_number="13544" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 190">Understanding Aging: Degeneration, Regeneration, and the Scientific Search for the Fountain of Youth</title>
+            <exam_group>FAS04_A</exam_group>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b; SCRB 10 or MCB 54.</prereq>
+            <description>This lecture and discussion course will explore the fundamental molecular and cellular mechanisms that govern organismal aging and contemporary strategies to delay or reverse this process.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sherman Fairchild G62 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11294a1310" role="1" seniority_sort="1">
+                <display_name>Amy Wagers</display_name>
+            </person>
+            <person id="d1e59307a1310" role="2" seniority_sort="2">
+                <display_name>Lee Rubin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

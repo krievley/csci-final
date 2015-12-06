@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160490" class_number="15981" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEBREW 243">Critical Study of Midrash</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Offered jointly with the Divinity School as 1832.</notes>
+            <prereq>Recommended: Students are expected to be able to read unpointed Hebrew texts. No other previous background in Rabbinic literature is required.</prereq>
+            <description>The aim of this course is to introduce students to the contemporary critical study of midrash, the literature of classical Rabbinic Biblical interpretation.&amp;nbsp;&amp;nbsp; We will be primarily concerned with two questions: 1) How did the Rabbis read the Bible? and 2) What can midrash, as a form of&amp;nbsp; literary discourse in its own right, tell us about its authors, the Rabbinic sages who lived in the first five centuries in the common era?&amp;nbsp;&amp;nbsp; We will also compare midrash to other types of ancient Jewish interpretation, discuss the various hermeneutical and literary theoretical issues that have figured in recent scholarship, and consider its place in the history of Jewish Biblical exegesis. &amp;nbsp;&amp;nbsp;Texts to be read will run the entire gamut of Rabbinic literature (including both Tannaitic and Amoraic collections, and midrash halakhah as well as midrash aggadah). &amp;nbsp;All readings will be in the original language, and students are expected to be able to read unpointed Hebrew texts (although pointed texts will be supplied whenever possible).&amp;nbsp;&amp;nbsp; No other previous background in Rabbinic literature is required.&amp;nbsp;</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="HEBREW">Hebrew</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Sever 204 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e199609a1310" role="1" seniority_sort="1">
+                <display_name>David Stern</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

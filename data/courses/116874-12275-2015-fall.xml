@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116874" class_number="12275" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH CLR">Dramatic Screenwriting I: Workshop</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes>Fall: M., 4&amp;#8211;7 p.m.; Spring: Section I: M., 4&amp;#8211;7 p.m.; Section II: Tu., 3&amp;#8211;6 p.m.   Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+            <description>This class introduces the screenplay, from the Hollywood blockbuster to the indie sleeper. Students will learn the basics of screenwriting by reading scripts and viewing the resulting films, focusing on dramatic structure, character development, tone, dialogue, and the other aspects of film determined by the writer. Students will develop their own feature-length screenplays-which we'll workshop from the earliest stages-and finish the semester with a first act and the tools, knowledge, and skills necessary to continue screenwriting.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="18:59:00" location="Barker 316 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e187103a1310" role="1" seniority_sort="1">
+                <display_name>Mark Poirier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

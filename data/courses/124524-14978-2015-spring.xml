@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124524" class_number="14978" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG 40">Images of Brazil: Contemporary Brazilian Cinema</title>
+            <notes> Conducted in Portuguese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Portuguese 40 website.  
+
+This course is taught by members of the Department.</notes>
+            <prereq>Prerequisite: Portuguese C OR Portuguese 30</prereq>
+            <description>Examines major Brazilian films in their historical, political, and social context. Class discussion also focuses on documentaries, reviews, and critical articles. In-depth textual and grammatical analysis, vocabulary building, reflections on the similarities and differences of the oral and written Portuguese will lead students to achieve a high level of competency.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e97122a1310" role="1" seniority_sort="1">
+                <display_name>Viviane Gontijo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109800" class_number="14791" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 1237">LGBT Literature</title>
+            <exam_group>FAS02_A</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>This course examines a range of works from the British and American LGBT (lesbian, gay, bisexual, and transgender) canon. Our starting premise will be that LGBT themes have been central, rather than peripheral, to the Western literary tradition. We&amp;#39;ll pay close attention to how sexual identity, gender identity, sex, and desire are understood and represented in different social and historical circumstances, as well as the aesthetic traditions and personal experiences shaping these individual works. Authors include James Baldwin, E.M. Forster, Nella Larsen, and Audre Lorde.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sever 103 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e12506a1310" role="1" seniority_sort="1">
+                <display_name>Linda Schlossberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

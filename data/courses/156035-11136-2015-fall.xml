@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156035" class_number="11136" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ETHRSON 39">Money, Markets, and Morals</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes>If student interest exceeds the course capacity, a lottery will be conducted. Priority will be given to students who attend the first lecture. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results. See the course website for more details.  </notes>
+            <description>What should be the role of money and markets in our society? Are there some things that money should not be able to buy? For example: Should people be permitted to buy sex, votes, babies, citizenship, or college admission? What about buying and selling the right to pollute, procreate, immigrate, discriminate, or to hunt endangered species? Should we use markets to allocate health care, education, and military service?</description>
+            <department code="GENED">General Education</department>
+            <course_group code="ETHRSON">Ethical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Memorial Hall SandersThtr(FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e82959a1310" role="1" seniority_sort="1">
+                <display_name>Michael Sandel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

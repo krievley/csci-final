@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116311" class_number="12312" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SANSKRIT 91R">Supervised Reading and Research</title>
+            <notes>Parimal Patil and members of the Department  A graded course. Offered at the discretion of the individual instructors.</notes>
+            <description>Supervised reading of texts in Sanskrit not covered by regular courses of instruction.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SANSKRIT">Sanskrit</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e31856a1310" role="1" seniority_sort="1">
+                <display_name>Parimal G. Patil</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

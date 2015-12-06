@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122514" class_number="15325" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LING 83">Language, Structure, and Cognition</title>
+            <description>What do the world's almost 7,000 languages have in common? Why do they show recurrent commonalities and principled differences? What do they reveal about the human ability for speaking and thinking? How do languages develop? How do they die? This course addresses these and related questions while introducing the languages of the world; their distribution, recurrent structural properties, and genetic classification; processes of language contact; and the relationship between language and the brain.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e234865a1310" role="1" seniority_sort="1">
+                <display_name>Kathryn Zaremba</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

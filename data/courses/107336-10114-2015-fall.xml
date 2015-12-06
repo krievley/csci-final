@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107336" class_number="10114" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CELLBIO 305QC">Intracellular Transport</title>
+            <exam_group>FAS13_G</exam_group>
+            <notes>Course meets&amp;nbsp;November 11, 2015 through December 23, 2015.  Offered in alternate years.</notes>
+            <description>This course will provide a practical guide to understanding the role of intracellular transport in physiology and disease settings. Basic mechanisms and also interdisciplinary areas that involve this fundamental cellular process will be selected for discussion.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40277a1310" role="1" seniority_sort="1">
+                <display_name>Victor Hsu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116856" class_number="12328" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 278">Rendering and Image Processing in Computer Graphics</title>
+            <notes>Instructor to be determined  </notes>
+            <prereq>Recommended: Computer Science 175 or permission of instructor.</prereq>
+            <description>Advanced course in computer graphics focusing on image rendering and processing. Topics include: light transport, efficient rendering, image based rendering, texture processing, interactive image processing.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e91352a1310" role="1" seniority_sort="1">
+                <display_name>Steven Gortler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

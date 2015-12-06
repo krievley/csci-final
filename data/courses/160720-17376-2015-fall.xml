@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160720" class_number="17376" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SAS 130">Economic History of India</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>The economic transformation of India over the past two decades has been dramatic. The contradictions of this transformation&amp;mdash;the juxtaposition of new wealth and enduring poverty&amp;mdash;are rooted in the region&amp;rsquo;s economic history. This research seminar explores many dimensions of economic life in colonial and post-colonial India. Topics include: the history of markets and commodities, property and labor; the history of economic ideas in India; the changing nature of economic and social inequality; and the close relationship between economic and cultural change. Students will write a substantial research paper using primary sources.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SAS">South Asian Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="1 Bow St 317 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e16980a1310" role="1" seniority_sort="1">
+                <display_name>Sunil Amrith</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

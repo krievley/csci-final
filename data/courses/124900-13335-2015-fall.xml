@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124900" class_number="13335" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 292">Cellular Biology, Neurobiology and Developmental Biology</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Required for first year graduate students in the Molecules, Cells and Organisms (MCO) Training Program.</notes>
+            <description>The biology of the individual cell lies at the heart of multi-cellular phenomena such as development and neural function. This course will emphasize critical evaluation of the primary literature, experimental design and scientific writing.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Biological Labs 2062/2064(FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e103781a1310" role="1" seniority_sort="1">
+                <display_name>Alexander Schier</display_name>
+            </person>
+            <person id="d1e98995a1310" role="1" seniority_sort="2">
+                <display_name>Venkatesh Murthy</display_name>
+            </person>
+            <person id="d1e142825a1310" role="1" seniority_sort="3">
+                <display_name>Ethan Garner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

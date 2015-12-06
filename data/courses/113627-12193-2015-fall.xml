@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113627" class_number="12193" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 55A">Honors Abstract Algebra</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes> Mathematics 55a is an intensive course for students having significant experience with abstract mathematics. Instructor permission required. Every effort will be made to accommodate students uncertain of whether the course is appropriate for them; in particular, Mathematics 55a and 25a will be closely coordinated for the first three weeks of instruction. Students can switch between the two courses during the first three weeks without penalty. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <description>A rigorous treatment of abstract algebra including linear algebra and group theory.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Science Ctr 222 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e81768a1310" role="1" seniority_sort="1">
+                <display_name>Yum Tong Siu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

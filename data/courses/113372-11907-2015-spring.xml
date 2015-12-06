@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113372" class_number="11907" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 270R">Special Topics</title>
+            <description>New Music Analysis. In this course we will engage a variety of music from ca. 1970 to the present. "New" in the course's title applies also to "Analysis". We will work toward developing new ways of hearing, conceptualizing, and talking/writing about music that might respond to the challenges that the new or "now" affords. Our repertory will comprise many pieces (not all "high" and "western"); a small selection will be subject to intense hearing and discussion.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e61644a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Hasty</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

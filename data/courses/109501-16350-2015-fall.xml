@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109501" class_number="16350" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AESTHINT 57">American Dreams from Scarface to Easy Rider</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes>If student interest exceeds the course limit, a random lottery will be conducted. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results. See the course website for more details.  Alternate weekly film screenings will be held on Sunday afternoons. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>This class familiarizes students with popular films produced during crucial junctures in the modern history of the United States, from the Great Depression and World War II through the Cold War, McCarthy era, and the 1960s. More specifically, we will study how Hollywood's dream factory responded to dramatic challenges that states of crisis and emergency posed to the founding ideals of our democracy. We will look at the wide range of functions that commercial fantasy productions assumed, how they at times legitimated and bolstered the status quo, but at others also interrogated, exposed, and even indicted social inequity. Course films provide a representative sampling of classical American features from 1932 to 1969, including Scarface, It Happened One Night, The Wizard of Oz, Gone with the Wind, Citizen Kane, Casablanca, High Noon, The Invasion of the Body Snatchers, The Manchurian Candidate, and Easy Rider.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Carpenter Lecture Hall (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e5137a1310" role="1" seniority_sort="1">
+                <display_name>Eric Rentschler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

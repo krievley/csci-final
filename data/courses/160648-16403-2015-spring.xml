@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160648" class_number="16403" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TDM 97">Drama, Theater, Theory</title>
+            <prereq>Recommended: Required of all, and limited to, concentrators.</prereq>
+            <description>This sophomore tutorial of the concentration in Theater, Dance, and Media, explores the theater as a medium that brings together all the other arts, from architecture and design to literature and music, through readings, discussions, and exercises. We also consider the intellectual traditions connected to theater, including philosophy, politics, and sociology. Key texts include Plato, Euripides, Brecht, and Churchill; sessions at the Harvard Theater Collection.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e42499a1310" role="1" seniority_sort="1">
+                <display_name>Martin Puchner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

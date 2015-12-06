@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113968" class_number="14134" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 97">Tutorial - Sophomore Year</title>
+            <notes>Required of all VES concentrators during their first full term in the concentration, ordinarily sophomore spring.  Required of all VES concentrators during their first full term in the concentration, ordinarily sophomore spring.</notes>
+            <description>A&amp;nbsp;tutorial course on the foundations and subjects of Visual and Environmental Studies,&amp;nbsp;encompassing Film, Video and Animation; Studio Art and Photography; Film Studies; Environmental Studies; Design; and Curatorial Studies, including the work of both the Harvard Film Archive and the Carpenter Center for the Visual Arts. &amp;nbsp; Supported by readings, projects and screenings, the tutorial is taught by a rotation of the regular and visiting faculty.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e153559a1310" role="1" seniority_sort="1">
+                <display_name>Matt Saunders</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

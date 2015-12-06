@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156605" class_number="11515" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2326">Economic Development: Theory and Evidence</title>
+            <notes>Tu., Th., 10:10&amp;#8211;11:30 and a Friday review session, 1:10 pm - 2:30 pm   Jointly offered with the Kennedy School as PED-101.</notes>
+            <prereq>Recommended: This course requires multivariate calculus and a basic understanding of statistical methods, micro and macroeconomics. Students taking these courses concurrently should seek the instructors' permission.</prereq>
+            <description>This course aims to study theories of economic (under)development and scrutinize empirical evidence in order to glean insights to design development policy. The course will identify key features of the development process across countries, and develop an analytical framework, grounded in economic theory, to better understand these patterns. We will then apply our frameworks combined with rigorous empirical evidence to identify when and how public policies can enable economic growth and development. Macro topics include economic growth and its proximate determinants; resource misallocation, learning and coordination and their impacts on productivity; the impact of historical forces on the evolution of (political) institutions and the development process; and the effect of external influences on development. Micro topics include the determinants of and returns to investments in (health and education) human capital; credit markets, savings behavior, and the returns to financial capital; gender; behavioral economics in development; and governance and corruption.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

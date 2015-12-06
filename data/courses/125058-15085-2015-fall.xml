@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125058" class_number="15085" school_id="fas" section="003" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH AB">Beginning Spanish II</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes>Conducted in Spanish. Open to students who have not previously studied Spanish or who have scored below 300 on the Harvard placement test. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Spanish Aa website. Students who have studied Spanish for two years or more in secondary school must begin at Spanish Ab or higher.&amp;nbsp;  Conducted in Spanish. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Spanish Ab website. Students who have studied Spanish for two years or more in secondary school must begin at Spanish Ab or higher. Upon the recommendation of the course head, students who have performed at a superior level in this course may enroll in any course for which they are linguistically prepared.  
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: A score between 301-450 on the SAT II test or on the Harvard Placement Test, Spanish Aa, or permission of course head.</prereq>
+            <description>For students with the equivalent of one semester previous study of Spanish. Emphasis on strengthening students' interpersonal, interpretive, and presentational skills in both oral and written Spanish. Hispanic cultures are presented through a variety of authentic texts, including short pieces of literature, essays, and newspaper articles. Music, art, and film are also included. After Spanish Aa and Ab, students should be able to engage in everyday conversations with native speakers, and read straightforward texts, both fiction and non-fiction, with relative ease.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="11:59:00" location="Sever 303 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e106779a1310" role="1" seniority_sort="1">
+                <display_name>Maria Celeste Moreno Palmero</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

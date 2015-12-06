@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108233" class_number="17171" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="KORHIST 115">Korean History Through Film</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> A discussion section in the Korean language will be offered if enrollment is sufficient.</notes>
+            <description>This course is to examine history of premodern Korea through select Korea's contemporary feature films. Films and dramas with historical themes and personages have been very popular in Korea. We will examine the content of the films, and investigate how ``true'' or ``false'' they represent Korea's past, how they imagine and invent Korea's past, in what ways films are useful in better understanding Korean history, people's lives and practices.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="KORHIST">Korean History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Yenching Library 212 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e20994a1310" role="1" seniority_sort="1">
+                <display_name>Sun Joo Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

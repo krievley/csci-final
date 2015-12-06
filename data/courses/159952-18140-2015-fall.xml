@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159952" class_number="18140" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 280R">Topics in Chinese Art</title>
+            <exam_group>FAS09_C</exam_group>
+            <description>The seminar explores ways in which heaven is visualized in Chinese art. Topics include astrology, ceiling decoration, heaven-earth correlative cosmology, macro-microcosms, etc. Media include tombs, caves, buildings, and other structures. The periods covered range from the early to late imperial times. Students will be presented with a general body of literature and encouraged to explore their own specific topics.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Sackler Museum 406" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e29595a1310" role="1" seniority_sort="1">
+                <display_name>Eugene Wang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

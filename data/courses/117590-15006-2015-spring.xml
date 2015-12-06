@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117590" class_number="15006" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CULTBLF 47">The Darwinian Revolution</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Why is evolutionary theory so controversial in the public sphere? This course looks to the history of cultural changes in the West for answers. We cover the intellectual structure and social context of evolutionary ideas as they emerged in the 19th and 20th centuries, emphasizing Darwinism as a major transformation in Western thought. Topics include key aspects of Darwin's ideas; the comparative reception of Darwinism in Britain, US, Germany, Russia and France; social Darwinism, eugenics and racial theories; early genetics and the search for the gene; religious controversy then and now. The course alternates with Culture and Belief 20.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e52680a1310" role="1" seniority_sort="1">
+                <display_name>Janet Browne</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108549" class_number="11012" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 1424">American Fetish: Consumer Culture Encounters the Other</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief.</notes>
+            <description>How are notions of human difference, including ethnicity, race, gender, and sexuality, used to sell products in an increasingly global market? We will start in the nineteenth century with the rise of consumer culture, examining how cultures and people considered "primitive" achieved value as objects for exchange and entertainment, and then investigate how this idea takes shape in our contemporary moment. Topics include: sex tourism; commodification of "queer" and multiracial aesthetics; "compassionate" consumption.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Boylston G02 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e27788a1310" role="1" seniority_sort="1">
+                <display_name>Caroline Light</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

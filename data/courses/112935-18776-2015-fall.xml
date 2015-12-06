@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112935" class_number="18776" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 302">Direction of Doctoral Dissertations</title>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>16</credits>
+        </catalog_info>
+    </course>
+</courses>

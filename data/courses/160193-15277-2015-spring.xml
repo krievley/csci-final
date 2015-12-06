@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160193" class_number="15277" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 22S">Quantum Mechanics Face to Face</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The seminar will introduce the student to&amp;nbsp; both the ideas of the&amp;nbsp; quantum theory of physics and the physical phenomena&amp;nbsp; resulting from it. The seminar will be taught in studio/lab,&amp;nbsp; through discussion and demonstration.&amp;nbsp;&amp;nbsp; The students will&amp;nbsp; work with the instructor to&amp;nbsp; use apparatus to demonstrate various aspects of wave and particle behaviour and to sythesize the ideas of quantum mechanics with the macroscopic physical reality. That is, we will demonstrate&amp;nbsp; some features of quantum mechanics to ourselves.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e34191a1310" role="1" seniority_sort="1">
+                <display_name>Melissa Franklin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110708" class_number="19203" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2060A">Contract Theory</title>
+            <description>Recent developments in contract theory. Includes hidden action and hidden information models, dynamic agency issues, incomplete contracts, and applications of contract theory to theories of the firm and corporate financial structure.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>2</credits>
+        </catalog_info>
+    </course>
+</courses>

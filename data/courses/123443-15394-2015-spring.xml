@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123443" class_number="15394" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 50">Introduction to Political Science Research Methods</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning. This course must be taken for letter grade.</notes>
+            <description>This class will introduce students to techniques used for research in the study of politics. Students will learn to think systematically about research design and causality, how data and theory fit together, and how to measure the quantities we care about. Students will learn a `toolbox' of methods---including statistical software---that enable them to execute their research plans. This class is highly recommended for those planning to write a senior thesis.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e84489a1310" role="1" seniority_sort="1">
+                <display_name>Muhammet Bas</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

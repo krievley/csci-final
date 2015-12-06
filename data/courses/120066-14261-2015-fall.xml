@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120066" class_number="14261" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MED-SCI 250AB">Human Functional Anatomy</title>
+            <exam_group>FAS08_A</exam_group>
+            <notes>Please note that there will be an additional fee for microscope rental.  Open to qualified graduate students with permission of the course director. The course has a minimum enrollment of 30. This course requires rental of a locker for two hundred and ten dollars. Offered jointly with the Medical School as HT010.</notes>
+            <description>Lectures, detailed laboratory dissections, and prosections provide a thorough exploration of the gross structure and function of the human body. Fundamental principles of embryology and bioengineering promote analytical approaches to understanding the body's design.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="MED-SCI">Medical Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="14:29:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e67112a1310" role="1" seniority_sort="1">
+                <display_name>Lee Gehrke</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

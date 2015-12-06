@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159591" class_number="14787" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1934">The Vietnam War: A Legal History</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> Offered jointly with the Law School as 2783.  The enrollment for FAS students is 6.  This course will meet at the Law School.</notes>
+            <description>This course will focus on the legal aspects of the American phase of the Vietnam War. What was the legal basis for the intervention? What sorts of compliance with the law of war occurred? Was the American people concerned about the dubious legality of revelations like the My Lai massacre and the &amp;ldquo;secret&amp;rdquo; Cambodian bombings? What legal steps were taken in the aftermath? The course will consist of a series of readings to show how little historians have investigated these questions, and a series of assignments culminating in a serious research paper based on original sources.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="18:59:00" location="" start_time="17:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38372a1310" role="1" seniority_sort="1">
+                <display_name>Samuel Moyn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

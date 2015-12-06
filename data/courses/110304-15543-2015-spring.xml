@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110304" class_number="15543" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 2500">Character of God in Early America</title>
+            <notes> Offered jointly with the Divinity School as 2383.</notes>
+            <description>From the arbitrary sovereign of the Calvinists to the feminized Lord of the Moravians to the predictable creator of the Deists, perceptions of God ran the spectrum in early America. Many of the key debates of the period&amp;mdash;about science and slavery, monarchy and poverty, scripture and disestablishment&amp;mdash;fell back on assumptions about the character of Deity. This course examines the most prominent positions on the divine character and considers the ways they shaped the cultural developments of the period. As the culminating experience of the course, students write a substantial paper that seeks to draw a portrait of divinity from a prominent cultural artifact of the period, such as the abolitionist newspaper The Liberator, the Declaration of Independence, or the novels of Nathaniel Hawthorne</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e141624a1310" role="1" seniority_sort="1">
+                <display_name>David Holland</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

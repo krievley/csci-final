@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146542" class_number="15204" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 90QO">T.S. Eliot: Seminar</title>
+            <description>This course will study the poetry of T.S. Eliot, while also attending to selections of his critical and dramatic writings.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57774a1310" role="1" seniority_sort="1">
+                <display_name>Peter Sacks</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

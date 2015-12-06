@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123319" class_number="12670" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2354R">Advanced Laboratory in Cognitive Neuroscience</title>
+            <notes> Open to graduate and undergraduate students working in the instructor's laboratory.</notes>
+            <description>Students work directly on a research project and get hands-on experience with neuroimaging and cognitive neuroscience techniques, including functional MRI. MRI laboratory training consists of safety, instruction on running the scanner, and paradigm design. In addition to laboratory work, students attend a weekly research seminar where ongoing and proposed research projects are discusses.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e85421a1310" role="1" seniority_sort="1">
+                <display_name>Randy Buckner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

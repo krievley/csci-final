@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160353" class_number="15386" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MEDVLSTD 300HFB">Medieval Studies Interdisciplinary Workshop</title>
+            <notes>Curricular component of Medieval Studies Interdisciplinary Workshop; meets concurrently with workshop sessions  Enrollment is open to all graduate students.</notes>
+            <description>Focuses on dissertations in progress and other research topics of mutual concern.Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="MDST">Medieval Studies</department>
+            <course_group code="MEDVLSTD">Medieval Studies</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e48892a1310" role="1" seniority_sort="1">
+                <display_name>Nicholas Watson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

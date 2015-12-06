@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109964" class_number="14893" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98OC">Religion and Secularism in a Global World</title>
+            <notes> This course will be lotteried.</notes>
+            <description>What constitutes the political and how does it relate to the religious? This course explores the relationship between recent religious resurgences and secular politics while paying particular attention to the mutually constitutive categories of the "secular" and the "religious." We start by exploring the classic secularization thesis and continue to examine its recent revisions. We will move beyond the assumption that secularism should be conceived in the singular to reflect on its global varieties, considering not only the Euro-American formations, but also debates around the place of religion in public life in China, India, Russia, Turkey and others.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e334765a1310" role="1" seniority_sort="1">
+                <display_name>Anya Bernstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

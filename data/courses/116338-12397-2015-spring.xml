@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116338" class_number="12397" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2030">Political Concepts: Field Seminar</title>
+            <description>A thematic exploration of important normative concepts such as freedom, equality, justice, legitimacy, obligation and democracy. Readings are drawn largely from contemporary scholarship.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e252910a1310" role="1" seniority_sort="1">
+                <display_name>Arthur Applbaum</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

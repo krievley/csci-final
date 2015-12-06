@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123047" class_number="13304" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2321">Methods in the History of the Book: Seminar</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> This course is also offered through the English Department as English 259. Credit may be earned for either History 2321 or English 259, but not both.</notes>
+            <description>Introduction to methods and debates in book history and in the history and theory of reading.&amp;nbsp; Students working on any time period and any national literature are welcome; the seminar will incorporate a research project that may feed into a dissertation topic.&amp;nbsp;</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Barker 269 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e41044a1310" role="1" seniority_sort="1">
+                <display_name>Ann Blair</display_name>
+            </person>
+            <person id="d1e57866a1310" role="1" seniority_sort="2">
+                <display_name>Leah Price</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

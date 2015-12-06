@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156263" class_number="11337" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98PV">The Critical Theory of the Frankfurt School</title>
+            <notes> This course will be lotteried.</notes>
+            <description>This tutorial examines the major thinkers and themes associated with the Frankfurt School of critical theory. From its origins in the interwar crisis, critical theory has sought to diagnose the pathologies of the present in order to chart paths for social and political emancipation in the future. The readings trace the development of the Frankfurt School its various generations, covering a wide range of theorists associated with this tradition. The goal of the tutorial is not only to gain a deeper understanding of the Frankfurt School, but also to assess the continued relevance of this distinctive approach to the critical theory of society.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e324863a1310" role="1" seniority_sort="1">
+                <display_name>Peter Verovsek</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

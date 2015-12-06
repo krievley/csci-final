@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113639" class_number="15280" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIND-URD 101A">Introductory Hindi-Urdu</title>
+            <exam_group>FAS09_A</exam_group>
+            <notes> Not open to auditors.</notes>
+            <description>An introduction to the lingua franca of the subcontinent in its ``Hindustani&amp;#39;&amp;#39; form. Students are introduced to both the Perso-Arabic and the Devanagari script systems. Conventional teaching materials are supplemented by popular songs and video clips from Bollywood.&amp;nbsp;Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="HIND-URD">Hindi-Urdu</course_group>
+            <course_type>Lecture</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="10:59:00" location="CGIS South S001 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e23893a1310" role="1" seniority_sort="1">
+                <display_name>Amy Bard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

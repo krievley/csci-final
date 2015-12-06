@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113995" class_number="13980" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2530A">International Trade</title>
+            <exam_group>FAS17_B</exam_group>
+            <notes> Strongly recommended as preparation for Economics 2530b. Open to undergraduates only with permission of instructor.</notes>
+            <prereq>Prerequisite: Economics 2010a AND Economics 2010b</prereq>
+            <description>Provides a broad overview of theory and evidence concerning international trade, direct foreign investment, and trade policy.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="09:59:00" location="Littauer Ctr M15 (FAS)" start_time="08:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6575a1310" role="2" seniority_sort="1">
+                <display_name>Elhanan Helpman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

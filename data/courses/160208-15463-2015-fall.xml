@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160208" class_number="15463" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 33">Seeing Sculptures Out Walking: Studio Course</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure. 
+
+No prior studio experience necessary.</notes>
+            <description>A studio course considering the possibility of sculpture to be autonomous in different contexts, ranging from the moment when an object is liberated from its original circumstances of production to its continuing life and how it might reflect on new situations.&amp;nbsp; Using a variety of materials, including &amp;quot;found footage&amp;quot;, we will investigate the sculptural qualities of an environment, and consider the roles that reality and immediacy can play in artistic procedure.
+
+&amp;nbsp;</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Carpenter 2nd Fl (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e204076a1310" role="1" seniority_sort="11">
+                <display_name>Nora Schultz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

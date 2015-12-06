@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128010" class_number="15101" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2008">Experimental Political Science</title>
+            <notes> Open to qualified undergraduates with permission of instructors.</notes>
+            <description>Experimentation is increasingly used by political and other social scientists to help identify causal relationships. This class will cover arguments for and against the use of experiments, as well as a broad cross-section of foundational and cutting edge experiments in political science and allied fields. In particular, we will cover the use of survey experiments, field experiments, and lab experiments. Substantive applications will span the sub-fields as well as integrate work from experimental economics and psychology.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e33338a1310" role="1" seniority_sort="1">
+                <display_name>Dustin Tingley</display_name>
+            </person>
+            <person id="d1e81418a1310" role="1" seniority_sort="2">
+                <display_name>Ryan Enos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122029" class_number="14698" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN DAB">Intermediate German (Intensive): Speaking, Listening Comprehension, Reading, and Writing</title>
+            <exam_group>FAS18_A</exam_group>
+            <notes> Conducted in German. May not be taken Pass/Fail. Not open to auditors.</notes>
+            <prereq>Recommended: German A, German Bab, a score of 450 or above on the Harvard placement test, or permission of the instructor.</prereq>
+            <description>A complete second-year course in one term for students with a basic knowledge of German. Focuses on enhancing students' proficiency in all four skill areas with special emphasis on speaking/discussion. Extensive vocabulary-building exercises, a thorough grammar review, and an introduction to various cultural topics of the German-speaking countries through the use of literary and non-literary texts, Internet, multimedia resources, and film.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Barker 218 (FAS)" start_time="12:00:00"/>
+                <meeting days_of_week="Tuesday Thursday" end_time="16:59:00" location="Sever 205 (FAS)" start_time="15:00:00"/>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="Sever 205 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172264a1310" role="1" seniority_sort="1">
+                <display_name>Lisa Parkes</display_name>
+            </person>
+            <person id="d1e172264a1310" role="1" seniority_sort="1">
+                <display_name>Lisa Parkes</display_name>
+            </person>
+            <person id="d1e172264a1310" role="1" seniority_sort="1">
+                <display_name>Lisa Parkes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

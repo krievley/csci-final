@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156937" class_number="15986" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 152">Asking Cells Who They Are: Computational Transcriptomics Using RNA-Seq</title>
+            <exam_group>FAS04_A</exam_group>
+            <prereq>Recommended: Life Sciences 1a or Life and Physical Sciences A or permission of the instructor; Mathematics at the level of Math 19a or statistics at the level of Stat 102 or above. CS 50 or some previous exposure to programming is preferred but not required.</prereq>
+            <description>This course is a hands-on introduction to computational analysis of RNA sequencing data as a measure of genome-wide transcription. We will cover methods spanning the spectrum of RNA-Seq analysis: starting from raw sequencing reads, obtaining gene expression measures, and interpreting biological significance by differential expression analyses, clustering, and visualization. Coursework will consist of programming assignments in Pythonexploring real datasets. The course will emphasize skills applicable to independent biological research.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sherman Fairchild 268 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e57033a1310" role="1" seniority_sort="1">
+                <display_name>Douglas Melton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156358" class_number="11355" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANE 117">Biblical Archaeology</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> Offered jointly with the Divinity School as 1422.</notes>
+            <description>This course combines biblical historiography and archaeology to critically evaluate many of the debatable incongruities between text and material evidence. Various periods of biblical history will be studied within their greater Near Eastern and Eastern Mediterranean context, looking specifically at results of archaeological excavations and evidence from extra-biblical textual sources. Beginning with the composition of biblical text and biblical chronology, readings and lectures will then navigate through biblical theories and archaeological evidence from the primordial creation stories until post-exilic Second Temple Judaism. Additionally, the history of "biblical archaeology" will be traced until the present day, especially including portrayals in popular media, while highlighting the good, the bad, and the very ugly.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ANE">Ancient Near East</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="CGIS Knafel K108 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e144111a1310" role="1" seniority_sort="1">
+                <display_name>Robert Homsher</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

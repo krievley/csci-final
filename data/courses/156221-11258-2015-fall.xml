@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156221" class_number="11258" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 1271">Women and War: Gender, Race, and the Politics of Militarism</title>
+            <exam_group>FAS08_H</exam_group>
+            <description>This course examines scholarship on gender, sexuality, and race within a multitude of feminist disciplines in order to suggest productive interventions in analyses of women and warfare. Refuting essentialized notions of womanhood as passive, peaceful, and submissive, this class encourages students to move beyond thinking about what men and women do in war, and instead consider how gendered constructs are necessary for war. Memoirs, documentaries, military policy, and legal cases will serve as case studies to analyze contemporary and historical issues of gender and militarism.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="14:59:00" location="Boylston G02 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e145041a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth Mesok</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

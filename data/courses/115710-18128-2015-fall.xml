@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115710" class_number="18128" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN 147">Nietzsche</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> No knowledge of German required. All readings and discussions in
+English. Consent of instructor required. Preference given to those who request and receive consent early; requests can be made before your advisorâs hold on your study card is released. Please email Professor Burgard with any questions.</notes>
+            <description>Readings and discussion of Nietzsche&amp;#39;s major works in translation and in chronological order: The Birth of Tragedy; On Truth and Lie in an Extra-Moral Sense; Untimely Meditations; Human, All Too Human; The Gay Science; Thus Spoke Zarathustra; Beyond Good and Evil; On the Genealogy of Morals; Twilight of the Idols; The Antichrist; and Ecce Homo.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Barker 133 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e125357a1310" role="1" seniority_sort="1">
+                <display_name>Peter Burgard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

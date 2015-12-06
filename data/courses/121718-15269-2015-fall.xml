@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121718" class_number="15269" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 3008A">Research Workshop in Political Theory</title>
+            <exam_group>FAS18_H</exam_group>
+            <description>Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="CGIS Knafel K401 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e59160a1310" role="1" seniority_sort="1">
+                <display_name>Harvey Mansfield</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

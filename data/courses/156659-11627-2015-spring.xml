@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156659" class_number="11627" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2415">Seminar on Macroeconomic Policy</title>
+            <description>This new seminar will feature presentations on current macroeconomic policy issues by Economics Department faculty and invited outsider speakers. Specific topics will include (among others) Federal Reserve policy, increasing employment, raising the U.S. growth rate, Europe's economic problems, housing and the mortgage market. Graduate students taking the course for credit will be expected to write a research paper related to any one of the issues covered during the semester. Students not taking the course for credit are welcome to participate in each week's discussion.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60620a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin Friedman</display_name>
+            </person>
+            <person id="d1e273617a1310" role="2" seniority_sort="2">
+                <display_name>Martin Feldstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

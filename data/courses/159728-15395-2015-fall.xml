@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159728" class_number="15395" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 21D">Food, Climate, and Data</title>
+            <exam_group>FAS08_G</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>We will explore the implications of interacting trends in population, diet, and climate for food security.&amp;nbsp; The course begins with some background literature on food security, initially juxtaposing Malthus and Boserup, and then moving to Sen.&amp;nbsp; The primary focus, however, is a data-driven exploration of food security through analysis of weather, climate, demographics, and yield.&amp;nbsp; Specific questions that we will empirically address are how temperature and precipitation influence yield outcomes?&amp;nbsp; Can agriculture be adapted to a changed climate?&amp;nbsp; How will demographics and diet shift in the coming decades?&amp;nbsp; Will the green revolution continue to yield steady increases?&amp;nbsp; And can we predict famine?</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e207669a1310" role="1" seniority_sort="1">
+                <display_name>Peter Huybers</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

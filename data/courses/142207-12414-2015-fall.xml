@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142207" class_number="12414" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="IMMUN 348">Cell Biology, Biochemistry, and Immunology of Leukocyte-endothelial Adhesion</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e110123a1310" role="1" seniority_sort="1">
+                <display_name>Francis Luscinskas</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156089" class_number="11168" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BBS 330">Critical Thinking and Research Proposal Writing</title>
+            <notes> This course is required for second year BBS students; others need permission of the instructor. Dates, times, and locations for all sessions (except for Session 1) will be determined by the faculty running the tutorial sessions. Students will be able to sign up for their specific groups on a first-come, first-served basis. The BBS office will coordinate this process. Group assignments will be posted on the course website.</notes>
+            <description>A small group tutorial systematically guiding students in the writing of original, hypothesis-driven research proposals from initial topic selection through completion of a final draft.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BBS">Biological and Biomedical Sciences</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e141478a1310" role="1" seniority_sort="1">
+                <display_name>Monica Colaiacovo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

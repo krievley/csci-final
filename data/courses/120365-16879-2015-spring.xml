@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120365" class_number="16879" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ARABIC 135">Colloquial Egyptian Arabic</title>
+            <notes> Not open to auditors. Enrollment limited to 12. Students who have completed Arabic 134 may not take this course for credit.</notes>
+            <prereq>Recommended: Two years of Standard Arabic or the equivalent.</prereq>
+            <description>Introduces students to Egyptian Arabic, the most widely recognized dialect in the Arab world. The course emphasizes the development of speaking and listening skills through the reinforcement of grammar and vocabulary.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e279207a1310" role="1" seniority_sort="1">
+                <display_name>Nevenka Korica Sullivan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

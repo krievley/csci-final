@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125286" class_number="12734" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 26V">Blood: From Gory to Glory</title>
+            <exam_group>FAS08_G</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Humans have long understood that the blood flowing in their veins was imperative to their health and well-being. This course will examine the history, attitudes and beliefs surrounding blood. We will study human beliefs about blood and its uses in cultural beliefs and ceremonies. We will examine the science associated with blood: the production and the function of blood in the body, ideas of blood regarding medicine, healing, blood-related illnesses, biotechnology, nanotechnology and stem cell research.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e157465a1310" role="1" seniority_sort="1">
+                <display_name>David Scadden</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

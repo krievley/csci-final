@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159733" class_number="15068" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 74">Introduction to Buddhism</title>
+            <exam_group>FAS04_A</exam_group>
+            <description>A study of the major themes of Buddhist thought and practice, beginning with the origins of the tradition in India and exploring the transmission and development of the tradition in Southeast Asia, Tibet, East Asia, and the modern West. Important themes include the concepts of reincarnation, karma, and nirvana; the legend of the Buddha, Siddhartha Gautama; the nature of the self; the education of the emotions; and the possibility of liberation. The course will focus on scriptural, literary, and philosophical classics of Buddhist tradition, but it will also consider the tradition of Buddhist art and the formative rituals in Buddhist life, such as meditation, pilgrimage, and monastic discipline.&amp;nbsp;Throughout the course we will consider the relevance of this material to our own views of the world and how we should lead our lives. Note that the course has additional section hour to be arranged.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sever 213 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e206155a1310" role="1" seniority_sort="1">
+                <display_name>M. David Eckel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

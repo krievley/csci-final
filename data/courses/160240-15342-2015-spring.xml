@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160240" class_number="15342" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPNLIT 234">Heike monogatari, Japan's Great Medieval War Tale</title>
+            <description>Reading of text and evaluation of the Sadler, Kitagawa-Tsuchida, McCullough, and Tyler translations.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNLIT">Japanese Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e19469a1310" role="1" seniority_sort="1">
+                <display_name>Edwin Cranston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

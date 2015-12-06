@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128122" class_number="14318" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 24U">How Did I Get Here? Appreciating "Normal" Child Development</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>How do we conceptualize "normal" growth and development? In this seminar, we will examine stages of child development from many vantage points: neurobiological, physical, cultural, and psychological. Readings will include classic papers on development, textbook chapters that provide overviews of specific developmental stages, recently published research articles on brain development and genetic inheritance, selected contemporary children's and young adult literature, personal memoirs, and short stories written about childhood. We will also examine clips from contemporary films. Assignments will consist of three short response papers and a longer final paper. There are no prerequisites for this course.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

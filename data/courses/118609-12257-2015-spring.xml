@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118609" class_number="12257" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 3500">Psychological Science: Talking Points</title>
+            <notes> Enrollment is limited to teaching fellows for ``The Human Mind'' and graduate students who have obtained the permission of the instructor.</notes>
+            <description>A graduate companion course to "Psychological Science," which explores the theories and controversies in greater depth. Topics include genetics, evolution, cognitive neuroscience, perception, development, consciousness, social psychology, personality, psychopathology, violence, sex, and morality.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e86278a1310" role="1" seniority_sort="1">
+                <display_name>Steven Pinker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

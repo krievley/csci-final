@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108574" class_number="11018" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 25Q">Understanding Emotions</title>
+            <exam_group>FAS09_C</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Large and small, simple and complex, self-evident and confusing, emotions in all their variety are a fundamental part of life. But just what are emotions? Are they the same in all cultures? What, if any, functions do they serve? Can we control our emotions? What role do they play in development, personality, relationships and well-being? What effects can they have on physical health? And do they present special challenges to scientific study? This seminar will take up these and other fundamental questions, and will discuss methods used to study emotion and the current state of knowledge about human emotion.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Sever 201 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e22046a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Leeds</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159790" class_number="15081" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BO">Sports and Empire</title>
+            <exam_group>FAS15_E</exam_group>
+            <description>Why do American sports differ from the rest of the world?&amp;nbsp; How did soccer become a global sport?&amp;nbsp; What explains the distribution of cricket and rugby around the world?&amp;nbsp; Are sports a form of cultural imperialism?&amp;nbsp; This course will explore these questions (and more) as we examine the connection between sports and imperialism.&amp;nbsp; Themes we will cover include race, class, gender, professionalism, and commercialization.&amp;nbsp; Readings include rule books, novels, poems, periodicals, memoirs, and films.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Barker 128 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e210229a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Loss</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

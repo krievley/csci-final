@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114279" class_number="16694" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CATALAN BA">Introduction to Catalan</title>
+            <exam_group>FAS09_A</exam_group>
+            <notes> Conducted in Catalan. Knowledge of another Romance language is useful but not essential. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students.
+
+This course is taught by members of the Department.</notes>
+            <description>An introductory course in spoken and written Catalan, the language of approximately ten million people in Spain, France, Italy, and Andorra, and the most widely used of minoritized languages in Europe today. Native Catalan speakers include Antonio GaudÃ­, Salvador DalÃ­, Joan MirÃ³, Antoni TÃ&#160;pies, MercÃ¨ Rodoreda, and Pau Casals. Emphasizing oral communication, reading, and writing, offers students contact with contemporary Catalan culture.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="CATALAN">Catalan</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="16:59:00" location="Sever 107 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e67312a1310" role="1" seniority_sort="1">
+                <display_name>Stacey Bourns</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

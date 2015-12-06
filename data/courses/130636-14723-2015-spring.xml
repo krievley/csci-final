@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130636" class_number="14723" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 66">Migrations: Narrative Setting</title>
+            <description>This course is designed for the "Literary Migrations" portion of the Common Ground curriculum. Although plot, character, and theme are the elements of narrative fiction that typically receive the most attention from readers, this course invites students to examine setting. It is likely to feature works by Defoe, Flaubert, Dickens, Melville, Poe, Fitzgerald, Faulkner, Cather, and Pynchon. In addition, some relevant secondary material will be assigned, such as portions of Watt's Rise of the Novel, Auerbach's Mimesis, and recent works of environmental criticism.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e154444a1310" role="1" seniority_sort="1">
+                <display_name>David Alworth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

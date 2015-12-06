@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124296" class_number="14459" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="KOREAN BA">Elementary Korean</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes>Classes meet five days a week, additional discussion sections to be arranged.  </notes>
+            <description>Introduction to modern Korean: basic grammar, reading of simple texts, conversational skills, and writing short letters. After successful completion of this course, students are expected to be able to handle a limited number of interactive, task-oriented social situations, and to have sufficient control of the writing system to interpret written language in areas of practical needs.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="KOREAN">Korean</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Sever 202 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e20568a1310" role="1" seniority_sort="1">
+                <display_name>Hi-Sun Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

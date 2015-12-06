@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110271" class_number="16807" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 314HFRA">Timely Topics in Statistics</title>
+            <description>Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Science Ctr 706 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e26884a1310" role="1" seniority_sort="1">
+                <display_name>Natesh Pillai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

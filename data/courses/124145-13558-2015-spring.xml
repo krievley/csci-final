@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124145" class_number="13558" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG 98">Tutorial - Junior Year</title>
+            <notes>Josiah Blackmore and members of the Department  Successful completion of Portuguese 98 (or equivalent) is required of all thesis-track honors concentrators in Portuguese-Brazilian Studies. To enroll see course head.
+
+This course is taught by members of the Department.</notes>
+            <description>Weekly individual instruction for juniors pursuing a thesis honors track in Portuguese and Brazilian Studies, culminating in the writing of a 20-25 page research paper in Portuguese.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

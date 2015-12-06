@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125189" class_number="15223" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CULTBLF 11">Medicine and the Body in East Asia and in Europe</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Comparative historical exploration of the striking differences and unexpected similarities between traditional conceptions of the body in East Asian and European medicine; the evolution of beliefs within medical traditions; the relationship between traditional medicine and contemporary experience.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e3357a1310" role="1" seniority_sort="1">
+                <display_name>Shigehisa Kuriyama</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114940" class_number="11991" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL 98">Tutorial - Junior Year</title>
+            <notes>Elvira DiFabio and members of the Department  Successful completion of one term of Italian 98 (or equivalent) is required of all thesis-track honors concentrators in Italian Studies.
+
+This course is taught by members of the Department.</notes>
+            <description>Weekly individual instruction for juniors pursuing a thesis honors track in Italian Studies, culminating in the writing of a 20-25 page research paper in Italian.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

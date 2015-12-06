@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110034" class_number="14588" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 2676">Muslims, Islam and Anthropology</title>
+            <exam_group>FAS04_C</exam_group>
+            <description>This is a survey course to the anthropology of Islam. We first critically examine seminal texts by Evans-Pritchard, Ernst Gellner and Clifford Geertz before turning to Talal Asad's analysis of anthropological categories, and attempt to situate the study of Islam as a discursive tradition. In the second half we focus on recent ethnographic materials that explore Muslim engagements with, and responses to, various features of modernity such as the state, democracy, gender equality as well as the management and securitization of Muslims in the West.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="12:59:00" location="Peabody Museum 12" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6478a1310" role="1" seniority_sort="1">
+                <display_name>Asad Ahmed</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

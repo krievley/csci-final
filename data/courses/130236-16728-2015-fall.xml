@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130236" class_number="16728" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 50">Genetics and Genomics</title>
+            <exam_group>FAS04_A</exam_group>
+            <description>Fundamental concepts in genetics and genomics forming a critical foundation for biology approached from two perspectives: (1) as a body of knowledge pertaining to genetic transmission, function, mutation, and evolution in eukaryotes and prokaryotes; and (2) as an experimental approach providing a toolkit for the study of biological processes such as development and behavior. Topics include structure, function, transmission, linkage, mutation, and manipulation of genes; genetic approaches in experimental studies of biological processes; and analysis of genomes in individuals and populations. Related ethical issues also discussed include genetically modified organisms, gene therapy, genetic testing, personalized medicine, and genetic privacy.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Museum of Comp Zool 202 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e21135a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Hartl</display_name>
+            </person>
+            <person id="d1e21138a1310" role="1" seniority_sort="2">
+                <display_name>Robin Hopkins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

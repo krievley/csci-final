@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159725" class_number="16247" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 30C">Fictions of War</title>
+            <exam_group>FAS03_C</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar will focus on landmark works of fiction (in English) that grapple with&amp;nbsp; individual experiences and social consequences of major wars involving the U.S.&amp;nbsp;&amp;nbsp; Military confrontations are immensely destructive but, as human enterprises, they also produce culture.&amp;nbsp; The seminar will investigate how modern soldiers have represented the aims and outcomes of the field of war in fiction.&amp;nbsp; More inclusively, it will examine both the intentional and unintentional cultural work of war. The seminar&amp;#39;s title is deliberately ambiguous, also allowing for the implication that nations construct fictions about aims or enemies in order to galvanize their people to wage war.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40593a1310" role="1" seniority_sort="1">
+                <display_name>Nancy Cott</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

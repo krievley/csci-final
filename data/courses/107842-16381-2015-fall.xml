@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107842" class_number="16381" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 252">Global Geophysics: A Primer</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes> Formerly offered as EPS 205. Students who have taken EPS 205 cannot take EPS 252 for credit.</notes>
+            <description>An introductory treatment of solid Earth geophysics for graduate students in all EPS and SEAS disciplines. The course will cover a sampling of topics that all Earth scientists should have knowledge of, whether to facilitate applications to their own research or to simply follow departmental seminars in geophysics. Topics include: the Earth's composition and internal boundaries; qualitative and quantitative plate tectonics; the Earth's energy budget, isostasy; Earth rheology, with examples from seismology, tides, glacial isostatic adjustment and mantle convection; the Earth's gravity field and geodesy; planetary rotation. Physical concepts will be emphasized over mathematical derivations. While there are no formal pre-requisites for the course, some training in calculus, ordinary and partial differential equations would be helpful. Extra class time and material will be available for students without this background.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Geological Museum 103A (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e24132a1310" role="1" seniority_sort="1">
+                <display_name>Jerry Mitrovica</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

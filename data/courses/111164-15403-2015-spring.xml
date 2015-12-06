@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111164" class_number="15403" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 15A">Introductory Mechanics and Relativity</title>
+            <notes> Principles of Scientific Inquiry (PSI) is the laboratory component of Physics 15a. Topics include experimental design, model testing, error analysis, basic programming, oral presentations, and scientific writing. PSI will meet weekly throughout the semester. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.</notes>
+            <prereq>Recommended: Mathematics preparation at least at the level of Mathematics 1b concurrently is required. However, some elementary ideas from multivariable calculus may be used and students are encouraged to take Mathematics 21a concurrently.</prereq>
+            <description>Newtonian mechanics and special relativity. Topics include vectors; kinematics in three dimensions; Newton's laws; force, work, power; conservative forces, potential energy; momentum, collisions; rotational motion, angular momentum, torque; static equilibrium, oscillations, simple harmonic motions; gravitation, planetary motion; fluids; special relativity.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e53929a1310" role="1" seniority_sort="1">
+                <display_name>David J. Morin</display_name>
+            </person>
+            <person id="d1e44446a1310" role="2" seniority_sort="2">
+                <display_name>Carey Witkov</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

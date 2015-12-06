@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119848" class_number="12953" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BIOSTAT 235">Advanced Regression and Statistical Learning</title>
+            <exam_group>FAS18_I</exam_group>
+            <notes>A weekly 90-minute lab.  Offered jointly with the School of Public Health as BIO235.</notes>
+            <prereq>Prerequisite: Biostatistics 231 AND Biostatistics 233</prereq>
+            <description>An advanced course in linear models, including both classical theory and methods for high dimensional data. Topics include theory of estimation and hypothesis testing, multiple testing problems and false discovery rates, cross validation and model selection, regularization and the LASSO, principal components and dimension reduction, and classification methods. Background in matrix algebra and linear regression required.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:20:00" location="" start_time="10:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e260418a1310" role="1" seniority_sort="1">
+                <display_name>Robert Gray</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

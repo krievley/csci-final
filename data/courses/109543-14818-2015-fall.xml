@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109543" class_number="14818" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CULTBLF 57">Animated Spirituality: Japanese Religion in Anime, Manga, and Film</title>
+            <exam_group>FAS15_A</exam_group>
+            <description>This course addresses the representation of religion in Japanese popular culture, with emphasis on anime, manga, and film. The course examines depictions of religious figures, themes, and human dilemmas in contemporary popular culture as a gateway to understanding the significance of religion in Japanese society and history.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="CGIS South S010 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e19422a1310" role="1" seniority_sort="1">
+                <display_name>Helen Hardacre</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

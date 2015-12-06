@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119121" class_number="16582" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 70B">Introduction to French Literature II: 19th and 20th Centuries: Tales of Identity</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Conducted in French; third hour devoted to discussion of texts studied.</notes>
+            <prereq>Recommended: A 50- or 60-level course in French; a score above 780 on the SAT II test or the Harvard Placement test, equivalent preparation, or permission of course head.</prereq>
+            <description>How do we know ourselves? Traditional definitions of the self have been founded on family, gender, race, religion, nationality. We'll read a number of texts from the 19th-21st centuries that pose questions and complicate answers to questions of identity. Readings include works by Claire de Duras, Balzac, George Sand, Merimee, Colette, Nothomb, and LeClezio.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Boylston 403 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43686a1310" role="1" seniority_sort="1">
+                <display_name>Janet Beizer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

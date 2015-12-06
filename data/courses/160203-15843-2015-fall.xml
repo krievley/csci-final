@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160203" class_number="15843" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 42H">The U.S. Energy Revolution and its Implications</title>
+            <exam_group>FAS03_C</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The U.S. &amp;ldquo;energy revolution&amp;rdquo; &amp;ndash; nonconventional oil and gas production (fracking), increasing use of renewable energy, and reduced demand &amp;ndash; has contributed to a sharp decline in U.S. oil imports, a 10% reduction in U.S. carbon dioxide emissions, and economic growth. This course examines the changing U.S. energy landscape, energy security, U.S. climate policy, and the connection between these issues and our own lives. Four case studies (biofuels, mining coal on public lands, regulating carbon dioxide emissions from power plants, and university divestment) illustrate the economic considerations, tradeoffs, and legal and political constraints facing U.S. energy and climate policy in practice.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Littauer Ctr M17 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47300a1310" role="1" seniority_sort="1">
+                <display_name>James H. Stock</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

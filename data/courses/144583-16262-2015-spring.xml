@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144583" class_number="16262" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 103">Plant Systematics and Evolution</title>
+            <notes> There are two midterms, a final, and frequent lab quizzes.</notes>
+            <prereq>Recommended: OEB 10 or permission of instructor.</prereq>
+            <description>An introduction to the diversity and evolution of vascular plants. The course focuses mainly on flowering plants because of their dominant role on the earth, but lycophytes, ferns, and gymnosperms are studied as well. A phylogeny of vascular plants provides the framework for their evolution and diversification. Related subjects, including plant habitats, biogeography, phylogenetics, herbaria, nomenclature, and pollination biology are also presented in lecture and laboratory.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

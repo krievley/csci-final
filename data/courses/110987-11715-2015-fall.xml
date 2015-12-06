@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110987" class_number="11715" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 99R">Tutorial - Senior Year</title>
+            <notes>Sindhumathi Revuluri and members of the Department  </notes>
+            <description>Open to senior candidates for honors in Music who have written permission to enroll from the instructor with whom they wish to work, and also from the Head Tutor in Music. May be counted toward concentration credit only by honors candidates.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e60418a1310" role="1" seniority_sort="1">
+                <display_name>Sindhumathi Revuluri</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

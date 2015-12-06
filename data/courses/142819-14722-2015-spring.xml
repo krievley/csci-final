@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142819" class_number="14722" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WOMGEN 1210FT">Postcolonial Feminist Theory</title>
+            <description>What is the relationship between feminist and postcolonial studies, and what do they have to teach each other? What intellectual legacies are produced by the historical experience and aftermath of colonialism? How do scholars like Gayatri Chakravorty Spivak, Sara Suleri, and Jenny Sharpe change our understanding of feminism, colonialism and imperialism, &amp;ldquo;postcolonialism,&amp;rdquo; and the relationship between aesthetics and politics? Through close reading and frequent writing, students will examine how scholarship at the intersection of postcolonial and feminist studies demonstrates what &amp;quot;theory&amp;quot; is or can be.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e420159a1310" role="1" seniority_sort="1">
+                <display_name>Katherine Stanton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

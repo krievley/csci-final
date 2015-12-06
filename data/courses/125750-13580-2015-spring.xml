@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125750" class_number="13580" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EMREAS 11">Making Sense: Language, Logic, and Interpretation</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding or Empirical and Mathematical Reasoning, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Why is human language capable of conveying meaningful information to a degree unmatched by natural or artificial codes? Why does semantic content spontaneously attach to speech sounds, but not in the same way to, say, music? We claim that this has to do with language being the carrier of a spontaneous form of logic. We investigate our hypothesis by using formal models from logic, linguistics, computer science, and literary criticism. We show how such models can be helpful in better understanding ordinary, everyday communication, as well as literary fiction through a reading of texts by Euripides, Cervantes, Austen, Proust, and others.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="EMREAS">Empirical and Mathematical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e212290a1310" role="1" seniority_sort="1">
+                <display_name>Gennaro Chierchia</display_name>
+            </person>
+            <person id="d1e47146a1310" role="2" seniority_sort="2">
+                <display_name>Stuart Shieber</display_name>
+            </person>
+            <person id="d1e43460a1310" role="2" seniority_sort="3">
+                <display_name>Virginie Greene</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

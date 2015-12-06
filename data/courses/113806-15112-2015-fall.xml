@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113806" class_number="15112" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="PORTUG AC">Beginning Portuguese for Spanish Speakers I</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes> Conducted in Portuguese. Requires a solid knowledge of but not necessarily native proficiency in Spanish. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Portuguese Ac website.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: 750 on the Spanish SAT II or the Harvard Placement test; 5 on the Spanish AP test; or a 40s level Spanish course.</prereq>
+            <description>An introductory language course designed for Spanish-speakers. Along with the fundamental communication skills_understanding, speaking, reading and writing_the course will focus on those features of Portuguese which are most difficult for Spanish speakers: pronunciation, idioms and grammatical structures particular to Portuguese. Students will be introduced to the cultures of the Portuguese-speaking world through readings and authentic materials, including films, music, and videotapes.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="12:59:00" location="Sever 305 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e97122a1310" role="1" seniority_sort="1">
+                <display_name>Viviane Gontijo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

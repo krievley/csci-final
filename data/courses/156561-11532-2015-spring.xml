@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156561" class_number="11532" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1858">Stress, Coping, and Resilience</title>
+            <prereq>Recommended: SLS-20 and PSY 18.</prereq>
+            <description>The goal of this course is to give an in-depth understanding of the theoretical and empirical work on stress (e.g., negative life events, psychological and physiological stress), coping, and resilience. Theories of stress will be discussed from social, cognitive, and biological perspectives. Major focus will be given to the study of resilience to stress and related topics (e.g., psychopathology, self-injury) through the lens of positive psychology. By the end of the course, students will understand the causes, course, and consequences of stress and resilience to stress.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e319671a1310" role="1" seniority_sort="1">
+                <display_name>Evan Kleiman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

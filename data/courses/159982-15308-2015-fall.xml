@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159982" class_number="15308" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 199N">Between Europe and Asia: Colonial Latin America and the Art of Fusion</title>
+            <exam_group>FAS15_A</exam_group>
+            <description>This new course will take advantage of the Fall 2015 exhibition, Made in America, at MFA to study the creative interactions between Asia and Europe as they transpired in Mexico and Peru as well as the cultural and artistic exchanges with both areas.&amp;nbsp; In 1565, a systematic exchange between Asia and Mexico began, and known as the Manila Galleon.&amp;nbsp; Ivories, silks, lacquer ware were brought to the port of Acapulco from Manila where they were either taken to Mexico City and sold or were transported to Lima Seville or else where.&amp;nbsp; Chinese and Japanese artisans and diplomats also travelled to Mexico City, Madrid and Rome in the 16th and Seventeenth Centuries.&amp;nbsp; These exchanges were equaled with European artists, diplomats and missionaries traveling to China and Japan.&amp;nbsp; Such exchanges find resonance in the arts throughout the world, be it the choir stalls of Sucre Bolivia, or Peter Paul Ruben&amp;rsquo;s drawing of a man from Seoul Korea.&amp;nbsp; To be addressed in the class are issues of influence (how does it manifest itself and why) narratives of global exchange (we will read the log of a Florentine Merchant who went around the world trading, what do they tells and how and why in the early 17th century).&amp;nbsp; How do such objects as Japanese screens become an object in Mexico and a medium of representation of cultural contact in Japan?&amp;nbsp; Also, with the expansion of Europe into the rest of the world, how do cultures become to be seen in relation to each other?&amp;nbsp; First and foremost was the universal desire to evangelize all parts of the known world.&amp;nbsp; How then do these different historical element affect our understanding of Colonial Latin American art, culture and society?&amp;nbsp;The syllabus will include reading from primary sources as well as recent studies.&amp;nbsp; Several readings will be from the catalogue to the exhibition, which also will be our textbook.&amp;nbsp; Students will also be able to take advantage of a two-day symposium (September 19th and 20th) to be held at Harvard and the MFA.&amp;nbsp; Scholars from around the world will present some of the newest research on various aspects of this earliest global artistic and cultural interaction</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="Sackler Museum 515" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e171077a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Cummins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

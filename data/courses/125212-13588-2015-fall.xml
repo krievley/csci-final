@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125212" class_number="13588" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 51A">Theory Ia</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> For this course a placement exam is required, which is offered the week before classes begin. Please see the Canvas course website for M51a for more information.  Music 51a or its equivalent is required of all concentrators. Students planning to concentrate in Music are encouraged to take the course in their freshman year. Concentrators should plan to meet this requirement by no later than the end of the sophomore year. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <prereq>Recommended: Basic theory and ear training skills. Basic keyboard skills are useful.</prereq>
+            <description>Course unfolds the foundations of tonal music, including line, harmony, counterpoint, rhythm, timbre, and form. Includes regular practical exercises in model composition, analysis, ear-training, keyboard skills, and musicianship.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Music PH9 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e196127a1310" role="1" seniority_sort="1">
+                <display_name>Richard Beaudoin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

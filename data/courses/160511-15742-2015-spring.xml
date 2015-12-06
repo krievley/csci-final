@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160511" class_number="15742" school_id="fas" section="01" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPNHIST 121">Comparative History of Women and Gender In East Asia up to WWII</title>
+            <notes>This course will be taught by Sachiko Kawai, EALC College Fellow.  This course will be taught by Sachiko Kawai, EALC College Fellow.</notes>
+            <description>A comparative perspective is a challenging but important approach for studying women&amp;rsquo;s andgender history; it helps us generate new questions by seeing things that have been taken forgranted. In this course, we will learn the histories of East Asian women by investigating changinggender roles and power relations from approximately 600 to 1945. Under important topics such asfemale rulership, legal rights, family, religion, and sexuality, we will compare experiences andrepresentations of Japanese, Korean, and Chinese women, to understand diverse but still sharedcultures from which East Asian women and men invented new customs and traditions.The relationship between authority and power is a central theme for this course. We first defineauthority and power. Then we will investigate historical cases in which women successfully orunsuccessfully used their authority and wielded power to accomplish their goals by negotiatingchallenges related to their gender roles and existing social expectations. Although we will focuson cases of women, we will compare those with other cases (men, transgenderism, etc.) to fullyunderstand complex authority-power relations.While examining course materials in a roughly chronological order, we will refer back topreviously discovered information and ideas by focusing on several important questions:1) Did women have legally or socially acknowledged rights?&amp;nbsp; If so, what kinds of rights were they? How did women use&amp;nbsp; them?2) When women lacked certain rights, under what circumstances did women still exercise power?And how?3) Is there an underlying force that tends to maintain gender disparity? How did it shape institutional and sociocultural mechanisms and affect the experiences of women and men as well as gender construction?</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNHIST">Japanese History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e166784a1310" role="1" seniority_sort="1">
+                <display_name>Sachiko Kawai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

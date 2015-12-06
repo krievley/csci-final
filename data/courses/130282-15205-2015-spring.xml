@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130282" class_number="15205" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 90JK">The Poetry of John Keats: Seminar</title>
+            <description>A study of most of the poetry, focusing on influences, genre-changes, poetics, and the Keatsian lexicon.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57498a1310" role="1" seniority_sort="1">
+                <display_name>Helen Vendler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

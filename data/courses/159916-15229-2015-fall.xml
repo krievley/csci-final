@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159916" class_number="15229" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 177P">Language of Photography in the USA: From Walker Evans to Lorna Simpson</title>
+            <exam_group>FAS09_C</exam_group>
+            <description>Does photography have a language? For the past several decades, a series of practitioners in America have grappled with this question. By using such devices as repetition, sequence, differentiation, and spatial arrangement, artists such as Walker Evans, Robert Frank, Martha Rosler, and Lorna Simpson have considered the possibility of photography possessing a distinctive syntax within a larger social field. In this course, we will consider the history of these efforts to define and engage the limits of photographic significance.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Sackler Museum 515" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e34517a1310" role="1" seniority_sort="1">
+                <display_name>Robin Kelsey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

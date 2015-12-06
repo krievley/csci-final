@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125191" class_number="14712" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCRB 165">Directed Differentiation of Stem Cells</title>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a, or permission of instructor.</prereq>
+            <description>This practical laboratory course will investigate the fundamental biology of human embryonic stem cells and their remarkable capacity to differentiate into all cells of the body. The underlying developmental pathways that guide embryonic stem cell development into these differentiated cell types will be explored. A chemical biology approach will also be used to probe properties of normal and disease model cells derived from embryonic stem cells.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e283784a1310" role="1" seniority_sort="1">
+                <display_name>Chad Cowan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

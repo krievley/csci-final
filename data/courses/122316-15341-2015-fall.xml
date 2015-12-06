@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122316" class_number="15341" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 993A">Senior Tutorial: Honors Thesis (Cognitive Neuroscience and Evolutionary Psychology)</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes>	Taught by Danielle Truxaw and members of the Department.  Required of and limited to senior honors psychology concentrators in the Cognitive Neuroscience and Evolutionary Psycholgy track, who will take this course in lieu of Psychology 990.</notes>
+            <prereq>Recommended: Approved thesis application and Psychology 1901.</prereq>
+            <description>Individual supervised thesis research supplemented with occasional group meetings to discuss major aspects of the thesis process (e.g., organizing, conducting, and presenting research). Graded Sat/Unsat. Prospectus meeting required for fall term credit, as well as a paper for students who divide course at mid-year. Submission of thesis required for full year credit.&amp;nbsp; Part one of a two part series.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="William James 303 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43786a1310" role="1" seniority_sort="1">
+                <display_name>Danielle Truxaw</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

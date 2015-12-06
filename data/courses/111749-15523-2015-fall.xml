@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111749" class_number="15523" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1535">International Trade and Investment</title>
+            <exam_group>FAS08_A</exam_group>
+            <prereq>Recommended: Economics 1010a1, 1010a2, or 1011a.</prereq>
+            <description>Analyzes the causes and consequences of international trade and investment. Focuses on the interplay of economic theory and empirical descriptions of foreign trade and direct investment patterns.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Emerson 305 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e54203a1310" role="1" seniority_sort="1">
+                <display_name>Pol Antras</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

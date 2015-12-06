@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125640" class_number="13375" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EABS 255">Readings on Chinese Religions: Recent Scholarship on Chinese Buddhism and Daoism: Seminar</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes> Offered jointly with the Divinity School as 3232.</notes>
+            <description>This seminar aims to discuss significant new works in the field of Chinese Religions by focusing on the historical, doctrinal, and philosophical development of the Buddhist tradition in China.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EABS">East Asian Buddhist Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="CGIS Knafel K107 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e10308a1310" role="1" seniority_sort="1">
+                <display_name>James Robson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

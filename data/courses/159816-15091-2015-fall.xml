@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159816" class_number="15091" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98OQ">Political Rhetoric and American Democracy</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> This course will be lotteried.</notes>
+            <description>										In this course, we will investigate a question at the heart of democratic politics: in what sense, if any, is rhetoric a part of reasoned political argument? Is rhetoric a regrettable feature of democracy, or a practice worth cultivating? We often denigrate rhetoric as pandering or manipulation. We often assume that stories, images, and metaphors intended to persuade a particular audience are, at best, adornments to the &amp;quot;real argument.&amp;quot; At worst, they are means of trickery, ways of moving people to a decision that their better reason would reject.But examples of great rhetoric force us to question this assumption. The speeches of political figures such as John F. Kennedy, Lyndon Johnson, and Martin Luther King arguably derive their moral force not simply from the principles they invoke, but from the way in which they appeal to the life circumstances of their listeners.We will examine the case for and against rhetoric by turning to classical texts (Aristotle, Plato, Hobbes, Kant), contemporary political theory (Garsten, Beiner, Chambers), and great political speeches (Douglass, Lincoln, Johnson, and others.)			&amp;nbsp;</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="William James 303 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e166836a1310" role="1" seniority_sort="1">
+                <display_name>Adam Sandel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

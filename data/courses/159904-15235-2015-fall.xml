@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159904" class_number="15235" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 33F">Mind, Matter, Me: Map your way into Philosophy</title>
+            <exam_group>FAS13_E</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Humans clearly have minds; we just as clearly have bodies. This raises many puzzles: Are mind and body two things or one? How are they related to each other and the person called me? In this course, we&amp;rsquo;ll look at a range of arguments about how to understand mind-body-self relations. Deeply engaging these arguments requires the skills of close reading and argument analysis. To develop these skills, this course will teach Argument Mapping, which involves identifying the essential elements of an argument and constructing a visual map that conveys the argument&amp;rsquo;s structure at a glance.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Quincy House/Stone Innov S001" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e69548a1310" role="1" seniority_sort="1">
+                <display_name>Alison Simmons</display_name>
+            </person>
+            <person id="d1e31856a1310" role="2" seniority_sort="2">
+                <display_name>Parimal G. Patil</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

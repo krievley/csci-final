@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126853" class_number="13722" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 71B">Introduction to Modern Latin American Literature</title>
+            <notes>M., W., at 12, and an additional weekly section hour to be arranged.   Mariano Siskind and members of the Department  Conducted in Spanish.</notes>
+            <prereq>Recommended: A score above 780 on the SAT II or on the Harvard Placement test; a 50-, or 60-level course in Spanish; or permission of course head.</prereq>
+            <description>This course is a survey of Latin American Literature from the last decades of the 19th century to the present. It offers an overview of the most salient moments in modern Latin American cultural history, placing emphasis on the ways in which specific literary works relate to the social and political developments that have shaped the region since the late 19th century. Readings by Machado de Assis, Rulfo, Borges, Gioconda Belli, Bellatin, Pizarnik, and others.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

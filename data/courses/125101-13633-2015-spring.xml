@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125101" class_number="13633" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 40">Philosophy and Methods of the Social Sciences</title>
+            <description>This course integrates research methods with an investigation of the philosophical foundations of the social sciences. Topics covered include causal explanation, interpretation, rational choice and irrationality, relativism, collective action, and social choice.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

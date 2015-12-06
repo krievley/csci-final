@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145431" class_number="12831" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="IMMUN 384">The Role of Cysteinyl Leukotrienes &amp; Nucleotide Receptors in Control of Pulmonary Allergic Immunity</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e317549a1310" role="1" seniority_sort="1">
+                <display_name>Joshua Boyce</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114922" class_number="15003" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCIPHUNV 13">Why You Hear What You Hear: The Science of Music and Sound</title>
+            <description>Sound and music are integral parts of all human cultures, and play critical roles in communications and social interactions. In this course, we study the production, transmission, and perception of sound, with the aim of expanding communication, musical, and artistic horizons. The course&amp;nbsp; includes many class demos and hands on tools for students to explore. Psychoacoustics (the study of how we perceive and interpret sound) is a central theme of the course, providing a lens through which we can better understand the generation, propagation, and analysis of sound. Student-selected projects (with staff consultation) are an important part of the course.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e28720a1310" role="1" seniority_sort="1">
+                <display_name>Eric Heller</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

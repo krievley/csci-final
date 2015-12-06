@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159712" class_number="14742" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 141">Social Dynamics in Twentieth-Century Modernism</title>
+            <description>	The course explores the relationship between experimental &amp;nbsp;German modernist texts and &amp;nbsp;their representations of social dynamics. &amp;nbsp;Why do these texts tend to focus on madmen, criminals, fanatics, outsiders, alongside various types of intellectuals? &amp;nbsp;Texts are predominantly short, but one novel and a drama are also included. Authors treated: Schnitzler, Hofmannsthal, Carl Einstein, Rilke, Kafka, Thomas Mann, D&amp;ouml;blin, Benn, and Musil. Theorists include Freud, Bahr, Weber, Simmel, Mannheim, Broch, Canetti and others.	&amp;nbsp;	Readings in German, discussion in English</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e42409a1310" role="1" seniority_sort="1">
+                <display_name>Judith Ryan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

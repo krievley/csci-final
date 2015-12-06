@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145319" class_number="14945" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EASTD 98D">Junior Tutorial--The Political Economy of Modern China</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes> EAS 98a, 98b, 98d, 98g or a substitution approved by the Director of Undergraduate Studies is required for all EAS concentrators. Preference to EAS students but open to Government concentrators.</notes>
+            <description>Junior Tutorial for students with an interest in China Social Sciences. After an introduction to the historical context of China's development, this course will focus on the political economy of reform in the post-Mao period. Some of the topics covered include democracy, the 1989 Tiananmen protests, the rise of entrepreneurs, the role of labor, rural-urban migration, and the Internet.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EASTD">East Asian Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="CGIS Knafel K031 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e31290a1310" role="1" seniority_sort="1">
+                <display_name>Nara Dillon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159860" class_number="14959" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 50B">Introduction to Non Fiction Filmmaking</title>
+            <description>Introductory exercises in live-action 16mm filmmaking culminating in the production of a nonfiction film as a group project in the spring term. &amp;nbsp;Part two of a two part series.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e98006a1310" role="1" seniority_sort="1">
+                <display_name>Ross McElwee</display_name>
+            </person>
+            <person id="d1e98006a1310" role="1" seniority_sort="1">
+                <display_name>Ross McElwee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

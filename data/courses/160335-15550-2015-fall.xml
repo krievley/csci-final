@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160335" class_number="15550" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94CI">Comparing India and China: An Examination of State-Society Relations</title>
+            <exam_group>FAS15_E</exam_group>
+            <description>In the late 1940s, India witnessed a peaceful transition to democracy, while China experienced a Communist revolution. After this divergence, both countries began pursuing market reforms in the effort to accelerate economic growth in the 1980s and 1990s. We will explore the ways in which power has been consolidated and distributed under these very different regimes and the implications this has had for a range of socio-political and economic outcomes, including famine, economic development, and urbanization. Throughout the course we will place India and China in the context of comparative debates about other parts of the developing world.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="CGIS Knafel K107 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e31290a1310" role="1" seniority_sort="1">
+                <display_name>Nara Dillon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

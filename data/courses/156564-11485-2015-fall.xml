@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156564" class_number="11485" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1993">Introduction to Digital History</title>
+            <exam_group>FAS09_C</exam_group>
+            <description>This course will introduce students to the use of digital tools in historical research. We will explore the emerging fields of digital history and public history and the current and potential impact of digital technologies on the theory and practice of history. The course will train students in the acquisition, management, analysis, visualization, and sharing of historical data, documents, and texts.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Robinson 105 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e57129a1310" role="1" seniority_sort="1">
+                <display_name>Gabriel Pizzorno</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

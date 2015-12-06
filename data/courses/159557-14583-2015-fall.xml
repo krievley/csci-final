@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159557" class_number="14583" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SLAVIC 241">Russian Futurism and Formalism</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>Follows the development of two major movements in Russian literature &amp;ndash; Futurism and Formalism - in close conjunction with each other and in the context of Russian Modernism at large. Examines poems, manifestos, theoretical writings, visual arts, theater productions, films. Key questions include: how could Futurism, with its scandalous manifestos and &amp;ldquo;transrational&amp;rdquo; poems, evolve into the Formalist theory with its cult of science and rigorous methodology? How to make sense of the transrational? What made Futurists paint their faces? Works by Bely, Khlebnikov, Mayakovsky, Kruchyonych, Shklovsky, Tynianov, Jacobson, Larionov, Malevich, Zdanevich, Rodchenko, Vertov.&amp;nbsp;</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Barker 373 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e54249a1310" role="1" seniority_sort="1">
+                <display_name>Daria Khitrova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

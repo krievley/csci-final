@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159872" class_number="15010" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="YORUBA AB">Elementary Yoruba</title>
+            <notes> Primarily designed for students who have no prior knowledge of Yoruba. However, students with minimal knowledge of the language may also register for the course. Not open to auditors.</notes>
+            <description>Yoruba is spoken in the West African countries of Nigeria, Benin Republic, and parts of Togo and Sierra Leone, therefore constituting one of the largest single languages in sub-Saharan Africa. Yoruba is also spoken in Cuba and Brazil. Students will acquire the Yoruba language at the basic or elementary level. &amp;nbsp;Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="YORUBA">Yoruba</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e7845a1310" role="1" seniority_sort="1">
+                <display_name>John Mugane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

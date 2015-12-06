@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122752" class_number="18911" school_id="fas" section="008" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 970">Tutorial - Sophomore Year</title>
+            <exam_group>FAS08_A</exam_group>
+            <notes> One term required of all Economics concentrators. Enrollment limited to concentrators. Has an introductory meeting. Meets in assigned section thereafter.</notes>
+            <prereq>Prerequisite: (Statistics 100 OR Statistics 104 OR  Statistics 110) AND (Economics 1010a OR Economics 1011a)</prereq>
+            <description>A series of seminars taught in small sections focusing on applications of economic theory to real problems.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Friday" end_time="20:29:00" location="" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e10124a1310" role="1" seniority_sort="5">
+                <display_name>Kiran Gajwani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122304" class_number="13517" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 115">Introduction to Computational Biology and Bioinformatics</title>
+            <prereq>Recommended: Good quantitative skills, strong interest in biology, willingness and diligence to learn programming.</prereq>
+            <description>The course will cover basic technology platforms, data analysis problems and algorithms in computational biology. Topics include sequence alignment and search, high throughput experiments for gene expression, transcription factor binding and epigenetic profiling, motif finding, RNA/protein structure prediction, proteomics and genome-wide association studies. Computational algorithms covered include hidden Markov model, Gibbs sampler, clustering and classification methods.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e1162a1310" role="1" seniority_sort="1">
+                <display_name>Xiaole (Shirley) Liu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

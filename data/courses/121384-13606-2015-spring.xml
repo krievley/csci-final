@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121384" class_number="13606" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BCMP 377">Quantitative Proteomics of Cancer Progression</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e245667a1310" role="1" seniority_sort="1">
+                <display_name>Jarrod Marto</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

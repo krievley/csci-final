@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119079" class_number="16317" school_id="fas" section="018" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 3400">Reading and Research</title>
+            <notes> Consult the appropriate member of the Department.</notes>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e47773a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Liebmann</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

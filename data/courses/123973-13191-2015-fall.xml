@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123973" class_number="13191" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 18">Abnormal Psychology</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> This course counts toward foundational requirements for Psychology and should be taken before courses at the 1000 level or higher.</notes>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 or the equivalent of introductory psychology (e.g. Psych AP=5 or IB = 7) before enrolling in this course.</prereq>
+            <description>Introduction to the study of psychological dysfunction. Focuses on abnormal behavior as it relates to the definition, etiology, and treatment of major symptom domains. This course will emphasize critical evaluation of the causes and mechanisms of mental illness, with special attention paid to recent neuroscientific and genetic research on the neurobiology of psychopathology.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Yenching Library 118 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15196a1310" role="1" seniority_sort="1">
+                <display_name>Joshua Buckholtz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

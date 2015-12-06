@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119260" class_number="16018" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 230">Advanced Tissue Engineering</title>
+            <prereq>Recommended: Biochemistry or cell biology background.</prereq>
+            <description>Fundamental engineering and biological principles underlying field of tissue engineering, along with examples and strategies to engineer specific tissues for clinical use. Student design teams prepare a research proposal and participate in a weekly laboratory.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15524a1310" role="1" seniority_sort="1">
+                <display_name>David Mooney</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

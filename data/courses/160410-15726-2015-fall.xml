@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160410" class_number="15726" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1951">Eureka! An Anthropology of Innovation</title>
+            <exam_group>FAS04_C</exam_group>
+            <description>To be human is to have the ability to adapt and innovate. The creative and generative spirit of human thought and action is considered to bridge the dividing lines of cultures and nations. An emphasis on innovation and creative solutions has risen in the past decade, as global crises, such as climate change, economic instability, and epidemics, challenge life as we know it. In this class we examine the idea of innovation to explore its processes and politics. We explore both the potential and perils of innovation through specific case studies in technology, artistic endeavors, entrepreneurial initiatives, and everyday life.We approach the idea of innovation through a constellation of terms that accompany it: creativity, generativity, improvisation, ingenuity, entrepreneurism, and cultural and technological change. We will ask: Why and how do we innovate? What does it mean to innovate? What are the historical and geographic conditions and the tools and technologies that enable innovation? In this day and age of celebration of entrepreneurial activity and creative collaborations: we ask who is read as innovative and what are the limits of the innovative endeavor?The course begins with classic texts on creative processes to discuss the innovative human condition. We juxtapose these with texts on the politics of creation. We will think through innovative processes and discuss the idea of the innovative in the every day. Ethnographic monographs will raise questions of body, technology race, class, education, mobility, and gender. How do these change the way we read innovation? We will end by examining how innovation might work with or against modes of exploitation and domination.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="12:59:00" location="Tozzer 416 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e202924a1310" role="1" seniority_sort="1">
+                <display_name>Namita Dharia</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

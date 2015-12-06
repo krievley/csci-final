@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115688" class_number="12003" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 70">The Art of Film</title>
+            <notes>Tu., Thu. at 10, a weekly screening Tu. 7-10, and a weekly section to be arranged.  No background in film history or theory necessary. Required for all students concentrating in Film Studies. This course has an additional weekly film screening on Tuesdays at 7pm to 10pm. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>An introductory course that focuses on the language of film and moving image media. It will provide the students with the analytical tools to respond both critically and creatively to moving image media, with an emphasis on close formal analysis. In the interest of exploring the vast possibilities of the moving image, we will watch a broad selection of narrative and non-narrative works from around the globe alongside canonical feature films.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e18300a1310" role="1" seniority_sort="1">
+                <display_name>Laura Frahm</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

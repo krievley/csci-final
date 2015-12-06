@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114050" class_number="16407" school_id="fas" section="020" term_code="fall">
+        <catalog_info>
+            <title short_title="RSEA 300">Thesis Research and Writing</title>
+            <notes> Committee recommends this course be taken in the Fall semester of the G2 year.  Only one course graded SAT/UNSAT may be used to fulfill the RSEA course requirement.</notes>
+            <description>Candidates for the A.M. degree in Regional Studies_East Asia may undertake A.M. thesis reading and research in an approved area of their choice under the direction of a member of the Faculty.</description>
+            <department code="RSEA">Regional Studies - East Asia</department>
+            <course_group code="RSEA">Regional Studies - East Asia</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>16</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e3357a1310" role="1" seniority_sort="1">
+                <display_name>Shigehisa Kuriyama</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126924" class_number="14825" school_id="fas" section="00`" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPNLIT 271">Topics in Gender and Culture in Japan: Seminar</title>
+            <description>A seminar course that studies the constructions of gender and gender relations in Japan through the examination of various forms of expressive culture (visual, textual, sonic) in their historical contexts.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNLIT">Japanese Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e29548a1310" role="1" seniority_sort="1">
+                <display_name>Tomiko Yoda</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

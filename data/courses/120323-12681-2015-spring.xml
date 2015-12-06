@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120323" class_number="12681" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPNHIST 126">Shinto: Conference Course</title>
+            <notes> General knowledge of Japanese history and religion is helpful. Japanese language is not required, but several meetings will be held for students able to use Japanese-language sources. Offered jointly with the Divinity School as 3960.</notes>
+            <description>An examination of Shinto, emphasizing its concepts of deity (kami), patterns of ritual and festival, shrines as religious and social institutions, political culture and interactions with party politics, and its contribution to contemporary youth culture.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNHIST">Japanese History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19422a1310" role="1" seniority_sort="1">
+                <display_name>Helen Hardacre</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

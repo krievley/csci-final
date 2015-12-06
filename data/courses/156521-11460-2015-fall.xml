@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156521" class_number="11460" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1444">God and Money</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> Offered jointly with the Divinity School as 2190.</notes>
+            <description>What Is the spiritual significance of money? Wealth and poverty have posed controversial questions for faith since the attacks by the Hebrew prophets; Jesus' warnings to the rich about the eye of the needle; and the sharp objections raised by monastics, St. Francis and reformers. These themes persist in current disputes, sparked in part by Pope Francis's statements about inequality, and by controversies around the prosperity gospel and liberation theology's "preferential option for the poor." This course will explore biblical, theological and ethical dimensions of these issues and will include some comparative discussion of how other religions approach them.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="Andover 102 (HDS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e59212a1310" role="1" seniority_sort="1">
+                <display_name>Harvey Cox</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

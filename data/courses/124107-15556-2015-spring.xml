@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124107" class_number="15556" school_id="fas" section="01" term_code="spring">
+        <catalog_info>
+            <title short_title="UYGHUR B">Elementary Uyghur</title>
+            <description>Continuation of Uyghur A. Completion of basic Uyghur grammar, listening and speaking practice with the aid of audio-visual materials, selected readings from Uyghur literature and academic prose.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="UYGHUR">Uyghur</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e28449a1310" role="1" seniority_sort="1">
+                <display_name>Mark Elliott</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

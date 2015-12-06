@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125262" class_number="16192" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BIOSTAT 238">Principles and Advanced Topics in Clinical Trials</title>
+            <notes> Offered jointly with the School of Public Health as BIO 238.</notes>
+            <prereq>Prerequisite: BIST 230 AND BIST 231 (may be taken concurrently)</prereq>
+            <description>This course focuses on selected advanced topics in design, analysis, and interpretation of clinical trials, including study design; choice of endpoints (including surrogate endpoints); interim analyses and group sequential methods; subgroup analyses; and meta-analyses.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:20:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e470340a1310" role="1" seniority_sort="1">
+                <display_name>Scott Evans</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

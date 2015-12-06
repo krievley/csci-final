@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160666" class_number="16375" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 980W">Psychology of Dominance and Societal Structure</title>
+            <description>Humans are social beings. We need to live in groups to survive and flourish. From living in tribes, the vast majority of populations have now developed into modern societies which nevertheless are fortified by social control and dominance.Modern societies differ greatly in how their hierarchies are organized, and how the inevitable group-based inequality is maintained. For instance, Scandinavian countries are often perceived as more egalitarian than the United States, which in turn is seen as more egalitarian than Burundi.In this class we analyze the differing degrees of inequality present within different societies and systematically explore the cultural mechanisms which contribute to the different hierarchies. We will use case studies, from the US, Burundi, and Western and Eastern European countries. We will draw from research in Psychology, Sociology and Political Science to address questions such as, what mechanism consolidate hierarchies? Among others, we will reflect how stereotypes, racism and sexism are used to strengthen existing structures and compare how they appear in different societies. We will ask, what mechanism can foster attitudinal and behavioral changes to overcome inequality and power disparity.In a group-based class project students will develop a research proposal to address how cultures manifest or change their internal structures. This course put a strong emphasis on developing skills for how to conduct stringent empirical research in complex macro-level settings.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e147891a1310" role="1" seniority_sort="1">
+                <display_name>Mariska Kappmeier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

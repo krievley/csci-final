@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119983" class_number="13039" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 2704">Linguistic Pragmatics and Cultural Analysis in Anthropology</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes> Limited to graduate students, who will also be expected to attend all Anthropology 1640 lectures.</notes>
+            <prereq>Recommended: Limited to graduate students, who will also be expected to attend all Anthropology 1640 lectures.</prereq>
+            <description>Exploring classic theory and recent innovations in linguistic anthropology and the semiotic anthropology of communication, we connect the social life of language to its role in culture.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Tozzer 102 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e29737a1310" role="1" seniority_sort="1">
+                <display_name>Nicholas Harkness</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

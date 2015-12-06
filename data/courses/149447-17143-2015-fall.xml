@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="149447" class_number="17143" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TIME-R 1">TIME: Research Related Work</title>
+            <notes>Units of TIME may not be used to fulfill the residence requirement for the AM degree.  </notes>
+            <description>TIME-R may be used to indicate that research work is being undertaken that is not directly related to the student&amp;rsquo;s dissertation work (i.e., additional laboratory research for a faculty member).</description>
+            <department code="NODEPT"/>
+            <course_group code="TIME-R"/>
+            <course_type>Reading and Research</course_type>
+            <credits>16</credits>
+        </catalog_info>
+    </course>
+</courses>

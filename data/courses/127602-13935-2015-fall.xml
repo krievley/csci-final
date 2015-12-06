@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127602" class_number="13935" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BPH 305QC">Interdisciplinary Training in Pulmonary Sciences Part 1</title>
+            <exam_group>FAS16_B</exam_group>
+            <notes>Offered jointly with School of Public Health as EH 512.   Offered jointly with School of Public Health as EH 512.</notes>
+            <description>The intersection of environment and health is by necessity an interdisciplinary focus. The most promising advances in lung biology and respiratory disease are resulting from teams of scientists with diverse disciplinary training, including biology, medicine, engineering, and physics. In addition to a strong foundation in a specific discipline, the ability to recognize and act upon opportunities presented by outside disciplines is a crucial skill. This course is designed to train scientists to approach lung biology and respiratory diseases with an interdisciplinary perspective, in particular by bridging the gap between life sciences and physical/engineering sciences. With a focus on laboratory sciences and on mechanistic levels of understanding, course materials will cover 3 main problem areas: asthma, air pollution, and lung infection. The course consists of weekly course-meetings (lectures and case-studies) plus weekly research seminars from the physiology program. Students will gain skills in recognizing the relative strengths and weaknesses of different disciplinary approaches applied to pulmonary sciences, in designing interdisciplinary experiments effectively, and in interpreting interdisciplinary results critically.</description>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="10:20:00" location="" start_time="09:30:00"/>
+                <meeting days_of_week="Friday" end_time="13:20:00" location="" start_time="12:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e24080a1310" role="1" seniority_sort="1">
+                <display_name>Quan Lu</display_name>
+            </person>
+            <person id="d1e6809a1310" role="1" seniority_sort="2">
+                <display_name>Bernardo Lemos</display_name>
+            </person>
+            <person id="d1e24080a1310" role="1" seniority_sort="1">
+                <display_name>Quan Lu</display_name>
+            </person>
+            <person id="d1e6809a1310" role="1" seniority_sort="2">
+                <display_name>Bernardo Lemos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

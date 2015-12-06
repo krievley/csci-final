@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110989" class_number="16798" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 21B">Linear Algebra and Differential Equations</title>
+            <exam_group>FAS11_A</exam_group>
+            <notes>Required first meeting in fall: Wednesday, September 2, 8:00 am, Science Center A..  Fall section times: M.W.F. at 10 (with sufficient enrollment), MWF at 11, MWF at 12 (with sufficient enrollment).  Peter Garfield, Rosalie Belanger-Rioux and members of the Department.  &amp;nbsp;  &amp;nbsp;  This is a lecture taught in small sections. May not be taken by students who have passed Applied Mathematics 21b. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Anti-requisite: Not to be taken in addition to Math 19b or AM 21b.</prereq>
+            <description>Matrices provide the algebraic structure for solving myriad problems across the sciences. We study matrices and related topics such as linear transformations and linear spaces, determinants, eigenvalues, and eigenvectors. Applications include dynamical systems, ordinary and partial differential equations, and an introduction to Fourier series.&amp;nbsp;</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e208344a1310" role="1" seniority_sort="1">
+                <display_name>Peter M. Garfield</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

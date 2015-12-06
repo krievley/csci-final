@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124812" class_number="16771" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEMBIO 2200">Introduction to Chemical Biology</title>
+            <notes> Intended for first-year graduate students in the Chemical Biology Program; permission of the instructor required for all others.</notes>
+            <description>This course will provide a survey of major topics, technologies, and themes in Chemical Biology, with hands-on exposure to a variety of experimental approaches.</description>
+            <department code="CHBI">Chemical Biology</department>
+            <course_group code="CHEMBIO">Chemical Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="16:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e30110a1310" role="1" seniority_sort="1">
+                <display_name>James Bradner</display_name>
+            </person>
+            <person id="d1e497755a1310" role="1" seniority_sort="2">
+                <display_name>Ralph Mazitschek</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

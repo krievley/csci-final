@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160560" class_number="16336" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 15D">Art of the Italian Renaissance</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>An exploration of Renaissance art beginning with Leonardo da Vinci and extending through the late sixteenth century, this course will focus primarily on painting and sculpture, but will also consider the critical role played by drawings, prints, and architecture in this area. &amp;nbsp;We will investigate developing ideas about the status of the artist and the nature of artistic creativity within the newly emergent genres of art theory and history. &amp;nbsp;Other topics will include artists&amp;#39; workshops; interactions between artists and patrons; the role of the spectator; the relationship of center to periphery; devotional versus secular function; and Renaissance ideas about beauty, love, and identity.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Sackler Museum 318" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e201527a1310" role="1" seniority_sort="1">
+                <display_name>Jessica Maratsos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

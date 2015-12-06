@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117560" class_number="14524" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 128">Models of Social Science Research</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes> Required of concentrators, ordinarily sophomores, and secondary concentrators.</notes>
+            <description>This course introduces students to core methodological concepts and strategies used in social science research including: question formulation, hypothesis generation, the logic of hypothesis testing, sampling and measurement, experiments, survey analysis, content analysis, ethnography, and in-depth interviewing. In the course we will discuss and develop the analytic skills necessary to interrogate epistemological assumptions in published research specifically and truth-claims generally. In addition to critically evaluating previous research, students will collect and analyze their own data based on the different methods discussed in the class. By the end of the course, students should have acquired valuable research tools widely applicable in academic and professional settings.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Yenching Library 118 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e129578a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin Sosnaud</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

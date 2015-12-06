@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159679" class_number="14643" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ARMENST 110B">Armenian Literature in Translation: Modern</title>
+            <description>An introduction to modern Armenian literature in translation. No knowledge of Armenian is required, and this course may be taken independently of Armenian Studies 110A (fall term).</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARMENST">Armenian Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e34569a1310" role="1" seniority_sort="1">
+                <display_name>James Russell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

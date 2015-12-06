@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119063" class_number="12677" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IRISH 133R">Intermediate Modern Irish</title>
+            <notes>Natasha Sumner and others  This course, when taken following Irish 132, satisfies the language requirement. May not be taken Pass/Fail. Not open to auditors.</notes>
+            <prereq>Recommended: Irish 132 or permission of instructor.</prereq>
+            <description>A continuation of Irish 132, developing students' fluency in spoken and written Irish. As our knowledge of the language expands, we venture into storytelling, journal writing and writing and performing short skits. Internet, audio and video resources complement the study of grammar and select prose texts.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="IRISH">Irish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63330a1310" role="1" seniority_sort="1">
+                <display_name>Natasha Sumner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

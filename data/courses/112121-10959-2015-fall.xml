@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112121" class_number="10959" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 160">Design and Analysis of Sample Surveys</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes> The regular classroom hours of Stat  160 are 2:30 - 4:00.  The extra hour is for extra discussion for 260.</notes>
+            <prereq>Recommended: Statistics 111 or 139 or with permission of instructor.</prereq>
+            <description>Methods for design and analysis of sample surveys. The toolkit of sample design features and their use in optimal design strategies. Sampling weights and variance estimation methods, including resampling methods. Brief overview of nonstatistical aspects of survey methodology such as survey administration and questionnaire design and validation (quantitative and qualitative). Additional topics: calibration estimators, variance estimation for complex surveys and estimators, nonresponse, missing data, hierarchical models, and small-area estimation.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="Science Ctr B10 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e87707a1310" role="1" seniority_sort="1">
+                <display_name>Alan Zaslavsky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

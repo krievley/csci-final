@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116729" class_number="12171" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="CLS-STDY 97A">Greek Culture and Civilization</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes>Class will normally meet in sections during Friday session.  Naomi Weiss and assistants  Concentrators are required to take either one or two semesters of Classical Studies 97, depending on their concentration track.</notes>
+            <description>This course is an introduction to the major achievements, developments, and ideas in Greek culture, from the Bronze Age to the 4th Century BCE. We will examine this inventive and tumultuous period through weekly readings in epic, lyric and dramatic poetry, history, biography, and philosophy, as well as visual images. All readings will be done in English translation. Our aim is both to try to understand this distant culture in its own sociopolitical context, and to trace its relationship to subsequent developments in Western civilization.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLS-STDY">Classical Studies</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Harvard Hall 102 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e27028a1310" role="1" seniority_sort="1">
+                <display_name>Naomi Weiss</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

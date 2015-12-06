@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111731" class_number="11775" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 143B">Quantum Mechanics II</title>
+            <exam_group>FAS02_A</exam_group>
+            <notes>Tu., Th., 10&amp;#8211;11:30 and a weekly section to be arranged   </notes>
+            <prereq>Recommended: Physics 143a.</prereq>
+            <description>Time independent perturbation theory and its application to fine and hyperfine structure of atoms. Time dependent perturbation theory: two level systems, emission and absorption of radiation. Quantum theory of electromagnetism: the photon. Relativistic quantum mechanics: the Dirac equation. Quantum information theory. Scattering theory.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Jefferson 356 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e55932a1310" role="1" seniority_sort="1">
+                <display_name>Subir Sachdev</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

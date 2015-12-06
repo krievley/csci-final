@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125061" class_number="14973" school_id="fas" section="003" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL AB">Beginning Italian II: The Art and Craft of Italy</title>
+            <notes> May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Section on-line. Not open to auditors.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: Italian Aa, or a score of 450 or less on the SAT II test or the Harvard Placement test, or a score of 3 or less on the AP Italian exam, or two years of high school Italian, or permission of course head.</prereq>
+            <description>Continuation of Italian Aa, second semester beginning level. Increasing emphasis on reading and writing. The cultural component includes units on fashion, music, literature and film, as well as capsules on the history of modern Italy, through select readings and a feature-length film. Course materials include workbook, audio-lab and video.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118669" class_number="14673" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 72">Sound Cinema</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>There is a weekly, mandatory film screening for this course on Wednesday evenings from 7pm to 10pm and a weekly section to be arranged.  No background in film history or theory necessary. Required for all students concentrating in Film Studies. This course has mandatory weekly film screening Wednesday, 7-10PM.</notes>
+            <description>This course will provide a historical survey of global film in the postwar era, focusing on &amp;quot;new cinemas&amp;quot; and &amp;quot;new waves&amp;quot; of the 1960s. This course will cover a wide range of national movements, from Italian Neorealism and the French Nouvelle Vague to stylistically (and often politically) radical cinemas in Latin America, Japan, and Africa, as well as the United States. This course includes a mandatory weekly film screening..</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Carpenter B04 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e280604a1310" role="1" seniority_sort="1">
+                <display_name>Adam Hart</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

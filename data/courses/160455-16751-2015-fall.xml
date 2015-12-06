@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160455" class_number="16751" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1562">The Behavioral Biology of Human Aggression</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes>This course counts towards the Human/Primate Behavior subfield requirement and the research seminar requirement in HEB.  Preference will be given to Human Evolutionary Biology concentrators.This course counts towards the Human/Primate Behavior subfield requirement and the research seminar requirement in HEB.</notes>
+            <description>Discussion focuses on aggression and violence as natural behaviors rather than as aberrations. We therefore consider explanations based in evolutionary theory, using ultimate and proximate perspectives. The course will refer often to animal examples.&amp;nbsp; It will include discussion of war, fighting, sexual violence and domestic violence. Core principles will come from behavioral ecology, complemented by material from endocrinology, neurobiology, social anthropology, dual inheritance theory, behavioral genetics, social psychology, developmental psychology, political science, and international relations.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:29:00" location="Museum of Comp Zool 529 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e113573a1310" role="1" seniority_sort="1">
+                <display_name>Richard Wrangham</display_name>
+            </person>
+            <person id="d1e202237a1310" role="2" seniority_sort="2">
+                <display_name>Carole Hooven</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

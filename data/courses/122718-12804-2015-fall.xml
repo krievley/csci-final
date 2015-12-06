@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122718" class_number="12804" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 285">Science, Power and Politics</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Offered jointly with the Kennedy School as IGA-513. Interested undergraduates should send an email to Professor Jasanoff explaining their interest and qualifications before they come to class.</notes>
+            <description>This seminar introduces students to the major contributions of the field of science and technology studies (STS) to the understanding of politics and policymaking in democratic societies.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:10:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11740a1310" role="1" seniority_sort="1">
+                <display_name>Sheila Jasanoff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

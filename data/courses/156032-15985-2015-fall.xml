@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156032" class_number="15985" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 2574">"Life" in Theology and Philosophy</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>This course analyzes the resurgence of vitalisms in contemporary philosophy, theology, and political discourses, in their relationship with the developments in science and technology that motivate it. It also explores the relationship between philosophies of life and &amp;quot;biopolitics.&amp;quot;</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63671a1310" role="1" seniority_sort="1">
+                <display_name>Mayra Rivera Rivera</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

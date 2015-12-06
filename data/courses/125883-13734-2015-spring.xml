@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125883" class_number="13734" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ASTRON 130">Cosmology</title>
+            <notes> This course offered alternate years.</notes>
+            <prereq>Prerequisite: Astronomy 17 OR Physics 15c</prereq>
+            <description>The physical model describing the initial conditions, evolution, and ultimate fate of the Universe. Topics include cosmic dynamics; the Robertson-Walker Metric; curvature; estimating cosmological parameters; the accelerating universe; dark matter; gravitational lensing; the cosmic microwave background; nucleosynthesis; inflation and the very early universe; formation of structure. Note: Offered in alternate years.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:29:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e242564a1310" role="1" seniority_sort="1">
+                <display_name>Douglas Finkbeiner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

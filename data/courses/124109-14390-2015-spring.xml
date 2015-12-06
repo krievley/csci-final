@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124109" class_number="14390" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 290">Microbial Sciences: Chemistry, Ecology and Evolution</title>
+            <notes>F., at 8:30, F., 9:45&amp;#8211;11:45   Also offered as Microbiology 210.</notes>
+            <prereq>Recommended: For advanced undergraduates, Life Sciences 1a and 1b are required, or permission of instructor. MCB 52 is recommended.</prereq>
+            <description>This is an interdisciplinary graduate-level and advanced undergraduate-level course in which students explore topics in molecular microbiology, microbial diversity, and microbially-mediated geochemistry in depth. This course will be taught by faculty from the Microbial Sciences Initiative. Topics include the origins of life, biogeochemical cycles, microbial diversity, and ecology.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

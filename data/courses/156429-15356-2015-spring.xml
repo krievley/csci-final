@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156429" class_number="15356" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2150">Big Data</title>
+            <description>Innovations in machine learning ('big data') have created many engineering breakthroughs from real time voice recognition to automatic categorization (and in some cases production) of news stories. Since these techniques are at their essence novel ways to work with data, they should also have implications for social science. This course explores the intersection of machine learning and social science and aims to answer a few questions about these new techniques: (i) How do they work and what kinds of statistical guarantees can be made about their performance? (ii) How can they be used to answer questions that interest social science researchers, such as testing theories or improving social policy; and (iii) How might they open up new research questions? We will cover standard machine learning techniques such as supervised and unsupervised learning, statistical learning theory and nonparametric and Bayesian approaches. The goal is to create a working understanding of when and how they can be profitably applied. Students will be required to apply some of these techniques themselves, but we will not cover the computational aspects of the underlying methods. The course is aimed at PhD students with a solid background in statistical techniques, such as comes from the equivalent of a first year economics PhD econometrics sequence.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e410791a1310" role="2" seniority_sort="1">
+                <display_name>Sendhil Mullainathan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

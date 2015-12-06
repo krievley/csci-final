@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160381" class_number="15453" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2482B">History of American Capitalism: Seminar</title>
+            <notes> This course is jointly-offered with the Law School as 2778.</notes>
+            <description>This year-long research seminar explores American capitalism as an historical form of political economy, developed over three centuries.&amp;nbsp; In association with the Warren Center fellows&amp;rsquo; workshop on the same theme, the inquiry will extend the history of the American economy so as to include a cross-disciplinary endeavor including the sociology of knowledge, the study of technology and material culture, changing paradigms of political authority, the re-organization of family life, the invention of the modern private subject, and the birth of liberal ideology.&amp;nbsp; Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e7195a1310" role="1" seniority_sort="1">
+                <display_name>Sven Beckert</display_name>
+            </person>
+            <person id="d1e7391a1310" role="2" seniority_sort="2">
+                <display_name>Kenneth Mack</display_name>
+            </person>
+            <person id="d1e208506a1310" role="2" seniority_sort="3">
+                <display_name>Michael Zakim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

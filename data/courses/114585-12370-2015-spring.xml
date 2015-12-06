@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114585" class_number="12370" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 3005">Doctoral Colloquium in Religion, Gender, and Culture</title>
+            <notes>Alternate Wednesdays, 4-6   Required for doctoral students in Religion, Gender, and Culture. Interested ThM, MTS, and MDiv students please contact the instructor. May be taken on a Sat/Unsat basis only. Offered jointly with the Divinity School as 2690.</notes>
+            <description>The Religion, Gender, and Culture Colloquium explores the intersections of feminist theory with feminist theologies and gender studies in religion.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

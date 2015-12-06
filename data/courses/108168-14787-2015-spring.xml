@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108168" class_number="14787" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 186X">Childhood in African America</title>
+            <description>A seminar on children and childhood in African American history and cultures from 1773 through the present. Authors may include Phillis Wheatley, Frederick Douglass, W. E. B. Du Bois, Langston Hughes, Toni Morrison, and Suzan-Lori Parks; topics may include slavery, abolition, literacy, popular performance, film and television, Civil Rights, celebrity, the Moynihan Report, systemic violence (including poverty), education, and the American Girl Dolls.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e64483a1310" role="1" seniority_sort="1">
+                <display_name>Robin Bernstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

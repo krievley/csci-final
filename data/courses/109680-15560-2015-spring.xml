@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109680" class_number="15560" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 181">Social Change in Modern Korea</title>
+            <description>This course explores the incredible transformation of Korean society in the modern period. We begin with the demise of the Choso/a7n Dynasty at the end of the 19th century before covering the Japanese colonial period (1910-1945), the emergence of two Korean nation-states (1945-1948), the Korean War (1950-53), and the contemporary period (1960-present). The course is divided into two distinct parts. In the first part of the course we discuss Korea's political and economic transformation and in the second, we cover social and cultural change. Upon completion of the course, students should have a thorough grasp of the vast social changes Korea underwent in the 20th century.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e80895a1310" role="1" seniority_sort="1">
+                <display_name>Paul Chang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

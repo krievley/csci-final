@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111709" class_number="11811" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="DESIGN 304">Direction of Doctoral Dissertations in Architecture</title>
+            <department code="URBP">Architecture, Landscape Arch, and Urban Planning</department>
+            <course_group code="DESIGN">Design</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

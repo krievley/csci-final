@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160665" class_number="16318" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 315HFB">Instructional Styles in Philosophy</title>
+            <description>Course is required for graduate students in their first year of teaching; optional for students in their second year of teaching. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e71187a1310" role="1" seniority_sort="1">
+                <display_name>Ned Hall</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

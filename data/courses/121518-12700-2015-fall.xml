@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121518" class_number="12700" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BIOPHYS 300">Introduction to Laboratory Research</title>
+            <exam_group>FAS06_A</exam_group>
+            <notes>M., W., F., at 4:30   James Hogle and members of the Committee  Fall semester only: meets on both the Cambridge and HMS campuses. Contact department Admin for fall course schedule.</notes>
+            <description>Introductory lectures by associated Biophysics faculty members. Lectures Fall semester only accompanied by three periods of instruction in laboratories of structural biology, cell and membrane biophysics, molecular genetics and development, neurobiology, bioinformatics, and physical biochemistry.</description>
+            <department code="BIPH">Biophysics</department>
+            <course_group code="BIOPHYS">Biophysics</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>16</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="17:29:00" location="" start_time="16:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e181939a1310" role="1" seniority_sort="1">
+                <display_name>James Hogle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

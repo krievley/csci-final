@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109681" class_number="15561" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 189">Democracy and Social Movements in East Asia</title>
+            <description>Social movements are an important part of both democratic and non-democratic societies. This course assesses the state of civil society in East Asia by surveying contemporary social movements in China, Taiwan, Hong Kong, Japan, and South Korea. We start the course by discussing the main concepts and analytic approaches in social movement theory. We then apply these theoretical frameworks to specific mobilization efforts in East Asia, keeping in mind each country's unique historical context. With the theoretical and empirical tools gleaned from the lectures and readings, students will pursue a case analysis of an East Asian social movement of their choosing.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e80895a1310" role="1" seniority_sort="1">
+                <display_name>Paul Chang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111393" class_number="10839" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL 91R">Supervised Reading and Research</title>
+            <notes>Limited to juniors and seniors. Students wishing to enroll must petition the Undergraduate Adviser in Italian for approval, stating the proposed project, and must have the consent of the proposed instructor. Ordinarily, students are required to have taken some course work in the area as background for their project. May not be taken more than twice, and only once for concentration credit.   Elvira DiFabio and members of the Department  Limited to juniors and seniors. Students wishing to enroll must petition the Undergraduate Adviser in Italian for approval, stating the proposed project, and must have the consent of the proposed instructor. Ordinarily, students are required to have taken some course work in the area as background for their project. May not be taken more than twice, and only once for concentration credit.
+
+This course is taught by members of the Department.</notes>
+            <description>Tutorial supervision of research on subjects not treated in regular courses.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124506" class_number="13130" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1270">Frontiers of Europe: Ukraine since 1500</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>The history of Ukrainian territory and its people within a broad context of political, social and cultural changes in Eastern Europe in the course of the half of a millennium. Special emphasis on the role of Ukraine as a cultural frontier of Europe, positioned on the border between settled areas and Eurasian steppes, Christianity and Islam, Orthodoxy and Catholicism, as well as a battleground of major imperial and national projects of modern era.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="CGIS South S450 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e37216a1310" role="1" seniority_sort="1">
+                <display_name>Serhii Plokhii</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

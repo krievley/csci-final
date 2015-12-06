@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148202" class_number="14854" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 55">Business French</title>
+            <notes> Conducted in French. May not be audited or taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Students may take no more than two courses numbered in the 50s. See details and section on-line on the French 55 website.</notes>
+            <prereq>Recommended: A score of 721-750 on the SAT II test or the Harvard Placement test; French 40 or 50; or permission of course head.</prereq>
+            <description>Using articles and multimedia resources that focus on the current business and economic climate in France, students will interpret practices, customs, and "intangibles" in the French business world. Students will also work on improving their communication skills, often in a simulated professional environment. Interactive oral and written activities are used to prepare students to work or travel for business in French-speaking countries. Those enrolled may take the Paris Chamber of Commerce and Industry exams and obtain an official diploma attesting to their proficiency in French.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e26226a1310" role="1" seniority_sort="1">
+                <display_name>Aurelie Chevant</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

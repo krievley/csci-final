@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110114" class_number="16908" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 14A">Harvard-Radcliffe Collegium Musicum</title>
+            <exam_group>FAS05_B</exam_group>
+            <notes> Audition required.  The course is graded SAT/UNSAT based on attendance and participation. This course may be taken repeatedly, but to receive credit the course must be taken in the Fall and Spring semesters consecutively. A maximum of four semesters (two years) may be counted as credit towards the degree.</notes>
+            <description>Harvard-Radcliffe Collegium Musicum (SATB choir). Harvard&amp;#39;s nationally acclaimed mixed choir, the Collegium performs a dynamic and innovative repertoire from classical masterpieces to new compositions by renowned composers as well as HRCM members. Through collaborative endeavors, tours, and community engagement, the ensemble fosters a passionate community of student musicians. The Collegium frequently combines with the Glee Club and Choral Society, as well as the Harvard-Radcliffe Orchestra, to perform large-scale works. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Studio</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Wednesday" end_time="18:29:00" location="" start_time="16:15:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e12782a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Clark</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

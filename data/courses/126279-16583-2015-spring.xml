@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126279" class_number="16583" school_id="fas" section="007" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 3000">Reading and Research</title>
+            <notes> Consult the appropriate member of the department.</notes>
+            <prereq>Course open to Graduate Students Only</prereq>
+            <description>Special reading in selected topics under the direction of members of the department.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e109381a1310" role="2" seniority_sort="1">
+                <display_name>Maryellen Ruvolo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

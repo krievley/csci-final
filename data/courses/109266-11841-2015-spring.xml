@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109266" class_number="11841" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BPH 384">Sex and Reproduction Anopheles gambiae: Targets for the Control of Malaria Transmission</title>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e8458a1310" role="1" seniority_sort="1">
+                <display_name>Flaminia Catteruccia</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

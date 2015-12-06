@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159847" class_number="14919" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 267">Reductive Groups Over Local and Global Fields</title>
+            <description>The study of the structure of connected reductive groups over p-adic fields (i.e. non-archimedean local fields of characteristic zero) and their smooth irreducible representations. In addition, we will touch upon the corresponding theory over the real numbers and then discuss automorphic representations of the adelic points of connected reductive groups defined over number fields.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e65326a1310" role="1" seniority_sort="1">
+                <display_name>Tasho Kaletha</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

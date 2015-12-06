@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126403" class_number="13824" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 239">The Consequences of Energy Systems</title>
+            <exam_group>FAS12_G</exam_group>
+            <notes> This course is a requirement for the Graduate Consortium on Energy and Environment.</notes>
+            <prereq>Recommended: College level chemistry and physics and permission of instructor.</prereq>
+            <description>This course provides an introduction to the physical and chemical impacts of energy choices on human society and natural ecosystems. Topics will include the carbon cycle, climate, air and water pollution, impacts of energy systems on health, land use consequences of energy technologies, and nuclear waste and proliferation.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="Geological Museum 310 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e111823a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Schrag</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

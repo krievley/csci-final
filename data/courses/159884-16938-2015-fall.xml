@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159884" class_number="16938" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 1218">Women in American Medicine</title>
+            <exam_group>FAS09_B</exam_group>
+            <description>This course explores the history of women in American medicine from the colonial period to the present. We will consider both the changing place of women within the medical profession and the development of medical knowledge about women&amp;rsquo;s health and disease. How have women practiced medicine as traditional healers, midwives, nurses, physicians, and caregivers? What is the historical relationship between female medical practitioners and the production of medical knowledge about the female body? We will pay particular attention to structural inequalities within the American medical profession and the important role that practitioners, patients, and feminists have played in challenging gender-based discrimination in medicine as well as sexist assumptions about the female body.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="Sever 101 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e166732a1310" role="1" seniority_sort="1">
+                <display_name>Jenna Tonn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

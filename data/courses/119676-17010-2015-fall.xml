@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119676" class_number="17010" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HLTHPOL 3060A">Research Seminar in Decision Sciences</title>
+            <description>Explores key conceptual and methodological issues relevant to research in health decision sciences. Faculty members and invited speakers will assign readings and present examples of theoretical and applied work. Students are required to participate in class discussion and to present their own research work in progress. Part one of a two-part series.</description>
+            <department code="HPOL">Health Policy</department>
+            <course_group code="HLTHPOL">Health Policy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e177604a1310" role="1" seniority_sort="1">
+                <display_name>Joshua Salomon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112953" class_number="11886" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SWEDISH BBR">Special Topics in Swedish Literature and Culture: Women of Letters</title>
+            <notes> Conducted in Swedish.
+
+Prerequisite: Swedish Ba or equivalent.</notes>
+            <prereq>Recommended: Swedish Ba or equivalent.</prereq>
+            <description>In this fourth semester Swedish course, the theme is immigration and emigration from a Swedish perspective. We will be studying the Swedish emigration to America in the 19th century, both in fiction and through letters sent home to Sweden, the so-called amerikabrev. Modern day immigration will be discussed through recent authors who have written about their experiences moving to Sweden. We will also be following the political debate about immigration through reading news stories and opinion pieces.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="SWEDISH">Swedish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e175012a1310" role="1" seniority_sort="1">
+                <display_name>Agnes Broome</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

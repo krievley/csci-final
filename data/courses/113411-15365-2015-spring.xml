@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113411" class_number="15365" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 2430">Behavioral Biology Seminar</title>
+            <notes> Required of entering graduate students in Human Evolutionary Biology seeking to fulfill a course requirement in the subject areas of behavior and ecology of humans or behavior and ecology of primates. 
+
+Open to other Human Evolutionary Biology graduate students.
+
+Limited to Human Evolutionary Biology graduate students.</notes>
+            <prereq>Course open to Graduate Students Only</prereq>
+            <description>Reading and discussion of current research in the behavioral ecology of humans and nonhuman primates. Emphasis placed on comparative and interdisciplinary approaches.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e113573a1310" role="1" seniority_sort="1">
+                <display_name>Richard Wrangham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

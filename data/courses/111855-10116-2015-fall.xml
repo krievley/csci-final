@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111855" class_number="10116" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 200">Atmospheric Chemistry and Physics</title>
+            <exam_group>FAS12_D</exam_group>
+            <notes> Students specializing in this area are expected to take EPS 200 and 236. EPS 200 is also intended to serve as a breadth course for students specializing in other areas of Earth &amp; Planetary Sciences or Environmental Science &amp; Engineering.</notes>
+            <prereq>Recommended: Applied Mathematics 21 or equivalent, a course in college-level mechanics, electromagnetism, and chemistry.</prereq>
+            <description>Atmospheric physics and chemistry: stratospheric and tropospheric transport, photochemistry, and aerosols; stratospheric ozone loss, tropospheric pollution; biogeochemical cycles.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="11:29:00" location="Geological Museum 105 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e82174a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Jacob</display_name>
+            </person>
+            <person id="d1e188139a1310" role="1" seniority_sort="2">
+                <display_name>Steven Wofsy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

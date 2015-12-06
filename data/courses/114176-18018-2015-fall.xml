@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114176" class_number="18018" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LATIN AA">Beginning Latin</title>
+            <exam_group>FAS10_C</exam_group>
+            <notes>Ivy Livingston and assistant  No auditors. May be taken pass/fail. Students with more than one year of formal instruction should take the Harvard placement test in Latin during Freshman Week and consult with the Course Head before enrolling.</notes>
+            <description>For students with very little or no previous instruction in Latin. Introduction to Latin grammar and reading of sentences and short passages.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Thursday Friday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e194a1310" role="1" seniority_sort="1">
+                <display_name>Ivy Livingston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

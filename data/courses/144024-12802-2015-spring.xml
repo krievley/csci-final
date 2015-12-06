@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144024" class_number="12802" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 247">Fracture Mechanics</title>
+            <prereq>Recommended: Engineering Sciences 240 or equivalent.</prereq>
+            <description>Fundamentals of fracture with applications in materials and structural mechanics. Micromechanics of fracture in ceramics, metals, and polymers. Fracture of composite materials. Interfacial fracture mechanics. Fatigue crack propagation.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e89841a1310" role="1" seniority_sort="1">
+                <display_name>Zhigang Suo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

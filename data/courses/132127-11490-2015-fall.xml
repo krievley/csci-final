@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="132127" class_number="11490" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APMTH 101">Statistical Inference for Scientists and Engineers</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> May not be taken in addition to Engineering Sciences 101. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: Math 21a or Applied Math 21a or equivalent.</prereq>
+            <description>Introductory statistical methods for students in the applied sciences and engineering. Random variables and probability distributions; the concept of random sampling, including random samples, statistics, and sampling distributions; the Central Limit Theorem and its role in statistical inference; parameter estimation, including point estimation and maximum likelihood methods; confidence intervals; hypothesis testing; simple linear regression; and multiple linear regression. Introduction to more advanced techniques as time permits.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Pierce 209 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e190378a1310" role="1" seniority_sort="1">
+                <display_name>Vahid Tarokh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

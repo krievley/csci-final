@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125216" class_number="13597" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CULTBLF 16">Performance, Tradition and Cultural Studies: An Introduction to Folklore and Mythology</title>
+            <exam_group>FAS17_A</exam_group>
+            <notes>Occasional Fridays are required. Please check course website for details.  Required of Concentrators and for the Secondary Field in Folklore and Mythology. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Examines major forms of folklore (e.g., myths, legends, epics, beliefs, rituals, festivals) and the theoretical approaches used in their study. Analyzes how folklore shapes national, regional, and ethnic identities, as well as daily life; considers the function of folklore within the groups that perform and use it, employing materials drawn from a wide range of areas (e.g., South Slavic oral epics, American occupational lore, Northern European ballads, witchcraft in Africa and America, Cajun Mardi Gras, Sub-Saharan African oral traditions).</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="Emerson 305 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

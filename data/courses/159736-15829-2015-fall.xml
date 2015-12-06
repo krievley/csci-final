@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159736" class_number="15829" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 31D">Nietzsche's Moral and Political Philosophy</title>
+            <exam_group>FAS06_F</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>We explore Nietzsche&amp;#39;s moral and political philosophy with emphasis on the themes in his best-known work, The Genealogy of Morality. However, we also read several other of Nietzsche&amp;rsquo;s works, and do so chronologically (except that we begin with his auto-biography, Ecce Homo, which Nietzsche wrote briefly before his mental collapse). We do not read any secondary literature, though the instructor will recommend such literature as appropriate. The point is to become familiar with Nietzsche&amp;rsquo;s writings themselves. Nietzsche addresses some of the big questions of human existence in a profoundly searching but often disturbing manner that continues to resonate with many.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="20:59:00" location="Barker 218 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e144622a1310" role="1" seniority_sort="1">
+                <display_name>Mathias Risse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

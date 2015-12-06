@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159878" class_number="15184" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1973">North American Cities</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>This course investigates the urban history of US, Canada, and Mexico, with emphasis on transnational approaches, urban environmental history, and spatial history. Topics range broadly across time and space, and include colonialism, borderlands, mobility, water, non-human actors, public space, deindustrialization, and urban renewal.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="CGIS Knafel K107 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e203582a1310" role="1" seniority_sort="1">
+                <display_name>Tracy Neumann</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

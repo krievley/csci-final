@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126630" class_number="14827" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="JAPNHIST 271R">Research in Early Modern Japanese History: Seminar</title>
+            <description>This seminar deals with the politics, society, and culture of Japan from the late sixteenth to the mid-nineteenth centuries. Readings will include primary and secondary sources in Japanese and English. Students will write a major research paper.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNHIST">Japanese History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e31195a1310" role="1" seniority_sort="1">
+                <display_name>David Howell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

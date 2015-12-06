@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122846" class_number="13031" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 91">Laboratory Research</title>
+            <notes>Ryan W. Draft and members of the Department  </notes>
+            <description>This course is taken to obtain credit for independent laboratory research during the 6th, 7th, or 8th semester. Research work should be directed by a member of the Neurobiology concentration standing committee or an appropriate Harvard affiliated faculty member in another department or institution. All students must submit registration materials for Neurobiology 98r at the time of enrollment.</description>
+            <department code="NEURO">Neurobiology</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e240456a1310" role="1" seniority_sort="1">
+                <display_name>Ryan W. Draft</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

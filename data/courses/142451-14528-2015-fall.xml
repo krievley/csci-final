@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142451" class_number="14528" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCWORLD 12">China</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>This course will meet on the first two Thursdays of the semester, in addition to the first Tuesday. After that the course will only meet on Tuesdays for the remainder of the term.  This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Modern China presents a dual image: a society transforming itself through economic development and infrastructure investment that aspires to global leadership; and the world's largest and oldest bureaucratic state, with multiple traditions in its cultural, economic, and political life. The modern society and state that is emerging in China will bear the indelible imprint of China's historical experience, of its patterns of philosophy and religion, and of its social and political thought. These themes are discussed in order to understand China in the 21st century and as a great world civilization that developed along lines different from those of the Mediterranean. This year the course introduces a variety of new online learning features.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="CGIS South S020 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e28308a1310" role="1" seniority_sort="1">
+                <display_name>Peter K. Bol</display_name>
+            </person>
+            <person id="d1e31337a1310" role="2" seniority_sort="2">
+                <display_name>Michael Szonyi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

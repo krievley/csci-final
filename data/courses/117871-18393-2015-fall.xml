@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117871" class_number="18393" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1520">Introduction to Hermeneutics and Theology</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes> Offered jointly with the Divinity School as 2410. Course has additional section hour to be arranged.</notes>
+            <description>General introduction to hermeneutical theory and theology. It surveys the development of theories of interpretation from classical to modern and contemporary times and show the relation between the theory of interpretation and the understanding of theology. The course will especially attend to the influence of nineteenth and twentieth century theories of interpretation upon sacred texts, the diverse approaches to theology, and key theological categories such as revelation, experience, method, foundations, classics, community, and practice. It introduce studies to some of the modern debates about the importance of interpretation for religious and theological studies.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e54816a1310" role="1" seniority_sort="1">
+                <display_name>Francis Fiorenza</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

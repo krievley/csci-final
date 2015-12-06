@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128024" class_number="14427" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1510">American Constitutional Law</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes>american_subfield  This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning.</notes>
+            <description>Provides an introduction to contemporary American constitutional law, with a principal focus on decisions by the Supreme Court of the US. Topics to be studied include freedom of speech and religion, guarantees of due process and equal protection, and the powers of Congress and the courts.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Lowell Hall Lecture Hall (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e211222a1310" role="1" seniority_sort="1">
+                <display_name>Richard Fallon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110893" class_number="15306" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1280">Government &amp; Politics of China</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes>comparative_subfield  </notes>
+            <description>This course is a broad introduction to the main issues of contemporary Chinese politics and social change. The course is divided into two sections:&amp;nbsp; the first section covers the period from the end of the last imperial dynasty to the end of the Cultural Revolution in 1976.&amp;nbsp; The second section examines the last thirty years of economic reform, looking at both how the reforms began and how they were sustained.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:59:00" location="Sever 214 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e52306a1310" role="1" seniority_sort="1">
+                <display_name>Yuhua Wang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

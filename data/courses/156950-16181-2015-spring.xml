@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156950" class_number="16181" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 350">Scientific Integrity</title>
+            <notes> According to NIH Guidelines, students are required to take a Scientific Integrity Refresher Course every four years (*MCB 351).</notes>
+            <description>MCB 350 is a discussion forum on scientific integrity using case studies to examine basic ethical and regulatory requirements for conducting research, and fulfills the National Institutes of Health (NIH) and National Science Foundation (NSF) requirements for formal Responsible Conduct of Research (RCR) instruction. Students are required to complete a pre-course assignment, attend all lectures including the final lecture in February, participate in class discussions, and complete a final course evaluation. A certificate will be issued upon successful completion of the course.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e270414a1310" role="1" seniority_sort="1">
+                <display_name>Richard Losick</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

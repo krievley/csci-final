@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110676" class_number="10323" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 53AR">Fundamentals of Animation</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure. This course has a mandatory film screening on Fridays from 1pm to 3pm.  Drawing skills are optional, though helpful. 
+
+Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure. 
+
+This course has an additional weekly film screening, Fridays, 1-3 pm.</notes>
+            <description>An introduction to the possibilities of animation. Using a mixture of traditional and 2D digital tools, students will complete practical exercises which will familiarize them with basic skills and techniques. Screenings and discussions will help develop the specialized thinking needed to understand the discipline.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

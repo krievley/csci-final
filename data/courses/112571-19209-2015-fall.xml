@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112571" class_number="19209" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MODGRK 124">Greek World Literature: From Homer to Kazantzakis, Cavafy, and Beyond</title>
+            <notes> All texts will be available in English translation.</notes>
+            <description>The course focuses on examples of Greek world literature that had a great&amp;nbsp;influence on authors across geographical and linguistic boundaries. Works&amp;nbsp;and authors to be discussed include the Homeric epics, ancient Greek&amp;nbsp;tragedy, C. P. Cavafy, N. Kazantzakis, G. Seferis, O. Elytis, G. Ritsos.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="MODGRK">Modern Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="19:59:00" location="Boylston 237 (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

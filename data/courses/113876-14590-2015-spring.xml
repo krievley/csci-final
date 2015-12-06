@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113876" class_number="14590" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APMTH 120">Applied Linear Algebra and Big Data</title>
+            <prereq>Recommended: Applied Mathematics 21a,b or equivalent, programming experience.</prereq>
+            <description>Topics in linear algebra which arise frequently in applications, including in the analysis of large data sets: linear equations, eigenvalue problems, principal component analysis, singular value decomposition, quadratic forms, linear inequalities, linear programming, optimization, linear differential equations, modeling and prediction, data mining methods including frequent pattern analysis, classification, clustering, outlier detection.&amp;nbsp; Examples will be given from physical sciences, biology, climate, commerce, internet, imageprocessing, economics and more.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e193956a1310" role="1" seniority_sort="1">
+                <display_name>Eli Tziperman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124075" class_number="17480" school_id="fas" section="006" term_code="fall">
+        <catalog_info>
+            <title short_title="LING 301">Reading or Special Topics Course</title>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e212290a1310" role="1" seniority_sort="1">
+                <display_name>Gennaro Chierchia</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

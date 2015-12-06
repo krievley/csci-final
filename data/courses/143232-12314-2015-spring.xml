@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143232" class_number="12314" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 299R">Forest Practice and Research</title>
+            <notes> Seminars, conferences, field, and laboratory work at the Harvard Forest, Petersham, Massachusetts.</notes>
+            <description>Field and laboratory research into the history, biology, ecology, culture, and economic problems of local, regional, and world forests. Individual research projects.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

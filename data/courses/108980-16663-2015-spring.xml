@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108980" class_number="16663" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1453">Consciousness Explored</title>
+            <description>In recent decades, the study of consciousness has been pushed to the forefront of scientific investigation. Because of its importance, it provides a unique opportunity for an integrative approach to the study of mind, brain, and behavior. In this course, we will discuss the philosophical debates, the psychological phenomena, and the relevant neurophysiological findings.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e87939a1310" role="1" seniority_sort="1">
+                <display_name>Ken Nakayama</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

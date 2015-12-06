@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126542" class_number="14819" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHNSHIS 270B">Research Methods in Late Imperial Chinese History II: Seminar</title>
+            <prereq>Recommended: Chinese History 270a or consent of instructor.</prereq>
+            <description>Continued training in sources and methods for research in the history of late imperial China. Students will use original sources to write a research paper on a topic of their choosing.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSHIS">Chinese History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e28449a1310" role="1" seniority_sort="1">
+                <display_name>Mark Elliott</display_name>
+            </person>
+            <person id="d1e31337a1310" role="1" seniority_sort="2">
+                <display_name>Michael Szonyi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

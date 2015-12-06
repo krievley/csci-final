@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160219" class_number="15692" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 23I">GeoSciFi Movies: Real vs. Fiction</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes> Open to Freshmen only.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Natural disasters such as earthquakes, tsunamis, hurricanes, and volcanic eruptions have major impact on society and cause great tragedies.&amp;nbsp; Dramatization of these phenomena resulted in a number of motion pictures, and while most movies have some scientific foundation in their depiction of the natural events, they inevitably exaggerate or introduce fiction.&amp;nbsp; Through examination and discussion of real and fictitious effects, this seminar aims to develop appreciation for and interests in the underlying science behind natural phenomena.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Geological Museum 204 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e74702a1310" role="1" seniority_sort="1">
+                <display_name>Miaki Ishii</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127639" class_number="16017" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 227">Medical Device Design</title>
+            <prereq>Recommended: Engineering Sciences 51 or machine design experience. Graduate course, but open to qualified junior and senior undergraduates.</prereq>
+            <description>Project-based course on the design of medical devices to address needs identified by hospital-based clinicians. Students work in teams with physicians to develop a novel device. The design process includes: needs finding; problem identification; prior art searches; strategy and concept generation; estimation; sketching; sketch modeling; machine elements, ergonomics and prototyping.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e225314a1310" role="1" seniority_sort="1">
+                <display_name>Conor Walsh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

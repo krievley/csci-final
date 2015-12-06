@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160435" class_number="15640" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 171">Case Studies - Law and Literature</title>
+            <description>This seminar examines the relationship between legal discourses and poetic representations of justice from the late 18th to the 21st Century. Can literature offer poetic justice when, as Schiller suggests, the legal system fails? Moreover, to what extent can literature adequately testify to historical events? Is fiction necessarily false testimony? Or is testimony fictional? Following an initial examination of Aeschylus&amp;rsquo; Eumenides, where the vengeful furies yield power to the law, the course turns to modern depictions of criminals (Schiller, Goethe, B&amp;uuml;chner, Kleist), holy justice (Droste-H&amp;uuml;lshoff, Gotthelf), historical trials (Kippardt), and human rights (Arendt). We will conclude with the on-going debate about vengeance and forgiveness in literature and film (Wiesenthal, Am&amp;eacute;ry, Tarantino).â¨With texts from Weimar Classicism, Romanticism, Realism and Modernism, the seminar offers a cultural-theoretical framework for reading each literary epoch alongside historical legal developments.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e198343a1310" role="1" seniority_sort="1">
+                <display_name>Dania Hueckmann</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

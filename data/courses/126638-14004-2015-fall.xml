@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126638" class_number="14004" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCIPHUNV 27">Science and Cooking: From Haute Cuisine to Soft Matter Science</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes>If student interest exceeds the course limit, a random lottery will be conducted. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results.  See the course website for more details.   Occasionally there will be an optional 15-30 minute question and answer session with visiting chefs.</notes>
+            <description>This course is a collaboration between world-class chefs and Harvard professors. Each week, a chef will lecture about some aspect of gastronomy. This lecture will introduce and motivate a lecture about the science of soft materials by a Harvard professor. The course will cover the basic concepts in the science of soft materials, providing a solid understanding of their properties and behavior. All food is made of soft materials, and cooking relies on many of their fundamental properties. The course will also include laboratory work that uses concepts of cooking to understand and motivate experimental measurements on soft materials.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Science Ctr Hall C (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e88734a1310" role="1" seniority_sort="1">
+                <display_name>Michael P. Brenner</display_name>
+            </person>
+            <person id="d1e294745a1310" role="2" seniority_sort="3">
+                <display_name>Pia Sorensen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

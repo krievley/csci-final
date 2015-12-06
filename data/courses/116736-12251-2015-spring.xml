@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116736" class_number="12251" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG 97">Tutorial - Sophomore Year: Brazilian Poetry and Literary Criticism in the Digital Era</title>
+            <notes>Conducted in Portuguese. Successful completion of Portuguese 97 is required of all concentrators in Portuguese and Brazilian Studies in their sophomore year. May also be taken as the Sophomore Tutorial by concentrators in Latin American Studies and Romance Studies. May not be taken Pass/Fail.   Conducted in Portuguese. Successful completion of Portuguese 97 is required of all concentrators in Portuguese and Brazilian Studies in their sophomore year. May also be taken as the Sophomore Tutorial by concentrators in Latin American Studies and Romance Studies. May not be taken Pass/Fail.</notes>
+            <description>From printed books to digital text, how does technology change the making of poetry and its criticism? From the study of canonical works and their analyses by literary critics to the examination of contemporary poetry and some of its most prominent scholars, the course explores how (or whether) Brazilian poetry and literary criticism are changing in the digital era. Students will be constantly invited to respond to Brazilian poetry and literary criticism through essays, close readings, and translations, among other scholarly projects.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

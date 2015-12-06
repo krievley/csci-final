@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111316" class_number="10565" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCRB 178">Molecular Immunology: Seminar</title>
+            <prereq>Recommended: MCB 169 or permission of instructor required for undergraduates only.</prereq>
+            <description>This course will explore cutting edge immunology topics with student presentations of recently published papers discussing topics ranging from hematopoietic stem cells, HIV, gluten, cancer and others. The class will also discuss the classic immunology papers that have shaped the field today, with discussions on the next steps for the future. Course work: Reading of papers, seminar presentations, and class participation.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="17:29:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e401769a1310" role="1" seniority_sort="1">
+                <display_name>Jonathan Hoggatt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

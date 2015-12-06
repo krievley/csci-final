@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123971" class_number="13291" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 179">Design of Useful and Usable Interactive Systems</title>
+            <prereq>Recommended: CS 50 or web programming experience.</prereq>
+            <description>The course covers skills and techniques necessary to design innovative interactive&amp;nbsp;products that are useful, usable and that address important needs of people other than&amp;nbsp;yourself. You will learn how to uncover needs that your customers cannot even articulate. You will also learn a range of design principles, effective creativity-related practices, and techniques for rapidly creating and evaluating product prototypes. You will also have several opportunities to formally communicate your design ideas to a variety of audiences. You will complete two large team-based design projects.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e298936a1310" role="1" seniority_sort="1">
+                <display_name>Krzysztof Gajos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

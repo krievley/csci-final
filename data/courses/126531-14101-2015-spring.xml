@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126531" class_number="14101" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MOD-HEB 130B">Advanced Modern Hebrew II</title>
+            <notes> Conducted in Hebrew. Not open to auditors. Offered jointly with the Divinity School as 4043.</notes>
+            <prereq>Recommended: Modern Hebrew 130a, or equivalent level of proficiency.</prereq>
+            <description>This course is a continuation of Hebrew 130a. Texts, films, and other materials expose students to the richness and complexity of the contemporary sociolinguistics of Israeli society.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MOD-HEB">Modern Hebrew</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e97863a1310" role="1" seniority_sort="1">
+                <display_name>Irit Aharony</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

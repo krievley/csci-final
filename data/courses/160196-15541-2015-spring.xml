@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160196" class_number="15541" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 42C">The Role of Government</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The course will examine the role of government from an economic perspective. We will start with the classical welfare theorems that show that laissez-faire can achieve an efficient outcome. We will discuss how these theorems depend on a legal system that upholds contracts and protects property rights as well as on the absence of externalities or public goods. We will consider the cases for income redistribution and for government nudges. Throughout we will intersperse discussion of concepts with policy issues, such as freedom of speech, gun control, global warming, drug laws, kidney sales, and Obamacare.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

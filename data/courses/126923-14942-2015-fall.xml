@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126923" class_number="14942" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="JAPNLIT 270">Topics in Modern and Contemporary Japanese Fiction: Seminar</title>
+            <exam_group>FAS06_F</exam_group>
+            <description>A seminar course on the history, theory, and practice of modern to contemporary Japanese fiction. The course will be organized around a specific theme, time period, a cluster of writers, critics, or genres.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNLIT">Japanese Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="19:29:00" location="CGIS Knafel K108 (FAS)" start_time="16:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e29548a1310" role="1" seniority_sort="1">
+                <display_name>Tomiko Yoda</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

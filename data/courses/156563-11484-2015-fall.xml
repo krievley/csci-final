@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156563" class_number="11484" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 980U">Psychological Challenges of Adolescence and Early Adulthood</title>
+            <exam_group>FAS05_D</exam_group>
+            <notes>Course instructor is Sarah Erb. Please contact her with any questions about the course.  </notes>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and PSY 18 before enrolling in this course.</prereq>
+            <description>This seminar will examine research on a wide range of developmental, social, and psychological processes that affect the mental health of adolescents and young adults. We will discuss factors that facilitate resilience during adolescence and the transition to adulthood (such as personality traits and economic resources), as well as risk factors (such as parental maltreatment and exposure to violence). We will also explore questions specific to disorders common during this developmental period, such as whether adolescent mood and anxiety disorders are unidimensional or bideminsional constructs, and how recent social and neurobiological research can enhance our understanding of the unique challenges faced by adolescents and young adults with ADHD. Throughout the course, we will discuss research on emerging trends in media use and Facebook, and the impact of these technologies on depression, anxiety, substance abuse, and cyberbullying.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="20:29:00" location="Sever 303 (FAS)" start_time="18:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e70433a1310" role="1" seniority_sort="1">
+                <display_name>Sarah Erb</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

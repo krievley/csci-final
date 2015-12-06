@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110715" class_number="10425" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 98R">Tutorial - Junior Year</title>
+            <notes>Optional for junior concentrators. Letter-graded only. Tutorials are led by individual faculty members; however study cards should be signed by the Director of Undergraduate Studies.   Ruth Lingford and members of the Department  Optional for junior concentrators. Letter-graded only. Tutorials are led by individual faculty members; however study cards should be signed by the Director of Undergraduate Studies.</notes>
+            <description>Individual instruction in subjects of special interest that cannot be studied in regular courses. Concentrators wishing to take a tutorial in their junior year must find a member of the faculty to advise the project and submit an application to the Director of Undergraduate Studies.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e50757a1310" role="1" seniority_sort="1">
+                <display_name>Ruth S. Lingford</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

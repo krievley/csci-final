@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156448" class_number="11456" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94PT">Political Parties in Developed Democracies</title>
+            <notes>Cheryl Welch and Colin Brown  </notes>
+            <description>This seminar will prepare students to think about political parties as institutional actors in political science, in the context of developed democracies. The first part of this course will focus on the origins of parties, using the American case to think more broadly about how parties form. The second part of the course will expand to cover different party systems in depth (the UK and the Netherlands) and different party families more broadly (social democrats, Christian democrats, green and radical right parties). Students will get a better understanding of what types of parties can and have existed, how parties are born, change and die, and how to use some of the more theoretical tools of political science in understanding party politics.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e410888a1310" role="1" seniority_sort="1">
+                <display_name>Colin Brown</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

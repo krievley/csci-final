@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113576" class_number="12102" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TURKISH 120A">Intermediate Modern Turkish I</title>
+            <exam_group>FAS11_D</exam_group>
+            <notes> Not open to auditors.</notes>
+            <prereq>Recommended: Turkish A or equivalent.</prereq>
+            <description>Emphasis on complex sentence structure and building communicative competence in describing events and expressing ideas through exercises in reading, writing, and speaking.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="TURKISH">Turkish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="10:59:00" location="CGIS South S040 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e80075a1310" role="1" seniority_sort="1">
+                <display_name>Himmet Taskomur</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

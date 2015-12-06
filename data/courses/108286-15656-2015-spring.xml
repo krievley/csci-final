@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108286" class_number="15656" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 61">Research Practice in Quantitative Methods</title>
+            <description>Class introduces students to statistical methods and practice commonly used in political science and likely to be of utility to those undertaking a quantitative methods thesis in Government. Topics will include techniques for dealing with binary or ordinal dependent variables, time series and 'survival' models, along with applications of more complicated approaches. Students will learn new statistical software skills, and be expected to both gather and work on their own data throughout the semester.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e161759a1310" role="1" seniority_sort="1">
+                <display_name>Chiara Superti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146387" class_number="14128" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 277">In Sickness and in Health: Topics in Symbiosis</title>
+            <prereq>Recommended: Life Sciences 1a, 1b or equivalent, microbial science, or permission of instructor.</prereq>
+            <description>Critical review and discussion of current issues in symbiosis. Emphasis is on microbe-eukaryote symbioses ranging from mutualistic to pathogenic associations. In 2011 the course will focus on the human microbiome and topics selected by faculty and students.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63280a1310" role="1" seniority_sort="1">
+                <display_name>Colleen Cavanaugh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

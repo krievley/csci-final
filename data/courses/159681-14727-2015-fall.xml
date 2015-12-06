@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159681" class_number="14727" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2424">Readings in the History of Gender and Sexuality in the West: Proseminar</title>
+            <exam_group>FAS02_B</exam_group>
+            <description>Wide-ranging selective survey of recent historiography on gender and sexuality in the U.S. and Western Europe, c. 1600 to the present.&amp;nbsp; Continuing societal structures and eras of particular cultural contestation and/or transformation will be highlighted.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="Robinson LL Library (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40593a1310" role="1" seniority_sort="1">
+                <display_name>Nancy Cott</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

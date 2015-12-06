@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160364" class_number="15401" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 100">Experimental Research in Molecular and Cellular Biology</title>
+            <prereq>Recommended: LPS A or LS 1a or permission of the instructor. Students interested in a neurobiology project will need MCB 80 or permission of the instructor.</prereq>
+            <description>A laboratory course that immerses students in a dynamic project-based research environment. Participate in experimental projects directly linked with ongoing faculty research. Students select a project from the following research tracks: neurobiology, microbial sciences, cell biology, and synthetic biology. New projects, including some in other research fields, are offered every term. In a highly collaborative atmosphere, students form a fully-functional and diverse research group based on the sharing of ideas and progress reports between projects. The spring microbiology project is part of the &amp;quot;genomes to Biomes&amp;quot; series. This course cannot be taken concurrently with LifeSci 100</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e21898a1310" role="1" seniority_sort="1">
+                <display_name>Alain Viel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

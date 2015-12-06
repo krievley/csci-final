@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156731" class_number="11660" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 187">Genome Editing - Progress and Frontiers</title>
+            <notes>Tu., 10&amp;#8211;11:30, and a two hour section weekly   Students will be required to attend all lectures and to participate in all weekly sections. A mid-term exam will be given and students will be required to submit a final paper consisting of a research proposal.</notes>
+            <prereq>Prerequisite: MCB 60 OR MCB 52</prereq>
+            <description>This course will provide a comprehensive and cutting-edge primer on the burgeoning field of targeted genome editing. Topics discussed will include foundational science, recent rapid technological advances, and research and therapeutic applications of engineered zinc-finger nucleases, TALENs, and CRISPR-Cas nucleases. The class will meet twice per week, including a one-and-a-half hour lecture and a two-hour section in which students will discuss and critique original scientific papers relevant to that week's subject.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e35165a1310" role="1" seniority_sort="1">
+                <display_name>Keith Joung</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

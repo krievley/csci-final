@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117918" class_number="12411" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 91R">Body Capital: Sex Work and the Global Economy</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes>Fall 2015 Instructor is David Francis. Interested students should contact him before the start of the semester. dfrancis@fas.harvard.edu..  </notes>
+            <description>This seminar explores research and debates around sex work in the global economy.&amp;nbsp; Topical intersections include technology; travel; urbanization and displacement; representation and testimony; ethics and the law; and the economization of intimacy, race, gender, class, and more.&amp;nbsp; Seminar readings and discussions, guided by students&amp;rsquo; interests, will culminate in the crafting, work-shopping, and presentation of research papers</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="Boylston G35 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+    </course>
+</courses>

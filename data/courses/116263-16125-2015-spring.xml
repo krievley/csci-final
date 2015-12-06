@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116263" class_number="16125" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LAT-STD 70">Modernity, Culture and Politics in Latin America</title>
+            <notes> Conducted in Spanish. Readings in Spanish and English.</notes>
+            <description>Introduces students to central debates and problems that have shaped Latin American culture. We address questions of cultural identity, gender, race, politics, economics and aesthetics by looking at historical and literary texts, films, visual arts and urban development from an interdisciplinary perspective. We analyze colonial encounters; revolutions; US-Latin American relations; popular cultures from tango and samba to football and carnaval; Latin American cities and slums; and memory, trauma and traces of the region's dictatorships.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="LAT-STD">Latin American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e64754a1310" role="1" seniority_sort="1">
+                <display_name>Mariano Siskind</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

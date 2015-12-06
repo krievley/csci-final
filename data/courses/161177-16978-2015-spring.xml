@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="161177" class_number="16978" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 35C">Learning to Hear Music in Depth and Detail</title>
+            <notes> The ability to read musical notation is not a pre-requisite.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar will involve close and repeated listening to a few pieces of music of various styles and cultures: Western classical (from the 15th to the 20th century), Jazz, Arab, and Chinese. The aim will be to listen deeply discovering more in each hearing and to develop ways of speaking about what has been heard so that discoveries can be shared in an attempt to expand one another&amp;rsquo;s hearing. For this purpose scores and diagrams (&amp;ldquo;maps&amp;rdquo;) will be used, but reading musical notation will not be a pre-requisite. Indeed, the seminar will likely consist of readers and non-readers. In some cases we will consult multiple performances of the same pieces and/or learn to perform selected elements by singing or clapping (often from memory). Although the course will not be centered on fundamentals of music theory, our discussions will lead to useful understandings of rhythm, harmony, counterpoint, and instrumentation. There will be two teaching and two compositing projects. For the former students will be required to select a piece not yet discussed in class and to present a variety of experiments or exercises that will teach the others news ways of hearing. The compositions will be experimental &amp;ldquo;sound&amp;rdquo; pieces or collages made using digital equipment and will not require experience with standard musical notation. Listening identification quizzes and informal presentations will be scheduled in alternating weeks. Each week supplementary listening will be suggested.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>0</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e61644a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Hasty</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115767" class_number="11958" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BPH 215">Principles of Toxicology</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes> Offered jointly with the School of Public Health as EH 504.</notes>
+            <prereq>Recommended: Organic chemistry and mammalian physiology or equivalent.</prereq>
+            <description>Emphasizes mechanisms of injury and clinical consequences following exposures to environmental and occupational chemicals. Examines actions at the molecular, cellular, organ system, and organismal levels. Discusses methods for detecting, evaluating, analyzing, and combating toxic effects.</description>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:10:00" location="" start_time="10:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6764a1310" role="1" seniority_sort="1">
+                <display_name>Vishal Vaidya</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

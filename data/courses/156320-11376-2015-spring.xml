@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156320" class_number="11376" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ISLAMCIV 213">Theological and Legal Conceptions of Human Nature in Islam</title>
+            <notes> Offered jointly with the Divinity School as 3487.</notes>
+            <description>Concepts of human nature are systematically developed in early Islamic theology. By contrast, references to human nature in the texts of the applied law (fur&amp;#363;&amp;lsquo; al-fiqh) are mostly passing remarks used to justify a particular norm but rarely systematized and generalized. In the methodology of the law (us&amp;#363;l al-fiqh) references to the legal personality (dhimma) provide a bridge between the discussions on human nature in theology and the texts of the applied law. For a discussion of the theological concepts of nature the seminar will rely on the work of Josef van Ess and Bernard Weiss. BJ will provide a selection of texts on human nature translated from Arabic treatises on the applied law and the methodology of law written by authors of different law schools between the tenth and the thirteenth centuries.The purpose of the seminar is to understand in how far elements of natural law can be found in the legal and theological discussions of Islam from the 8th to the 12th century. We will discuss the secondary literature on natural law in Islam, published over the last decade and see, in how far it contains material that could help us to answer this question and how far it integrates the Muslim discussion of human nature.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e25472a1310" role="1" seniority_sort="1">
+                <display_name>Baber Johansen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

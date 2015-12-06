@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123852" class_number="15695" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MODGRK 100">Advanced Modern Greek: Introduction to Modern Greek Literature</title>
+            <notes> Conducted in Modern Greek. Permission of instructor required.</notes>
+            <prereq>Recommended: Modern Greek Ba and Bb or equivalent.</prereq>
+            <description>Special Topic: Narratives of the Greek Crisis: Prose, Cinema, and Performance Literary, sociocultural, and linguistic analysis of selected readings in prose, poetry, and literary criticism by George Seferis. Emphasis will also be given to the reception of the Nobel laureate Greek poet. Students will achieve linguistic and cultural competency while grasping a complete portrait of the poet and diplomat George Seferis within a broader historic and sociopolitical context of 20th-century Greece.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="MODGRK">Modern Greek</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e204376a1310" role="1" seniority_sort="1">
+                <display_name>Vassiliki Rapti</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144785" class_number="14389" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 261R">Developmental Mechanisms of Evolutionary Change</title>
+            <prereq>Recommended: LS 1A and LS 1B or by permission of the instructor.</prereq>
+            <description>This lecture-seminar course will consider how mechanisms of animal developmental genetics help to explain the scope and patterns of animal diversity. Particular emphasis is placed on major evolutionary transitions and the origin of innovations.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

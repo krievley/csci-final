@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119379" class_number="12630" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1610">Ethnographic Research Methods</title>
+            <exam_group>FAS12_E</exam_group>
+            <notes>Open to undergraduates only. Preference given to anthropology concentrators.   Open to undergraduates only. Preference given to anthropology concentrators.</notes>
+            <description>Introduction to methodology for contemporary ethnographic field research in anthropology. Students complete assigned and independent research projects relying on a variety of ethnographic methods, under supervision of department faculty.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="Tozzer 203 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e46151a1310" role="1" seniority_sort="1">
+                <display_name>George Paul Meiu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="131261" class_number="16384" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 212R">Advanced Topics in Plant Physiology</title>
+            <exam_group>FAS18_H</exam_group>
+            <prereq>Recommended: OEB 52, OEB 120, or permission of instructor.</prereq>
+            <description>A critical discussion of current research in plant physiology including measurement techniques, modeling, and experimental approaches. In 2015, the focus will be on quantitative models of water movement from soil to atmosphere.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:29:00" location="Biological Labs 1075/1077(FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e66926a1310" role="1" seniority_sort="1">
+                <display_name>Noel Holbrook</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

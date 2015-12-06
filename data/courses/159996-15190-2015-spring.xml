@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159996" class_number="15190" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PLSH AB">Elementary Polish II</title>
+            <description>Part two of a two part introductory course in modern Polish language and culture, designed for students without previous knowledge who would like to speak Polish or use the language for reading and research. All four major communicative skills (speaking, listening comprehension, reading, writing) are stressed. Students are exposed to Polish culture through reading of prose and poetry as they learn to use the language both as a means of communication and as a tool for reading and research. Polish AA: Elementary Polish I together with Polish AB: Elementary Polish II satisfy the foreign language requirement and prepare students for continued study of Polish in intermediate-level courses and for study or travel abroad in Poland.&amp;nbsp;Please note that this course will meet for an additional hour of speaking practice that will be arranged the first week of classes. See language course notes on our website for information about sectioning, pass/fail, satisfactory/unsatisfactory, and auditing.&amp;nbsp;</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="PLSH">Polish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e16692a1310" role="1" seniority_sort="1">
+                <display_name>Anna Baranczak</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123877" class_number="13165" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="E-PSCI 132">Introduction to Meteorology and Climate</title>
+            <notes> EPS 132 is also offered as ES 132. Students may not take both for credit.</notes>
+            <prereq>Recommended: Mathematics 21 or Applied Mathematics 21a and 21b; Physics 11 (no longer offered) or 15 or Physical Sciences 12; or permission of instructor.</prereq>
+            <description>Physical concepts necessary to understand atmospheric structure and motion. Phenomena studied include the formation of clouds and precipitation, solar and terrestrial radiation, dynamical balance of the large-scale wind, and the origin of cyclones. Concepts developed for understanding today's atmosphere are applied to understanding the record of past climate change and the prospects for climate change in the future.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e89604a1310" role="1" seniority_sort="1">
+                <display_name>Brian Farrell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

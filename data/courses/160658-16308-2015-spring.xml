@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160658" class_number="16308" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1301">Brain Science for World Leaders</title>
+            <prereq>Recommended: For psychology concentrators: SLS 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15</prereq>
+            <description>Three forces have converged to make this the most exciting time for brain science.&amp;nbsp; First, we don&amp;rsquo;t yet understand how the brain works, how it breaks, and how to fix it: we have important questions to answer. Second, a slew of powerful brain methods have emerged and we have entered an era of massive computing power: we have serious tools. Third, more than ever before, there is a social will and now a political mandate to tackle these questions head on: we all want to know more about brains!This course will give you an overview of our current state of brain science knowledge and some basic neuroscience know-how. The content is structured to help you best on that future day when you&amp;rsquo;re an entrepreneur, lawyer, scientist, or the next president, so you&amp;rsquo;ll have the foundation to shape the next decade of brain science discovery and policy.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e85557a1310" role="1" seniority_sort="1">
+                <display_name>Talia Konkle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

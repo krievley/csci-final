@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160651" class_number="16301" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TDM 169DB">Live Art in the Theater Environment</title>
+            <notes> This course will be taught by Visiting Lecturer Dean Moss. The course is both physical and technical, performance and audio/visual production skills are suggested, but not required.</notes>
+            <description>(Taught by Visiting Lecturer Dean Moss.) A fast-paced intensive introduction to multidisciplinary performance art practice. Open to a mix of students with dance, visual, video, and/or theatrical backgrounds, the course will focus on practical strategies employed in the blending of movement, sound, image, and presence in contemporary performance works. Students will use themselves, each other, the immediate environment, and an assortment of media production tools, to embody alternative, non-traditional theater processes and create multidisciplinary performance art projects. Discussion, screenings and reading assignments will provide conceptual and historical context for the course.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

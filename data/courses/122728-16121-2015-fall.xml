@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122728" class_number="16121" school_id="fas" section="015" term_code="fall">
+        <catalog_info>
+            <title short_title="ASTRON 300">Topics in Modern Astrophysics</title>
+            <description>A seminar, reading, or research course may be arranged with any of the faculty listed. Students can also arrange to obtain Astronomy 300 credit for reading or research with scientific staff members of the Harvard-Smithsonian Center for Astrophysics; consult Astronomy Department office.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e243938a1310" role="1" seniority_sort="1">
+                <display_name>Ramesh Narayan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

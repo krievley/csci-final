@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143445" class_number="14265" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 59">Plants and Human Affairs</title>
+            <exam_group>FAS12_A</exam_group>
+            <prereq>Recommended: OEB 10 or permission of the instructor.</prereq>
+            <description>An introduction to the uses of plants by humans. Topics include the form, structure and genetics of plants related to their use as sources of food, shelter, fiber, flavors, beverages, drugs, and medicines. Plant structure and reproduction are studied in lecture and laboratory with a particular focus on relationships between the plant's structural, chemical, or physiological attributes and the utility plant.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42950a1310" role="1" seniority_sort="1">
+                <display_name>Donald Pfister</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126705" class_number="14065" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCWORLD 42">The World Wars and Global Transformation, 1900-1950</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Examines the origins, military history, and successive postwar settlements of World Wars I and II in the framework of evolving empires, fascist, communist, and democratic ideological mobilization, forced resettlement and cultures of mass violence, ongoing economic and social change (and persistence). Attention to Asian and African as well as European and American transformations.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Sever 102 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7198a1310" role="1" seniority_sort="1">
+                <display_name>Charles Maier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

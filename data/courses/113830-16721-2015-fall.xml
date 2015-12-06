@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113830" class_number="16721" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 3660HFA">The Law, Economics, and Organizations Workshop</title>
+            <exam_group>FAS18_G</exam_group>
+            <notes> Offered jointly with the Law School as 96250-11 and with the Business School as 4670.</notes>
+            <description>The presentation of work in progress in the field of law, economics, and organizations. Presentations by members of the various Harvard faculties, outside speakers, and graduate students.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:59:00" location="" start_time="12:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e179499a1310" role="1" seniority_sort="1">
+                <display_name>Lucian Bebchuk</display_name>
+            </person>
+            <person id="d1e31910a1310" role="1" seniority_sort="3">
+                <display_name>Oliver Hart</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

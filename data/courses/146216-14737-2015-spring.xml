@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146216" class_number="14737" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 151">The 19th-Century Novel</title>
+            <notes> Note: This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>How and why the novel became the central genre of modern culture. Austen, Pride and Prejudice, Gaskell, North and South, Dickens, Bleak House, Thackeray, Vanity Fair, Trollope, The Warden, and Eliot, Middlemarch.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

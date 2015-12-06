@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116238" class_number="12228" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SYSTBIO 200">Dynamic &amp; Stochastic Processes in Cells</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>Students planning to take both quarter courses (SB303 and 304) must enroll in this as a half course on their study card as SysBio200 for now and in the future. Students who take one half of this quarter can NOT ever take the other half for credit.   Tu., Th., 10-11:30, and a weekly section to be arranged.   Students planning to take both quarter courses (SB303 and 304) must enroll in this as a half course on their study card as SysBio200 for now and in the future. Students who take one half of this quarter can NOT ever take the other half for credit.</notes>
+            <prereq>Recommended: College-level calculus. Familiarity with mathematics at the level of 19/20 is strongly recommended.</prereq>
+            <description>Rigorous introduction to (i) dynamical systems theory as a tool to understand molecular and cellular biology (ii) stochastic processes in single cells, using tools from statistical physics and information theory.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Northwest Bldg 343 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e121674a1310" role="1" seniority_sort="1">
+                <display_name>Jeremy Gunawardena</display_name>
+            </person>
+            <person id="d1e121677a1310" role="1" seniority_sort="2">
+                <display_name>Johan Paulsson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

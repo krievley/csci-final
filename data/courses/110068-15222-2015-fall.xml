@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110068" class_number="15222" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 151">The Poetics of Dreams</title>
+            <exam_group>FAS06_E</exam_group>
+            <description>This course will look into the oneiric literature, ranging from Apuleius and Shakespeare to Cao Xueqin, Marcel Proust, and Virginia Woolf, exploring these works through different dream theories, from the Romantics to Freud to the Surrealists and beyond. We will examine how dreams differ in time and space in different cultures to reveal shifting relations between dreams, memory, visions, reveries, magic, games, and theatre.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Barker 211 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e99046a1310" role="1" seniority_sort="1">
+                <display_name>Delia Ungureanu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

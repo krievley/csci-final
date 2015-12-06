@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123244" class_number="16488" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1651R">Language Development: Undergraduate Laboratory Course: Research Seminar</title>
+            <notes> For undergraduates seeking research experience, especially in preparation for undergraduate theses.</notes>
+            <prereq>Recommended: Science of Living Systems 20 or its predecessors plus either Psychology 13 or Science of Living Systems 15</prereq>
+            <description>Students participate in research on language acquisition, language comprehension, and language production. Each student has responsibility for a project. Weekly meeting to discuss student projects and readings that are relevant to them. Ten hours a week commitment (includes lab meeting).</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e86143a1310" role="1" seniority_sort="1">
+                <display_name>Jesse Snedeker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

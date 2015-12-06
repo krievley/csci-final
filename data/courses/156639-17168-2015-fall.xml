@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156639" class_number="17168" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1553">Social Bonds and Human Connections</title>
+            <exam_group>FAS09_B</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>As social beings, humans have a fundamental need to affiliate and bond with each other. In this course, we will trace social relationships across the human lifespan, from parent-infant attachment to adolescent peer relationships to pair bonding in adulthood. In doing so, we will discuss the evolutionary benefits of this social motive and the dissolution of social bonds. We will also examine current issues in psychological science especially relevant to social bonds, including online relationships and the role of oxytocin.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="Northwest Bldg B104 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63579a1310" role="1" seniority_sort="1">
+                <display_name>Katherine Powers</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

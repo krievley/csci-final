@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160612" class_number="16235" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 3163HFB">The Econometrics Workshop</title>
+            <description>Outside speakers and faculty present current research topics in theory and applications of econometrics. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="" start_time="16:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e47297a1310" role="1" seniority_sort="1">
+                <display_name>Maximilian Kasy</display_name>
+            </person>
+            <person id="d1e47303a1310" role="2" seniority_sort="2">
+                <display_name>Gary Chamberlain</display_name>
+            </person>
+            <person id="d1e47300a1310" role="2" seniority_sort="3">
+                <display_name>James H. Stock</display_name>
+            </person>
+            <person id="d1e47306a1310" role="2" seniority_sort="4">
+                <display_name>Dale Jorgenson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

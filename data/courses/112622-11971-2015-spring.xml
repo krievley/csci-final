@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112622" class_number="11971" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2080">Medieval Law</title>
+            <notes> Offered jointly with the Law School as Law 2166.</notes>
+            <prereq>Recommended: Some Latin required.</prereq>
+            <description>Readings focused alternately on the English legal tradition and on the Roman-canonical tradition. The topic for 2015-16 will be the Continental European tradition. Short papers analyzing texts will be required but not a research paper.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="18:59:00" location="" start_time="17:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e117204a1310" role="1" seniority_sort="1">
+                <display_name>Charles Donahue</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

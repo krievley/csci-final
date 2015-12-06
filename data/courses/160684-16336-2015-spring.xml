@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160684" class_number="16336" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1057">Music and the Mind</title>
+            <prereq>Recommended: SLS 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15</prereq>
+            <description>Music is universal, pervasive in our everyday lives, and compelling. How does music make our emotions soar, spark our creativity, and influence our relationships and interactions with others? This course will examine how the brain creates and experiences music, how music in turn shapes our brains and tunes our ability to engage with our external environment, and what music reveals about the ability of the human brain to co-opt evolutionarily ancient mechanisms for seemingly &amp;quot;unique&amp;quot; human faculties. We will cover the relationship between music and emotions, movement, creativity, and sociality.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e269316a1310" role="1" seniority_sort="1">
+                <display_name>Olivia Kang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

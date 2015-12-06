@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121171" class_number="13387" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 30O">What is College and What is It For?</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Asks students to think and write critically about American higher education--its history, purpose and ongoing challenges. Considers "the uses of the university" from a variety of perspectives: historical, sociological, economic, and developmental. Addresses questions: What constitutes a liberal arts education? What are its goals? How should students be assessed? What role do extracurricular activities play in a college education? Does a bachelor's degree certify a vocational education, a cultural one, or a moral one?</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160385" class_number="15457" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2320B">Foundations of Modern European Intellectual History: Seminar</title>
+            <description>This graduate seminar provides a survey of major themes and controversies in modern European intellectual history from the Enlightenment to the post-war era. The seminar is intended primarily for graduate students who are preparing for the qualifying examination. The course is offered on a yearly basis, and it meets every other week throughout the academic year. Please consult with the instructor for further details.&amp;nbsp; Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e37396a1310" role="1" seniority_sort="1">
+                <display_name>Peter Gordon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122352" class_number="13571" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="CATALAN 20">Catalan Language and Culture: a Multimedia Approach</title>
+            <notes>Stacey Katz Bourns and members of the Department  Conducted in Catalan. Not open to auditors. May not be taken Pass/Fail by undergraduates, but may be taken Sat/Unsat by GSAS students.</notes>
+            <prereq>Prerequisite: Catalan Ba</prereq>
+            <description>Intermediate course introducing students to Catalan culture and boosting their oral and written skills through a wide range of resources, such as Internet, television, radio, and press. Students will get a taste of various aspects of Catalan culture: art, cinema, music, literature, traditions, cuisine, history, and more.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="CATALAN">Catalan</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="16:29:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e67312a1310" role="1" seniority_sort="1">
+                <display_name>Stacey Bourns</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114038" class_number="14242" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 97">Tutorial - Sophomore Year</title>
+            <description>An introduction to various disciplinary methodologies and forms of literary and cultural analysis through the study of works from different languages, periods, genres, and media. Open to concentrators only.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e42905a1310" role="1" seniority_sort="1">
+                <display_name>Verena Conley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

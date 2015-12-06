@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117649" class_number="12031" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VIROLOGY 202">Proposal Writing</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes> Offered jointly with the Medical School as MG 724.0.</notes>
+            <prereq>Recommended: General background in biochemistry and virology.</prereq>
+            <description>Students will write, present, and evaluate research proposals in the areas of virus replication, viral pathogenesis and treatment and prevention of viral infections.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="VIROLOGY">Virology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="13:45:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e131544a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin Gewurz</display_name>
+            </person>
+            <person id="d1e131547a1310" role="2" seniority_sort="2">
+                <display_name>Galit Alter</display_name>
+            </person>
+            <person id="d1e43886a1310" role="2" seniority_sort="3">
+                <display_name>James DeCaprio</display_name>
+            </person>
+            <person id="d1e105973a1310" role="2" seniority_sort="4">
+                <display_name>Frederick Wang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

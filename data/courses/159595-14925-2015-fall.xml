@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159595" class_number="14925" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="JAPAN 120A">Intermediate Japanese I</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes>Class meets five times a week, additional discussion sections to be arranged.  </notes>
+            <description>Second-year intermediate level course aimed at consolidation of the basic grammatical patterns of Japanese and development of reading, writing, speaking, and listening skills to the level necessary for communication in everyday life in Japanese society. Introduction of approximately 150 Chinese characters beyond those introduced in Bb.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPAN">Japanese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Northwest Bldg B106 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e217377a1310" role="1" seniority_sort="1">
+                <display_name>Miki Yagi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

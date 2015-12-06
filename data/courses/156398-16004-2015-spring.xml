@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156398" class_number="16004" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCRB 20">Molecular Genetics and Genomics in Development and Disease</title>
+            <prereq>Recommended: Life and Physical Sciences A or Life Sciences 1a; Life Sciences 1b (or equivalent) or permission of the instructor.</prereq>
+            <description>The sequencing of the human genome has ushered in a new era of scientific investigation. In parallel, advances in molecular biology have made it possible to explore the processes underlying normal development and disease pathogenesis. We will apply principles and techniques of molecular biology - ranging from DNA structure to the Central Dogma, from PCR to cutting-edge genome-editing technology - to understand how genetics and genomics inform gene regulation and cell identity and, ultimately, the human condition.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e9841a1310" role="1" seniority_sort="1">
+                <display_name>John Rinn</display_name>
+            </person>
+            <person id="d1e153013a1310" role="1" seniority_sort="2">
+                <display_name>Alexander Meissner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

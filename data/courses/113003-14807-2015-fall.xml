@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113003" class_number="14807" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="NEUROBIO 101A">Novel Therapeutics in the Central Nervous System</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes>Please enroll in Neurobiology 101 if you are interested in taking one of the sophomore tutorials.&amp;nbsp;  </notes>
+            <prereq>Prerequisite: LS 1a AND MCB 80</prereq>
+            <description>Recent advances have elucidated new non-traditional molecular signaling pathways involved in many disorders and diseases in the CNS. This tutorial will focus on examining novel therapeutics and &amp;#39;outside the box&amp;#39; approaches to treat CNS disorders: Alzheimer&amp;#39;s, Autism, Schizophrenia, Traumatic Injury and Multiple Sclerosis. To do this, we will examine primary and clinical literature and explore drug design strategies.&amp;nbsp;Students must complete both terms of this course(parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NEURO">Neurobiology</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:29:00" location="Robinson 107 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e182727a1310" role="1" seniority_sort="1">
+                <display_name>Catherine Dubreuil</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

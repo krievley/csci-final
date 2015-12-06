@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113094" class_number="10413" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 971">Contemporary Issues in Psychology: Intensive Cross-level Analyses</title>
+            <notes>This course is taught entirely in sections, so a required first meeting of this course for sectioning will be held the first day of classes. For Fall 2015, attend one of two meetings on Wed Sept 2nd: 1-2pm in WJH 1550 or 5-6pm in WJH 1050.  Students may take this course before formally declaring Psychology as their concentration. Psy 971 and Psy 975 are interchangeable for Psychology requirements.</notes>
+            <prereq>Recommended: Science of Living Systems 20 (or equivalent) should be taken before this course. STAT 101 or PSY 1900 should be taken in advance or concurrently.</prereq>
+            <description>Examines selected issues and phenomena in contemporary psychological research. Special attention to examining topics from a variety of perspectives, to reading primary sources in the field, and to developing thinking, writing, research, and discussion skills. This tutorial, or Psychology 975, is required of concentrators upon entering the concentration, normally in the sophomore year. Letter graded.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6193a1310" role="1" seniority_sort="1">
+                <display_name>Jill Hooley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

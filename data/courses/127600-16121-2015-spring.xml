@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127600" class_number="16121" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BPH 303QC">Critical Reading in Pathophysiology of Human Diseases</title>
+            <notes> Offered jointly with the School of Public Health as EH 526.</notes>
+            <description>The objectives of this course are to enhance and supplement knowledge of pathophysiology learned in the main course. This course will use critical reading to explore primary literature, and is especially intended for graduate students in the biological sciences. The course materials and discussions will provide a deeper understanding of the application and translation of basic pathophysiology, as found in current biomedical research.</description>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e180318a1310" role="1" seniority_sort="1">
+                <display_name>Lester Kobzik</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

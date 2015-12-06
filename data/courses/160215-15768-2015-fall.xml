@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160215" class_number="15768" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 23H">Anatomy and Ethical Transgressions in National Socialism</title>
+            <exam_group>FAS09_C</exam_group>
+            <notes> Open to Freshmen only.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course introduces students to the history and ethics of anatomy and their relevance for current medical ethics. The general history of anatomical dissection serves as a background to ethical transgressions committed by anatomists during National Socialism (NS, Nazi Germany). Body procurement changed by including increasing numbers of bodies of NS victims, and anatomists became complicit in the complete destruction of so-called &amp;ldquo;enemies&amp;rdquo; of the regime. A few anatomists left the traditional paradigm of anatomy- i.e. gain of anatomical knowledge through work with the dead- and started work with the &amp;ldquo;future dead&amp;rdquo; in experiments on prisoners who were subsequently murdered.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Sever 105 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e200513a1310" role="1" seniority_sort="1">
+                <display_name>Sabine Hildebrandt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

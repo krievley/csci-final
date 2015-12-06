@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115032" class_number="11934" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FOLKMYTH 98A">History and Theory of Folklore and Mythology</title>
+            <exam_group>FAS02_B</exam_group>
+            <notes> Required of all, and limited to, concentrators.</notes>
+            <description>Examines the development of folklore and mythology as fields of study, with particular attention to the methodological approaches suited to their areas of enquiry. Considers the study of folklore and mythology in the 19th and early 20th centuries, but focuses especially on theoretical contributions to the study of folklore, mythology, and oral literature in recent decades.</description>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156352" class_number="11397" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 21J">Plant Sex: Insights into the birds and the bees and the buttercups and the bleeding hearts</title>
+            <notes> The seminar will include required field trips, dates TBD. Transportation and entrance fees are provided free of charge.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar addresses fundamental evolutionary concepts while exploring the dynamic relationship between plants and their pollinators. We will use plant-pollinator interactions to understand the science of mutualism, co-evolution, speciation, convergence, animal behavior, and conservation biology. Discussions and readings on these topics will be highlighted by trips to the Arnold Arboretum, the Harvard Museum of Natural History, the Wellesley College greenhouses, and a local beekeeper. We will utilize living plants to explore diversity in plant morphology and reproductive strategies.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e21138a1310" role="1" seniority_sort="1">
+                <display_name>Robin Hopkins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

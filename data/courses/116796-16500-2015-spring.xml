@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116796" class_number="16500" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 32K">The Poetry of Walt Whitman</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The seminar studies Whitman as a self-consciously nationalist poet, as an inheritor of English verse, as a creator of a single lifelong book, as a noncombatant war poet, and as a poet of homosexual affection. It considers Whitman&amp;#39;s Americanization of lyric genres (the landscape poem, the love poem, the elegy, the bildungsroman, the war poem, and others), as well as the private and collective speaking self, the Whitmanian sequence, catalogues, forms of inception and closure, prosody, and architectonic structures.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>1</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57498a1310" role="1" seniority_sort="1">
+                <display_name>Helen Vendler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

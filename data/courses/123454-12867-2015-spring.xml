@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123454" class_number="12867" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 92XR">Archaeological Research Methods in Museum Collections</title>
+            <notes> Must be taken for a letter grade. Priority given to students in Anthropology and related departments. To enroll, submit a petition form (available on the Anthropology [Archaeology] website), signed by the supervisor, the PM Director, and the Head Tutor for Archaeology and including a proposed research agenda, preferably during the term preceding the term of enrollment. See the Head Tutor for Archaeology or members of the Peabody Museum curatorial staff for more information.</notes>
+            <description>Special (individual) study of Peabody Museum (PM) collections approved by the PM Director and directly supervised by a member of the PM curatorial staff. Requires a project involving a museum collection developed in consultation with the supervisor.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e30960a1310" role="1" seniority_sort="1">
+                <display_name>Rowan Flad</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

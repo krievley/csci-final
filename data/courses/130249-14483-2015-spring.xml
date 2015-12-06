@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130249" class_number="14483" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 103G">Old English: Beowulf and its Contexts</title>
+            <notes> Fulfills the College language requirement and the English Department's Foreign Literature requirement.</notes>
+            <prereq>Recommended: Honors grade in English 102g or the equivalent.</prereq>
+            <description>We will translate some of the most fascinating sections of Beowulf&amp;mdash;from monster-slaying and heroic feats to pagan burials and betrayals&amp;mdash;in order to learn what makes it an exceptional poem. We will also combine language study with literary criticism to consider different aspects of Beowulf each week: the artistry of poetic language, the use of Germanic legend, or the sophistication of the meter, for example.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e138031a1310" role="1" seniority_sort="1">
+                <display_name>Joey McMullen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

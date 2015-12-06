@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121805" class_number="16901" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 122X">Architecture in Early Modern Mediterranean</title>
+            <description>Architecture of the Mediterranean basin ca. 1350-1600 emphasizing transcultural and cosmopolitan trends. The focus is on Islamic architecture but within a comparative perspective including references to the Latin West, particularly Italy and Spain. Topics to be considered include cross-cultural encounters, uses of the shared Roman-Byzantine heritage, spolia, materiality and marble, the dome, science and technology, treatises and travel literature, architectural practice, plans and models, the architect, patronage, multimedia ornament, ports and islands, fortifications, architecture of trade, religious and palatial architecture, villas and gardens. Some visiting lectures by Prof. Alina Payne.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e115187a1310" role="1" seniority_sort="1">
+                <display_name>Gulru Necipoglu-Kafadar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109925" class_number="10683" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1920">The Politics of Storytelling</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes>Offered jointly with the Divinity School as 3859.   Offered jointly with the Divinity School as 3859.</notes>
+            <description>This course addresses Hannah Arendt's thesis that storytelling is a critical strategy for bridging the gap between private and public realms. Storytelling is thus understood as a mode of social and political activity that involves a struggle between personal and collective representations of the "truth" and between unofficial and official versions of events. Through the close analysis of storytelling in a variety of situations, we will explore the ways in which the meaning of stories resides not in any ahistorical essence or internal logic, but emerges from the everyday human struggle to strike a balance between domains of experience that are, on the one hand, felt to belong to oneself or one's own kind, and, on the other, felt to be shared by or to belong to others.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Yenching Library 118 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6245a1310" role="1" seniority_sort="1">
+                <display_name>Michael Jackson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

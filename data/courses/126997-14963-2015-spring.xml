@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126997" class_number="14963" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 40">Upper-Level French I: The Contemporary Francophone World Through Cinema</title>
+            <notes> Conducted in French. May not be taken Pass/Fail but may be taken Sat/Unsat by GSAS students. Not open to auditors. This course is taught by members of the Department.</notes>
+            <prereq>Recommended: French 30, 681-720 on the SAT II test or the Harvard Placement test; or permission of course head.</prereq>
+            <description>An advanced French language and culture course designed to enhance all language skills. Using contemporary Francophone movies, students will study various cultural issues relevant to Francophone identity such as immigration, education, the workplace, regional differences, sexuality, relationships, etc. Students will participate in a range of written and oral activities from blog entries to short skits in class, and will produce their own short film as a final project.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e26226a1310" role="1" seniority_sort="1">
+                <display_name>Aurelie Chevant</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

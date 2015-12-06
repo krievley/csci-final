@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113337" class_number="11707" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 11">Landmarks of World Architecture</title>
+            <notes>TBD and members of the Department and the GSD faculty  This course, when taken for a letter grade, meet the General Education requirement for Aesthetic and Interpretive Understanding. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Examines major works of world architecture and the unique aesthetic, cultural, and historical issues that frame them. Faculty members will each lecture on an outstanding example in their area of expertise, drawing from various periods and such diverse cultures as modern and contemporary Europe and America, early modern Japan, Mughal India, Renaissance and medieval Europe, and ancient Rome. Sections will develop thematically and focus on significant issues in the analysis and interpretation of architecture.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e185931a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Connors</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

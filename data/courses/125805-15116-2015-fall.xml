@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125805" class_number="15116" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCRB 99A">Laboratory Research for Honors Thesis</title>
+            <notes> Ordinarily may not be taken as a fifth course. Laboratory safety session required.</notes>
+            <prereq>Recommended: Students intending to enroll in the fall are required to submit a written proposal to the Course Director. Students may enter the course at midyear only with the permission of the Course Director. The thesis proposal must be approved by the Course Director and Head Tutors prior to enrolling in SCRB 99.</prereq>
+            <description>For honors candidates writing a thesis in Human Developmental and Regenerative Biology. &amp;nbsp;Part one of a two part series.</description>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e166243a1310" role="1" seniority_sort="1">
+                <display_name>William J. Anderson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

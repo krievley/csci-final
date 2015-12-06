@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119960" class_number="13111" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2030">Psychology and Economics</title>
+            <notes>Primarily for graduate students but open to undergraduates.   Primarily for graduate students but open to undergraduates.</notes>
+            <prereq>Recommended: Knowledge of multivariable calculus and econometrics.</prereq>
+            <description>Explores economic and psychological models of human behavior. Topics include bounded rationality, intertemporal choice, decision making under uncertainty, inference, choice heuristics, and social preferences. Economic applications include asset pricing, corporate finance, macroeconomics, labor, development, and industrial organization.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15779a1310" role="1" seniority_sort="1">
+                <display_name>David Laibson</display_name>
+            </person>
+            <person id="d1e342928a1310" role="2" seniority_sort="2">
+                <display_name>Andrei Shleifer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

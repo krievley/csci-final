@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160785" class_number="16850" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 40E">Law and Society through the Cinematic Frame</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>In this seminar we will explore the interaction of law and society using the lens of film. The cinematic experience has become a key site through which the public understanding of law is produced, debated and influenced. Driven first and foremost by market and audience considerations, law related films often inject drama, contentious dimensions and even misrepresentations into the portrayal of real events. Nonetheless, by raising awareness about legal themes that pervade the plot, these films offer valuable insights toward discovering social scientific perspectives on the manner in which law functions in everyday life. Hence, the seminar will not focus on legal doctrine or teach you the fundamentals of the legal profession. Rather, using films as a framework for discussion, we will study law&amp;rsquo;s working in relations to the social, political, economic and cultural environments in which it operates. Central thematic topics to be discussed include: the relationship between law, justice and morality; how does law intervenes in social relations and whether it is over-utilized as part of these relations; the dynamics between law and social change; is access to the legal process equal to everyone; and the function of law in deeply divided societies. Throughout the semester film viewing will occur outside class as part of your weekly preparation for the seminar. However, we will dedicate one class as a field trip to watch a law-related film together and analyze its themes through the sociolegal perspective.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e305903a1310" role="1" seniority_sort="1">
+                <display_name>Ofrit Liviatan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

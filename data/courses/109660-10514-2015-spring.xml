@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109660" class_number="10514" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HISTSCI 98">Tutorial - Junior Year</title>
+            <notes>Melinda Baldwin  </notes>
+            <description>This one-semester junior tutorial is a research-oriented tutorial taken in small groups. Focuses on enhancing research and writing skills through the completion of a directed research paper on subject matter of the student's interest. Must be taken during the fall semester (except for students not in residence).</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

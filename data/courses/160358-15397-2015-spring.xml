@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160358" class_number="15397" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="CLASSIC 93">Advanced Tutorial for Credit</title>
+            <description>Tutorial instruction for course credit open to candidates for honors who are qualified to do special reading projects in Greek and/or Latin.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASSIC">Classics</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e38239a1310" role="1" seniority_sort="1">
+                <display_name>Kathleen Coleman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

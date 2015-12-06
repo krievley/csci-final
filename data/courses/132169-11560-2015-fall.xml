@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="132169" class_number="11560" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1463">Molecular Evolution of Primates</title>
+            <exam_group>FAS15_E</exam_group>
+            <notes>This course counts towards the research seminar requirement in HEB.  </notes>
+            <prereq>Recommended: Life Sciences 1b required.</prereq>
+            <description>Molecular biology, DNA sequencing, and genomics have transformed our knowledge of evolution at the molecular level.&amp;nbsp; This course explores how genetic data inform us about adaptations of humans and other primates.&amp;nbsp; We will explore how natural selection molds primate genomes over time.&amp;nbsp; Topics include the neutral theory of molecular evolution, the molecular clock concept and its applications, evolution of multigene families, relationships between phenotypic and molecular evolution, the evolution of primate color vision genes, and human disease variants in an evolutionary context.This year features a new small-group format with emphasis on active student participation and skill development including how to think critically about data.&amp;nbsp; Students will have the opportunity to learn how to write a research paper including how to effectively research the scientific literature, develop an outline, avoid inadvertent plagiarism, and present the body of a developing research paper to peers in order to get useful feedback in time to modify their final papers.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Museum of Comp Zool 529 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e109381a1310" role="1" seniority_sort="1">
+                <display_name>Maryellen Ruvolo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

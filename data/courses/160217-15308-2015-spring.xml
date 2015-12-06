@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160217" class_number="15308" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 172M">Enchanted Cinema</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  There is a mandatory weekly film screening for this course on Tuesdays from 4:30-6:30PM.  This course has a mandatory film screening on Tuesdays 4:30-6:30.</notes>
+            <description>We will study films that concern themselves with the enchanted state of early childhood; and with the myths children create to make sense of the world. We&amp;rsquo;ll also look at films made with the same sense of wonder and uninhibited daring children experience when making art. We&amp;rsquo;ll study canonical masterpieces, disguised fairy tales, outsider filmmakers, Poverty Row gems, startling experiments and films repurposed by a second director to make new fiction from an intervention.&amp;nbsp;Students will respond with scripts, essays and/or visual essays.
+&amp;nbsp;</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e33910a1310" role="1" seniority_sort="1">
+                <display_name>Guy Maddin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

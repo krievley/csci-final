@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159818" class_number="15158" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98OS">Honest Lies and Deceptive Truths: Modernity and the Politics of Transparency</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> This course will be lotteried.</notes>
+            <description>The idea that transparency, or truth in politics, is both an unequivocally good objective, and an attainable one, is now commonplace. The modern period of political thought, by contrast, presents startlingly different evaluations of, and approaches to, transparency. &amp;nbsp;Drawing on the work of Machiavelli, Hobbes, and Rousseau, this course explores the politics of verity and falsity as each relates to questions of 1) epistemology 2) methodology and 3) rhetoric. &amp;nbsp;In so doing, the course offers a historical lens through which to reconsider, and potentially critique, contemporary notions of political transparency. &amp;nbsp;</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="William James 350 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e202035a1310" role="1" seniority_sort="1">
+                <display_name>Rebecca Ploof</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

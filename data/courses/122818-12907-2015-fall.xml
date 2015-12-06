@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122818" class_number="12907" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 268AR">Special Topics in Condensed Matter Physics: Topological States of Matter</title>
+            <exam_group>FAS03_A</exam_group>
+            <prereq>Recommended: Prerequisites:  Physics 251b, Applied Physics 295a and Physics 262, or equivalents.</prereq>
+            <description>Notions of topology have been invoked to clarify the properties of a variety of quantum systems and to classify the possible ground states of such systems.&amp;nbsp; We shall explore in depth examples such as integer and fractional quantized Hall states in two-dimensional systems, and topological insulators in two and three dimensions.&amp;nbsp; Discussions will include effects of disorder and localization phenomena, and practical issues of measurement that may have only marginal relation to topological concepts.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Jefferson 356 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e151418a1310" role="1" seniority_sort="1">
+                <display_name>Bertrand Halperin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124414" class_number="15390" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 10">Foundations of Political Theory</title>
+            <notes>theory_subfield  This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning.</notes>
+            <description>This course investigates the central problems of political theory that concern the justification of democracy. Is democratic rule the uniquely just form of collective decision-making? What political institutions best express the democratic values of equality, deliberation, and participation? What are the moral responsibilities of citizens - whose representatives exercise political power in their name? Is democracy a human right? Readings integrate contemporary work in political philosophy with canonical thinkers, including Plato, Aristotle, Rousseau, and J.S. Mill.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e86652a1310" role="1" seniority_sort="1">
+                <display_name>Eric Beerbohm</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126663" class_number="16557" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2087HFRA">Advanced Topics in Theory</title>
+            <exam_group>FAS13_F</exam_group>
+            <notes> Course will start in late October.</notes>
+            <prereq>Prerequisite:  Economics 2010a</prereq>
+            <description>The class will read and discuss current research in economics with a focus on game theory and decision theory. Students will be expected to make a verbal presentation. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.	&amp;nbsp;</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="16:59:00" location="Littauer Ctr M15 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15782a1310" role="1" seniority_sort="1">
+                <display_name>Tomasz Strzalecki</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112069" class_number="10831" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2462">Readings in the U.S. in the 20th Century: Proseminar</title>
+            <exam_group>FAS15_E</exam_group>
+            <description>Readings in recent monographs as well as older historiography, covering a wide range of 20th-century topics. This proseminar is required of all History graduate students focusing on the United States.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Robinson LL Library (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40548a1310" role="1" seniority_sort="1">
+                <display_name>Lisa McGirr</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

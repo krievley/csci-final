@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112942" class_number="11763" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2020A">Microeconomic Theory I</title>
+            <exam_group>FAS17_A</exam_group>
+            <notes>M., W., 8:30-10 and a weekly section to be arranged   Maciej Kotowski  Students may receive credit for both API-111 and API-101/API-105 only if API-101/105 is taken first. API-111 and API-109 cannot both be taken for credit. Also offered by Harvard Kennedy School as API-111 and by the Business School as HBS 4010. Please note that the first day of class for this course will be on Friday, September 5, in L-230 at the regular meeting time, 8:30 a.m. - 10 a.m. Thereafter the course will be on Mondays and Wednesdays.</notes>
+            <prereq>Recommended: Multivariate calculus and one course in probability theory. Thorough background in microeconomic theory at the intermediate level.</prereq>
+            <description>A comprehensive course in economic theory designed for doctoral students in all parts of the university. Topics include consumption, production, behavior toward risk, markets, and general equilibrium theory. Also looks at applications to policy analysis, business decisions, industrial organization, finance, and the legal system. Undergraduates with appropriate background are welcome, subject to the instructor's approval.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="09:59:00" location="Belfer 400 Land Hall (HKS)" start_time="08:45:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e172362a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Avery</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

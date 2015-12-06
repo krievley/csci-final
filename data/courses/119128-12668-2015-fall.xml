@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119128" class_number="12668" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="IRISH 132">Introduction to Modern Irish</title>
+            <exam_group>FAS18_D</exam_group>
+            <notes>Natasha Sumner and others  The combination of Irish 132 and 133r satisfies the language requirement. It is recommended in any case that this course be followed by Irish 133r. May not be taken Pass/Fail. Not open to auditors.</notes>
+            <description>An introduction to Irish as it is spoken and written today. Class work is participatory, and includes conversational role play and games as well as grammar study and drills. Audio and audiovisual resources reinforce pronunciation and aural comprehension. Songs, proverbs, and poems are an integral part of the course, introducing students to the vibrant oral and literary tradition of Gaelic Ireland.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="IRISH">Irish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Friday" end_time="12:59:00" location="Warren 201 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63330a1310" role="1" seniority_sort="1">
+                <display_name>Natasha Sumner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

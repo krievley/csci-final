@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127551" class_number="15573" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 189">Autonomous Robot Systems</title>
+            <notes> Preference will be given to students with experience in AI (e.g. CS181 or CS182 and/or robotics ES159).</notes>
+            <description>Building autonomous robotic systems requires understanding how to make robots that observe, reason, and act.&amp;nbsp; Each component uses many engineering principles: how to fuse, multiple, noisy sensors; how to balance short-term versus long-term goals; how to control one&amp;rsquo;s actions and how to coordinate with others. This year theme will be &amp;quot;Robots Roam the Halls&amp;quot;, where we will focus on kinect-based robots that move in the SEAS buildings, to do applications like navigating, map building, and interacting with people. The class format will have a mixed lecture and lab format, and have a final project component.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e258594a1310" role="1" seniority_sort="1">
+                <display_name>Radhika Nagpal</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

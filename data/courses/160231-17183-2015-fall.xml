@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160231" class_number="17183" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 43H">White Collar Blues?:  Work in the Age of Flexible Capitalism</title>
+            <exam_group>FAS15_D</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Does flexible work lead to liberation or loss of identity? &amp;nbsp;Does it bring self-fulfillment or insecurity? This course will examine the ways in which workers&amp;rsquo; connections to employers, occupations, and locations have become more fluid and transitory, and we will critically engage in the debate about the social and personal consequences of such &amp;ldquo;flexible&amp;rdquo; labor. &amp;nbsp;We will explore the similarities and differences between workers and professionals, and we will be attentive to both structure and culture. Readings include prominent social theorists along with detailed ethnographic accounts representing a variety of workplaces which in different ways seek to elucidate the conditions of work under modern capitalism.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="William James 501 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e100277a1310" role="1" seniority_sort="1">
+                <display_name>Rachel Meyer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156251" class_number="15527" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 2510">Narratives of American Religion: The Canon and Its Revisions</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes> Offered jointly with the Divinity School.</notes>
+            <description>This course will examine the writing of American religious history from the nineteenth century until the present. In the first part of the course, we will trace the creation of an American religious historical canon. Readings will include Robert Baird's Religion in America (1844), William Warren Sweet's The Story of Religions in America (1930) and Sydney E. Ahlstrom's A Religious History of the American People (1972). In the second part of the course, we will explore the transformation of the field of American religious history since the 1970s. In addition to reading textbooks such as Catherine Albanese's America: Religion and Religions (1981) and George Marsden's Religion and American Culture (1990), we will read case studies of new approaches and methodologies. Our goal is to assess the strengths and weaknesses of both the canon and the new religious history that has taken its place.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Divinity 211 (HDS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e141624a1310" role="1" seniority_sort="1">
+                <display_name>David Holland</display_name>
+            </person>
+            <person id="d1e135573a1310" role="1" seniority_sort="2">
+                <display_name>Catherine Brekus</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116999" class_number="12379" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCWORLD 27">The Two Koreas</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>This course seeks to provide a broad historical context in which to understand the contemporary political division on the Korean peninsula. It examines key historical forces that have created and shaped the two Koreas before, during, and after the actual partition of the country in 1945. Topics include nascent nation-building efforts between 1876 and 1910, the impact of Japanese colonialism and the Cold War, and North/South development and interaction after 1948. The course interweaves political, socioeconomic, and cultural themes within an historical framework centered on nation-building while also highlighting a number of major historiographical issues in modern Korean history.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e29784a1310" role="1" seniority_sort="1">
+                <display_name>Carter Eckert</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

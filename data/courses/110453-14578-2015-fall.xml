@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110453" class_number="14578" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ETHRSON 38">The Meaning of Life</title>
+            <exam_group>FAS12_C</exam_group>
+            <description>Is there a point to life as a whole? That is the question about the "meaning of life," a question that is notoriously hard to make precise but has animated much literature, art and philosophy. Philosophers have provided both very disheartening answers and more uplifting ones. Serious scrutiny of such answers should be of interest to anybody who wishes to make reflection on her/his life as a whole part of her/his education. This class is wide-ranging, but its main focus is on contributions by relatively recent thinkers in the Anglo-American analytical tradition of philosophy.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="ETHRSON">Ethical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Harvard Hall 104 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e144622a1310" role="1" seniority_sort="1">
+                <display_name>Mathias Risse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

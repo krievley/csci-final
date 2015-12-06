@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159646" class_number="14621" school_id="fas" section="0001" term_code="fall">
+        <catalog_info>
+            <title short_title="ETHRSON 40">History of Human Rights</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>	Is morality found or made? Every belief comes from someplace and somewhere, but we rarely think this affects its truth. Is morality neatly separable from the pathways and contexts thanks to which it comes to our attention? Taking contemporary human rights norms, laws, and movements as a case study, this course examines this question. We will study where human rights norms come from, the history of international organizations, and how non-governmental actors came to defend human rights. The relationship of human rights to the histories of governance, empire, warfare, emotions, and victimhood will be taken up.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="ETHRSON">Ethical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Harvard Hall 104 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38372a1310" role="1" seniority_sort="1">
+                <display_name>Samuel Moyn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

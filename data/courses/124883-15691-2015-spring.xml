@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124883" class_number="15691" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="YIDDISH CB">Advanced Yiddish II</title>
+            <notes> Instructor: Yuri Vedenyapin</notes>
+            <prereq>Recommended: Yiddish Ca or permission of the instructor.</prereq>
+            <description>Continuation of Yiddish Ca.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="YIDDISH">Yiddish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e208396a1310" role="1" seniority_sort="1">
+                <display_name>Yuri Vedenyapin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159944" class_number="16789" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IMMUN 308QC">Transformational Immunology</title>
+            <description>This is a reading course which will chose 7 papers that changed the field of immunology. Each session will consist of a student-led presentation of background on the topic, the paper itself, and the implications which followed.&amp;nbsp; Depending on enrollment, this may be divided between two students. Each student is expected to make one &amp;ndash; two&amp;nbsp; presentations during the seven-week course. Evaluation is based on presentations and class participation.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e35585a1310" role="1" seniority_sort="1">
+                <display_name>Laurence Turka</display_name>
+            </person>
+            <person id="d1e51906a1310" role="2" seniority_sort="2">
+                <display_name>Shiv Pillai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

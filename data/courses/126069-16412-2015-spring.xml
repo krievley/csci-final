@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126069" class_number="16412" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEBREW 130">Scriptural Interpretation in Ancient Israel: Inner-Biblical Exegesis</title>
+            <notes> Offered jointly with the Divinity School as 1308.</notes>
+            <prereq>Recommended: Two years of Biblical Hebrew strongly recommended.</prereq>
+            <description>An examination of the forms, methods, and aims of scriptural interpretation within the Hebrew Bible itself. Sessions will combine consideration of recent scholarship on "inner-biblical exegesis" with close readings of biblical texts (narrative, legal, prophetic, apocalyptic, hymnic) in Hebrew.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="HEBREW">Hebrew</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e7799a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Teeter</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

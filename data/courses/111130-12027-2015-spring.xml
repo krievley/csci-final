@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111130" class_number="12027" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 211">Statistical Inference I</title>
+            <notes>Tu., Th., 1&amp;#8211;2:30, and weekly sections to be arranged.   Formerly Stat 211a</notes>
+            <prereq>Recommended: Statistics 111 and 210a or equivalent.</prereq>
+            <description>Inference: frequency, Bayes, decision analysis, foundations. Likelihood, sufficiency, and information measures. Models: Normal, exponential families, multilevel, and non-parametric. Point, interval and set estimation; hypothesis tests. Computational strategies, large and moderate sample approximations.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e36404a1310" role="1" seniority_sort="1">
+                <display_name>Tirthankar Dasgupta</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

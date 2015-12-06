@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120829" class_number="16810" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SYSTBIO 300HFA">Introduction to Systems Biology Research</title>
+            <exam_group>FAS06_E</exam_group>
+            <description>Series of lectures to introduce the research areas of current program faculty in systems biology.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="SBIO">Systems Biology</department>
+            <course_group code="SYSTBIO">Systems Biology</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="19:29:00" location="" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6291a1310" role="1" seniority_sort="1">
+                <display_name>Timothy Mitchison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

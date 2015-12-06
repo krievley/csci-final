@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="131493" class_number="14241" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 153">Compilers</title>
+            <exam_group>FAS01_C</exam_group>
+            <notes>For more course information, see  http://sites.fas.harvard.edu/~lib153/ .  </notes>
+            <prereq>Recommended: Computer Science 51 or 61.</prereq>
+            <description>Implementation of efficient interpreters and compilers for programming languages. Associated algorithms and pragmatic issues. Emphasizes practical applications including those outside of programming languages proper. Also shows relationships to programming-language theory and design. Participants build a working compiler including lexical analysis, parsing, type checking, code generation, and register allocation. Exposure to run-time issues and optimization.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Friday" end_time="11:29:00" location="Maxwell Dworkin 119 (SEAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e192530a1310" role="1" seniority_sort="1">
+                <display_name>Jean-Baptiste Tristan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

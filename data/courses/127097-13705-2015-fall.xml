@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127097" class_number="13705" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 209">Science and Religion: Debates, Approaches and Controversies</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> The course is open for undergraduate and graduate students. Offered jointly with the Divinity School as HDS 3341.</notes>
+            <description>How is your cellphone part of religious experience? Why do some people refuse to vaccinate their children? And why do some reject evolution and global warming? What is missionary medicine and how is it related to global health? What role do religious institutions play in our lives? And why does research show that prayers can improve health outcomes? How important is Pope Francis&amp;rsquo;s encyclical on the environment? And why should we care?!The study of science and religion has been dominated by a limited set of views that range from animosity to attempts at reconciliation. Yet, these approaches remain largely normative and are deeply rooted in particular readings of European history. In this course, we move beyond debates of conflict or harmony into deeper discussions of how scientific and religious discourses impact daily lives and how issues of race, gender, sexuality and socioeconomic status impact these discourses. The course is a research lab where students are trained on research methods, and on different genres of scholarly writing, including grants. Students choose two modules out of four addressing religion and (1) medicine and global health, (2) environmental and natural sciences, (3) social sciences, and (4) art. In each module, students learn about major questions in the field, work with different methods, and produce innovative research projects.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Rockefeller 117 (HDS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e94404a1310" role="1" seniority_sort="1">
+                <display_name>Ahmed Ragab</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

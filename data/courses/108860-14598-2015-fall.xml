@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108860" class_number="14598" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1732">China Through Ethnography and Film: Seminar</title>
+            <exam_group>FAS02_C</exam_group>
+            <description>The rapid rise of China on the global stage is one of the most stunning developments of our time. Since the early 1980's, when China reopened its doors to research by foreign scholars, growing numbers of anthropologists have been conducting fieldwork in the People's Republic. What have anthropologists learned about the transformations underway there? What new constructs and field strategies does the anthropology of China have to contribute to anthropology generally? In this course we seek answers in film and ethnography. Following existing emphases in the literature, we will focus on issues of transformation in governance, subjectivity, and difference in a nation under an increasingly neoliberal regime.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:59:00" location="Peabody Museum 12" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e26836a1310" role="1" seniority_sort="1">
+                <display_name>Susan Greenhalgh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

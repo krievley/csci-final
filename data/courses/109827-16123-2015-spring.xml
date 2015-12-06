@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109827" class_number="16123" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 167">Parisian Cityscapes: 1960-Present</title>
+            <notes> Conducted in French.</notes>
+            <description>Focuses on the transformations of Paris and the very concept of city under the impact of globalization and decolonization. By way of film, fiction, music, architecture and critical texts studies the effects of modernization and architectural reconstruction on the city's inhabitants. Also explores tensions between traditional and urban cultures, between the inner city and the banlieue.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e42905a1310" role="1" seniority_sort="1">
+                <display_name>Verena Conley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

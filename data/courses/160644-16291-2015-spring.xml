@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160644" class_number="16291" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 176R">Special Topics</title>
+            <notes> Students from other departments are welcome.</notes>
+            <description>Music and Disabilities: Through field work, readings, discussions, and presentations, this course will explore topics related to disability in music history, music theory, and performance studies, and examine recent developments in neuroscience, music therapy, and music education. Defining disability as a cultural construction rather than as a medical pathology, the course will also consider the practice of music as a vehicle of empowerment, reflecting on music&amp;rsquo;s generative role in shaping communities and advancing social justice and human rights. Students will design and implement inclusive and democratic community music projects, partnering with local service organizations and educational institutions.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:29:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e12782a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Clark</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

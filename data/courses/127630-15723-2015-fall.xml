@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127630" class_number="15723" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CELTIC 109">Finn: The Great Gaelic Hero</title>
+            <exam_group>FAS07_B</exam_group>
+            <description>This course explores the lengthy and wildly popular Irish and Scottish Gaelic tradition surrounding the hero, Finn mac Cumaill (a.k.a. &amp;#39;Finn MacCool&amp;#39; or &amp;#39;Fionn mac Cumhaill&amp;#39;). Finn is variously portrayed as a hunter-warrior-seer and is the leader of the intrepid f&amp;iacute;ana war band. We survey this Fenian literature as it is presented to us by medieval and early modern Gaelic manuscript tradition. We also engage with the rich modern Fenian folklore of Ireland, Scotland, and Nova Scotia. This includes the study of important texts such as Acallam na Sen&amp;oacute;rach &amp;lsquo;The Dialogue of the Ancients&amp;rsquo; and T&amp;oacute;raigheacht Dhiarmada agus Ghr&amp;aacute;inne &amp;lsquo;The Pursuit of Diarmaid and Gr&amp;aacute;inne&amp;rsquo;. Additionally, we consider the international impact of the Fenian tradition by examining James Macpherson&amp;#39;s infamous, eighteenth-century, English-language adaptations and the ensuing Ossian controversy.&amp;nbsp; All Gaelic texts are read in English translation.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="CELTIC">Celtic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Warren 201 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63330a1310" role="1" seniority_sort="1">
+                <display_name>Natasha Sumner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112976" class_number="14229" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 160">The Quantum World</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Applied Mathematics 21a and 21b, Mathematics 21a and 21b, or equivalent preparation in calculus and differential equations; Physical Sciences 1 or equivalent preparation in chemical bonding and fundamental principles; Physical Sciences 2 or Physics 11a, and Physical Sciences 3 or Physics 11b.</notes>
+            <description>Many essential properties of atoms, molecules and materials stem from their quantum mechanical nature. &amp;nbsp;In this course, we will focus on the quantum mechanical aspects of physical chemistry. &amp;nbsp;The basic principles of quantum mechanics will be introduced in tandem with the chemical concepts covered. &amp;nbsp;We wil describe the quantum mechanics of molecular bonding, vibrations and rotations. &amp;nbsp;The fundamentals of molecular spectroscopy and photophysics will be seen in the light of quantum mechanics. &amp;nbsp;We will end the course by introducing what goes behind the sciences in quantum chemistry packages for calculating molecular electronic structure and molecular properties. &amp;nbsp;This year, we continue the course format introduced las tyear where most of the materials for evaluation will be take-home programming exercises written in interactive Phython (iPhython). &amp;nbsp;There will be no final exam.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Mallinckrodt 023 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e147318a1310" role="1" seniority_sort="1">
+                <display_name>Kang-Kuen Ni</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

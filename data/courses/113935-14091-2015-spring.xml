@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113935" class_number="14091" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 310">Research Seminars</title>
+            <description>Small seminars on specialized topics, arranged by members of the Department in consultation with suitably prepared graduate students. Seminars will be listed individually with numbers from 341 through 398.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

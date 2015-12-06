@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110946" class_number="18173" school_id="fas" section="005" term_code="fall">
+        <catalog_info>
+            <title short_title="AMSTDIES 398">Reading and Research</title>
+            <department code="AMER">American Studies</department>
+            <course_group code="AMSTDIES">American Studies</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e63762a1310" role="1" seniority_sort="1">
+                <display_name>Steven Biel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

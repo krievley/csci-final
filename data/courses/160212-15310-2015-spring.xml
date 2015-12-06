@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160212" class_number="15310" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 130G">Material Histories: Advanced Sculpture</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  This is an intermediate to advanced-level course. At least one VES studio course required or the permission of the instructor.
+Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>The history of sculpture is a story of constant recycling: forms are discarded, lost techniques rediscovered, and old materials are revived. This course will investigate the production of meaning through sculptural materials, their historic usage, and shifting cultural contexts.&amp;nbsp;Through hands-on experimentation, readings, projects, and lectures, we will explore a range of materials - from clay to plastics - and related methods.&amp;nbsp;Students will pursue their interests through research and development of individual projects.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

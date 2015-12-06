@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160494" class_number="15729" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 63">Germany and Europe: Heimat, Exile, Return</title>
+            <description>	This course discusses 20th and 21st Century German culture and poetics in dialogue and dispute with its European neighbors. Particular emphasis will be put on the effect of history on contemporary political, cultural and historical issues. How did the rest of Europe react to the German unification? How does Germany relate to its &amp;bdquo;Gastarbeiter&amp;ldquo; today? This course is designed to provide students with the ability to gain insights into how personal and collective identity is constructed and problematized through art and culture. In this interdisciplinary course we will work with a variety of written genre (poetry, short stories, plays, essays, journalistic non-fiction), as well as visual art, architecture, and film. The class is conducted entirely in German. We will take a cultural studies approach to understanding how to read effectively and interpret textual and visual materials.	&amp;nbsp;&amp;nbsp;</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e198343a1310" role="1" seniority_sort="1">
+                <display_name>Dania Hueckmann</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

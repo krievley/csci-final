@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110483" class_number="15274" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HUMAN 12">Essential Works In World Literature</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <description>With readings from Gilgamesh and The Odyssey to Salman Rushdie and Orhan Pamuk, this course explores how great writers refract their world and how their works are transformed when they intervene in our global cultural landscape today.</description>
+            <department code="HUM">Humanities</department>
+            <course_group code="HUMAN">Humanities</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e42860a1310" role="1" seniority_sort="1">
+                <display_name>David Damrosch</display_name>
+            </person>
+            <person id="d1e42499a1310" role="1" seniority_sort="2">
+                <display_name>Martin Puchner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

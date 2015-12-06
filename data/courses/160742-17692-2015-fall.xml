@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160742" class_number="17692" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 360">Article Workshop</title>
+            <description>An article-writing workshop for graduate students.&amp;nbsp;Students who choose to participate in this workshop will commit to attending all sessions, engaging productively with the work of others, and submitting their own drafts as scheduled and in easily readable form.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e59776a1310" role="1" seniority_sort="1">
+                <display_name>Amanda Claybaugh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

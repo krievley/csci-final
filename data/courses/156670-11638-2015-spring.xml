@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156670" class_number="11638" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 975B">Tutorial - Macroeconomics Theory Review</title>
+            <notes>Jane Leber Herr  Required of and limited to concentrators who received below a B- in Economics 1010b or 1011b.</notes>
+            <description>A thorough review of intermediate macroeconomics.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

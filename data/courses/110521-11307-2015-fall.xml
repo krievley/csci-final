@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110521" class_number="11307" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="BPH 301">Biological Sciences Seminars</title>
+            <exam_group>FAS16_A</exam_group>
+            <notes>TBD , Brendan Manning (Public Health) 5293  Required for first-year students in the BPH program. Offered jointly with the School of Public Health as DBS 205.</notes>
+            <description>Faculty present seminars on their current research in the biological sciences and direct a student discussion of the logic and experimental design of this research. Topics include chemical and viral carcinogenesis, DNA damage and repair, immunology, molecular biology, metabolism, cardiovascular disease, parasitology, and how these areas apply to public health issues.</description>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:20:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e136949a1310" role="1" seniority_sort="2">
+                <display_name>Tiffany Horng</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

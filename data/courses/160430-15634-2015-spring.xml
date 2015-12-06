@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160430" class_number="15634" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHNSHIS 122">Religions in Chinese Society from Late Imperial to Contemporary</title>
+            <notes> This couse will be taught by EALC Visiting Professor Yanfei Sun.</notes>
+            <description>This course will help students to understand the present-day situations of a wide array of religions that exist in the mainland Chinese society, including popular religion, Buddhism, Daoism, Protestantism, Catholicism, New Religious Movements, and Islam. We will discuss their institutional practices, positions in the society, relations with the state and the economy. The course will also examine how the present-day conditions came into being, by tracing to the traditional model of late imperial China (1368&amp;ndash;1911), and investigating how changes occurred in Republican China (1911&amp;ndash;1949), why the Maoist period (1949&amp;ndash;1976) was the turning point, and how a new religious situation with characteristics distinct from the traditional model has been emerging in post-Mao China. We will make reference to the religious situations in Taiwan to illustrate the distinctiveness of the case of mainland China.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSHIS">Chinese History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

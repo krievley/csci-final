@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159832" class_number="15242" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 41D">Sick and Tired of being Sick and Tired: Health Disparities and African Americans</title>
+            <exam_group>FAS09_C</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Since the arrival of Africans from Africa to America, their health and health care has been a critical issue for the nation. From the era of slavery to the present African Americans have been disproportionately burdened by disease and ill health. This course examines this issue over the long time frame from the 17th century to the present. It will explore the strategies and practices that African Americans employed to improve their health care. It will also examine, the ways that cities, states and the federal government supported or ignored the health of African Americans.&amp;nbsp;</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Science Ctr 469 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e74938a1310" role="1" seniority_sort="1">
+                <display_name>Evelynn Hammonds</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107455" class_number="10164" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELLBIO 307QC">Molecular Aspects of Chromatin Dynamics</title>
+            <notes>The Course consists of 8 Theory classes, to be given on Tuesdays, and 4 Discussion Sessions, to be held on alternate Thursdays.  </notes>
+            <description>Discuss chromatin dynamics in modulating cellular processes. Cover molecular mechanisms that regulate chromatin dynamics. How chromatin itself modulates biological processes, including mechanisms of inheritance. Discuss DNA methylation, histone modifications, nucleosome dynamics and novel epigenetic modulators.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e105022a1310" role="1" seniority_sort="1">
+                <display_name>Raul Mostoslavsky</display_name>
+            </person>
+            <person id="d1e308199a1310" role="2" seniority_sort="2">
+                <display_name>Danesh Moazed</display_name>
+            </person>
+            <person id="d1e9887a1310" role="2" seniority_sort="3">
+                <display_name>Johnathan Whetstine</display_name>
+            </person>
+            <person id="d1e5934a1310" role="2" seniority_sort="4">
+                <display_name>Lee Zou</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

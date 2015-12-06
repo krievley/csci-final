@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124512" class_number="14797" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1918">Telling Lives in Asia</title>
+            <exam_group>FAS14_F</exam_group>
+            <description>Using sources ranging from diaries and memoirs to biographies, autobiographies, records of interrogations, resumes and self-criticisms, we will explore the ways in which individuals, both famous and ordinary, make sense of their lives in Asia. The focus will be on the upheavals of the twentieth century were experienced and how individual biographies and national histories enrich one another.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="CGIS South S153 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e36991a1310" role="1" seniority_sort="1">
+                <display_name>Hue-Tam Tai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

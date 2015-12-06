@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124099" class_number="15470" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ASTRON 151">Astrophysical Fluid Dynamics</title>
+            <notes> This course offered alternate years.</notes>
+            <description>Fluid and gas dynamics with applications drawn from astrophysical phenomena. Topics include: kinetic theory, diffusive effects, incompressible fluids, inviscid and viscous flows, boundary layer theory, accretion disks, fluid instabilities, turbulence, convection, gas dynamics, linear (sound) waves, method of characteristics, Riemann invariants, supersonic flow, non-linear waves, shocks, similarity solutions, blast waves, radiative shocks, ionization fronts, magnetohygrodynamics, hydromagnetic shocks, dynamos, gravitational collapse, principles of plasma physics, Landau damping, computational approaches, stability criteria, particle based (Lagrangian) methods, adaptive mesh refinement, radiation hydrodynamics.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e243984a1310" role="1" seniority_sort="1">
+                <display_name>Lars Hernquist</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

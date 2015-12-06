@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113567" class_number="12172" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 97X">Sophomore Tutorial in Archaeology</title>
+            <notes> Required of all concentrators in Archaeology.</notes>
+            <description>This course will focus on archaeological thinking, the cognitive skeleton of the discipline of archaeology, the principles and the logic that are the foundation of all archaeological conclusions and research. Central to this is an understanding of research design, archaeological theory and interpretation, culture and material culture; as well as an understanding of how to examine and construct an archaeological argument.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e47773a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Liebmann</display_name>
+            </person>
+            <person id="d1e346686a1310" role="1" seniority_sort="2">
+                <display_name>Jason Ur</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

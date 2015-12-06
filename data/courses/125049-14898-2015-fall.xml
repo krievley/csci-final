@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125049" class_number="14898" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCWORLD 14">The British Empire</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes>If student interest exceeds the course limit, a random lottery will be conducted. &amp;nbsp; To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results. &amp;nbsp;See the course website for more details.   This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Less than a century ago the British Empire ruled a quarter of the world. This course surveys the empire&amp;#39;s extraordinary rise and fall from the American Revolution to World War II. Course presents a narrative of key events and personalities, introduces major concepts in the study of global history, and considers the empire&amp;#39;s political and cultural legacies for the world today. Includes multimedia presentations, in-class discussion and debate, and engaging readings ranging from Niall Ferguson to Mahatma Gandhi.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Sever 113 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38733a1310" role="1" seniority_sort="1">
+                <display_name>Maya Jasanoff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

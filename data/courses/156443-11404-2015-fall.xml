@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156443" class_number="11404" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94XY">Migration and Politics in the Era of Globalization</title>
+            <exam_group>FAS05_C</exam_group>
+            <description>International migrations constantly reshape politics, markets and societies. They generate challenges and opportunities for people, communities, businesses, civil society organizations, political parties, governments and international institutions. This course examines the political, social and economic consequences of migrations around the world, in both sending and receiving countries. We will study the impact of migration on citizenship, sovereignty, political regimes and platforms, economic development, inequality, human capital, as well as on political values and participation.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="CGIS Knafel K401 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e68876a1310" role="1" seniority_sort="1">
+                <display_name>Ruxandra Paul</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109578" class_number="10455" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ASTRON 253">Plasma Astrophysics</title>
+            <notes> This course offered in alternate years.</notes>
+            <prereq>Recommended: Knowledge of intermediate electromagnetism, partial differential equations, and fluid dynamics.</prereq>
+            <description>This course provides an introduction to plasma physics and plasma processes in an astrophysical context. Topics include charged particle motions, kinetic theory, magnetohydrodynamics, waves, shocks, instabilities, partially ionized plasmas, collisionless plasmas, magnetized turbulence, particle acceleration, astrophysical dynamos, and magnetic reconnection.&amp;nbsp; Astrophysical applications may include accretion disks, interstellar turbulence, cosmic rays, galactic magnetic fields, solar/stellar flares, and space weather in the Solar System and around exoplanets.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="" start_time="15:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e325803a1310" role="1" seniority_sort="1">
+                <display_name>Nicholas Murphy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125055" class_number="13458" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CULTBLF 39">The Hebrew Bible</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes>Occasional Fridays are required. Please check course syllabus for details.  All readings in translation. No prior knowledge of the subject is assumed. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>This course is a survey of the major books and ideas of the Hebrew Bible (commonly called the Old Testament). The course will also treat the historical contexts in which the Bible emerged, and the Bible's role as canonical scripture in Judaism and Christianity.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Jefferson 250 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e28584a1310" role="1" seniority_sort="1">
+                <display_name>Shaye J.D. Cohen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

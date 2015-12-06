@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117711" class_number="14481" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 80">Neurobiology of Behavior</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Science of Living Systems. The course is open to students with little formal training in biology.</notes>
+            <prereq>Anti-Req:  Cannot be taken for credit if MCB 81 already complete.</prereq>
+            <description>An introduction to the ways in which the brain controls mental activities. The course covers the cells and signals that process and transmit information, and the ways in which neurons form circuits that change with experience. Topics include the neurobiology of perception, learning, memory, language, emotion, and mental illness.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Science Ctr Hall D (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e121565a1310" role="1" seniority_sort="1">
+                <display_name>Joshua Sanes</display_name>
+            </person>
+            <person id="d1e121568a1310" role="2" seniority_sort="2">
+                <display_name>Jeff W. Lichtman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

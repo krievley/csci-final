@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122708" class_number="12865" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MICROBI 213">Social Issues in Biology</title>
+            <notes> Offered jointly with the Medical School as MG 722.0. Alternates yearly between the Longwood and the Cambridge Campuses.</notes>
+            <prereq>Recommended: Some background in genetics.</prereq>
+            <description>Discussion course on topics selected from the following: history, philosophy of science; evolution vs. creationism; genetics and race; women and science; genetic testing; genetic enhancement; science journalism; genetics and criminality; science in wartime; scientists and social responsibility; theater and the public presentation of science.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="MICROBI">Microbiology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e498730a1310" role="1" seniority_sort="1">
+                <display_name>Jonathan Beckwith</display_name>
+            </person>
+            <person id="d1e498733a1310" role="2" seniority_sort="2">
+                <display_name>Louis Guenin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

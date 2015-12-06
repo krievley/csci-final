@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126938" class_number="14953" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH C">Intermediate French: The Culture of Food and Friendship in Francophone Countries</title>
+            <notes> Conducted in French. May count toward the language requirement. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the French C website.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: A score no lower than 451 and no higher than 600 on the SAT II test or the Harvard Placement Test; 3 years of French in high school; French A, Ab, Acd, or Bab; or permission of course head.</prereq>
+            <description>In this intermediate level language course, students will study and discuss issues faced in contemporary France and other francophone countries. Students will interpret French and francophone culture, in particular the different customs surrounding food and friendship, through a variety of texts, films, and multimedia resources, while participating in a range of oral and written communicative activities. Students will also review and refine their knowledge of various grammatical structures.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e67312a1310" role="1" seniority_sort="1">
+                <display_name>Stacey Bourns</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

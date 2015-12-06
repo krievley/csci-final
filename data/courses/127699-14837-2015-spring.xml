@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127699" class_number="14837" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1032">Twins and Twinship in Religion and Myth</title>
+            <notes> Offered jointly with the Divinity School 3310. Application only at the first class.</notes>
+            <description>This comparative seminar interrogates the meaning of &amp;ldquo;doubling&amp;rdquo; a living being, and how this can be religiously, culturally, and mythically expressed. The birth of two children instead of one presents anomaly, in some traditions causing anxiety that can only be ritually resolved, or in others creating opportunity. Twins link worlds that single children cannot, or embody signs, auspicious or suspicious. How are &amp;quot;real&amp;quot; twins related to the divine twins of religion and myth, if they are at all?</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e55231a1310" role="1" seniority_sort="1">
+                <display_name>Kimberley Patton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="131333" class_number="16803" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 211">Analysis of Longitudinal Data: Seminar</title>
+            <notes> Primarily for graduate students in sociology. Previously offered as 203b.</notes>
+            <description>This course takes an applied approach to the analysis of longitudinal data. Lectures will provide an overview of a variety of techniques, including fixed effects models, multilevel models, and duration models. Students will develop their own empirical projects and receive support as they begin to work with longitudinal datasets.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e17325a1310" role="1" seniority_sort="1">
+                <display_name>Alexandra Killewald</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

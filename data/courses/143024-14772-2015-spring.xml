@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143024" class_number="14772" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 2464">Reformation and the Making of Religious Practice in Britain and colonial America, c. 1550-1700</title>
+            <notes> Offered jointly with the Divinity School as 2270.</notes>
+            <description>A research seminar, this course covers the coming of Reformed (Calvinist) Protestantism to England and Scotland in the sixteenth century and the maturing of the Puritan movement in those countries and New England in the seventeenth.&amp;nbsp; Attentive to theology and politics, this course also explores lived religion, especially devotional practice.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e53372a1310" role="1" seniority_sort="1">
+                <display_name>David Hall</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

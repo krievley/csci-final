@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="130661" class_number="16253" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 131">Neuroethology</title>
+            <prereq>Recommended: MCB 80 or OEB 57 or instructor's permission</prereq>
+            <description>The evolutionary success of animals depends on how effectively they respond to external events with useful behaviors. Neuroethology is the study of the neurobiological mechanisms underlying adaptive behaviors. In this laboratory class we will examine the adaptive behaviors of three organisms: fruit flies, flatworms and cockroaches. By following published experimental protocols, and testing novel student-developed hypotheses, we will explore the transformation of external stimuli to behavioral output, the role of neurotransmitter systems and neuromodulatory states, the effect of genetic mutation and genomic background, and the physiology of locomotion. In culmination, students will develop their own multi-week experimental project.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

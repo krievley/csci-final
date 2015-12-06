@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122080" class_number="14654" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 271">Proseminar in Film and Visual Studies: Theory</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes>This course has a mandatory weekly film screening on Tuesdays from 7pm to 9pm in Carpenter Center B04.   FIRST MEETING NOTE:  The first meeting of this course will be Wednesday, September 9 at 2pm in Carpenter Center 402.  Required of all Film and Visual Studies graduate students as well as graduate students intending to declare a secondary field in Film and Visual Studies.</notes>
+            <description>An advanced survey of current debates on the place of the moving image in contemporary visual culture and art practice with respect to concepts of space, time, movement, and affect.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Carpenter 402 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e58572a1310" role="1" seniority_sort="1">
+                <display_name>Giuliana Bruno</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

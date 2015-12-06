@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160161" class_number="16275" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="MEDLATIN 107">William of Tyre's Crusader History of Jerusalem</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>Explores the life, writings, and world of William of Tyre (ca. 1130&amp;ndash;1186), the foremost historian of the crusader kingdom of Jerusalem of the twelfth century. William of Tyre authored an extensive history covering the First Crusade and the fortunes of those who remained in the Levant and their relations with surrounding cultures, including Byzantines, Muslims, Arab Christians, and Armenians. Students will be exposed to a robust amount of Latin prose, with attention to interpretation rather than grammatical exposition. At the end of the course, students will have acquired a thorough understanding of medieval historiography and the topic of the crusades, and be well-equipped to translate medieval Latin prose.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="MEDLATIN">Medieval Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="Robinson 205 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e119940a1310" role="1" seniority_sort="1">
+                <display_name>Julian Yolles</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

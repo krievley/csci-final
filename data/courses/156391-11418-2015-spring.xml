@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156391" class_number="11418" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1202">Forensic Anthropology: CSI Harvard</title>
+            <description>This course will explore the developing role of the archaeologist and anthropologist in forensic investigations (both ancient and modern). It will follow the process undertaken by forensic specialists during their investigation and look at their role in a number of contexts ranging from missing persons to crimes against humanity. It will consider the ethical responsibilities of the archaeologist/anthropologist and the presentation of their findings.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e45966a1310" role="1" seniority_sort="1">
+                <display_name>Jessica Cerezo-Roman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

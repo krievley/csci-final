@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110977" class_number="11690" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 2650A">History and Theory of Social Anthropology: Proseminar</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> In conjunction with Anthropology 2840 in 2009-10, required of candidates for the PhD in Social Anthropology. Limited to, and aimed at, doctoral candidates. Not open to undergraduates.</notes>
+            <description>A critical review of the major theoretical approaches in social anthropology.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="12:59:00" location="Peabody Museum 12" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43738a1310" role="1" seniority_sort="1">
+                <display_name>Mary Steedly</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

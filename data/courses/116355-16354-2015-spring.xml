@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116355" class_number="16354" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 193R">Topics in Music from 1800-Present</title>
+            <notes> For music concentrators or permission of instructor.</notes>
+            <description>Wagner and Debussy.&amp;nbsp; Considers select repertory of Richard Wagner and Claude Debussy, alongside questions of influence, musical language, political affiliation, national contexts, and parallel movements in art and literature.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60418a1310" role="1" seniority_sort="1">
+                <display_name>Sindhumathi Revuluri</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

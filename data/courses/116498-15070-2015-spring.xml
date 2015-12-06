@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116498" class_number="15070" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEBREW 218">The Joseph Story and the Book of Esther: Seminar</title>
+            <notes> Offered jointly with the Divinity School as 1802.</notes>
+            <prereq>Recommended: Three years of Hebrew or the equivalent, and a good acquaintance with the historical-critical method.</prereq>
+            <description>A close critical reading of Genesis 37-50 and the Book of Esther in Hebrew. Emphasis on literary design and religious messages and on the influence of the story of Joseph upon the Book of Esther.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="HEBREW">Hebrew</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e49535a1310" role="1" seniority_sort="1">
+                <display_name>Jon Levenson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

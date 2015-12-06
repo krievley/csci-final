@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126109" class_number="13741" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CLASSIC 98">Tutorial - Junior Year</title>
+            <notes> Required of all concentrators in the junior year.</notes>
+            <description>Close study of a topic in Greco-Roman civilization and/or literature, culminating in the preparation of a substantial research paper (ca. 20 pages).</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASSIC">Classics</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38239a1310" role="1" seniority_sort="1">
+                <display_name>Kathleen Coleman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119622" class_number="12764" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 48K">Political Legitimacy and Resistance: What Happened in Montaigne's Library on the Night of October 2</title>
+            <exam_group>FAS03_D</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Explores the theories of political legitimacy and justified resistance to authority developed by the persecuted Protestants during the French Wars of Religion, and traces the influence of these ideas about political obligation and religious conscience on some of the major figures in modern political philosophy from Hobbes to Kant. Students should be prepared to engage in both historical detective work and philosophical reflection. All required reading will be in English.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:44:00" location="" start_time="14:45:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e252910a1310" role="1" seniority_sort="1">
+                <display_name>Arthur Applbaum</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

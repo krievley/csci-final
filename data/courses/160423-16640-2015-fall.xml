@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160423" class_number="16640" school_id="fas" section="001L" term_code="fall">
+        <catalog_info>
+            <title short_title="HUMAN 53">Revolution, Reform and Conservatism in Western Culture</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Offered jointly as Aesthetic and Interpretive Understanding 42. Students who have taken Culture and Belief 18 or Aesthetic and Interpretive Understanding 42 may not take this course for credit. This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief or Aesthetic and Interpretive Understanding, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>What is the function of literary texts in moments, from Plato to the Russian Revolution, that promise total, enlightened societal transformation? Each week, this course will focus on two texts related to selected ``revolutionary&amp;#39;&amp;#39; moments, one philosophical and one literary. Literary texts do not participate easily in the revolutionary order. They resist the textual simplicities of philosophy. Which do we trust: philosophy or literature? Texts include many found in traditional ``Great Books&amp;#39;&amp;#39; courses: Plato, Virgil, Augustine, Dante, Luther, Milton, Swift, Rousseau, Twain, Kant, Marx, and Chekov, among others.</description>
+            <department code="HUM">Humanities</department>
+            <course_group code="HUMAN">Humanities</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="CGIS South S010 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e48939a1310" role="1" seniority_sort="1">
+                <display_name>W. Simpson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

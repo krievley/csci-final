@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122135" class_number="15081" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1605">Law and Anthropology</title>
+            <notes> Limited to undergraduate students only.</notes>
+            <description>This course is designed to introduce students to the anthropological study of law and society. We begin by reading critical theoretical approaches before turning to classic ethnographies that sought to understand legal precepts and dispute resolution in non-modern societies. We then examine the role of the colonial state in forging legal regimes and constituting criminality. Finally we read contemporary ethnographies that examine how law and culture interact to construct and normalize racial and gender identities.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e6478a1310" role="1" seniority_sort="1">
+                <display_name>Asad Ahmed</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

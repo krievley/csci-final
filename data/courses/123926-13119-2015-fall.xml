@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123926" class_number="13119" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 3550">Teaching Psychology</title>
+            <exam_group>FAS18_G</exam_group>
+            <notes> Limited to and required of Sophomore Tutors.</notes>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="12:59:00" location="William James 1274 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6193a1310" role="1" seniority_sort="1">
+                <display_name>Jill Hooley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

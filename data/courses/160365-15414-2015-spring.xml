@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160365" class_number="15414" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 2336">Agent-Based Modeling in Human Evolutionary Biology</title>
+            <notes> May be taken with HEB 2335, âIntroduction to Mathematical Modeling in Human Evolutionary Biology,â in any order, or independently.</notes>
+            <description>Agent-based modeling allows the systematic exploration of emergent properties that arise from rules governing individual behavior. It has been applied to a wide variety of topics related to Human Evolutionary Biology, including the evolution of altruistic behavior and reciprocity, disease dynamics, cultural evolution, life history evolution, and evolutionary medicine. Students will learn the basics of agent-based modeling through implementing examples and designing their own models.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e109277a1310" role="1" seniority_sort="1">
+                <display_name>Peter Ellison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

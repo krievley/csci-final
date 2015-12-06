@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160603" class_number="16232" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2770HFB">Research in Financial Economics</title>
+            <notes> Offered jointly with the Business School as 4601.</notes>
+            <description>Participants discuss recent research in financial economics and present their own work in progress. Open to doctoral students in economics who have passed their oral examinations. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="13:29:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e49683a1310" role="1" seniority_sort="1">
+                <display_name>John Campbell</display_name>
+            </person>
+            <person id="d1e126954a1310" role="1" seniority_sort="2">
+                <display_name>Jeremy Stein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

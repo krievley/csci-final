@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127935" class_number="14917" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="CLASPHIL 275">Latin Textual Criticism: Theory and Practice</title>
+            <description>The course aims to provide an introduction to the issues and methods involved in editing classical texts.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASPHIL">Classical Philology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e52057a1310" role="1" seniority_sort="1">
+                <display_name>R.J. Tarrant</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

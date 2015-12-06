@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160640" class_number="16277" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HLTHPOL 3080B">Graduate Reading Course: Evaluative Science and Statistics</title>
+            <description>Graduate reading course covering major topics in study design and quantitative research methods for health policy research. This course is designed to help students in the Evaluative Science and Statistics track of the Health Policy PhD program prepare for their concentration exam. Part two of a two-part series.</description>
+            <department code="HPOL">Health Policy</department>
+            <course_group code="HLTHPOL">Health Policy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e177880a1310" role="1" seniority_sort="1">
+                <display_name>John McWilliams</display_name>
+            </person>
+            <person id="d1e177558a1310" role="2" seniority_sort="2">
+                <display_name>Stephen Soumerai</display_name>
+            </person>
+            <person id="d1e87707a1310" role="2" seniority_sort="3">
+                <display_name>Alan Zaslavsky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

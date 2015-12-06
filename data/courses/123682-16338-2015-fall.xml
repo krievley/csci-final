@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123682" class_number="16338" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 263">Chemical Reactions and Mechanisms in the Environment</title>
+            <exam_group>FAS16_A</exam_group>
+            <prereq>Recommended: Mathematics and college-level courses in chemistry and physics.</prereq>
+            <description>In this course a framework of tropospheric chemistry will be generated that requires no previous knowledge of this topic. The goal is to develop an understanding of chemical and physical processes in the troposphere. Focus is on the main processes transforming emissions into the secondary pollutants that affect the environment, human health, and climate, in particular with respect to the role of anthropogenic influence. This will provide a foundation for the evaluation of the impact the newest scientific studies have on our understanding of processes that are important for the part of the atmosphere we live in.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="09:59:00" location="Maxwell Dworkin 221 (SEAS)" start_time="08:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e243293a1310" role="1" seniority_sort="1">
+                <display_name>Frank Keutsch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

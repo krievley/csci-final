@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121345" class_number="13540" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98CL">Law and American Society</title>
+            <notes>Hours to be arranged   A prison trip is planned, subject to approval. This course will be lotteried.</notes>
+            <description>Examines law as a defining force in American culture and society in four dimensions_as it establishes individual rights, liberties, and limits of toleration; as it attempts to resolve differences among competing constituencies; as it sets out terms of punishment and social control, and as a source of informing images and ideological consistency.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e439243a1310" role="1" seniority_sort="1">
+                <display_name>Terry Aladjem</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

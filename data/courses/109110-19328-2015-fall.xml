@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109110" class_number="19328" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 145">Experimental Inorganic Chemistry</title>
+            <notes> Chemistry 40 and either Chemistry 27 or 30, or permission of the instructor.</notes>
+            <prereq>Recommended: See Notes section</prereq>
+            <description>An introduction to experimental problems encountered in the synthesis, isolation, purification, characterization, and identification of inorganic compounds, with an emphasis in air-free synthetic techniques and spectroscopic characterization methods specifically applicable to complexes containing transition metals.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Laboratory</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

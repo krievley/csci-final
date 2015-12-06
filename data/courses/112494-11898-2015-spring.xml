@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112494" class_number="11898" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEM 98R">Introduction to Research - Junior Year</title>
+            <notes>See Course Notes  &amp;nbsp;  &amp;nbsp;  Open with permission of the instructor to junior chemistry majors who have satisfactorily completed the non-credit Introduction to Research Tutorial in the spring term of the sophomore year. In that non-credit spring term tutorial, taught Tu., Th., 1-2:30, students will attend introductory lectures and research seminars in order to acquaint themselves with departmental research programs. In the junior year, students who complete the non-credit tutorial and obtain placement in a research laboratory will undertake research as Chemistry 98r. Written permission of the research adviser must be filed at the office of the Associate Director of Undergraduate Studies in Chemistry. Any student enrolling in this course must register the name of his or her research mentor with the course head whose signature must appear on each student's study card.</notes>
+            <description>Research under the direction of, or approved by, a member of the faculty of the Department of Chemistry.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e88307a1310" role="1" seniority_sort="1">
+                <display_name>Gregory C. Tucci</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

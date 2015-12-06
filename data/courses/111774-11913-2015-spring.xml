@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111774" class_number="11913" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WELSH 227">Seminar: Welsh Bardic Poetry</title>
+            <prereq>Recommended: Knowledge of Welsh or permission of the instructor.</prereq>
+            <description>Readings from the hengerdd, the beirdd y tywysogion and the beirdd yr uchelwyr; consideration of the social and political contexts of their poetry, its forms, and its relationship to other medieval European poetic traditions.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="WELSH">Welsh</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63327a1310" role="1" seniority_sort="1">
+                <display_name>Catherine McKenna</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

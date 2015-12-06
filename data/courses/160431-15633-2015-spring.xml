@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160431" class_number="15633" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHNSHIS 215">Studying Religions in China:  Texts, Theoretical and Methodological Issues</title>
+            <notes> This seminar will be taught by EALC Visiting Professor Yanfei Sun.</notes>
+            <description>This seminar will consist of two parts. In the first part, we will explore some of the theoretical and methodological issues that have emerged in recent years in studying religions in China, which also inform the challenges and opportunities in the sociological studies of religions in general. They will include but will not be limited to: the applicability of Rational Choice Theory of Religion in the Chinese context; the risingnew approach of religious ecology; religions&amp;rsquo; relationship with the state and market; measuring religiosities of non-Abrahamic religions; as well as the transnational or transregional dimension of religious development.In the second part of the seminar, we will examine some of the primary texts that I have collected in the field sites in China. They will primarily include inscriptions from temple steles, gazetteers, genealogical records, and liturgical texts of different religious traditions. This seminar is designed for graduate students who are interested in doing originalresearch on Chinese religions. Advanced-level Chinese proficiency is required.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSHIS">Chinese History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

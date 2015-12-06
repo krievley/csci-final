@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122655" class_number="14385" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1018">Cultural Economics</title>
+            <exam_group>FAS07_A</exam_group>
+            <prereq>Recommended: Economics 1010a1, 1010a2, or 1011a, and Economics 1123.</prereq>
+            <description>Explores the importance of culture on economic outcomes, focusing on how heterogeneity of preferences affects economic choices and where those differences come from. Theoretical topics include group identity, social interactions and networks, evolutionary selection, the importance of the family. Empirical applications include international investment, savings, occupational choices, ethical norms, economic development, fertility decisions.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Sever 113 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60611a1310" role="1" seniority_sort="1">
+                <display_name>Alberto Alesina</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

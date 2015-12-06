@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156446" class_number="11454" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 94YM">The Politics of Climate Change</title>
+            <notes>Cheryl Welch and Yascha Mounk  </notes>
+            <description>This course examines the political challenges posed by global warming from both an empirical and a normative perspective. Drawing on a broad array of readings, we investigate why the global community has done so little to combat climate change; what kinds of domestic and international institutions we need to coordinate our response to global warming; whether we should prioritize mitigation or adaptation; and what a just response to climate change might look like.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

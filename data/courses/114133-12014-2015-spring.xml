@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114133" class_number="12014" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1030">Psychology and Economics</title>
+            <notes>Psychological concepts include social preferences, impulsivity, bounded rationality, loss-aversion, over-confidence, self-serving biases, hedonics, and neuroscience. Economic concepts include arbitrage, equilibrium, rational choice, utility maximization, Bayesian beliefs, game theory. Integrates these psychological and economic concepts to understand behavioral phenomena such as portfolio choice, saving, procrastination, addiction, asset pricing, auction bidding, labor supply, cooperation, persuasion.   Tu., Th., 1&amp;#8211;2:30   </notes>
+            <prereq>Recommended: Ec 10a and Ec 10b and knowledge of univariate calculus.</prereq>
+            <description>Psychological concepts include social preferences, impulsivity, bounded rationality, loss-aversion, over-confidence, self-serving biases, hedonics, and neuroscience. Economic concepts include arbitrage, equilibrium, rational choice, utility maximization, Bayesian beliefs, game theory.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15782a1310" role="1" seniority_sort="1">
+                <display_name>Tomasz Strzalecki</display_name>
+            </person>
+            <person id="d1e15779a1310" role="2" seniority_sort="2">
+                <display_name>David Laibson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

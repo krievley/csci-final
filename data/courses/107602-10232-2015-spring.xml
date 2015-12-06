@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107602" class_number="10232" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1503">Psychology of Close Relationships</title>
+            <prereq>Recommended: Science of Living Systems 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15.</prereq>
+            <description>This course is an in-depth exploration of close relationships. Examples of topics to be covered include the biological bases of attraction; relationship formation; the end of relationships through break-up, divorce, or death; relationship satisfaction; deception; gender roles; same-sex relationships; loneliness; relationships and well-being; and public perceptions about relationships. You will have an opportunity to explore these topics primarily through critical examination of the empirical literature as well as through popular press.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="21:29:00" location="" start_time="19:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e367551a1310" role="1" seniority_sort="1">
+                <display_name>Holly Parker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

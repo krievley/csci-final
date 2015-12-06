@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125976" class_number="16671" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2150R">Social Cognitive Development: Research Seminar</title>
+            <notes> Open to all undergraduates with permission of instructor.</notes>
+            <prereq>Recommended: For undergraduates, Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15.</prereq>
+            <description>Year-long lab course on children's social-cognitive development and the study of cooperation. Students develop and pilot experiments with children or participate in ongoing projects. In addition, students read and discuss papers on social cognition, understanding of norms, and cooperation from developmental and evolutionary psychology.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15678a1310" role="1" seniority_sort="1">
+                <display_name>Felix Warneken</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

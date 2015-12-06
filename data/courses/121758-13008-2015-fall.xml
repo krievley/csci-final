@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121758" class_number="13008" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 15AR">Silkscreen</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  No previous studio experience necessary.
+
+Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>For the student who is interested in the manipulation of found and original imagery. Students will create monotypes on paper and other surfaces utilizing the silkscreen process. Through slide presentations, the class will be introduced to the work of artists such as Rauschenberg and Warhol, as well as others who use the silkscreen process.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Carpenter 4th Fl (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e240358a1310" role="1" seniority_sort="1">
+                <display_name>Annette Lemieux</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160693" class_number="16355" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 241R">Musicology Special Topics</title>
+            <description>Sound Studies and Instrumentality.&amp;nbsp; This seminar will explore transforming notions of instrumentality, considering the role of instruments (defined broadly) within music and in broader technological contexts. We will consider both the history of instrumentality and what instrumentality means today in light of the proliferation of digital technologies. This seminar will be taught in collaboration with a mirror seminar at McGill, led by Jonathan Sterne. We will meet jointly&amp;mdash;digitally&amp;mdash;regularly throughout the semester and students in both seminars will work collaboratively throughout the semester, all the while reflecting thoughtfully on the tools and technologies that enable these sorts of interactions</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e61783a1310" role="1" seniority_sort="1">
+                <display_name>Emily Dolan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159779" class_number="15153" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 23">Introduction to Political Sociology</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>May be counted for introductor concentration requirement, if letter graded.  </notes>
+            <description>Politics is about power and authority. But the production, conservation and distribution of power and authority occur far beyond Capitol Hill: in family dynamics, neighborhood residential patterns, racial discrimination, welfare policies, social movements, nation-states and the globalized economy. So how is power exerted? Where is it, and how is it gained and lost? How do power centers get challenged? In this course, we examine such questions using the conceptual framework and analytic tools of political sociology. Major themes will include the nation-state and its challengers, capitalism, democracy, and globalization. Abstract, theoretical works are explored with practical applications and illustrations in specific national/historical contexts. Students will also become aware of criticisms and debates in political sociology &amp;ndash; as well as its limitations.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Yenching Library 118 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e202386a1310" role="1" seniority_sort="1">
+                <display_name>Danilo Mandic</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

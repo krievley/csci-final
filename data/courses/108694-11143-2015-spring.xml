@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108694" class_number="11143" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 209B">Africa Rising? New African Economies/Cultures and Their Global Implications</title>
+            <notes>M., 12&amp;#8211;1:30, M., 6&amp;#8211;7:30 p.m.   </notes>
+            <description>In a story titled Africa Rising (2011), The Economist argued that the continent epitomizes both the "transformative promise of [capitalist] growth" and its bleakest dimensions. This workshop will explore Africa's changing place in the world - and the new economies, legalities, socialities, and cultural forms that have arisen there. It will also interrogate the claim that the African present is a foreshadowing of processes beginning to occur elsewhere; that, therefore, it is a productive source of theory about current conditions world-wide. The workshop, open to faculty and students, will meet Mondays, 6:00-7:30. 15 students will be permitted to take it as a course; they will also meet on Mondays, 12:00-1:30. Grades will be based on participation and a term essay.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:29:00" location="" start_time="12:00:00"/>
+                <meeting days_of_week="Monday" end_time="19:59:00" location="" start_time="18:15:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e7942a1310" role="1" seniority_sort="1">
+                <display_name>Jean Comaroff</display_name>
+            </person>
+            <person id="d1e7939a1310" role="1" seniority_sort="2">
+                <display_name>John Comaroff</display_name>
+            </person>
+            <person id="d1e7942a1310" role="1" seniority_sort="1">
+                <display_name>Jean Comaroff</display_name>
+            </person>
+            <person id="d1e7939a1310" role="1" seniority_sort="2">
+                <display_name>John Comaroff</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

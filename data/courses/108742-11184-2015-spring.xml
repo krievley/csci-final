@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108742" class_number="11184" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 177">Poetic Revolutions</title>
+            <notes> Conducted in French.</notes>
+            <description>Focuses on major poets of the 19th-21st centuries (Hugo, Nerval, Baudelaire, Rimbaud, MallarmÃ©, Apollinaire, Char, Michaux, Glissant, Cixous, Deguy and others) whose revolutionary aesthetics bear on ethics and politics.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

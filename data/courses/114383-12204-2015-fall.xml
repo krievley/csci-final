@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114383" class_number="12204" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="KOREAN BXA">Elementary Korean for Advanced Beginners</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes>Classes meet five days a week, additional discussion sections to be arranged.  </notes>
+            <description>Designed for students with some listening and speaking background, either from prior formal learning or previous exposure to a Korean speaking community. Introductory Korean course, with emphasis on reading and writing. After successful completion of this course, students are expected be able to understand main ideas and/or some facts from the simple connected texts dealing with basic personal and social needs, and to be able to meet a number of practical writing needs.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="KOREAN">Korean</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Sever 209 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e20568a1310" role="1" seniority_sort="1">
+                <display_name>Hi-Sun Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111726" class_number="15732" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 191R">Topics in Medieval and Renaissance Music: Proseminar</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> May be taken by students from other departments with permission of instructor.</notes>
+            <description>Concepts of Love and Sin in the Songs and Motets of the Middle Ages.&amp;nbsp; This course will explore the lyric traditions of the troubadours and trouv&amp;egrave;res, and their influence on the development of the &amp;ldquo;ars antiqua&amp;rdquo; motet. We will examine how chivalry, courtly love, lust, and the sacred adoration of the Virgin Mary are depicted musically&amp;mdash;sometimes in combination in a single work. Our cast of characters will include knights, clerics, nuns, monks, students, lords and ladies, and shepherds and shepherdesses. We will address such questions as: Did cupid&amp;rsquo;s arrow make a sound? How did different expressions of love amongst different social classes generate different musical and poetic genres? Where might we draw the line between fact and fiction in the tales depicted&amp;mdash;and does the music provide an answer? What were the prized attributes of men and women in the game of love&amp;mdash;and how were they expected to sing or play along? No knowledge of medieval French or Latin is required.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Music Davison Seminar Rm (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60096a1310" role="1" seniority_sort="1">
+                <display_name>Suzannah Clark</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

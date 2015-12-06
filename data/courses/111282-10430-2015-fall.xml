@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111282" class_number="10430" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 207R">Ethnomusicology: Seminar</title>
+            <exam_group>FAS12_G</exam_group>
+            <notes> Open to undergraduates with permission of instructor. May be taken by students from other departments by permission of instructor.</notes>
+            <description>Music and Language. Methods of phonetics, social linguistics, and ethnomusicology are combined to examine music and speech, including epic storytelling and laments, instrumental speech surrogates, and poetry. Materials potentially drawn from any period or location.&amp;nbsp;</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:59:00" location="Music Davison Seminar Rm (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43841a1310" role="1" seniority_sort="1">
+                <display_name>Richard Wolf</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

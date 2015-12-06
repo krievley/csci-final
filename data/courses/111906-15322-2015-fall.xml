@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111906" class_number="15322" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1780">International Political Economy</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes>IR_subfield  </notes>
+            <description>Analyzes the interaction of politics and economics in the international arena. Focuses on international trade, investment, monetary, and financial relations. Includes discussion of developed, developing, and formerly centrally-planned nations.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:29:00" location="CGIS South S020 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e83235a1310" role="1" seniority_sort="1">
+                <display_name>Jeffry Frieden</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

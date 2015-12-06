@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107877" class_number="10416" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="NEUROBIO 306QC">Quantitative Methods for Biologists</title>
+            <exam_group>FAS17_A</exam_group>
+            <notes> This bootcamp course will meet in August from 8/11 - 8/22.</notes>
+            <description>The goals of this course are to introduce students to programming in the MATLAB environment and to begin using this tool for analyzing data and for gaining intuition about the behavior of complex systems through the use of numerical simulations.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="16:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e33239a1310" role="1" seniority_sort="1">
+                <display_name>Michael Springer</display_name>
+            </person>
+            <person id="d1e33242a1310" role="1" seniority_sort="2">
+                <display_name>Richard Born</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

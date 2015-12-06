@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159655" class_number="14456" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 125">Molecular Basis of Behavior</title>
+            <description>Modern molecular genetic approaches are teaching us a great deal on how the brain controls behaviors. This course will cover newly developed experimental strategies of molecular neuroscience, and how they have helped uncover the nature and identity of behavior circuit components. How genes and molecules affect behaviors will be investigated through key examples of mammalian behaviors with an emphasis on instinctive and social behaviors, their expression, development, and associated mental disorders.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:59:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e83372a1310" role="1" seniority_sort="1">
+                <display_name>Catherine Dulac</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

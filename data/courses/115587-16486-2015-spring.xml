@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115587" class_number="16486" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="HIND-URD 105R">Topics in Hindi-Urdu Literature</title>
+            <notes> Offered at the discretion of the instructors. Not open to auditors.</notes>
+            <description>Individual reading course. A course for students with native or near-native proficiency with readings in a variety of genres from Hindi and/or Urdu literature based on student interest.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="HIND-URD">Hindi-Urdu</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e23893a1310" role="1" seniority_sort="1">
+                <display_name>Amy Bard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

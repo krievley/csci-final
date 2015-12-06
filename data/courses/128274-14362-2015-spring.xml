@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128274" class_number="14362" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 317">Culture, History and Society</title>
+            <notes>First meeting Friday, February 5, 2016.  First Fall meeting Friday, September 11th; First Spring meeting Friday, February 5th.</notes>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e26376a1310" role="1" seniority_sort="1">
+                <display_name>Orlando Patterson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

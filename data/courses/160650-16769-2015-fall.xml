@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160650" class_number="16769" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TDM 169DA">Multimedia Experimental Theatre and Performance</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Taught by Visiting Associate Professor Magda Romanska.</notes>
+            <description>(Taught by Visiting Associate Professor Magda Romanska.) With Netflix, YouTube and other Internet services providing any type of entertainment on demand, in the privacy of one&amp;#39;s own home, the ritual of going to see a live performance is becoming increasingly endangered. At the same time as our social and cultural habits are changing, the digital, new-media revolution is also changing the theatre-making process, accelerating the transformation towards non-linear, non-narrative, immersive theatrical experience that is increasingly reflective of a fragmented global cultural landscape and its audiences. As Robert Lepage put it: &amp;quot;We are confronted with audiences whose narrative vocabulary has evolved. . . They can read stories backwards now, and jump cut, and can flash forward.&amp;quot; The Multimedia Experimental Theatre workshop-style course will focus on multimedia theatre as symptomatic of postmodern &amp;quot;disintegration of meaning&amp;quot; of words, and concepts. The students will explore new ways of analyzing and developing multimedia narratives that move across different genres, incorporating both film, video and live performance. They will also map their own non-linear narratives based on found multimedia, classic texts and their own writing.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Farkas 203 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e206842a1310" role="1" seniority_sort="1">
+                <display_name>Magda Romanska</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

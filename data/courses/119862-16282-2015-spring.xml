@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119862" class_number="16282" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BIOSTAT 312">Consultation</title>
+            <description>Work on current statistical consultation activities.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e251533a1310" role="1" seniority_sort="1">
+                <display_name>L. Wei</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

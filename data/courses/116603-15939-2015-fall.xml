@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116603" class_number="15939" school_id="fas" section="024" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 3001">Reading for General Examination</title>
+            <notes> Restricted to candidates for the PhD degree and ordinarily to those who have completed at least one year in residence.</notes>
+            <description>Individual reading in preparation for the General Examination for the PhD degree.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e46104a1310" role="1" seniority_sort="1">
+                <display_name>Gary Urton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

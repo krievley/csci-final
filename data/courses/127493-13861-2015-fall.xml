@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127493" class_number="13861" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TAM 102A">Intermediate Tamil</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes> Not open to auditors.</notes>
+            <description>Continuation of Tamil 101. Focus will be on further developing reading, writing, and speaking skills. Students will read fables, newspapers, short stories, and other genres of literature including poetry. Tamil cinema and audiovisual materials presenting contemporary and traditional Tamil culture will be used as supplementary class material.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="TAM">Tamil</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="1 Bow St 317 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e154916a1310" role="1" seniority_sort="1">
+                <display_name>Jonathan Ripley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

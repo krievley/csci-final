@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160351" class_number="15384" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1342">The History of Economic Growth</title>
+            <description>This course examines the history of economic growth, beginning with the divergence between human ancestors and other primates and continuing through the end of the 20th century. Topics covered include the Neolithic Revolution; economic growth in ancient societies; the origins of modern economic growth; theories and evidence about the institutional, geographic, and cultural determinants of growth; the East Asian Miracle; the middle income trap; the political economy of growth; growth and inequality; and theories and evidence about the persistence of poverty in the world&amp;rsquo;s poorest regions.&amp;nbsp;Prerequisite: Economics 1010a (1011a)</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e532a1310" role="1" seniority_sort="1">
+                <display_name>Melissa Dell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

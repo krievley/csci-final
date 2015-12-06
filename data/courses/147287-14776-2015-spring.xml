@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="147287" class_number="14776" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 265">Skandal! Postmoderne und Dekonstruktion in Deutschland?</title>
+            <notes> Readings and discussions in German.</notes>
+            <description>	When postmodernism and deconstruction hit 1960s Europe and the Americas, international opinion was divided between euphoria and resistance. Nowhere, however, did these &amp;#39;scandalous&amp;#39; movements meet with more blatant rejection than in Germany, where they continue to do so. What accounts for German cultural anxieties about postmodern pluralists and deconstructive parasites? In this course we explore: postmodern German literature including Jelinek, Ransmayr, and S&amp;uuml;skind; postmodernism&amp;rsquo;s and deconstruction&amp;rsquo;s controversial reception from Gadamer to Gumbrecht; salient deconstructive investigations into the German tradition, including Derrida on Kafka and de Man on Kleist.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e16929a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Suetterlin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

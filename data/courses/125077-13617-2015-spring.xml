@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125077" class_number="13617" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 102">Introduction to Medieval Literature and Old French</title>
+            <notes>Conducted in French.   Conducted in French.</notes>
+            <description>Provides students with literary and cultural means of exploring French medieval literature. We will study verse and prose works from the 12th to the 15th century, using editions in Old French and translations in modern French.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

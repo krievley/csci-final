@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117566" class_number="16581" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2640HFA">Research in Industrial Organization</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>Participants present their own research in progress in an informal setting. Open to doctoral students in economics who have passed their general examinations and are in the early stages of their dissertations.&amp;nbsp;Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Littauer Ctr M16 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e174257a1310" role="1" seniority_sort="1">
+                <display_name>Robin Lee</display_name>
+            </person>
+            <person id="d1e89506a1310" role="2" seniority_sort="2">
+                <display_name>Ariel Pakes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

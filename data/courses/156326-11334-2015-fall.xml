@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156326" class_number="11334" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 272">Big Data: Past, Present, Future</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>The goal of this class is to understand more deeply the roots and current practices involved in "Big Data," an umbrella term and current buzzword used to mark the revolutionary potential inherent in working with scaled-up collections of data and new data-processing and -storage technologies. We will begin by examining claims that Big Data has ushered in a new era of epistemology and scientific understanding. Next, we will investigate the historical development as well as material and political conditions that produced the current moment. We will read histories and ethnographies of Big Data and its historical precursors across fields as diverse as (but not limited to) bioinformatics, climate science, anthropology, library science, and paleontology, and will consider the interpenetration of Big Data's practices in commerce, national security, personal life ("self-tracking") and the project of self-engineering. The aim of the course is to be better able to assess the challenges and opportunities the current "data deluge" poses to society.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Science Ctr 252 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e92330a1310" role="1" seniority_sort="1">
+                <display_name>Rebecca Lemov</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

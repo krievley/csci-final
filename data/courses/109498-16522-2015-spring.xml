@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109498" class_number="16522" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 36S">Comparative Historical Mythology</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Deals with an innovative approach to comparative mythology by incorporating an historical approach, not by the commonly assumed archetypes or diffusion. Working backwards from our earliest written sources (Egypt, etc.), successively earlier stages are detected through repeated reconstructions. Recent developments in genetics, archaeology, linguistics support the proposed historical model that tentatively reaches back to the "African Eve." Testing the proposal offers a wide scope for students' participation and research in texts and in the sciences. Open to Freshmen only.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>1</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e31808a1310" role="1" seniority_sort="1">
+                <display_name>Michael Witzel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

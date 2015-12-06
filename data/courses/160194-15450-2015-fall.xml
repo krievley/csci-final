@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160194" class_number="15450" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 22V">Physics and Big Questions</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Open to Freshmen only.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The big questions considered are those that must be posed to do physics, and those that reflect on the broader context of physics. What are the limits and domain of applicability of the classical physics studied in high school? How do these relate to special relativity, quantum mechanics and quantum field theory? What is the &amp;quot;standard model&amp;quot; of particle physics and how is it tested? How does physics inform some challenges to our society, such as the options for powering our homes and cars. An additional set of big questions are about the compatibility or incompatibility of physics and religious faith.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Lyman 425 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e45782a1310" role="1" seniority_sort="1">
+                <display_name>Gerald Gabrielse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125960" class_number="13607" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 26W">The Biology and Science of Cancer and Its Treatments: From Empiric to Scientific to Humanistic</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>"Cancer" represents hundreds of different diseases with a wide variety of causative mechanisms. We will study the biology of cancer and what makes a normal cell become a cancer one, delving into acquired and inherited genetic abnormalities and effects of environmental factors, such as nutrition, radiation, and tobacco. Current approaches to cancer will be discussed from prevention and early detection to treatment of survivorship.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

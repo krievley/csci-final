@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111053" class_number="15201" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ASTRON 219">High Energy Astrophysics</title>
+            <notes> This course offered in alternate years.</notes>
+            <description>Discussion of relativistic and high-energy astrophysical phenomena and observational techniques. Accretion onto compact stars (white dwarfs, neutron stars, black holes); active galactic nuclei, galaxy clusters. Gamma-ray bursts and cosmic rays. X-ray and gamma-ray background.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:29:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e86417a1310" role="1" seniority_sort="1">
+                <display_name>Jonathan Grindlay</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

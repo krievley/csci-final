@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114737" class_number="15624" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LING 204R">Topics in Syntax</title>
+            <description>Examination of current issues in syntactic theory with focus on topics of interest to the class.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

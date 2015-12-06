@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114647" class_number="14600" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 181">Film Theory, Visual Thinking</title>
+            <notes> Offered jointly with the Graduate School of Design as 4132. This course has an additional weekly film screening, Wednesday, 7 pm-9pm.</notes>
+            <description>How do moving images transform the way we think? Introduction to film theory aimed at interpreting the visual world, and developing skills to analyze films and media images. Survey of classical and contemporary film theory goes from turn-of-the-century scientific motion studies to the virtual movements of today. Considers theories of space, time, and motion, including Eisenstein's theory of montage and architecture. Treats visual technology and sensate space, the cultural history of the cinematic apparatus, the body and physical existence, affect and gender, and screen theory. Different theoretical positions guide us in understanding and reading films.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e58572a1310" role="1" seniority_sort="1">
+                <display_name>Giuliana Bruno</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160243" class_number="15703" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1947">Material Cultures: A Comparative Archaeology of Northwest Europe, c. AD 600-1200</title>
+            <description>This course uses archaeological and textual sources to explore the forces that shaped societies in northwest Europe (Britain, Ireland, France, Belgium and the North Sea rim to western Scandinavia), in the Early Middle Ages, c. AD 600-1200. Themes will include material cultures of social identity in rural lifestyles; practices of burial, commemoration and religion; towns and urban societies; connections with Scandinavia, eastern Europe and the Mediterranean world; and catalysts for social transformation in the early medieval centuries. The learning experience will include study of the &amp;lsquo;biographies&amp;rsquo; (their materials and purposes) of medieval artefacts at the Boston Museum of Fine Arts.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38508a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Loveluck</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

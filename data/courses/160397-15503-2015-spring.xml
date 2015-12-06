@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160397" class_number="15503" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 60S">Imperial History of the U.S. Dollar: From Spanish Silver to Bitcoin</title>
+            <description>Introduction to the history of the American dollar, from colonial origins to its ascent to international currency of choice. Focus on the production of United States coinage and paper money, and its relationship to expansion, sovereignty, and national institutions.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e382092a1310" role="1" seniority_sort="1">
+                <display_name>William Chiriguayo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110319" class_number="10944" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TDM 150">The Art of Scenography: 20th and 21st Century Directorial Concepts and Set Design</title>
+            <exam_group>FAS09_B</exam_group>
+            <description>In this course, students will study the work of the great 20th and 21st century auteur directors and set designers. Students will explore a range of artistic movements including Constructivism, Futurism and Dada, and discuss how the theater became a place to experiment with the concepts and discoveries of these movements. Examining primary source materials in the Harvard Theatre Collection, students will research the work of artists including Gordon Craig, Richard Wagner, Leon Bakst, Pablo Picasso, Konstantin Stanislavsky and Vsevolod Meyerhold. The course will also focus on the work of such contemporary directors and designers as Robert Wilson, George Tsypin, and Robert Lepage.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="Sever 206 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e133108a1310" role="1" seniority_sort="1">
+                <display_name>Julia Smeliansky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

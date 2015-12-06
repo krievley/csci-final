@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120031" class_number="13200" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCIPHUNV 25">Energy and Climate for the 21st Century</title>
+            <notes> Students who have taken Science A-52 may not take this course for credit.</notes>
+            <prereq>Recommended: Students are expected to have a background of high school algebra and trigonometry.</prereq>
+            <description>The course provides an historical account of the evolution of the modern energy system, from early dependence on human and animal power, to the subsequent use of wind and water, to more recent reliance on fossil fuels - coal, oil and natural gas - and even more recently to the development of the ability to tap the energy contained in the nucleus. It will discuss the important historical advances in the applications of energy, notably in the production and distribution of electricity and in the transportation sector - where oil-derived products provide the motive force for cars, trucks, trains, ships and planes. It will highlight the energy related problems we confront today, with particular emphasis on air pollution, on the threat of global climate change, on the hazards of nuclear proliferation, and on the risks to national security imposed by our increasing reliance on imported sources of oil. It concludes with a discussion of options for a more sustainable energy future.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e99674a1310" role="1" seniority_sort="1">
+                <display_name>Michael McElroy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

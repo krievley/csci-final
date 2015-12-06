@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119819" class_number="15433" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SWAHILI AA">Elementary Swahili</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes> Not open to auditors.</notes>
+            <description>A study of the lingua franca of East Africa at the elementary level. Contact hours supplemented by language lab sessions. Emphasis on written expression, reading comprehension, and oral fluency. &amp;nbsp;Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="SWAHILI">Swahili</course_group>
+            <course_type>Lecture</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Barker 230 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e7845a1310" role="1" seniority_sort="1">
+                <display_name>John Mugane</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

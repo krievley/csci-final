@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160199" class_number="15454" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 34C">The Problem of Evil and the Nature of Human Freedom</title>
+            <exam_group>FAS13_G</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Common sense seems to confirm the reality of evil.&amp;nbsp; From the genocides of the 20th century to the homicides that fill our daily news, evil seems to be a category of ordinary language and experience.&amp;nbsp; But what do we really mean when we use the word &amp;ldquo;evil&amp;rdquo; to describe a person, an action or an historical event? Why does the word pack an emotional punch that other terms do not?&amp;nbsp; The term &amp;ldquo;evil&amp;rdquo; seems to point to an incomprehensible quality that marks the limits of human understanding and control.&amp;nbsp; Theologians, philosophers and poets have long struggled with these limits, drawing on their deepest imaginative powers in writing about the meaning and consequences of evil.&amp;nbsp; This course will consider key texts in Western philosophy, theology and other literary forms that have sought to frame the question and offer readers avenues for responding to the problem of evil. &amp;nbsp;</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:29:00" location="Barker 403 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e170393a1310" role="1" seniority_sort="1">
+                <display_name>Courtney Lamberth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

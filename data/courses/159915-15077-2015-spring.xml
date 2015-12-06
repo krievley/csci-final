@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159915" class_number="15077" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1173">Cities in the Jungles: Maya Archaeology</title>
+            <description>The course explores a fascinating and mysterious civilization that once flourished in the jungles of Mexico, Guatemala, Belize, and Honduras. Although most of its cities had been abandoned long before the arrival of the Spaniards in the Americas, a century of archaeological studies has revealed the world of the ancient Maya in unprecedented detail. New research methods and the decipherment of thousands of hieroglyphic inscriptions have led to recent advancements in our understanding of the indigenous history, society, politics, economy, and worldview. Rather than adopting a culture-historical narrative, this course is structured around several key problems and discussions including the emergence and the nature of statehood, relations with other Pre-Columbian civilizations of Central America, and the role of the environment in shaping and challenging the ancient way of life. The course will also address the issue of change and tensions in the paradigms of Maya archaeological studies as well as increased engagement with the indigenous communities. The course is intended for graduate and undergraduate students and requires no prior background in Maya archaeology.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e468168a1310" role="1" seniority_sort="1">
+                <display_name>Alexandre Tokovinine</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

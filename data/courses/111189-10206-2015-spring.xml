@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111189" class_number="10206" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 40A">Introduction to Still Photography</title>
+            <notes> No previous studio experience necessary.
+Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>Introduction to still photography through individual and group exercises, with an emphasis on the medium as a vehicle for expression, documentation, and personal vision. Covers necessary technical, historical, and aesthetic aspects of the medium.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e406101a1310" role="1" seniority_sort="1">
+                <display_name>Christopher David Killip</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

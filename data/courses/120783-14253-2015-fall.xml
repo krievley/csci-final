@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120783" class_number="14253" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="E-PSCI 236">Environmental Modeling</title>
+            <exam_group>FAS14_E</exam_group>
+            <notes> Course includes one to three hours of computer-based laboratory work per week to be arranged. Students specializing in this area are expected to take EPS 200 and 236. EPS 236 may also serve as an introduction to modeling and applied statistics for other students.</notes>
+            <prereq>Recommended: Applied Mathematics 105; a course in atmospheric chemistry (EPS 133 or 200 or equivalent); or permission of the instructors.</prereq>
+            <description>Chemical transport models: principles, numerical methods. Inverse models: Bayes' theorem, optimal estimation, Kalman filter, adjoint methods. Analysis of environmental data: visualization, time series analysis, Monte Carlo methods, statistical assessment. Students prepare projects and presentations.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Thursday" end_time="15:59:00" location="Geological Museum 105 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e188139a1310" role="1" seniority_sort="1">
+                <display_name>Steven Wofsy</display_name>
+            </person>
+            <person id="d1e82174a1310" role="1" seniority_sort="2">
+                <display_name>Daniel Jacob</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

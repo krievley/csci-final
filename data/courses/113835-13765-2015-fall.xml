@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113835" class_number="13765" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2410">Advanced Topics in Macroeconomics</title>
+            <exam_group>FAS17_C</exam_group>
+            <description>The course will explore topics in applied macroeconomics, with emphasis on the intersection of empirical analysis and theory. Topics may include monetary policy, fiscal policy, financial frictions, and labor markets. The course will present a variety of empirical methods, such as the narrative approach, VAR analysis, and the use of cross-sectional data in macroeconomics.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="18:29:00" location="Littauer Ctr M17 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e177100a1310" role="1" seniority_sort="1">
+                <display_name>Gabriel Chodorow-Reich</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

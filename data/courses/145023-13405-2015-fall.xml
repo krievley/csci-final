@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145023" class_number="13405" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EASTD 98B">Junior Tutorial--Japan and the World</title>
+            <exam_group>FAS09_B</exam_group>
+            <notes> EAS 98a, 98b, 98d, 98g or a substitution approved by the Director of Undergraduate Studies is required for all EAS concentrators.</notes>
+            <description>Junior Tutorial option for EAS. Open to Government and other concentrators. For students with an interest in the society, economy, politics, and popular culture of contemporary Japan and its place in the world.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EASTD">East Asian Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="CGIS South S234A (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e29360a1310" role="1" seniority_sort="1">
+                <display_name>Susan Pharr</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

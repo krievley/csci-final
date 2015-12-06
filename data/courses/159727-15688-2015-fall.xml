@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159727" class_number="15688" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 30R">Performing French Theater Across Time and Media</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes> Readings, written assignments, oral presentation and discussions may be in English or French. The final project consists of an excerpt to be performed in French or bilingual format.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This seminar aims to help students, including those who are genuine novices in acting, to understand and experience theater as a form of physical expression that evolve as aesthetic and social contexts change across time. Readings include the most famous French playwrights of both the early modern age (Moli&amp;egrave;re, Corneille, Racine) and the later twentieth / early twenty-first centuries. Special emphasis is paid the transformative power of performance and the development of the students&amp;rsquo; acting skills through practical workshops and videos of recent productions. The final project consists of an excerpt to be performed in French or bilingual format.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Farkas 203 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43415a1310" role="1" seniority_sort="1">
+                <display_name>Sylvaine Guyot</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

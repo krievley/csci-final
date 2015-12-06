@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116137" class_number="12178" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 212A">Real Analysis</title>
+            <exam_group>FAS04_A</exam_group>
+            <prereq>Prerequisite: Mathematics 114</prereq>
+            <description>Banach spaces, Hilbert spaces and functional analysis. Distributions, spectral theory and the Fourier transform.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Science Ctr 310 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e104838a1310" role="1" seniority_sort="1">
+                <display_name>Shlomo Sternberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122625" class_number="12783" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 97">Sophomore Tutorial in Human Evolutionary Biology</title>
+            <notes> Required of and limited to Human Evolutionary Biology concentrators.</notes>
+            <description>An introduction to the issues and methods of human evolutionary biology, focusing on evolutionary theory, the concept of adaptation, and their application to human evolution. Weekly readings and discussions, with biweekly writing assignments that integrate major course themes.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e113469a1310" role="1" seniority_sort="1">
+                <display_name>David Pilbeam</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

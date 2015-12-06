@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114218" class_number="15335" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MOD-HEB BA">Elementary Modern Hebrew</title>
+            <exam_group>FAS09_A</exam_group>
+            <notes> Offered jointly with the Divinity School as 4015A. Not open to auditors. Cannot be taken pass/fail. Modern Hebrew BA/BB is an indivisible year-long course. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</notes>
+            <description>The course introduces students to the phonology and script as well as the fundamentals of morphology and syntax of Modern Hebrew. Emphasis is placed on developing reading, speaking, comprehension and writing skills, while introducing students to various aspects of contemporary Israeli society and culture. This is an indivisible course. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MOD-HEB">Modern Hebrew</course_group>
+            <course_type>Lecture</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="10:59:00" location="Sever 304 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e97863a1310" role="1" seniority_sort="1">
+                <display_name>Irit Aharony</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

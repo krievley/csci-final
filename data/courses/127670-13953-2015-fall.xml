@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127670" class_number="13953" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MOD-HEB 241R">Advanced Seminar in Modern Hebrew: Israeli Culture: Cinema &amp; Literature</title>
+            <notes> Offered jointly with the Divinity School as 4045. Not open to auditors. Discussions, papers, movies and texts presented only in Hebrew.</notes>
+            <prereq>Recommended: Modern Hebrew 130b or equivalent.</prereq>
+            <description>This course constitutes the final level of Modern Hebrew language studies. The course offers representative readings and screenings from contemporary Israeli literature and cinema, and it forms bases of discussion on major cultural and linguistic themes through academic readings. We will focus on the theme of the family in Israeli culture and relationships between fathers and sons in "Far away Islands"; "Book of Intimate Grammar"; the new series "Shtissel"; and more.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MOD-HEB">Modern Hebrew</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Lamont Library 420 (FAS)" start_time="13:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="20:59:00" location="Lamont Library 420 (FAS)" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e97863a1310" role="1" seniority_sort="1">
+                <display_name>Irit Aharony</display_name>
+            </person>
+            <person id="d1e97863a1310" role="1" seniority_sort="1">
+                <display_name>Irit Aharony</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113210" class_number="17002" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1796">Central Challenges of American National Security, Strategy, and the Press</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes>Classroom Location:  Land Hall, Belfer at Harvard Kennedy School.  This is a Monday only course. The course is not meeting on Wednesday, September 3. A make-up class will be held this Friday, September 5, from 4:15pm to 7pm in Land Hall, Harvard Kennedy School.  Offered jointly with the Kennedy School as IGA-211.</notes>
+            <description>Using a series of case studies from the front page, and from the most urgent issues on the U.S. national security agenda, this course will engage students in grappling with the hardest American national security challenges of the decade ahead. Issues range from the Arab Awakening and intervention in civil wars to combating Iran's nuclear ambitions and dealing with the economic and military rise of China. Assignments require strategic thinking: analyzing dynamics of issues and developing strategies in a government whose deliberations are discombobulated by leaks, reports about internal differences among policymakers, and press analyses. Students will learn to devise strategies and write strategic options memos as participants in the policymaking process. Strategic options memos combine careful analysis and strategic imagination, on the one hand, with the necessity to communicate to major constituencies in order to sustain public support, on the other. A subtheme of the course explores coping with a world where a pervasive press makes secrecy more often the exception than the rule. In each case, there will be exploration of how media coverage affects decision making, with an examination of WikiLeaks, the revelations about drones and secret, American-led cyberattacks, and other examples of the publication of classified information. Because of time constraints, Mr. Sanger will be joining a limited number of class sessions, and will join some remotely.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="18:59:00" location="Belfer 400 Land Hall (HKS)" start_time="16:15:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e118267a1310" role="1" seniority_sort="1">
+                <display_name>Graham Allison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

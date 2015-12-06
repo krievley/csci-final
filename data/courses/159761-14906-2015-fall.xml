@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159761" class_number="14906" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 11A">Drawing Room: Space as Framework</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>This studio course aims to further basic drawing skills with intention and purpose while expanding how we see the world around us.&amp;nbsp;Using&amp;nbsp;conventional drawing methods as a starting point, we will explore the potential of depicting&amp;nbsp;space,&amp;nbsp;both literally and metaphorically. Examining landscape, objects, buildings and interiors, students are encouraged to consider their relationship to the physical, conceptual and emotional spaces they inhabit. Finding&amp;nbsp;inspiration from both contemporary art practices and architecture itself, assignments will delve into abstract and conceptual principles, and introduce specialized systems of rendering and notation.&amp;nbsp;</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Carpenter 4th Fl (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e200110a1310" role="1" seniority_sort="1">
+                <display_name>Katarina Burin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

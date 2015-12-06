@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119035" class_number="15129" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHEM 165">Experimental Physical Chemistry</title>
+            <notes> Recommended as an efficient preparation for research in experimental chemistry, chemical physics, engineering sciences, and related disciplines.</notes>
+            <prereq>Recommended: Chemistry 7, or Physical Sciences 1, or equivalent; Applied Mathematics 21a or Mathematics 21a; one full course in physics or equivalent. Recommended: Chemistry 160, Physics 143a or similar, a course in Quantum Mechanics.</prereq>
+            <description>Hands-on introduction to physical methods and techniques used widely in chemistry and chemical physics research laboratories. Computer-based methods of data acquisition and analysis are used throughout.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

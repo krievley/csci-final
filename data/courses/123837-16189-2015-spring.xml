@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123837" class_number="16189" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 195">Foundations of Systems Biology and Biological Engineering</title>
+            <notes> Students from physics, engineering and other disciplines are also welcome.</notes>
+            <prereq>Prerequisite: (LPS A OR LS 1a) AND (LS 1b) AND (MCB 60 OR (MCB 52 AND MCB 54))</prereq>
+            <description>This course builds an understanding of design principles in biology. We will ask why biological circuits are built the way they are and answer using mathematical models. Topics: elementary circuits in biological networks, robustness, pattern-formation in embryos, error-correction, and evolutionary optimization.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e165044a1310" role="1" seniority_sort="1">
+                <display_name>Philippe Cluzel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

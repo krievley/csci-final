@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160657" class_number="16773" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2350R">Laboratory on Reinforcement Learning and Decision Making</title>
+            <exam_group>FAS12_G</exam_group>
+            <notes>For information about joining the lab, email gershman@fas.harvard.edu  </notes>
+            <description>This lab course provides instruction and experience in conducting research on reinforcement learning and decision making, using a combination of computational, behavioral and neural techniques. Students will learn how to fit models of reinforcement learning and decision making to behavioral data, collect and analyze functional MRI data, and develop algorithms for artificial intelligence. Open to graduate and undergraduate students working in the instructor&amp;rsquo;s laboratory. Undergraduates are required to write a research report at the end of the semester on the studies conducted in the lab.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Research Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:29:00" location="Northwest Bldg 269.10 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e86008a1310" role="1" seniority_sort="1">
+                <display_name>Samuel Gershman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

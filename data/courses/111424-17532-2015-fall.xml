@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111424" class_number="17532" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 140">Fundamentals of Logic</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> May be taken as a first course in logic by those with some mathematical background (at least a grade of 4 or 5 on the Calculus BC Advanced Placement Exam or equivalent college work).</notes>
+            <description>Analysis of the central concepts of logic: validity, satisfiability, implication.&amp;nbsp;&amp;nbsp;Basic elements of model theory:&amp;nbsp;&amp;nbsp;completeness, compactness, L&amp;ouml;wenheim-Skolem theorem, Beth&amp;rsquo;s definability theorem.&amp;nbsp;&amp;nbsp;Applications to the foundations of mathematics.&amp;nbsp;&amp;nbsp;Attention also to higher-order logic and to non-classical (constructive) logical systems.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Emerson 101 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e51807a1310" role="1" seniority_sort="1">
+                <display_name>Warren Goldfarb</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

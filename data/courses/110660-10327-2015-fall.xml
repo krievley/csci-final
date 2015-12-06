@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110660" class_number="10327" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2450A">Public Economics and Fiscal Policy I</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes>M., W., (F.), 11:30&amp;#8211;1   </notes>
+            <prereq>Prerequisite:  (Economics 2010a AND Economics 2010b) OR (Economics 2020a AND Economics 2020b)</prereq>
+            <description>This course covers basic issues in the optimal design of tax and social insurance policies, with emphasis on combining theoretical models with empirical evidence. Topics include efficiency costs and incidence of taxation, income taxation, transfer and welfare programs, public goods and externalities, optimal social insurance, and welfare analysis in behavioral models.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="Littauer Ctr M16 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e52548a1310" role="1" seniority_sort="1">
+                <display_name>Jeffrey Liebman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

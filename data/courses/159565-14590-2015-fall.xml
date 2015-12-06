@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159565" class_number="14590" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1290">Cultural Evolution: an interdisciplinary perspective</title>
+            <exam_group>FAS16_B</exam_group>
+            <notes> Students must seek instructors' permission to enroll in the course by sending the instructors a paragraph via email about why they want to take the course and what they hope to get out of it.</notes>
+            <description>Unlike other species, humans are heavily reliant on learning from others to acquire many important aspects of their behavior, and this cultural transmission has created a second system of inheritance that has driven much of our species&amp;#39; genetic evolution. In addition to having shaped our species&amp;#39; anatomy and physiology, cultural evolution has important implications for understanding human nature, and for how to tackle basic problems in psychology, economics and anthropology. The first third of this course will develop the basic principles and lines of inquiry while the remainder will apply, hone and refine them by exploring economic development, the history of modern institutions, and global inequality.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:59:00" location="Museum of Comp Zool 529 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e109433a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Henrich</display_name>
+            </person>
+            <person id="d1e529a1310" role="1" seniority_sort="2">
+                <display_name>Nathan Nunn</display_name>
+            </person>
+            <person id="d1e79652a1310" role="2" seniority_sort="3">
+                <display_name>James Robinson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

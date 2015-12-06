@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160398" class_number="15504" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1979">Popular Culture in 20th Century North America</title>
+            <description>This conference course examines popular culture in Canada and the United States through the twentieth century and the ways in which the two nations have engaged in cultural exchange. A dominant force in twentieth century society, this course will explore the continental environment in which popular culture has developed. Students will examine the dominant national historiography in both countries while also exploring the emerging continentalist literature. Students will have the opportunity to engage with primary materials such as films, television programs, and music in order to assess the content of popular culture through the period under study.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e460476a1310" role="1" seniority_sort="1">
+                <display_name>Sean Graham</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

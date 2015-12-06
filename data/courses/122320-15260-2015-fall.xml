@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122320" class_number="15260" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="US-WORLD 24">Reinventing (and Reimagining) Boston: The Changing American City</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> This course, when taken for a letter grade, may be counted for introductory Sociology concentration requirement.</notes>
+            <description>This multi-disciplinary course uses Boston&amp;rsquo;s dramatic economic, demographic, and physical transformations over the last several decades to help students better appreciate, understand and participate in contemporary urban life. In particular, it explores four central questions at the heart of any conversation about any city. &amp;ldquo;How do things work? What do they mean? How do things get done and how should they get done?&amp;rdquo; To answer these questions, the course draws on a wide number of sources and disciplines, as well as presentations by notable local practitioners, student visits to different parts of Boston, and a variety of writing assignments. In all of that work, we take seriously that studying a city &amp;ndash; and teaching a Gen Ed course &amp;ndash; is an exercise in dissonance, plurality, and negotiation.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="US-WORLD">United States in the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Harvard Hall 104 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e225222a1310" role="1" seniority_sort="1">
+                <display_name>David Luberoff</display_name>
+            </person>
+            <person id="d1e209832a1310" role="2" seniority_sort="2">
+                <display_name>Matthew Kaliner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

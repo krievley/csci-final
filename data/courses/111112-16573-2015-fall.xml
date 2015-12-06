@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111112" class_number="16573" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2390DHFA">Research in Economic Development</title>
+            <exam_group>FAS02_C</exam_group>
+            <notes> Popularly known as the Development Lunch.</notes>
+            <description>Participants discuss recent research in development economics and present their own work in progress. Open to doctoral students in economics who have passed their oral examinations. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.	&amp;nbsp;</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="13:59:00" location="Littauer Ctr M16 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e535a1310" role="1" seniority_sort="1">
+                <display_name>Michael Kremer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160220" class_number="15611" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 2880">Law, Medicine and Justice in Modern Egypt: Proseminar</title>
+            <description>This seminar offers an introduction to the history of modern Egypt through the study of forensic medicine. Lying at the intersection of medicine and law, forensic medicine enables us to study two disciplines that are foundational to the modern Egyptian state. The course follows the processes of medical and legal reform since the 19th century covering such topics as investigating crime in Islamic law; dissection in modern medical education; sacral and spiritual views of the human body; and evolving conceptions of justice. The course closes with analyzing the role played by forensic medicine in the Egyptian revolution of January 2011.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e40503a1310" role="1" seniority_sort="1">
+                <display_name>Khaled Fahmy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

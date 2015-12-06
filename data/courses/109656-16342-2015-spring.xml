@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109656" class_number="16342" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 27">Introduction to Social Movements</title>
+            <notes> formerly Sociology 132: Mobilizing for Change. This course, when taken for a letter grade, meets the General Education requirement for United States in the World.</notes>
+            <description>Social movements and revolution have long been driving forces behind political, social, and cultural change. From the Civil Rights movement of the 60s to the recent and unpredicted "Arab Spring," the extraordinary mobilization of ordinary people is routinely credited with fundamentally re-shaping societal institutions--the polity, the economy, religion, gender, race, and even the environment. But can we really define and study something as ephemeral as social mobilization? Do we know how social movements begin? Why might they become revolutionary? Can they make a difference in the societies they target? This course examines these questions within the sociological literature on collective action. Theories of social movements and revolutions are then applied to a series of case studies around the globe. Case studies may include the US, Iran, China, El Salvador, Chile, India, Poland, Argentina, Egypt, and Nigeria, among others. Students will also be required to apply course readings to the collective action case of their choosing throughout the semester.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e79284a1310" role="1" seniority_sort="1">
+                <display_name>Jocelyn Viterna</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

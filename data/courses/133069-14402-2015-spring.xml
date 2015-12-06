@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="133069" class_number="14402" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SLAVIC 166">Russian-Ukrainian Literary Relations in the 19th Century: Conference Course</title>
+            <prereq>Recommended: Reading knowledge of Russian or Ukrainian.</prereq>
+            <description>Examines Russian-Ukrainian literary relations from 1798 to 1905, with special focus on canon formation, ethnic, national and imperial identity, and the interrelation of literature, society, and ideology. Topics include Decembrist historicism, Romantic poetics and folklore, Slavophilism and populism, literature as subversion (kotljarevshchyna), the uses of translation, the reception of major writers (Gogol, Shevchenko, and others), and the imperial attempt to suppress &amp;quot;Ukrainophilism.&amp;#39;&amp;#39;</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e61598a1310" role="1" seniority_sort="1">
+                <display_name>George Grabowicz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

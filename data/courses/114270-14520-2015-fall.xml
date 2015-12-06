@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114270" class_number="14520" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SANSKRIT 102AR">Intermediate Sanskrit I</title>
+            <exam_group>FAS08_A</exam_group>
+            <description>A reading course designed to give students the tools necessary for advanced study in Classical Sanskrit. Readings in epic (itihÄsa) or narrative (kathÄ), poetry (kÄvya) or systematic thought (ÅÄstra) will introduce students to a variety of important genres and their distinctive conventions. A focus upon the Sanskrit tradition&amp;#39;s categories of analysis - grammatical, commentarial and prosodic - will enable students to begin to make sense of original Sanskrit texts as generations of the tradition&amp;#39;s own readers have.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SANSKRIT">Sanskrit</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="1 Bow St 317 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e103732a1310" role="1" seniority_sort="1">
+                <display_name>Gokul Madhavan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

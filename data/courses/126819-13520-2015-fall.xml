@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126819" class_number="13520" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2325">Comparative Historical Economic Development</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes> This course is targeted to second-year Ph.D. students in economics. It is not open to undergraduate or Masters students. The course fulfills the distribution requirement.</notes>
+            <description>The course examines the historical origins of differences in the economic and social development of societies. Participants discuss recent research in the field and present their own work in progress.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="Harvard Hall 103 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e529a1310" role="1" seniority_sort="1">
+                <display_name>Nathan Nunn</display_name>
+            </person>
+            <person id="d1e79652a1310" role="2" seniority_sort="2">
+                <display_name>James Robinson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107712" class_number="14449" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="US-WORLD 36">Innovation and Entrepreneurship: American Experience in Comparative Perspective</title>
+            <exam_group>FAS13_C</exam_group>
+            <notes>If student interest exceeds the course limit, a random lottery will be conducted. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results.  See the course website for more details.   Unlike other General Education courses, this course assumes advanced coursework in a relevant social science and thus is open to freshmen only with permission of the instructor.</notes>
+            <description>What gives rise to entrepreneurial opportunity and innovative activity? How do innovators and entrepreneurs think about the world? How are organizations born and how do they grow? How can innovation and entrepreneurship address the major challenges facing the world? The course will address these questions by bringing together faculty members of Harvard University to provide a diverse set of perspectives on the nature of innovation and entrepreneurship. The course has three complementary pedagogical methods. Members of the Harvard Business School faculty will provide a set of interactive lectures using case studies that illustrate how for-profit and not-for-profit organizations recognize and capitalize on opportunities. Second, faculty members from around the University will provide lectures on specific areas related to their expertise. Third, a set of group projects that allow students to work in the field with sponsoring organizations will be completed over the course of the semester.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="US-WORLD">United States in the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="Aldrich 208 (HBS)" start_time="15:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e30450a1310" role="1" seniority_sort="1">
+                <display_name>David L. Ager</display_name>
+            </person>
+            <person id="d1e30453a1310" role="2" seniority_sort="2">
+                <display_name>Mihir Desai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

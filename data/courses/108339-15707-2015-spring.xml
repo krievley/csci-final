@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108339" class_number="15707" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELLBIO 201">Principles of Cell Biology</title>
+            <notes> Methodological focus on current approaches in cell biology including quantitative tools. Emphasis on experimental design. Offered jointly with the Medical School as CB 713.0.</notes>
+            <prereq>Recommended: Basic knowledge in biochemistry, genetics and cell biology.</prereq>
+            <description>Molecular basis of cellular compartmentalization, protein trafficking, cytoskeleton dynamics, mitosis, cell locomotion, cell cycle regulation, signal transduction, cell-cell interaction, cell death, and cellular/biochemical basis of diseases.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="10:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e308199a1310" role="1" seniority_sort="1">
+                <display_name>Danesh Moazed</display_name>
+            </person>
+            <person id="d1e343945a1310" role="2" seniority_sort="2">
+                <display_name>Christopher Wood</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

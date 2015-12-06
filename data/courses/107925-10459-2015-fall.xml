@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107925" class_number="10459" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1911">Pacific History</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> Students can count the course towards the fulfillment of an Ethnic Studies Secondary Field.</notes>
+            <description>The Pacific Ocean covers a third of the Earth's surface and one-third of humanity lives on its shores and islands, from Russia to New Zealand and from Southeast Asia to South America. This seminar introduces students to oceanic and global history via works in Pacific history by scholars of the Pacific Islands, Asia, Australasia, Europe, and the Americas. Themes covered include cultural encounters, exploration, migration, history of science, geopolitics, and economic history.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Robinson LL Library (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e33055a1310" role="1" seniority_sort="1">
+                <display_name>David Armitage</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

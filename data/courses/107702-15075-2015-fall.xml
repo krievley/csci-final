@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107702" class_number="15075" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 171">Biological Synthesis</title>
+            <exam_group>FAS15_A</exam_group>
+            <description>This course will examine synthesis from a biological perspective, focusing on how organisms construct and manipulate metabolites, as well as how biological catalysts and systems can be used for small molecule production. Topics to be covered include mechanistic enzymology, biosynthetic pathways and logic, biocatalysis, protein engineering, and synthetic biology.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Mallinckrodt 02A (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e29269a1310" role="1" seniority_sort="1">
+                <display_name>Emily Balskus</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

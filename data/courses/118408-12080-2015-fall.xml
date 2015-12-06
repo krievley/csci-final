@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118408" class_number="12080" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APMTH 21A">Mathematical Methods in the Sciences</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes> May not be taken for credit by students who have passed Mathematics 21a. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: Mathematics 1b or equivalent.</prereq>
+            <description>Complex numbers. Multivariate calculus: partial differentiation, directional derivatives, techniques of integration and multiple integration. Vectors: dot and cross products, parameterized curves, line and surface integrals. Vector calculus: gradient, divergence and curl, Green's, Stokes' and Gauss' theorems, including orthogonal curvilinear coordinates. Applications in electrical and mechanical engineering.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Northwest Bldg B103 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e88737a1310" role="1" seniority_sort="1">
+                <display_name>Margo Levine</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

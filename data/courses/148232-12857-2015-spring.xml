@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148232" class_number="12857" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCRB 302">Mechanisms of Epigenetic Reprogramming</title>
+            <department code="SCRB">Stem Cell and Regenerative Biology</department>
+            <course_group code="SCRB">Stem Cell and Regenerative Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

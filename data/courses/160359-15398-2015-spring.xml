@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160359" class_number="15398" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2338">Behavioral Development Economics</title>
+            <description>This graduate level course will focus on the intersection of two rapidly growing fields in economics - development economics, and behavioral economics. We will study applications of behavioral economics to development questions, and ask whether there is a special behavioral science of poverty and development. Methods covered will include field experiments, lab experiments, tests of theory and combining experiments with structural estimation.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e457945a1310" role="1" seniority_sort="1">
+                <display_name>Gautam Rao</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

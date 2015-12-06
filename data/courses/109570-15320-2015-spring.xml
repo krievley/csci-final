@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109570" class_number="15320" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1936">Religion and Modernity?</title>
+            <description>What happened to religion in the modern world? We start off by exploring traditional anthropological themes, such as animism, magic, and ritual, while paying particular attention to the classic secularization thesis advanced by social scientists. We will then focus on the crucial contemporary issues, such as debates on secularism, globalization and commodification of religion, body and sexuality, secular eschatologies, such as transhumanism, and the emergence of &amp;quot;new age&amp;quot; spirituality. This course is not a survey of specific religions, but a theoretical introduction to the main themes in the anthropological study of religion.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e334765a1310" role="1" seniority_sort="1">
+                <display_name>Anya Bernstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

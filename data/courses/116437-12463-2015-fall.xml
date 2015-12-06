@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116437" class_number="12463" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1430">Economic Growth, Rare Macro Disasters, and Fiscal Policy.</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes>M., W., F., 11   </notes>
+            <prereq>Recommended: Economics 1010b or 1011b, or permission of the instructor.</prereq>
+            <description>Topics include the political economy of economic growth, including the roles of democracy and legal institutions; inflation, monetary policy, and fiscal policy; interplay between religion and political economy; and analyses of economic and monetary unions.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Littauer Ctr 219 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e45263a1310" role="1" seniority_sort="1">
+                <display_name>Robert Barro</display_name>
+            </person>
+            <person id="d1e60617a1310" role="2" seniority_sort="2">
+                <display_name>Emmanuel Farhi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126539" class_number="13930" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 97R">Sophomore Tutorial</title>
+            <notes>Hours to be arranged   Joseph Koerner and members of the Department  Required of concentrators.</notes>
+            <description>Group tutorial, offers concentrators the choice of several study groups investigating a particular field of art or architectural history.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e22191a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Koerner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

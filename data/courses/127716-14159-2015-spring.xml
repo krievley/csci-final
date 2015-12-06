@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127716" class_number="14159" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TURKISH 145">Readings on Ottoman Intellectual and Cultural History</title>
+            <prereq>Recommended: Advanced reading proficiency in Ottoman Turkish.</prereq>
+            <description>This course introduces students various writings of Ottoman intellectuals by focusing on selected themes, including language registers, styles of argumentations.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="TURKISH">Turkish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e80075a1310" role="1" seniority_sort="1">
+                <display_name>Himmet Taskomur</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

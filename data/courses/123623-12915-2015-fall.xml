@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123623" class_number="12915" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 61">Systems Programming and Machine Organization</title>
+            <exam_group>FAS03_A</exam_group>
+            <prereq>Recommended: CS50 or some experience programming in C.</prereq>
+            <description>Fundamentals of computer systems programming, machine organization, and performance tuning. This course provides a solid background in systems programming and a deep understanding of low-level machine organization and design. Topics include C and assembly language programming, program optimization, memory hierarchy and caching, virtual memory and dynamic memory management, concurrency, threads, and synchronization.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Northwest Bldg B100 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e81813a1310" role="1" seniority_sort="1">
+                <display_name>Margo Seltzer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125000" class_number="13412" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 1401">Early Christian Thought 1: The Greek Tradition</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Offered jointly with the Divinity School as 1749.</notes>
+            <description>This introductory course will focus on the major Greek authors of the late antique Christian East (third through eighth centuries). Authors will include Origen, Antony the Great, Athanasius, Basil of Caesarea, Gregory of Nazianzus, Gregory of Nyssa, Evagrius of Pontus, Cyril of Alexandria, Pseudo-Dionysius the Areopagite, Maximus the Confessor, and John of Damascus.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Andover 103 (HDS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e55047a1310" role="1" seniority_sort="1">
+                <display_name>Charles Stang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156955" class_number="12679" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 91R">Supervised Reading</title>
+            <notes>Gonzalo Giribet and members of the Department  </notes>
+            <description>Supervised reading on topics not covered by regular courses. For OEB concentrators, work may be supervised by faculty in other departments, provided it is co-sponsored by an OEB faculty member. For non-concentrators, work must be directed by an OEB faculty member. Students must submit a registration request to the OEB Undergraduate Office before enrollment. Students cannot take OEB 91r and 99r simultaneously with the same director.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e90167a1310" role="1" seniority_sort="1">
+                <display_name>Gonzalo Giribet</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

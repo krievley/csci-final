@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122439" class_number="15791" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 2690">Middle East Ethnography: Discourse, Politics, and Culture</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Open to undergraduates.</notes>
+            <description>The discursive construction of culture and its complex politics are examined in a wide range of ethnographies that have been written recently on countries in the Middle East, including Lebanon, Jordan, Israel/Palestine, Egypt, Morocco, Yemen, and Iran. Among the theoretical topics to be considered are orientalism, colonialism and post-colonialism, nationalism, self, gender, and tribalism.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:59:00" location="Peabody Museum 12" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47680a1310" role="1" seniority_sort="1">
+                <display_name>Steven C. Caton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

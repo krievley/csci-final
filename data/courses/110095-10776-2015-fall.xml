@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110095" class_number="10776" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 121">Data Science</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes>Tu., Th., 2:30&amp;#8211;4   Only one of CS 109, AC 209, or Stat 121 can be taken for credit.</notes>
+            <prereq>Recommended: Programming knowledge at the level of CS 50 or above, and statistics knowledge at the level of Stat 100 or above (Stat 110 recommended).</prereq>
+            <description>Learning from data in order to gain useful predictions and insights. This course introduces methods for five key facets of an investigation: data wrangling, cleaning, and sampling to get a suitable data set; data management to be able to access big data quickly and reliably; exploratory data analysis to generate hypotheses and intuition; prediction based on statistical methods such as regression and classification; and communication of results through visualization, stories, and interpretable summaries. Built around three modules: prediction and elections, recommendation and business analytics, and clustering and text analysis.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Science Ctr Hall B (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6033a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Blitzstein</display_name>
+            </person>
+            <person id="d1e6036a1310" role="1" seniority_sort="2">
+                <display_name>Verena Kaynig-Fittkau</display_name>
+            </person>
+            <person id="d1e6039a1310" role="1" seniority_sort="3">
+                <display_name>Hanspeter Pfister</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

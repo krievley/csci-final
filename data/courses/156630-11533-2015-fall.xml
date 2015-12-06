@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156630" class_number="11533" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH CIJR">Introduction to Journalism</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> Admission based on submitted samples of writing. Class will not meet during shopping week.</notes>
+            <description>An intense seminar for those interested in understanding the changing role of journalism and in learning the art of reporting and writing narrative stories. The course is intended for those contemplating careers as journalists or because they want a better sense of how journalism really works. Coursework will include two narrative articles that are ready for publication. Readings will include some of the best examples of modern journalism, from magazine features by authors including Gay Talese to multimedia narratives such as The New York Times' "Snow Fall."</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="18:59:00" location="Barker 222 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e140638a1310" role="1" seniority_sort="1">
+                <display_name>Jill Abramson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110744" class_number="10514" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AESTHINT 24">First Nights: Five Performance Premieres</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>A study of five famous pieces of music, both as timeless works of art and as moments of cultural history. Close attention is given to techniques of musical listening, and to the details of the first performance of each work, with a consideration of the problems involved in assembling such a picture. Works studied are Beethoven, Symphony no. 9; Berlioz, Symphonie fantastique; Stravinsky, Le sacre du printemps; Handel, Messiah; Monteverdi, Orfeo. The course concludes with the first performance of a new work especially commissioned for this course.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Memorial Hall SandersThtr(FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47542a1310" role="1" seniority_sort="1">
+                <display_name>Thomas F. Kelly</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

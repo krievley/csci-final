@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120668" class_number="12911" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2110">Econometrics I</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes> Enrollment limited to PhD candidates in economics, business economics, health policy, public policy, and political economy and government (PEG).</notes>
+            <prereq>Recommended: Probability (Stat 110), Linear Algebra and Calculus (Math 21a and 21b), and Real Analysis (Math 112).</prereq>
+            <description>(1) Review of probability theory, (2) causality and identification, (3) statistical decision theory, and (4) asymptotic frequentist inference. Empirical applications from labor economics, economics of education, and public finance. Some assignments using Matlab.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="Sever 214 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47297a1310" role="1" seniority_sort="1">
+                <display_name>Maximilian Kasy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

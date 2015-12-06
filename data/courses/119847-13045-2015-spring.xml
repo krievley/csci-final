@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119847" class_number="13045" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BIOSTAT 233">Methods II</title>
+            <notes>A weekly 90-minute lab  Offered jointly with the School of Public Health as BIO233.</notes>
+            <prereq>Prerequisite: Biostatistics 232</prereq>
+            <description>Intermediate course in the analysis of Gaussian, categorical, and survival data. The generalized linear model, Poisson regression, random effects and mixed models, comparing survival distributions, proportional hazards regression, splines and smoothing, the generalized additive model.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:20:00" location="" start_time="08:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e253430a1310" role="1" seniority_sort="1">
+                <display_name>Brent Coull</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119249" class_number="15767" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 165">Data Systems</title>
+            <exam_group>FAS08_A</exam_group>
+            <prereq>Recommended: Computer Science 51 and Computer Science 61.</prereq>
+            <description>We are in the big data era and data systems sit in the critical path of everything we do, i.e., in businesses, in sciences, as well as in everyday life. This course will be a comprehensive introduction to modern data systems. The primary focus of the course will be on modern trends that are shaping the data management industry right now such as column-store and hybrid systems, shared nothing architectures, cache conscious algorithms, hardware/software codesign, main memory systems, adaptive indexing, stream processing, scientific data management, and key value stores. We will also study the history of data systems and traditional and seminal concepts and ideas such as the relational model, row-store database systems, optimization, indexing, concurrency control, recovery and SQL in order to understand both how data systems have evolved over the years and why, as well as how these concepts apply today and how data systems might evolve in the future.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Maxwell Dworkin G115 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e61069a1310" role="1" seniority_sort="1">
+                <display_name>Stratos Idreos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

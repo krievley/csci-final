@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160689" class_number="16898" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ITAL 244">The Worldâs Laboratory: Italian Biopolitics from Giordano Bruno to Roberto Esposito</title>
+            <notes> Delivery formats: lectures, close reading labs, seminar presentations; mostly in English.</notes>
+            <description>Course presents Italian Biopolitics (Agamben, Cavarero, Esposito, Negri-Hardt, Virno) kick-starting work from broad premises in Critical Theory (French, Other than French, After &amp;lsquo;Theory&amp;rsquo;) and on Italy as World&amp;rsquo;s Laboratory (early modern to present, with particular focus on 20thC). Verification material generates three further units of study (Hand Graffiti, Truth-Shouting, Legends Do Not Rest) putting theory to the practical test through select approaches to a canon of high-profile dissidents (Bruno, Gadda, Gramsci, Leopardi, Machiavelli and Pasolini). Body Theory, Cognitive Science and Political Theory further supplement core methods and claims.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="12:59:00" location="Boylston G07 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e74097a1310" role="1" seniority_sort="1">
+                <display_name>Federica Pedriali</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

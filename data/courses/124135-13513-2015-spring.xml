@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124135" class_number="13513" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GENETIC 341">Development and Homeostasis of the Skeleton</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e322881a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Warman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156951" class_number="16182" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MCB 351">Scientific Integrity Refresher</title>
+            <description>MCB 351 is a refresher course in the Responsible Conduct of Research which must be completed by graduate students in the MCO PhD program every 4 years, and fulfills the National Institutes of Health (NIH) and National Science Foundation (NSF) requirements for formal Responsible Conduct of Research (RCR) instruction.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e276091a1310" role="1" seniority_sort="1">
+                <display_name>Sam Kunes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

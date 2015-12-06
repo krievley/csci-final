@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107996" class_number="10506" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 91R">Directed Study in History of Art and Architecture</title>
+            <notes>Joseph Koerner and members of the Department  Limited to juniors and seniors. Students wishing to enroll must petition the Head Tutor for approval, stating the proposed project, and must have the permission of the proposed instructor.</notes>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e22191a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Koerner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

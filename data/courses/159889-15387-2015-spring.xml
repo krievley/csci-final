@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159889" class_number="15387" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ARMEN BB">Elementary Modern Eastern Armenian</title>
+            <notes> Armenian BA/BB is an indivisible year-long course. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</notes>
+            <description>Introduction to the spoken and literary language of the Republic of Armenia.&amp;nbsp;Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARMEN">Armenian</course_group>
+            <course_type>Seminar</course_type>
+            <credits>8</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e34569a1310" role="1" seniority_sort="1">
+                <display_name>James Russell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127814" class_number="15409" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 140">Introduction to the Physics of Living Systems</title>
+            <notes> Given in alternate years. Lectures, problem sets, discussions. May not be taken for credit by students who have taken MCB 140. This course, when taken for a letter grade, meets the General Education requirement for Science of Living Systems or Science of the Physical Universe, but not both.</notes>
+            <prereq>Recommended: Physics 15a,b,c.</prereq>
+            <description>We will discuss how theoretical and experimental tools derived from physics - e.g., statistical mechanics, fluid mechanics - have been used to gain insight into molecular and cellular biology including the structure and regulation of DNA, genomes, proteins, the cytoskeleton, and the cell. Students will gain an intensive introduction to biological systems, as well as physical and mathematical modeling.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e151277a1310" role="1" seniority_sort="1">
+                <display_name>Aravinthan Samuel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

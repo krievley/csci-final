@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110497" class_number="11090" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 198X">Scientific Racism: A History</title>
+            <exam_group>FAS12_F</exam_group>
+            <description>This course focuses on the history of "race" as a category of difference and explores why "race" has become a globally-accepted idiom to classify humans. It assesses the prominent roles that science and scientists have played in the process of naturalizing "race" and analyzes how "scientific" theories of race were developed and disseminated globally in the modern period. We trace the formation of these ideas in the North Atlantic, their diffusion to various areas of the world, and the manner in which cultural and political elites adopted or challenged them. We will devote considerable time to the emergence of eugenics, the science of racial improvement, in Europe, the Americas, and Africa and study the process of institutionalization of this science in Nazi Germany and elsewhere, including the United States. A final section of the course discusses the impact of contemporary science on ideas of race. Students in this class will work with texts and archival materials related to these scientists, some of whom were Harvard faculty.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="CGIS Knafel K108 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e36900a1310" role="1" seniority_sort="1">
+                <display_name>Alejandro de la Fuente</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

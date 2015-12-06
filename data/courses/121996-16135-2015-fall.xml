@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121996" class_number="16135" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1355">Evolution and Religion</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>A seminar focusing on the relationship between Darwinian evolution and religion. This relationship has contributed in major ways to the social response to evolutionary biology from the 19th century to the present. We will consider this relationship from a number of perspectives, relying on the reading of primary texts from Paley to Dennett. We will consider both religious critiques of evolutionary theory and evolutionary approaches to understanding religion.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Peabody Museum 52H" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e109277a1310" role="1" seniority_sort="1">
+                <display_name>Peter Ellison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

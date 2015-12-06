@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108482" class_number="10987" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 1200SH">Power to the People: Black Power, Radical Feminism, and Gay Liberation, 1955-1975</title>
+            <exam_group>FAS08_G</exam_group>
+            <notes>This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief.  </notes>
+            <description>An introduction to the radical American social change movements of the 1960s and 70s. We will examine the specific historical conditions that allowed each of these movements to develop, the interconnections and contradictions among them, and why they ultimately lost political power. Along with historical analysis, we will examine primary source materials, manifestos, autobiographies, and media coverage from the period, as well as relevant films, music, and fiction. The class will be a mixture of lecture and discussion.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Boylston 110 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e22982a1310" role="1" seniority_sort="1">
+                <display_name>Michael Bronski</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

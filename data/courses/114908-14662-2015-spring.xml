@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114908" class_number="14662" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="LATIN K">Advanced Latin Prose Composition: Seminar</title>
+            <notes>Jared Hudson and assistant  </notes>
+            <description>Exercise in the prose style of different authors and periods, working within various subject areas and genres. As a guide to composition, we will read and analyze illustrative passages from major authors, including Cato, Cicero, Sallust, Livy, Seneca, and Tacitus, as well as some distinctive styles in lesser-known authors.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:39:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e95909a1310" role="1" seniority_sort="1">
+                <display_name>Jared Hudson</display_name>
+            </person>
+            <person id="d1e388945a1310" role="2" seniority_sort="2">
+                <display_name>Marco Romani Mistretta</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

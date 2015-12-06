@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120045" class_number="14629" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CHNSE 107B">Intermediate Literary Chinese</title>
+            <prereq>Recommended: Chinese 107a or equivalent.</prereq>
+            <description>A continuation of Chinese 107a, introducing more prose styles as well as poetry and lyric.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSE">Chinese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63481a1310" role="1" seniority_sort="1">
+                <display_name>Chen Zhang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

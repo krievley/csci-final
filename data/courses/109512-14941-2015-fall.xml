@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109512" class_number="14941" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHNSLIT 280">Shanghai and Beijing: A Tale of Two Cities: Seminar</title>
+            <exam_group>FAS15_E</exam_group>
+            <description>This course aims to excavate the cultural and historical memories of China's two most important cities. We will discuss literary and cinematic representations, visual and material transformations of the cityscape, cities as sites of cultural production, and the lives of their inhabitants in modern times.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSLIT">Chinese Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Yenching Library 212 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e3209a1310" role="1" seniority_sort="1">
+                <display_name>Jie Li</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

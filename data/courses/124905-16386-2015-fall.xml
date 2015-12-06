@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124905" class_number="16386" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 301HFA">Scientific Teaching and Communications: Practicum</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> Required of all first-year graduate students in the Department of Chemistry and Chemical Biology.</notes>
+            <description>This course will teach graduate students how to communicate scientific concepts in the classroom. Students will focus on becoming effective teachers in discussion sections and in the laboratory. The course will emphasize hands-on experience in teaching and explaining scientific concepts. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.	&amp;nbsp;</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e88307a1310" role="1" seniority_sort="1">
+                <display_name>Gregory C. Tucci</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120127" class_number="13321" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ARABIC 131B">Upper-Level Modern Arabic II</title>
+            <notes> Not open to auditors.</notes>
+            <prereq>Recommended: Arabic 131a or equivalent.</prereq>
+            <description>A continuation of Arabic 131a or may be taken separately with permission of the instructor. Continued emphasis on advanced reading and speaking skills, and introduction to contemporary Arabic fiction, with emphasis on short stories and essays. Required textbook: al-Kitaab -Kitaab fii Ta'allum al-Arabiyya, Part III with DVDs.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e279207a1310" role="1" seniority_sort="1">
+                <display_name>Nevenka Korica Sullivan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

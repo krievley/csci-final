@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125011" class_number="15108" school_id="fas" section="003" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH C">Intermediate Spanish</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes> Conducted in Spanish. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Spanish C website. Upon the recommendation of the course head, students who have performed at a superior level in this course may enroll in any course for which they are linguistically prepared. 
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: Spanish Ab, Acd, 451-600 on the SAT II test or on the Harvard Placement Test, or permission of course head.</prereq>
+            <description>An intermediate language and culture class that aims to consolidate and expand the skills of listening comprehension, speaking, reading and writing in Spanish. Includes a comprehensive review of the grammar and reinforces linguistic acquisition through texts, movies, art and multi-media projects to acquaint students with cultural issues relevant to the Spanish-speaking world.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="11:59:00" location="Emerson 104 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e89349a1310" role="1" seniority_sort="1">
+                <display_name>Adriana Gutierrez</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

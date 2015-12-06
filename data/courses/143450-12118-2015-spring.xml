@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143450" class_number="12118" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 181">Statistical Mechanics and Thermodynamics</title>
+            <notes> May not be taken for credit in addition to Engineering Sciences 181.</notes>
+            <prereq>Recommended: Physics 143a or equivalent.</prereq>
+            <description>Introduction to thermal physics and statistical mechanics: basic concepts of thermodynamics (energy, heat, work, temperature, and entropy), classical and quantum ensembles and their origins, and distribution functions. Applications include the specific heat of solids, black body radiation; classical and quantum gases; magnetism; phase transitions; propagation of heat and sound.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e48436a1310" role="1" seniority_sort="1">
+                <display_name>Philip Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160527" class_number="16017" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 140">Catastrophe and Continuity in Jewish Literature from the Bible to Today</title>
+            <exam_group>FAS02_A</exam_group>
+            <description>From the Bible until today, the theme of catastrophe has loomed large in Jewish literature. Why has God&amp;#39;s chosen people been made to undergo so many terrible ordeals and sufferings? This question has posed challenges in multiple dimensions -- theological, historiographical, literary -- and in this course we will consider the many different, often surprising (and overlooked) responses that have been given to these challenges in Jewish literature from the Biblical period through the Holocaust (and beyond). We will also consider the literary problem of the representation of catastrophe, the origins and development of martyrdom, and the history of Jewish responses to catastrophe as a tradition worthy of study in its own right. All readings will be in English translation, and will include Biblical and post-Biblical texts, Rabbinic sources, medieval chronicles, laments, and legal texts, and modern poetry, fiction, and theological writings. No previous experience in catastrophe required.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:29:00" location="Dana Palmer 102 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e199609a1310" role="1" seniority_sort="1">
+                <display_name>David Stern</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111659" class_number="11482" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 91R">Supervised Reading and Research</title>
+            <notes> Limited to juniors and seniors. Does not count for concentration credit. Offered at the discretion of the individual instructors. Written proposal and signature of Director of Undergraduate Studies required.</notes>
+            <description>Supervised reading leading to a term paper in a topic or topics not covered by regular courses of instruction.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e26930a1310" role="1" seniority_sort="1">
+                <display_name>Cheryl Brown Welch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

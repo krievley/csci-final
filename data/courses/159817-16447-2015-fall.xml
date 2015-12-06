@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159817" class_number="16447" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 98OR">Decolonizing Development in Africa</title>
+            <exam_group>FAS08_G</exam_group>
+            <notes> This course will be lotteried.</notes>
+            <description>This course asks how development has shaped decolonization on the African continent. &amp;nbsp;We interrogate antinomies of African &amp;ldquo;tradition&amp;rdquo; and &amp;ldquo;modernity&amp;rdquo; that inform development processes and interventions, notably through legacies of liberal state-making, divisions of labor and economic value, and the management of impoverished populations. &amp;nbsp;Rather than approaching these worlds as without history or innovation, the course tracks their complex interactions with new technologies and infrastructures of belonging, work, and identity. &amp;nbsp;Through social theory and ethnography, we attend to the impact of post-colonial development in the making of the current world order. &amp;nbsp;</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:29:00" location="William James 350 (FAS)" start_time="13:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e210668a1310" role="1" seniority_sort="1">
+                <display_name>Kerry Chance</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

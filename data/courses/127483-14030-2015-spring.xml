@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127483" class_number="14030" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HBTM 305QC">Molecular Bases of Eye Disease</title>
+            <description>This course provides an overview of the pathogenic process of prevalent ocular diseases. The goals of the course are: (i) to explore the structural and functional aspects of the eye relevant to understanding the pathology, (ii) to review the manifestations of the disease and its effects on vision, (iii) to discuss current views and research in the pathophysiology, and strategies for therapeutic intervention. For most sessions, the basic science and clinical topics will be presented by two faculty lecturers.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="HBTM">Human Biology and Translational Medicine</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e478956a1310" role="1" seniority_sort="1">
+                <display_name>Darlene Dartt</display_name>
+            </person>
+            <person id="d1e478959a1310" role="2" seniority_sort="2">
+                <display_name>Magali Saint-Geniez</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

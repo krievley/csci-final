@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="147963" class_number="14122" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 335">Ichthyology and Functional Anatomy of Fishes</title>
+            <notes>Instructor to be determined  </notes>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

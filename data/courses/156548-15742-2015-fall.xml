@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156548" class_number="15742" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 158">Feedback Control Systems: Analysis and Design</title>
+            <exam_group>FAS04_A</exam_group>
+            <prereq>Recommended: Applied Math 21b or Math 21b or equivalent (ordinary differential equations and basic linear algebra).</prereq>
+            <description>This course provides an introduction to feedback and control in physical, biological, engineering, information, financial, and social sciences. The focus is on the basic principles of feedback and its use as a tool for inferring and/or altering the dynamics of systems under uncertainty. Key themes throughout the course will include linear system analysis, state/output feedback, frequency response, reference tracking, PID controller, dynamic programming, and limit of performance. This includes both the practical and theoretical aspects of the topic.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Cruft 309 (SEAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e59362a1310" role="1" seniority_sort="1">
+                <display_name>Na Li</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113319" class_number="11339" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 99R">Tutorial - Senior Year</title>
+            <notes>Hours to be arranged.   George Soroka and members of the Department  Taken as two half courses by those who have elected the honors program and in order to write their senior theses.</notes>
+            <prereq>Recommended: Two half courses of Government 94.</prereq>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e125404a1310" role="1" seniority_sort="1">
+                <display_name>George Soroka</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

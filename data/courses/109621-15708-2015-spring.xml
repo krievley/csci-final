@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109621" class_number="15708" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1602">Modern China</title>
+            <description>This lecture course will provide a survey of some of the major issues in the history of post-imperial China (1912- ). Beginning with the decline of the Qing and the dramatic collapse of China&amp;rsquo;s imperial system in 1911, the course shall examine how China has sought to redefine itself anew over the past one-hundred years. The revolutionary years of 1911, 1949, and 1978 will serve as our three fulcra, as we investigate how China has tussled with a variety of &amp;lsquo;isms&amp;rsquo; (such as republicanism, militarism, nationalism, socialism, and state capitalism) in its pursuit of an appropriate system of governance and social organization. In so doing, we shall also explore the social, economic, cultural, and scientific changes wrought by these varied attempts at state-building.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19328a1310" role="1" seniority_sort="1">
+                <display_name>Arunabh Ghosh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

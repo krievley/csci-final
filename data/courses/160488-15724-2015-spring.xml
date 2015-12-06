@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160488" class_number="15724" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 1422">Human Origins in Context</title>
+            <notes> In addition to the lectures, this course will include a weekly two-hour-long discussion section.</notes>
+            <prereq>Recommended: Life Sciences 1b required. Life Sciences 2 or Science of Living Systems 16 or HEB 1420 strongly recommended.</prereq>
+            <description>Understanding the pattern and timing of ape and human evolution is key to reconstructing the common ancestor of humans and chimpanzees, and hence of the origin of our lineage. The living apes share a distinct body form that differs to varying degrees, often considerably, from those seen in fossil apes. The interpretation of these similarities and differences is therefore crucial to understanding the radiation of apes and humans, and to reconstructing the human-chimpanzee ancestor.The course involves hands-on analysis and interpretation of both the fossil record and living apes and humans.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e113469a1310" role="1" seniority_sort="1">
+                <display_name>David Pilbeam</display_name>
+            </person>
+            <person id="d1e297805a1310" role="2" seniority_sort="2">
+                <display_name>John Barry</display_name>
+            </person>
+            <person id="d1e105212a1310" role="2" seniority_sort="3">
+                <display_name>Zarin P. Machanda</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

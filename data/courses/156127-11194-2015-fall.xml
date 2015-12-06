@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156127" class_number="11194" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 243">Topics in Philosophy of Mathematics: Seminar</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>The seminar will focus on reason and realism in mathematics. We will start with the historical development of the concept of apriority and move to matters of realism, discussing the nature of mathematical objects, the varieties of realism, the &amp;quot;access problem&amp;quot;, and the question of actualism versus potentialism about the infinite.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="2 Arrow St 420" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e71602a1310" role="1" seniority_sort="1">
+                <display_name>Peter Koellner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

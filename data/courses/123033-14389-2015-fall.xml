@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123033" class_number="14389" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1123">Introduction to Econometrics</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Students may take either Economics 1123 or Statistics 139 for credit. Statistics 139 will not count as an econometrics requirement. Also, Economics 1123 may not be taken for credit if taken after Economics 1126, but credit will be given for both courses if Economics 1123 is taken first.  This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: Statistics 100 and 104.</prereq>
+            <description>An introduction to multiple regression techniques with focus on economic applications. Discusses extensions to discrete response, panel data, and time series models, as well as issues such as omitted variables, missing data, sample selection, randomized and quasi-experiments, and instrumental variables. Also develops the ability to apply econometric and statistical methods using computer packages.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sever 113 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47300a1310" role="1" seniority_sort="1">
+                <display_name>James H. Stock</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160190" class_number="15440" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 60U">Religion and Politics: India, 1800-2015</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>The course is an introduction to the role of religious faith in shaping political consciousness and action in India.&amp;nbsp; It examines the interactions between Christianity, Hinduism and Islam in the subcontinent, in relation to the realities of colonial rule. These engagements shaped discourses on personal identity and civil law. The main focus will be on nineteenth and early twentieth century debates on the role of religion in modern nation-states.&amp;nbsp; It concludes with a survey of contemporary critiques of secularism, conversion, citizenship, and the use of religious faith to incite political violence against minorities.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Robinson 105 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e205295a1310" role="1" seniority_sort="1">
+                <display_name>Mou Banerjee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

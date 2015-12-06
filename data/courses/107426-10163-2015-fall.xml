@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107426" class_number="10163" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 105R">Fundaments of Improvisation &amp; Composition, Dance</title>
+            <exam_group>FAS13_D</exam_group>
+            <notes> Minimal dance experience required.</notes>
+            <description>A dance course that explores fundamental skills of improvisation and composition. Using wide-ranging musical styles, experimentation, problem solving, and an equal curiosity about both success and failure &amp;mdash; this course explores the processes of analytical and intuitive decision making in the dancing body.&amp;nbsp; Students will learn a series of specific physical tasks, tools, and systems taught through intensive exercises, guided improvisations and rigorous real-time composition. Physical research and written work in the course connect dance to architecture, the visual arts, mathematics, philosophy, science, theater, and literature in ways which link the mind and body to innovation.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="16:59:00" location="Quadrangle 101" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e140083a1310" role="1" seniority_sort="1">
+                <display_name>Jill Johnson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

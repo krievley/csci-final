@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160709" class_number="16470" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 3596">Laboratory Methods in Human Developmental Genetics</title>
+            <notes> Limited to graduate students in Human Evolutionary Biology.</notes>
+            <prereq>Course open to Graduate Students Only</prereq>
+            <description>Supervised independent laboratory research focusing on discovering the developmental genetic and genomic mechanisms that control musculo-skeletal development in the context of human evolutionary anatomy. Students will be conducting research Professor Terry Capellini&amp;#39;s Developmental and Evolutionary Genetics Lab.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Laboratory Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e3158a1310" role="1" seniority_sort="1">
+                <display_name>Terence Capellini</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

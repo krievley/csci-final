@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111876" class_number="10136" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 251B">Advanced Quantum Mechanics II</title>
+            <prereq>Recommended: Physics 251a.</prereq>
+            <description>Potential topics include Heisenberg picture; time-dependent perturbations; inelastic scattering; electrons in a uniform magnetic field; quantized radiation field; absorption and emission of radiation; identical particles and second quantization; nuclear magnetic resonance; Feynman path integrals for quantum spins.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e62721a1310" role="1" seniority_sort="1">
+                <display_name>David Nelson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

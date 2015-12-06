@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160652" class_number="16405" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TDM 149DA">Introduction to Argentine Tango: Music and Dance</title>
+            <notes> This course will be taught by Thomas Wisniewski.</notes>
+            <description>A thorough introduction to, and immersion in, the culture and history, music and dance, of one of Latin America&amp;#39;s richest art forms, tango argentino. This course, taught by Thomas Wisniewski (expert in Argentine Tango), will combine academic work with studio training and offer an interdisciplinary and comparative study of both theory and practice. Throughout the semester, we will analyze tango music, films, and literature from the early twentieth century to the present day. Weekly dance lessons will provide a progressive introduction to tango salon. Students will learn the dance by studying it and by doing it, as they engage regularly in critical and creative work drawing on both mind and body.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="16:29:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e205040a1310" role="1" seniority_sort="1">
+                <display_name>Deborah Foster</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

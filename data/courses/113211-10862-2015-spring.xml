@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113211" class_number="10862" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 98XB">Junior Tutorial in Archaeology</title>
+            <notes> Required of candidates for honors in Archaeology.</notes>
+            <description>This individual tutorial for archaeology students intending to write a senior thesis is normally undertaken with a member of the faculty during the second term of junior year. To enroll, a student must submit a petition form (available from the Head Tutor for Archaeology, or downloadable from the department's Anthropology [Archaeology] website) with a proposed course plan of study and the tutorial adviser's signature.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e45966a1310" role="1" seniority_sort="1">
+                <display_name>Jessica Cerezo-Roman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

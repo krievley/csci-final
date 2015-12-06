@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125089" class_number="13627" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 205">Sociological Research Design</title>
+            <notes> Required of, and ordinarily limited to, first-year graduate students in Sociology.</notes>
+            <description>This course covers the fundamentals of sociological research design. Emphasis is placed on principles that are applicable in all kinds of sociological research, including surveys, participant observation, comparative historical study, interviews, and quantitative analysis of existing data. The course also delves into current methodological controversies in several arenas.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e79284a1310" role="1" seniority_sort="1">
+                <display_name>Jocelyn Viterna</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

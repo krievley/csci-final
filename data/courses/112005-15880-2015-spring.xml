@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112005" class_number="15880" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 70A">Introduction to French Literature I: From the Middle Ages to Eighteenth Century</title>
+            <notes> Conducted in French.</notes>
+            <prereq>Recommended: A 50- or 60-level course in French; a score above 780 on the SAT II test or the Harvard Placement test; equivalent preparation; or permission of course head.</prereq>
+            <description>Readings and discussion of texts of various genres representative of central trends in French literature from the Middle Ages through the 18th century. Emphasis on developing analytical skills by tracing the transformations of ethical, literary, philosophical and social currents.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e43415a1310" role="1" seniority_sort="1">
+                <display_name>Sylvaine Guyot</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

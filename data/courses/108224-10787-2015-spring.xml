@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108224" class_number="10787" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SHBT 205">Neural Coding and Perception of Sound</title>
+            <notes> Offered jointly with MIT HST.723J.</notes>
+            <prereq>Recommended: Neurobiology 200 or permission of the instructor.</prereq>
+            <description>Neural structures and mechanisms mediating the detection, localization and recognition of sounds. General principles are conveyed by theme discussions of auditory masking, sound localization, musical pitch, cochlear implants, cortical plasticity and auditory scene analysis.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="" start_time="09:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15430a1310" role="1" seniority_sort="1">
+                <display_name>Bertrand Delgutte</display_name>
+            </person>
+            <person id="d1e287906a1310" role="2" seniority_sort="2">
+                <display_name>M. Brown</display_name>
+            </person>
+            <person id="d1e369908a1310" role="2" seniority_sort="3">
+                <display_name>John Guinan</display_name>
+            </person>
+            <person id="d1e369911a1310" role="2" seniority_sort="4">
+                <display_name>Jennifer Melcher</display_name>
+            </person>
+            <person id="d1e153124a1310" role="2" seniority_sort="5">
+                <display_name>Daniel Polley</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

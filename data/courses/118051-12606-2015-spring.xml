@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118051" class_number="12606" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCAND 160BR">Old Norse Language, Literature, and Culture: Mythology</title>
+            <description>Builds on Scandinavian 160a, continuing the language study and cultural survey of the first term, but now considers mythological texts relating to Viking religious life, mainly selections from the prose and poetic Eddas&amp;nbsp;with particular attention to issues of magic and the scholarly tools and debates concerned with the interpretation of these cultural monuments.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="SCAND">Scandinavian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

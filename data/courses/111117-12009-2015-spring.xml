@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111117" class_number="12009" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 3000">Direction of Doctoral Dissertations</title>
+            <notes> May also be taken with other instructors, when authorized by the Chair.</notes>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>16</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e35675a1310" role="1" seniority_sort="1">
+                <display_name>Ryuichi Abe</display_name>
+            </person>
+            <person id="d1e25336a1310" role="1" seniority_sort="2">
+                <display_name>Ali S. Asani</display_name>
+            </person>
+            <person id="d1e18150a1310" role="1" seniority_sort="3">
+                <display_name>Leila Ahmed</display_name>
+            </person>
+            <person id="d1e30866a1310" role="1" seniority_sort="4">
+                <display_name>Giovanni Bazzana</display_name>
+            </person>
+            <person id="d1e52680a1310" role="1" seniority_sort="5">
+                <display_name>Janet Browne</display_name>
+            </person>
+            <person id="d1e47727a1310" role="1" seniority_sort="6">
+                <display_name>DavÃ­d L. Carrasco</display_name>
+            </person>
+            <person id="d1e54955a1310" role="1" seniority_sort="7">
+                <display_name>Francis Clooney</display_name>
+            </person>
+            <person id="d1e40593a1310" role="1" seniority_sort="8">
+                <display_name>Nancy Cott</display_name>
+            </person>
+            <person id="d1e54862a1310" role="1" seniority_sort="9">
+                <display_name>Diana Eck</display_name>
+            </person>
+            <person id="d1e54816a1310" role="1" seniority_sort="10">
+                <display_name>Francis Fiorenza</display_name>
+            </person>
+            <person id="d1e54770a1310" role="1" seniority_sort="11">
+                <display_name>Marla Frederick</display_name>
+            </person>
+            <person id="d1e42725a1310" role="1" seniority_sort="12">
+                <display_name>Luis Giron Negron</display_name>
+            </person>
+            <person id="d1e51263a1310" role="1" seniority_sort="13">
+                <display_name>William A. Graham</display_name>
+            </person>
+            <person id="d1e53418a1310" role="1" seniority_sort="14">
+                <display_name>Janet Gyatso</display_name>
+            </person>
+            <person id="d1e53372a1310" role="1" seniority_sort="15">
+                <display_name>David Hall</display_name>
+            </person>
+            <person id="d1e19422a1310" role="1" seniority_sort="16">
+                <display_name>Helen Hardacre</display_name>
+            </person>
+            <person id="d1e53279a1310" role="1" seniority_sort="17">
+                <display_name>David Hempton</display_name>
+            </person>
+            <person id="d1e53233a1310" role="1" seniority_sort="18">
+                <display_name>Albert Henrichs</display_name>
+            </person>
+            <person id="d1e40773a1310" role="1" seniority_sort="19">
+                <display_name>Evelyn Brooks Higginbotham</display_name>
+            </person>
+            <person id="d1e53141a1310" role="1" seniority_sort="20">
+                <display_name>Amy Hollywood</display_name>
+            </person>
+            <person id="d1e25472a1310" role="1" seniority_sort="21">
+                <display_name>Baber Johansen</display_name>
+            </person>
+            <person id="d1e425218a1310" role="1" seniority_sort="22">
+                <display_name>Beverly Kienzle</display_name>
+            </person>
+            <person id="d1e53049a1310" role="1" seniority_sort="23">
+                <display_name>Karen King</display_name>
+            </person>
+            <person id="d1e11641a1310" role="1" seniority_sort="24">
+                <display_name>Arthur Kleinman</display_name>
+            </person>
+            <person id="d1e38598a1310" role="1" seniority_sort="25">
+                <display_name>James Kloppenberg</display_name>
+            </person>
+            <person id="d1e55692a1310" role="1" seniority_sort="26">
+                <display_name>David Lamberth</display_name>
+            </person>
+            <person id="d1e49535a1310" role="1" seniority_sort="27">
+                <display_name>Jon Levenson</display_name>
+            </person>
+            <person id="d1e28494a1310" role="1" seniority_sort="28">
+                <display_name>Peter Machinist</display_name>
+            </person>
+            <person id="d1e55554a1310" role="1" seniority_sort="29">
+                <display_name>Kevin Madigan</display_name>
+            </person>
+            <person id="d1e55508a1310" role="1" seniority_sort="30">
+                <display_name>Everett Mendelsohn</display_name>
+            </person>
+            <person id="d1e55462a1310" role="1" seniority_sort="31">
+                <display_name>Anne E. Monius</display_name>
+            </person>
+            <person id="d1e40412a1310" role="1" seniority_sort="32">
+                <display_name>Roy Mottahedeh</display_name>
+            </person>
+            <person id="d1e55369a1310" role="1" seniority_sort="33">
+                <display_name>Laura Nasrallah</display_name>
+            </person>
+            <person id="d1e55323a1310" role="1" seniority_sort="34">
+                <display_name>Jacob Olupona</display_name>
+            </person>
+            <person id="d1e31856a1310" role="1" seniority_sort="35">
+                <display_name>Parimal G. Patil</display_name>
+            </person>
+            <person id="d1e55231a1310" role="1" seniority_sort="36">
+                <display_name>Kimberley Patton</display_name>
+            </person>
+            <person id="d1e40367a1310" role="1" seniority_sort="37">
+                <display_name>Michael J. Puett</display_name>
+            </person>
+            <person id="d1e55139a1310" role="1" seniority_sort="38">
+                <display_name>Elisabeth Schussler Fiorenza</display_name>
+            </person>
+            <person id="d1e55093a1310" role="1" seniority_sort="39">
+                <display_name>P. Skjaervo</display_name>
+            </person>
+            <person id="d1e55047a1310" role="1" seniority_sort="40">
+                <display_name>Charles Stang</display_name>
+            </person>
+            <person id="d1e53003a1310" role="1" seniority_sort="41">
+                <display_name>Jonathan Walton</display_name>
+            </person>
+            <person id="d1e25382a1310" role="1" seniority_sort="42">
+                <display_name>Malika Zeghal</display_name>
+            </person>
+            <person id="d1e29454a1310" role="1" seniority_sort="43">
+                <display_name>Leonard W. J. van der Kuijp</display_name>
+            </person>
+            <person id="d1e52865a1310" role="1" seniority_sort="44">
+                <display_name>Mark Jordan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

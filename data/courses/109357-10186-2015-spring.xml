@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109357" class_number="10186" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 277">Microfabrication Laboratory</title>
+            <prereq>Recommended: Applied Physics 50a and 50b, Physical Sciences 12a and 12b, Physics 11a and 11b (no longer offered); or Physics 15a and 15b or equivalent.</prereq>
+            <description>Content and requirements are similar to Engineering Sciences 177, with the addition that students enrolled in Engineering Sciences 277 are assigned more demanding problem sets (which may involve laboratory process demonstrations and analysis) and are required to prepare a term project.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e108849a1310" role="1" seniority_sort="1">
+                <display_name>Evelyn Hu</display_name>
+            </person>
+            <person id="d1e220955a1310" role="1" seniority_sort="2">
+                <display_name>Peter Stark</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

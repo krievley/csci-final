@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125835" class_number="13534" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1490">Growth and Crisis in the World Economy</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> This course satisfies the Economics concentration writing requirement. Students who would like to enroll should submit the application form available on the course website.</notes>
+            <prereq>Recommended: Economics 1010a1, 1010a2, or 1011a and Economics 1010b or 1011b.</prereq>
+            <description>The world economy is gradually recovering from the financial and economic crisis that originated in the United States in 2007-2009. Despite the slow recovery of Europe and the U.S., world economic growth has continued at an accelerated pace since the mid-1990s. This is due to very rapid growth of Asian economies, especially China and, increasingly, India. China overtook the U.S. as the world&amp;#39;s largest economy in 2014, while India surpassed Japan in 2012, becoming the world&amp;#39;s third largest economy. The growth of the two Asian economic giants is rapidly transforming the world economy. The ultimate objective of Economics 1490 is to assess the prospects for sustainable growth of the world economy in the future. Will slower growth of the U.S., Japan, and the leading economies of Europe lead to worldwide stagnation or will the accelerated growth of the world economy continue?</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Sever 202 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47306a1310" role="1" seniority_sort="1">
+                <display_name>Dale Jorgenson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

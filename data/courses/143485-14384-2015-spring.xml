@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143485" class_number="14384" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 157">Global Change Biology</title>
+            <prereq>Recommended: OEB 10 or OEB 53 and Mathematics 1a required. OEB 55 (formerly BS 55) recommended.</prereq>
+            <description>This course examines how natural and anthropogenic changes in the earth system are affecting the composition and the functioning of the world's land and ocean ecosystems. Topics include: the ecological impacts of natural and anthropogenic changes in the earth's physical environment, and the effects of introduced species, species extinctions, land-use change, agriculture, and fishing.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e61922a1310" role="1" seniority_sort="1">
+                <display_name>Paul Moorcroft</display_name>
+            </person>
+            <person id="d1e41359a1310" role="1" seniority_sort="2">
+                <display_name>James Mccarthy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

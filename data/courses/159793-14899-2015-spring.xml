@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159793" class_number="14899" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST-LIT 90BR">Cultures of Commodity Production Across the Americas</title>
+            <description>This seminar uses social and cultural approaches to explore the history of Latin American and Caribbean commodity production, from silver to cocaine. Drawing on historical texts, poetry, fiction, and film (all translated into English), we will study the communities created by those who mined, planted, harvested, and labored in the region&amp;rsquo;s major export industries. This course challenges us to consider the socio-cultural implications of wider economic and trade processes.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e468347a1310" role="1" seniority_sort="1">
+                <display_name>Frances Sullivan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

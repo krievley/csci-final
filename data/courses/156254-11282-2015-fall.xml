@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156254" class_number="11282" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 123X">Mass Incarceration in Historical Perspective</title>
+            <exam_group>FAS14_D</exam_group>
+            <description>Today 1 in 3 African American boys will spend part of their lives behind bars, a profound reflection of the limitations of law and democracy in the United States. By examining the connections between race and the development of legal and penal systems over time, this course investigates the historical process that eventually gave rise to the mass incarceration of black and Latino Americans in the late twentieth century. The course is structured according to the major punitive changes that often emerged after the expansion of constitutional and civil rights for African Americans. Our historical consideration will provide us the necessary background to address the ongoing consequences of racial disparities in the criminal justice system and the momentous public policy implications of this dynamic.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Sever 306 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38913a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth Hinton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

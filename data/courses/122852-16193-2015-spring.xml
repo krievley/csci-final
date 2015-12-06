@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122852" class_number="16193" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1009">Advanced Geographical Information Systems Workshop</title>
+            <description>This course is a workshop for students who have taken the introductory Geographical Information Systems course and want to explore detailed applications. The course will meet two times a week for a lecture and a laboratory exercise.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121062" class_number="15224" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 236">Cultural Processes in the Production of Inequality</title>
+            <description>This advanced course will consider recent developments at the intersection of cultural sociology and the sociology of inequality, mobility and poverty. Topics will include: the coproduction of social and symbolic boundaries; moral schemas and inequality; cultural scripts in the construction of racism and anti-racism; new developments in the study of identity, ethno-racial and class cultures; cognition, cultural repertoires and networks; evaluation and other cultural and social processes; and the conceptualization of context and explanations in cultural sociology.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="10:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e73681a1310" role="1" seniority_sort="1">
+                <display_name>Michele Lamont</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

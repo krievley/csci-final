@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160645" class_number="16295" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC BHFB">Exercises in Tonal Writing and Analysis</title>
+            <description>Includes theory (level of Music 150) as well as keyboard and ear training. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e47048a1310" role="1" seniority_sort="1">
+                <display_name>Osnat Netzer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

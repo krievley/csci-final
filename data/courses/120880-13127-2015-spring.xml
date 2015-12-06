@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120880" class_number="13127" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CULTBLF 23">From the Hebrew Bible to Judaism, From the Old Testament to Christianity</title>
+            <notes>Occasional Fridays are required. Please check course syllabus for details.  This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>The Hebrew Scriptures, what Christians call the ``Old Testament'' and Jews call the ``Bible,'' are the basis of both Judaism and Christianity. In this course we shall survey how this work of literature, through interpretation and re-interpretation, spawned two different cultural systems. Topics to be surveyed include: canon and prophecy; exegesis and Midrash; Shabbat and Sunday; temple, synagogue, church; the Oral Torah and the Logos; sin and righteousness; messiah and redemption.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e28584a1310" role="1" seniority_sort="1">
+                <display_name>Shaye J.D. Cohen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

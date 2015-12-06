@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124949" class_number="17134" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1351">Reproductive Ecology</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes>This course counts towards the Anatomy/Physiology subfield requirement in HEB. Mandatory weekly discussion section.  </notes>
+            <prereq>Recommended: Life Sciences 2 or Human Evolutionary Biology 1310 required.</prereq>
+            <description>A course on the physiology, ecology and evolutionary biology of human and primate reproduction. Topics covered include gamete production, gestation, birth, lactation, reproductive maturation, mature reproductive function, aging and senescence.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Sever 102 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e228309a1310" role="1" seniority_sort="1">
+                <display_name>Lara Durgavich</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

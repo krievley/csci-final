@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115684" class_number="14891" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 112A">Dreams and the Dreaming</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes>Additional hour to be arranged.  </notes>
+            <description>Considers the dream as initiatory experience, metaphor for aboriginal time, gateway to the other world, venue for the divine guide, healing event, &amp;quot;royal road&amp;quot; to the unconscious, quest or journey, epistemological paradox, or omen of the personal or collective future. Theories of dreaming, the religious history of dream interpretation, and dreams in myth and ritual will be examined cross-culturally, including the theological and spiritual dimensions of human dreaming. Focus during the first semester is on ancient Greece, Judaism, Christianity, and Islam; recent research on American dreams.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Sever 107 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e55231a1310" role="1" seniority_sort="1">
+                <display_name>Kimberley Patton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

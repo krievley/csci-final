@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107381" class_number="15165" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SAS 99RA">Tutorial - Senior Year</title>
+            <notes> Required of concentrators writing a thesis.</notes>
+            <description>Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SAS">South Asian Studies</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>0</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e40127a1310" role="1" seniority_sort="1">
+                <display_name>Shankar Ramaswami</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

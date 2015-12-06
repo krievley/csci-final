@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128215" class_number="14166" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MBB 980F">Creativity Research: Madmen, Geniuses, and Harvard Students</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes>Preference to juniors in MBB tracks or MBB secondary field.  </notes>
+            <description>Examines human creativity from three perspectives: a) empirical research sources, b) case studies of eminent creative achievers, and c) ourselves as creative subjects. Topics include the definition and measurement of creativity, the creative process, the neuroscience of creativity, the creative personality, the role of family life and culture in creativity, the relationship of creativity to IQ, gender differences, and the relationship of creativity to psychopathology.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="William James 950 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e212238a1310" role="1" seniority_sort="1">
+                <display_name>Shelley Carson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

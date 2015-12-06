@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146559" class_number="14494" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 168D">Postwar American and British Fiction</title>
+            <description>Examines a range of works, including novels and stories by Saul Bellow, Philip Roth, Raymond Carver, Henry Green, Muriel Spark, Ian McEwan, Penelope Fitzgerald, and Martin Amis. Attempts to situate these books in their larger historical traditions, while emphasizing that we are reading a living literature.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57313a1310" role="1" seniority_sort="1">
+                <display_name>James Wood</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110077" class_number="10766" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 230RS">Topics in Music Theory</title>
+            <exam_group>FAS01_E</exam_group>
+            <notes> Open to undergraduates with permission of instructor. Weekly writing assignments consists of reviews of reading and music analytic exercises.</notes>
+            <description>Rhythm and Temporality. In conjunction with a review of theories of rhythm and psychological research concerning rhythm in music and language we will work to develop new conceptual and analytical strategies for the study of rhythm in a broad range of repertories including non-Western and recent popular music.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="11:59:00" location="Music Davison Seminar Rm (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e61644a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Hasty</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

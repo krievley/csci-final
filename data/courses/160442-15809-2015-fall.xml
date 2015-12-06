@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160442" class_number="15809" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1654">Global Political Ecology</title>
+            <exam_group>FAS09_C</exam_group>
+            <description>Despite enormous scientific and political efforts, climate scientists andenvironmental activists have found themselves unable to bring about thepolitical changes that might reverse climate change and environmentaldegradation. The degradation of the earth&amp;rsquo;s environment has been caused byhumans, but somehow humans have not able to stop or reverse the socialprocesses that cause that degradation. This seminar examines case studies ofenvironmental degradation at multiple scales, from superfund sites inMassachusetts to deforestation in the Amazon to global climate change, tothree ends: to explore fundamental questions in social theory about humanagency and historical change, to understand why coordinated scientific andpolitical efforts to prevent environmental degradation have tended to fail,and to think through new political and environmental interventions thatmight succeed. The material that this course covers draws from environmentalscience, history, political economy, and anthropology, and one of the majortasks of this course is to search for ways to reconcile social scientificand natural scientific theories and methods and to think through ways toapply the results of this reconciliation.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="Peabody Museum 12" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e202182a1310" role="1" seniority_sort="1">
+                <display_name>Anand Vaidya</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

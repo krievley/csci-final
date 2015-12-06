@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110128" class_number="16912" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 16A">Radcliffe Choral Society</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> Audition required. The course is graded SAT/UNSAT based on attendance and participation. This course may be taken repeatedly, but to receive credit the course must be taken in the Fall and Spring semesters consecutively. A maximum of four semesters (two years) may be counted as credit towards the degree.</notes>
+            <description>Radcliffe Choral Society (SSAA choir). The Radcliffe Choral Society is dedicated to the celebration and performance of women&amp;rsquo;s choral music. Founded in 1899, RCS is Harvard&amp;#39;s oldest women&amp;#39;s organization and one of the country&amp;rsquo;s premier women&amp;#39;s choruses. The Choral Society sings a wide variety of repertoire including Medieval chant, Renaissance polyphony, Romantic masterworks, international folk songs, and contemporary women&amp;rsquo;s choral music. RCS tours annually. The Choral Society frequently combines with the Collegium and the Glee Club, as well as the Harvard-Radcliffe Orchestra, to perform large-scale works. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Studio</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="21:29:00" location="" start_time="19:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="18:39:00" location="" start_time="16:15:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e12782a1310" role="1" seniority_sort="11">
+                <display_name>Andrew Clark</display_name>
+            </person>
+            <person id="d1e12785a1310" role="2" seniority_sort="12">
+                <display_name>Margaret Weckworth</display_name>
+            </person>
+            <person id="d1e12782a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Clark</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

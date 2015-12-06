@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159690" class_number="14892" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 49">From Gospel to Allegory: Christian Narratives for Living</title>
+            <exam_group>FAS12_C</exam_group>
+            <description>The original form for teaching Christians how to live was not law but biography. Imitating the Gospels, many Christian writers have offered their most important teachings as narrations. They have held up holy lives as examples or displayed wicked lives as warnings. They have tried to tell their own lives in confession or to imagine alternate lives as allegory or prophecy. Always eager to move from word to action, Christian writers have tried above all to reshape lives, especially by projecting new communities and rituals. This course will consider a wide range of works from gospels to medieval allegories by authors as diverse as Athanasius or Augustine and Margery Kempe.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Robinson 106 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e52865a1310" role="1" seniority_sort="1">
+                <display_name>Mark Jordan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

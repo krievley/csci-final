@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109381" class_number="15511" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CELLBIO 310QC">Current Topics in Cancer Biology Research</title>
+            <exam_group>FAS16_C</exam_group>
+            <notes>Course meets&amp;nbsp;September 24, 2015 through November 12, 2015.  </notes>
+            <description>This course is designed for early- to mid-year graduate students that are interested in exploring current topics related to the Hallmarks of Cancer. Leading and cutting edge technologies in Cancer Biology Research are explored in-depth using recent papers of high profile in a round-table discussion format. Course sessions consist of a short lecture led by a postdoctoral discussion leader to review background information, followed by discussion of the literature selected for that session. Topics include: Metastasis and EMT, Tumor Microenvironment and Metabolism, Cancer Genomics, Cancer and microRNAs, and Cancer Stem Cells.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="10:29:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e1117a1310" role="1" seniority_sort="1">
+                <display_name>Alex Toker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

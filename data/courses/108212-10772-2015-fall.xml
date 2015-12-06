@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108212" class_number="10772" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SHBT 200">Acoustics of Speech and Hearing</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> This course is taught in consort with 6.551J/HST.714J at the Massachusetts Institute of Technology. Classes will be held at MIT.</notes>
+            <prereq>Recommended: Mathematical methods in science (Applied Mathematics 21a or Mathematics 21a) or equivalent. Rigid body mechanics (Physics 11A), or electrical circuits (Engineering Science 154) or permission of the instructor.</prereq>
+            <description>Discusses limitations that the speech production and hearing systems impose on the sounds we produce and sense. Focuses on acoustic cues used in sound localization, speech production mechanisms, the mechanics of sound reception and perception.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+                <meeting days_of_week="Wednesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15477a1310" role="1" seniority_sort="1">
+                <display_name>John Rosowski</display_name>
+            </person>
+            <person id="d1e24473a1310" role="1" seniority_sort="2">
+                <display_name>Satrajit Ghosh</display_name>
+            </person>
+            <person id="d1e18895a1310" role="2" seniority_sort="3">
+                <display_name>Christopher Shera</display_name>
+            </person>
+            <person id="d1e18895a1310" role="2" seniority_sort="13">
+                <display_name>Christopher Shera</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

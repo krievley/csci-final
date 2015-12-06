@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117098" class_number="15735" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 3490">Colloquium in Religious and Theological Thought</title>
+            <notes> Advanced work in theology, philosophy or ethics is recommended.  Offered jointly with the Divinity School as 2696.</notes>
+            <description>This course is intended for doctoral students and advanced masters students, and focuses&amp;nbsp;periodically on a selected issue or theme in theology and religious thought, or questions in ethics,&amp;nbsp;philosophy and society that are of importance for theology and religious thought.Topic for Fall 2015: we will&amp;nbsp;explore the significance of developments in contemporary French philosophy for the understanding of issues&amp;nbsp;of religion, theology, ethics, and political theory.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e55692a1310" role="1" seniority_sort="1">
+                <display_name>David Lamberth</display_name>
+            </person>
+            <person id="d1e54816a1310" role="1" seniority_sort="2">
+                <display_name>Francis Fiorenza</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

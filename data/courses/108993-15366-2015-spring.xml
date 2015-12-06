@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108993" class_number="15366" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1820">Education Reform in America</title>
+            <notes> Writing requirement: A research paper is required. This course meets the concentration writing requirement.</notes>
+            <prereq>Recommended: Courses in introductory statistics, econometrics, and/or microeconomics would be useful preparation, but there are no official prerequisites. A non-trivial amount of math fluency is expected, however.</prereq>
+            <description>Introduces students to the methods and the research frontier in the economics of education. The first quarter of the course will cover common statistical methods in applied microeconomics, including instrumental variable models, regression discontinuities, difference-in-differences, and randomized inference. With these tools in hand, the course will critically survey the economics of education literature, placing particular emphasis on policies and practices designed to raise achievement among vulnerable populations. Topics will include achievement gaps, the role of incentives, the rise of charter schools, school turnaround efforts, and education's role in determining economic outcomes.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60728a1310" role="1" seniority_sort="1">
+                <display_name>Roland Fryer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

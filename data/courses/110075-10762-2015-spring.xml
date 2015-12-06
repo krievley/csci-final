@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110075" class_number="10762" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BCS CR">Advanced Bosnian/Croatian/Serbian</title>
+            <notes>Steven Clancy and others  </notes>
+            <description>	Individualized study of the Bosnian/Croatian/Serbian language at the advanced level, conducted as a tutorial. Contact hours with language coach. Emphasis on literacy.	&amp;nbsp;	Not open to auditors. Language tutorials are offered by application only upon approval by the Director of the Languages Program and the Office of Undergraduate Education. See note on&amp;nbsp;independent language tutorials&amp;nbsp;on our website for details about the application process.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="BCS">Bosnian, Croatian, and Serbian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e14486a1310" role="1" seniority_sort="1">
+                <display_name>Steven Clancy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

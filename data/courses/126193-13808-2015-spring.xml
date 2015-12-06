@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126193" class_number="13808" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCWORLD 24">Global Health Challenges: Complexities of Evidence-Based Policy</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for either Societies of the World or Empirical and Mathematical Reasoning, but not both.</notes>
+            <description>This course introduces the global health challenges posed by failure to adequately reduce infections, malnutrition, and maternal-child health problems in the most vulnerable populations, escalating rates of non-communicable diseases/injuries, and emerging health risks that cross national boundaries. We will assess social responses to these challenges at the community, national, and global levels. Through an understanding of population health measures, we will examine patterns of disease/mortality between and within countries, capture important time trends, and identify determinants of health inequalities. While emphasizing science driven policy, comparative case examples will illuminate influential systemic factors, health system performance, and the economic/social/political climate.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e480616a1310" role="1" seniority_sort="1">
+                <display_name>Sue J. Goldie</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

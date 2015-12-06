@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118671" class_number="12292" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CELTIC 138">The Mabinogion: Stories from Medieval Wales</title>
+            <description>An exploration of the Four Branches of the Mabinogi, Welsh Arthurian romances and tales, and the bardic lore associated with them, in the context of the literary culture of Wales in the twelfth through fourteenth centuries. All texts are read in English translation.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="CELTIC">Celtic</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e63327a1310" role="1" seniority_sort="1">
+                <display_name>Catherine McKenna</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

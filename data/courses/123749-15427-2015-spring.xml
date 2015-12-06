@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123749" class_number="15427" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ETHRSON 19">The Good Life In Classical India</title>
+            <description>What is a good life? How does it relate to personal happiness, to being a good ruler, citizen, or lover? What is the relative value of justice, citizenship, loyalty, friendship, personal profit, and pleasure? Is the good life the same for everyone? This course is devoted to investigating how classical South Asian intellectuals approached such questions and to thinking critically about their responses. As we will see, far from being mere artifacts from someone else's historical past, classical South Asian texts provide powerful frameworks for thinking about our own lives and the ways in which we reason about them.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="ETHRSON">Ethical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e31856a1310" role="1" seniority_sort="1">
+                <display_name>Parimal G. Patil</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107432" class_number="17158" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 980F">Animal Cognition</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> Not open to students who have taken PSY 1351.</notes>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>This course is an introduction to the study of animal cognition and thought processes. Topics include categorization, memory, number concepts, insight, and language-like behavior. The course requires reading and critiquing original journal articles.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="William James 303 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e22696a1310" role="1" seniority_sort="1">
+                <display_name>Irene Pepperberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

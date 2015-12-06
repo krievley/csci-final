@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146257" class_number="14028" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IMMUN 301QC">Autoimmunity</title>
+            <notes> Offered in alternate years. Expected to be given in the first quarter of the spring term in academic year 2014-2015</notes>
+            <description>This course will focus on basic immunological mechanisms of autoimmune diseases, with an emphasis on recent advances in the field. At each session, we will focus on a particular topic and discuss three important publications.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e17604a1310" role="1" seniority_sort="1">
+                <display_name>Kai Wucherpfennig</display_name>
+            </person>
+            <person id="d1e62105a1310" role="2" seniority_sort="2">
+                <display_name>Vijay Kuchroo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

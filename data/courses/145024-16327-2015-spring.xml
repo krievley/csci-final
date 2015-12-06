@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145024" class_number="16327" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 247R">Laboratory Course in Contemporary Physics</title>
+            <notes> A substantial amount of outside reading is expected.  Physics 191R is the same course as Physics 247R; if you are an undergraduate, please enroll in 191R.</notes>
+            <description>Three experimental projects are selected representing condensed matter, atomic, nuclear, and particle physics. Examples: experiments on pulsed nuclear magnetic resonance, microwave spectroscopy, optical tweezers, and non-linear optics, optical pumping, Raman scattering, scattering of laser light, nitrogen vacancies in diamond, neutron activation of radioactive isotopes, Compton scattering, relativistic mass of the electron, recoil free gamma-ray resonance, lifetime of the muon, studies of superfluid helium, positron annihilation, superconductivity, the quantum Hall effect, properties of semiconductors. The facilities of the laboratory include several computer controlled experiments as well as computers for analysis.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Laboratory</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="16:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e88211a1310" role="1" seniority_sort="1">
+                <display_name>Isaac F. Silvera</display_name>
+            </person>
+            <person id="d1e61260a1310" role="1" seniority_sort="2">
+                <display_name>Robert Westervelt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

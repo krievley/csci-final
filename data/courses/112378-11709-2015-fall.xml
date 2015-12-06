@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112378" class_number="11709" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1010">The Fundamentals of Archaeological Methods &amp; Reasoning</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes> One 2 hour section per week. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>A comprehensive introduction to the practice of archaeology and major themes from our human past: how do archaeologists know where to dig? How do we analyze and understand what we find? What do we know about the origins of the human species, agriculture, cities, and civilization? The course integrates methods and theory, and utilizes Peabody Museum collections, to show how we reconstruct ancient diet, trade, and political systems. We also explore the role of archaeology in colonialism, modern politics, and film.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Harvard Hall 202 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e30960a1310" role="1" seniority_sort="1">
+                <display_name>Rowan Flad</display_name>
+            </person>
+            <person id="d1e45966a1310" role="1" seniority_sort="2">
+                <display_name>Jessica Cerezo-Roman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

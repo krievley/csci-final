@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="138414" class_number="13777" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 335B">Topics in the History and Philosophy of Physics</title>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e180040a1310" role="1" seniority_sort="1">
+                <display_name>Gerald Holton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

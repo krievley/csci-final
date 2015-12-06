@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142253" class_number="16257" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 123">Biology of Symbiosis</title>
+            <prereq>Recommended: Life Sciences 1b, OEB 10, and MCB 52 or equivalent, or permission of instructor.</prereq>
+            <description>An examination of the major aspects of microbial endosymbiosis with emphasis on mutualisms, although some parasitic interactions are covered. Topics include origins of the eukaryotic cell, specificity and recognition of partners, distribution and diversity of associations, and coevolution of host and symbiont. The course covers symbiotic interactions among bacteria and archaea with protists, fungi, plants, and animals, including the human microbiome.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

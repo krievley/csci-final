@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159784" class_number="14971" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 441">Ancient Christian Martyrdom and Its Modern Legacy</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>The varied ways in which ancient Christians represented persecution in the Roman empire has left a rich and sometimes troubling legacy for the modern world. Their struggles are documented in stories of torture and public execution, revelations from God, treatise exhorting believers to confess, and polemics against fellow Christians who thought otherwise. Some advocated suffering and demonized their opponents, others ascetic withdrawal, pacifism, silent endurance, or even living well as the best witness to God. In the aftermath, they agonized over how to heal traumatized communities. This course will examine this literature and its legacy for contemporary issues such religious (in)tolerance, torture, and what it means to be fully human.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Barker 403 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e53049a1310" role="1" seniority_sort="1">
+                <display_name>Karen King</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

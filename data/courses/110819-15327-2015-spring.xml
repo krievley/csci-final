@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110819" class_number="15327" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="E-PSCI 166">Consequences of Earthquakes</title>
+            <notes> Course includes a weekly three-hour lab to be arranged.  Given in alternate years.</notes>
+            <prereq>Recommended: Mathematics 21a, b or Applied Mathematics 21a, b (may be taken concurrently); or equivalent.</prereq>
+            <description>Introduction to seismology with a focus on conceptual understanding of seismic phenomena. Emphasis will be on earthquakes, e.g., detection, mechanism, characteristics, statistics, hazard, and relationship to dynamics. Broader topics such as the types of seismological data and inferences of the Earth's internal structure also will be covered.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e74702a1310" role="1" seniority_sort="1">
+                <display_name>Miaki Ishii</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

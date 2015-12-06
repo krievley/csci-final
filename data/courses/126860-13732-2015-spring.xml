@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126860" class_number="13732" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPANSH 80T">Words of Which History is Made: Translation Workshop on 20th-Century Spain</title>
+            <notes>Conducted in Spanish. Recommended for concentrators. Students are allowed to take a maximum of two courses at the 60-level in Spanish, not including Spanish 60. Interested students should contact Dr. Daniel Aguirre Oteiza no later than August 26, 2013.   Conducted in Spanish. Recommended for concentrators.</notes>
+            <prereq>Recommended: A score of 800 on the SAT II test or on the Harvard Placement test, a previous course in Spanish at the 70-level, or permission of course head.</prereq>
+            <description>Through close readings and translations centering on 20th-century Spanish history and society, students hone their linguistic, grammatical, and stylistic skills, and acquire the interpretive skills required to comprehend and analyze increasingly complex literary and cultural texts. Course materials include short stories, poems, newspaper articles, memoirs, travel journals and historical essays.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e65024a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Aguirre-Oteiza</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

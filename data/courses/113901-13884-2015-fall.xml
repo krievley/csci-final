@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113901" class_number="13884" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1095">Urban Revolutions: Archaeology and the Investigation of Early States</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> No previous knowledge of archaeology is necessary.</notes>
+            <description>Examines the development and structure of the earliest state-level societies in the ancient world. Archaeological approaches are used to analyze the major factors behind the processes of urbanization and state formation in Mesopotamia, Egypt, Central Asia, the Indus Valley, and Mesoamerica. The environmental background as well as the social, political, and economic characteristics of each civilization are compared to understand the varied forces that were involved in the transitions from village to urbanized life. Discussion sections utilize archaeological materials from the Peabody Museum and Semitic Museum collections to study the archaeological methods used in the class.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Geological Museum 102 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e34614a1310" role="1" seniority_sort="1">
+                <display_name>C. Lamberg-Karlovsky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

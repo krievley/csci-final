@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160690" class_number="16899" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 1562">Mind Reading</title>
+            <exam_group>FAS09_C</exam_group>
+            <prereq>Recommended: The Psychology Department requires completion of Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18 or Science of Living Systems 15 before enrolling in this course.</prereq>
+            <description>Mind reading is not the stuff of science fiction, is it a complex set of mental processes honed throughout our evolutionary history that allow us to survive and thrive in a social world. But what is a mind? Who has one? Can we ever know what is in the minds of others? In this course we will attempt to answer these questions by exploring how the human mind uses perceptual information to infer other peoples&amp;rsquo; thoughts, beliefs, and desires. Our goal will be to critically examine why people succeed and fail at reading others&amp;rsquo; minds</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="William James 950 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e199661a1310" role="1" seniority_sort="1">
+                <display_name>Christine Looser</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

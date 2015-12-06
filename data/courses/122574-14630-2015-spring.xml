@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122574" class_number="14630" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSCI 1">Chemical Bonding, Energy, and Reactivity: An Introduction to the Physical Sciences</title>
+            <notes> A few operations of calculus are developed and used.  Fluency in pre-calculus secondary school mathematics is assumed.  Students are expected to have AP or honors level high school chemistry, or have completed Life Sciences 1a or Life and Physical Sciences A (LPS A) with a satisfactory grade.
+
+This course is part of an integrated introduction to the physical science intended for students who plan to pursue a concentration in the physical or life sciences and/or to satisfy a pre-medical requirement in general/inorganic chemistry. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe. Physical Sciences 1 and Physical Sciences 11 cannot both be taken for credit.</notes>
+            <prereq>Recommended: A few operations of calculus are developed and used. Fluency in pre-calculus secondary school mathematics is assumed. Students are expected to have AP or honors level high school chemistry, or have completed Life Sciences 1a or Life and Physical Sciences A (LPS A) with a satisfactory grade.</prereq>
+            <description>The course covers the chemistry and physics underlying molecular phenomena in the world. Starting from a single electron, the course will build up to atoms, molecules, and materials. Interactions of molecules are studied through thermochemistry, equilibria, entropy and free energy, acids and bases, electrochemistry, and kinetics. Applications include physical principles in biology, global energy demands, and modern materials and technology.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="PHYSCI">Physical Sciences Physical Sciences Physical Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e173565a1310" role="1" seniority_sort="1">
+                <display_name>Hongkun Park</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

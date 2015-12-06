@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124154" class_number="14502" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 15C">Wave Phenomena</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> Principles of Scientific Inquiry (PSI) is the laboratory component of Physics 15c. Topics include experimental design, model testing, error analysis, basic programming, oral presentations, and scientific writing. PSI will meet weekly throughout the semester. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.</notes>
+            <prereq>Recommended: Physics 15a, Physics 15b, or written permission of the Head Tutor in Physics. Mathematics preparation at least at the level of Mathematics 21b taken concurrently is required. Some prior knowledge of complex numbers (for example as taught in Mathematics 1b) is helpful. Linear algebra and differential equations are used extensively. Students taking Mathematics 21b concurrently will likely find that some concepts are introduced in Physics 15c before they have seen them in Mathematics 21b. Some students may wish to postpone Physics 15c until they have completed Mathematics 21b.</prereq>
+            <description>Forced oscillation and resonance; coupled oscillators and normal modes; Fourier series; Electromagnetic waves, radiation, longitudinal oscillations, sound; traveling waves; signals, wave packets and group velocity; two- and three-dimensional waves; polarization; geometrical and physical optics; interference and diffraction. Optional topics: Water waves, holography, x-ray crystallography, and solitons.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Science Ctr Hall D (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e627a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Jafferis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

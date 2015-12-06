@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159822" class_number="15096" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOC-STD 68AB">Practicing Democracy</title>
+            <exam_group>FAS05_C</exam_group>
+            <description>Making democracy work requires an &amp;ldquo;organized&amp;rdquo; citizenry with power to assert its interests effectively. Yet US political participation declines, growing more unequal, as new democracies struggle to make citizen participation possible. Students learn to address public problems by organizing: developing leadership, building community, and mobilizing power. Our pedagogy links sociological, political science, and social psychology theory with democratic practice.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:59:00" location="" start_time="19:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e161810a1310" role="1" seniority_sort="1">
+                <display_name>Marshall Ganz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

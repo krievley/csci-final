@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159593" class_number="14443" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1039">First Empires: Power and Propaganda in the Ancient World</title>
+            <description>This course traces the continuum of socio-political and cultural developments in the Near East that led, over the course of three millennia, from stateless societies to the emergence of Assyria as the first empire in history. The class focuses on the long-term history of power centralisation, and the role of ideology and propaganda in overcoming resistance to this concentration of authority. The course material covers a broad evidentiary and chronological range. We will employ textual, visual, and archaeological sources to explore the evolution of the political and cultural landscape in the Near East and the Mediterranean, from the emergence of the first city-states in the late fourth millennium BCE to the early development of Roman imperial ideology around the start of the Common Era.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57129a1310" role="1" seniority_sort="1">
+                <display_name>Gabriel Pizzorno</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

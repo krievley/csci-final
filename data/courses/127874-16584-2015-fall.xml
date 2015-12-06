@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127874" class_number="16584" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 143">Vision and Violence in 17th Century France</title>
+            <exam_group>FAS15_D</exam_group>
+            <notes> Conducted entirely in French.</notes>
+            <description>Explores early modern ways of depicting and showing violence (physical, political, domestic, supernatural). The spectacle of violence represents a site of cultural conflict during the 17th century, since it implies both the pleasure taken by the viewer and the risk of imitation. Readings include plays, tragic histories, utopian and travel literature, historical and theoretical texts (Foucault, RanciÃ¨re, Marin, Elias, Lyotard), and the analysis of images (paintings, frontispieces).</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Boylston 105 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43415a1310" role="1" seniority_sort="1">
+                <display_name>Sylvaine Guyot</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

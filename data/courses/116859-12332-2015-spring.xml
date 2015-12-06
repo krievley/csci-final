@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116859" class_number="12332" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 150">Introduction to Probability with Engineering Applications</title>
+            <prereq>Recommended: Mathematics 21a or Applied Mathematics 21a, and Mathematics 21b or Applied Mathematics 21b.</prereq>
+            <description>This course introduces students to probability theory and statistics, and their applications to physical, biological and information systems. Topics include: random variables, distributions and densities, conditional expectations, Bayes' rules, laws of large numbers, central limit theorems, Markov chains, Bayesian statistical inferences and parameter estimations. The goal of this course is to prepare students with adequate knowledge of probability theory and statistical methods, which will be useful in the study of several advanced undergraduate/graduate courses and in formulating and solving practical engineering problems.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e157560a1310" role="1" seniority_sort="1">
+                <display_name>Yue Lu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

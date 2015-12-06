@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120172" class_number="15582" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1011B">Intermediate Macroeconomics: Advanced</title>
+            <notes> Economics 1011b fulfills the intermediate macroeconomic theory requirement for Economics concentrators. Students may take either Economics 1010b or Economics 1011b for credit. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning.</notes>
+            <prereq>Recommended: Economics 1011a or 1010a and Mathematics 21a, or permission of the instructor.</prereq>
+            <description>The same topics as in 1010b, but with a more mathematical approach. Prerequisites for this class include&amp;nbsp;Economics 1011a or 1010a and Mathematics 21a, or permission of the instructor.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e177100a1310" role="1" seniority_sort="1">
+                <display_name>Gabriel Chodorow-Reich</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118459" class_number="12108" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 253CR">Quantum Field Theory III</title>
+            <exam_group>FAS12_D</exam_group>
+            <prereq>Recommended: Quantum field theory at the level of Physics 253a.</prereq>
+            <description>Introduction to some of the tools for studying the exact nonperturbative dynamics of supersymmetric gauge theories, supergravity, and gauge/gravity duality.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="11:29:00" location="Lyman 425 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e151373a1310" role="1" seniority_sort="1">
+                <display_name>Girma Hailu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

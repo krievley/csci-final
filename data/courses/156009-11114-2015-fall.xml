@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156009" class_number="11114" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 101">Human Genetics</title>
+            <exam_group>FAS12_C</exam_group>
+            <prereq>Prerequisite: (LS 1a AND LS 1b) AND (MCB 60 OR (MCB 52 and MCB 54))</prereq>
+            <description>Genomic information is accelerating the discovery and characterization of the molecular and cellular basis of human health and disease. This new lecture/discussion course will explore how knowledge from new technologies is used to advance our understanding of human biology. Topics will include personal genomics, understanding genome-wide associated studies, epigenetics, gene-environment interactions, and complex traits, the importance of model organisms to investigate molecular mechanisms, and the prospects for cancer genomics and gene/genome therapy. This lecture/discussion course will rely extensively on primary literature and contemporary review articles. Students will actively participate in class discussions and prepare four written summaries of assigned articles and two literature-based research projects (one in the middle of the term and one at the end of the term) that critically assess the scientific basis of popular news articles and consumer-targeted genomics information.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="Biological Labs 1075/1077(FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e147554a1310" role="1" seniority_sort="1">
+                <display_name>Craig Hunter</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

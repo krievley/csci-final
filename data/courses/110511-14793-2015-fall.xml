@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110511" class_number="14793" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1068">United Nations: A Global History</title>
+            <exam_group>FAS15_A</exam_group>
+            <description>Explores the history of international organizations, including activities concerned with&amp;nbsp;economic development, security, and environment. Taught in conjunction with the development of new web-based sources on United Nations history.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="Emerson 101 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e37171a1310" role="1" seniority_sort="1">
+                <display_name>Emma Rothschild</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

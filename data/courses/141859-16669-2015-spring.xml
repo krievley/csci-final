@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="141859" class_number="16669" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BCMP 213">Behavioral Pharmacology</title>
+            <notes> Offered jointly with the Medical School as BP 719.0.</notes>
+            <description>Introduction to behavioral pharmacology of CNS drugs (e.g., psychomotor stimulants, antischizophrenics, opioid analgesics, antianxiety agents); seminar format with emphasis on behavioral methodology (i.e., model and assay development) and pharmacological analysis (i.e., receptor selectivity and efficacy); attention to tolerance, drug dependence/addiction/treatment, and basic behavioral processes.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="BCMP">Biological Chemistry and Molecular Pharmacology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e370723a1310" role="1" seniority_sort="1">
+                <display_name>Jack Bergman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

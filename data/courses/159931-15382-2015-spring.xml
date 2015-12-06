@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159931" class_number="15382" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2687">Advanced Economics of the Environment, Natural Resources, and Climate Change</title>
+            <prereq>Prerequisite: Economics 1010a</prereq>
+            <description>Survey of foundations and applications of the modern theory of environmental and natural-resource economics. What are the basic models and what are they suggesting about policy? Externalities, public goods, common property, strategies for controlling pollution. Dynamics of renewable resources (fisheries, forestry) and dynamics of non-renewable resources (minerals like oil). Discounting, uncertainty, cost-benefit analysis, investment criteria for environmental projects, green accounting, sustainability. Basic economic analysis of climate change as prototype example.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>1</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e177006a1310" role="1" seniority_sort="1">
+                <display_name>Martin Weitzman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124132" class_number="14992" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 99A">Senior Thesis Workshop</title>
+            <notes>Course taught by Ingrid Monson and members of the department.  Enrollment limited to honors candidates.</notes>
+            <description>Thesis supervision under the direction of a member of the Department. Part one of a two part series.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e23219a1310" role="1" seniority_sort="1">
+                <display_name>Ingrid Monson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

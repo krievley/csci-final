@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108179" class_number="14782" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 46">Historical Jesus</title>
+            <description>The course will introduce the students to the history of the quest for the historical Jesus by examining the most relevant methodological issues and by reviewing the ideological and socio-political stakes in this enterprise that has been intertwined to the cultural history of the western world from the XVIII to the XXI century.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e30866a1310" role="1" seniority_sort="1">
+                <display_name>Giovanni Bazzana</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

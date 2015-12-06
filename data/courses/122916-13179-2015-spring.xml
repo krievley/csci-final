@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122916" class_number="13179" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 2002">Contemporary Conversations in the Study of Religion: Seminar</title>
+            <notes>Limited to second-year doctoral students in the Study of Religion.   Limited to second-year doctoral students in the Study of Religion.</notes>
+            <description>An engagement with the theoretical and methodological issues that scholars of religion deem to be the most urgent and compelling in the discipline today, across the various research areas.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e53141a1310" role="1" seniority_sort="1">
+                <display_name>Amy Hollywood</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

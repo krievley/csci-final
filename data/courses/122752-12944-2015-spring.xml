@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122752" class_number="12944" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 970">Tutorial - Sophomore Year</title>
+            <notes> One term required of all Economics concentrators. Enrollment limited to concentrators. Has an introductory meeting. Meets in assigned section thereafter.</notes>
+            <prereq>Prerequisite: (Statistics 100 OR Statistics 104 OR  Statistics 110) AND (Economics 1010a OR Economics 1011a)</prereq>
+            <description>A series of seminars taught in small sections focusing on applications of economic theory to real problems.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Sophomore Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

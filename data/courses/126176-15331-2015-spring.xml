@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126176" class_number="15331" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="E-PSCI 286">Current Topics in Biogeochemistry I: Biological and Inorganic Stable Isotope Systematics</title>
+            <notes> Given in alternate years.</notes>
+            <prereq>Recommended: EPS 186 and 187 or equivalent; or permission of instructor.</prereq>
+            <description>This is a reading class aimed at touring the literature on light stable isotope systematics. Topics covered will range from classic applications in geology (diagenetic and high temperature exchange), through to more novel isotope systems (clumping, 17O, etc.) and applications in biological systems (for instance, those effects associated with RuBiSCo). Topics covered will also flex with the interest of the enrolled students.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e20520a1310" role="1" seniority_sort="1">
+                <display_name>David Johnston</display_name>
+            </person>
+            <person id="d1e281791a1310" role="1" seniority_sort="2">
+                <display_name>Ann Pearson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

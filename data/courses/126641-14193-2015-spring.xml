@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126641" class_number="14193" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCWORLD 38">Pyramid Schemes: The Archaeological History of Ancient Egypt</title>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>Surveys ancient Egyptian pharaonic civilization. Emphasizes Egyptian material culture: pyramids, temples, tombs, settlements, and artifacts. Explores major developmental themes that defined the Egyptian state: the geographical landscape, kingship, social stratification, and religion. Follows a chronological path with excursions into Egyptian art, history, politics, religion, literature, and language (hieroglyphs). Also touches on contemporary issues of object repatriation, archaeology and cultural nationalism, and the evolution of modern Egyptology. Includes field trips to the Egyptian collections of the Peabody Museum and the Museum of Fine Arts, Boston, along with immersive 3D computer models in Harvard's Visualization Center. No prior experience in Egyptology expected.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e24584a1310" role="1" seniority_sort="1">
+                <display_name>Peter Der Manuelian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

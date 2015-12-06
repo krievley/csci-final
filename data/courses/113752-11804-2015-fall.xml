@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113752" class_number="11804" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GENETIC 201">Principles of Genetics</title>
+            <exam_group>FAS17_A</exam_group>
+            <notes> Intended for first-year graduate students. Offered jointly with the Medical School as GN 701.0.</notes>
+            <description>An in-depth survey of genetics, beginning with basic principles and extending to modern approaches and special topics. We will draw on examples from various systems, including yeast, Drosophila, C. elegans, mouse, human and bacteria.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:20:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e89789a1310" role="1" seniority_sort="1">
+                <display_name>Fred Winston</display_name>
+            </person>
+            <person id="d1e179647a1310" role="2" seniority_sort="2">
+                <display_name>Thomas Bernhardt</display_name>
+            </person>
+            <person id="d1e156298a1310" role="2" seniority_sort="3">
+                <display_name>Maxwell Heiman</display_name>
+            </person>
+            <person id="d1e179653a1310" role="2" seniority_sort="4">
+                <display_name>Mitzi Kuroda</display_name>
+            </person>
+            <person id="d1e155104a1310" role="2" seniority_sort="5">
+                <display_name>Steven McCarroll</display_name>
+            </person>
+            <person id="d1e179659a1310" role="2" seniority_sort="7">
+                <display_name>Matthew Harris</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128104" class_number="16730" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 205">Computing Foundations for Computational Science</title>
+            <exam_group>FAS07_A</exam_group>
+            <prereq>Recommended: Students are expected to have programming experience (e.g., CS50/51, fluent in Python, C/C++, or similar). Course will be taught primarily in Python.</prereq>
+            <description>An applications course highlighting the use of computers in solving scientific problems. Students will be exposed to fundamental computer science concepts such as computer architectures, data structures, algorithms, and parallel computing. Fundamentals of scientific computing including abstract thinking, algorithmic development, and assessment of computational approaches. Students will learn to use open source tools and libraries and apply them to data analysis, modeling, and visualization of real scientific problems. Emphasizes parallel programming and "parallel thinking."</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Northwest Bldg B101 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e220558a1310" role="1" seniority_sort="1">
+                <display_name>Thouis Jones</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

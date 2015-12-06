@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160436" class_number="15663" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EASTD 150">Ceramic Arts of Korea</title>
+            <notes> This course will be taught by Maya Stiller, post-doctoral fellow in the Korea Institute and EALC Lecturer.</notes>
+            <description>From ancient to modern times, people have been using ceramics as their basic utensils to protect, store, cook and eat, resulting in the production of different forms of ceramics. In this course, we will examine the formal features of ceramic objects such as the KoryÅ period porcelain teacup or the ChosÅn period stoneware food vessel. We will analyze the production of Korean ceramics within the social and political framework of East Asiancultures and study the history of their reception in Europe and the United States. Through critical approaches from art history, archaeology and anthropology, students will explore aspects of the objects in detail as they pertain to ceramic analysis, including consumption as well as patronage, collecting, connoisseurship and historiography both within andoutside Korea. A hands-on approach to the examination of ceramic objects in the collections of the Harvard Art Museum and an introductory tour in the art of pottery making at the Harvard Ceramics Studio will complement classroom studies.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EASTD">East Asian Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

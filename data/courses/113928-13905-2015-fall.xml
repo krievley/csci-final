@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113928" class_number="13905" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 91R">Supervised Reading and Research</title>
+            <notes> Students negotiate topics on their own. A final paper must be filed in the Sociology undergraduate office.
+
+Rachel Meyer and members of the department.</notes>
+            <description>Individual work in sociology under the supervision of teaching staff in the department. A graded supervised course of reading and research on a topic not covered by regular courses of instruction.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e100277a1310" role="1" seniority_sort="1">
+                <display_name>Rachel Meyer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

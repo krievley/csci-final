@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160399" class_number="15520" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1972">American Humanitarianism</title>
+            <description>How have humanitarian Americans crossed and collapsed boundaries between the United States and the world? This course examines the political, economic, and cultural foundations of American humanitarian engagements in the modern era. Although humanitarianism today signifies a particular form of apolitical, life-saving relief associated with a global welter of NGOs, the impulse to help humanity had a longer trajectory that encompassed a range of investments: abolitionism, missionary work, imperialism, modernization, development, human rights, and military intervention. This course traces a genealogy of humanitarianism&amp;mdash;its origins and impacts, proponents and critics, and competing definitions. Course themes include capitalism, globalization, and governance</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e380801a1310" role="1" seniority_sort="1">
+                <display_name>Megan Black</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

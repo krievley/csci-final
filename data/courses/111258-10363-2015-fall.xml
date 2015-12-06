@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111258" class_number="10363" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SHBT 206">Molecular Biology of the Auditory System</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> Given in alternate years.</notes>
+            <prereq>Recommended: Introductory courses in neurobiology and molecular biology are recommended.</prereq>
+            <description>Advances in molecular biology of hearing. Topics: Transcriptional and post-translational regulation of gene expression; cell fate determination during inner ear development; inner ear stem cells and regenerative capacity in various species; use of genomics in investigations of the inner ear; critical genes for generating functional hair cells.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47000a1310" role="1" seniority_sort="1">
+                <display_name>Albert Edge</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

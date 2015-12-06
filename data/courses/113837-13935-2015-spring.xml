@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113837" class_number="13935" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 1330">Primate Social Behavior</title>
+            <notes> This course will include a mandatory field trip to the Franklin Park Zoo at a date to be determined.</notes>
+            <description>A review of the behavioral interactions in natural primate populations, drawing on experimental, observational, and theoretical studies. Discussion of ecological, physiological, and developmental bases of primate social behavior, with special attention to the evolution of patterns of behavioral interactions among individuals of different age, sex, relatedness, and status. Topics include sexual conflict, sexual selection, and mating systems; care of offspring and other aid-giving; manipulative and cooperative aspects of communication; competition, dominance, and territoriality; and the evolution of social relationships.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e113573a1310" role="1" seniority_sort="1">
+                <display_name>Richard Wrangham</display_name>
+            </person>
+            <person id="d1e105212a1310" role="2" seniority_sort="2">
+                <display_name>Zarin P. Machanda</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

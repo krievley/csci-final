@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156526" class_number="11511" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 355R">Critical Media Practice</title>
+            <prereq>Recommended: Interview with instructor.</prereq>
+            <description>This course is for graduate students pursuing the PhD Secondary Field in Critical Media Practice, as well as for other students creating artistic or interpretive media projects that are complementary to their scholarship.&amp;nbsp; Open to any media or subject matter, the course is centered around exhaustive, constructive critique, supplemented by workshops, screenings and visiting artists.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="19:59:00" location="" start_time="18:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e153559a1310" role="1" seniority_sort="1">
+                <display_name>Matt Saunders</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

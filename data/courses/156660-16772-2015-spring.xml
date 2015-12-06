@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156660" class_number="16772" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 216">Modern Conservation Biology</title>
+            <prereq>Recommended: OEB 55 or permission of instructor</prereq>
+            <description>Readings (mainly from the scientific literature) and discussion of what defines and theoretically underpins the field of conservation biology - though discussion is on the current version of the field, readings will span its development over the last 50+ years.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:29:00" location="" start_time="14:10:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e421164a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth Wolkovich</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

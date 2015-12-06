@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110310" class_number="10964" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 2510">Inside Government: Making Public Policy</title>
+            <notes> Jointly offered with the Kennedy School as BGP-300 and the Law School as 2623.</notes>
+            <description>This seminar will explore an assortment of issues, ranging from environmental regulation (including climate change) to financial regulation to public health, at the intersection of theory and practice. Among other things, the seminar will discuss the role of cost-benefit analysis, legal limits on regulation, and both standard and behavioral economics.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="18:59:00" location="" start_time="17:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e19759a1310" role="1" seniority_sort="1">
+                <display_name>Lawrence H. Summers</display_name>
+            </person>
+            <person id="d1e325394a1310" role="2" seniority_sort="2">
+                <display_name>Cass Sunstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

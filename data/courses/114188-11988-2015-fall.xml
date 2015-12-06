@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114188" class_number="11988" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MUSIC 150A">Theory IIa</title>
+            <exam_group>FAS14_H</exam_group>
+            <prereq>Recommended: Music 51 or equivalent.</prereq>
+            <description>Continues the work of Music 51. The fall term focuses on the Classical style (Haydn, Mozart, Beethoven and their contemporaries). Topics include harmony, phrase structure, and musical forms. Concepts are developed through written &amp; aural analysis, model composition, keyboard harmony and ear-training exercises.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Music PH6 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e74750a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Friedman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

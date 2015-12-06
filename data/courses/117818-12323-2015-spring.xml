@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117818" class_number="12323" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1410">Public Economics: Designing Government Policy</title>
+            <notes>M., W., (F.), 2:00-3:30, and a weekly section to be arranged.   Students should have some knowledge of basic calculus and statistics, but there is no formal mathematics prerequisite. Offered jointly with the Kennedy School as SUP-125. This course offers an optional writing requirement which if completed will satisfy the concentration writing requirement.</notes>
+            <prereq>Recommended: Economics 1010a1, 1010a2, or 1011a, or permission of instructor.</prereq>
+            <description>This course analyzes what role the government should play in a market economy. It covers topics such as tax and welfare policy, unemployment insurance, environmental protection, education policy, social security</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:29:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e273617a1310" role="1" seniority_sort="1">
+                <display_name>Martin Feldstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159807" class_number="15540" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 41C">Oceans and Culture</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>From the coasts of the Mediterranean to New England, from the islands of Oceania to the formerly vast British Empire, many cultures are shaped by the waters that surround them.&amp;nbsp; Drawing on ethnographies of maritime cultures as well as historical accounts, literature, films, Harvard&amp;rsquo;s museums and libraries (e.g., Peabody Museum, Map Library, Collection of Historical Scientific Instruments), and visits to the USS Constitution (&amp;ldquo;Old Ironsides&amp;rdquo;), the seminar explores how different cultures make use of the sea (and how maritime engagements shape cultures), through navigation, maritime exploration, cartography, fishing, trade, colonization, technologies of ship building, principles of maritime law, and naval power.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

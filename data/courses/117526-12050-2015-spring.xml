@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117526" class_number="12050" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VIROLOGY 330">Critical Readings in Virology</title>
+            <notes> Two seminars, which can be taken in different terms, are required for credit. Non-DMS students must get permission from the Division of Medical Sciences before registering for this course. Please contact us at 617-432-0162 or visit the DMS Office at T-MEC 435, 260 Longwood Avenue, Boston.</notes>
+            <description>A series of reading and discussion seminars, each running for a half term (seven weeks). Different topics are covered each term.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="VIROLOGY">Virology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e19281a1310" role="1" seniority_sort="1">
+                <display_name>David Cardozo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

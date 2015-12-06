@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160549" class_number="15992" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1836">Islam, Gender, Sexualities and Empire</title>
+            <description>The twenty-first century has witnessed the production of a wealth of new literature in relation both to the history of sexuality in the Islamic world, and with respect also to new explorations of the entangled histories of Europe and the Islamic world and the role that Orientalism has played in shaping notions of sexuality through colonial, pre-colonial and post-colonial times.&amp;nbsp; We will study, explore, and reflect on the implications of key works in this new literature.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e18150a1310" role="1" seniority_sort="1">
+                <display_name>Leila Ahmed</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

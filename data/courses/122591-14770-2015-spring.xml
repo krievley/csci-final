@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122591" class_number="14770" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CPB 91">Introduction to Research</title>
+            <notes> Limited to CPB concentrators; written permission of both the tutor and laboratory sponsor must be submitted to the CPB Concentration Office prior to enrolling in the course. Ordinarily may not be taken as a fifth course.</notes>
+            <description>Laboratory research in topics related to the CPB concentration under the direction of, or approved by, members of the Board of Tutors in CPB. A paper must be submitted to the laboratory sponsor and to the CPB Student Affairs Office for review by the Head Tutor and Course Director.</description>
+            <department code="CHPB">Chemical and Physical Biology</department>
+            <course_group code="CPB">Chemical and Physical Biology</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e230998a1310" role="1" seniority_sort="1">
+                <display_name>Martin Samuels</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

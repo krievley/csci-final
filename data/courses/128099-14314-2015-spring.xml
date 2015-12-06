@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128099" class_number="14314" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ESPP 90T">Environmental Health: Your World and Your Life at Risk</title>
+            <notes>M., 2:30-5 with local field trips to be arranged.   </notes>
+            <description>Through the seminar course students will be introduced to ongoing environmental health research. They will read published articles and interview faculty. Studies will include birth outcomes and heavy metals; neurological and cognitive development in children exposed to lead; dietary interventions and pesticide exposure; asthma and public housing; air pollution and cardiovascular health; exposures and effects of plasticizers, flame retardants, polychlorinated biphenyls (PCBs), bisphenol A (BPA) and other synthetic organic compounds; cell phone use and brain cancer; respiratory effects of biomass cooking and heat fuels on children and women; heat waves and heat stress mortality; and land-use factors and obesity.</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e373347a1310" role="1" seniority_sort="1">
+                <display_name>Douglas Dockery</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

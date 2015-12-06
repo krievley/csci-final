@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113346" class_number="11807" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FOLKMYTH 98B">Tutorial - Junior Year</title>
+            <notes>Stephen Mitchell and members of the Committee  Required of all concentrators. The signature of the Head Tutor or Chairman of the Committee on Degrees in Folklore and Mythology required. Normally taken in the second term of the junior year.</notes>
+            <department code="FOLK">Folklore and Mythology</department>
+            <course_group code="FOLKMYTH">Folklore and Mythology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

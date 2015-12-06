@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127561" class_number="14095" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APMTH 207">Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference and Optimization</title>
+            <prereq>Recommended: Basic knowledge of a computer programming language (preferably Python), basic knowledge of statistics.</prereq>
+            <description>Develops skills for computational research with focus on stochastic approaches, emphasizing implementation and examples. Stochastic methods make it feasible to tackle very diverse problems when the solution space is too large to explore systematically, or when microscopic rules are known, but not the macroscopic behavior of a complex system. Methods will be illustrated with examples from a wide variety of fields, like biology, finance, and physics.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e6036a1310" role="1" seniority_sort="1">
+                <display_name>Verena Kaynig-Fittkau</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126342" class_number="14914" school_id="fas" section="1" term_code="spring">
+        <catalog_info>
+            <title short_title="LATIN 132">Ciceronian Oratory</title>
+            <description>Introduction to the theory and practice of oratory in late republican Rome. The course examines the formation of the actual and the ideal orator, as evidenced by the early speeches and in the theoretical works. Readings in Latin from selected court speeches, the De oratore and Brutus.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e95909a1310" role="1" seniority_sort="1">
+                <display_name>Jared Hudson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

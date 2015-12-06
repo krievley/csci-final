@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115860" class_number="15102" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2009">Methods of Political Analysis</title>
+            <notes> Open to all doctoral students, regardless of year, and to advanced undergraduates.</notes>
+            <description>Covers the issues and techniques central to designing and researching a good dissertation, whether quantitative or qualitative, including principles of research design, case selection, comparison, measurement, and causal relations, with many practical examples.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e83005a1310" role="1" seniority_sort="1">
+                <display_name>Peter Hall</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

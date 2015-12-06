@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112960" class_number="15995" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 51">Introduction to Computer Science II</title>
+            <description>Abstraction and design in computation. Topics include functional and object-oriented styles of programming, software engineering in the small, and models of computation. Our main goal is to understand how to design large programs to make them readable, maintainable, elegant, and efficient.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e47146a1310" role="1" seniority_sort="1">
+                <display_name>Stuart Shieber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

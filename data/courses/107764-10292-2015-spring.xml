@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107764" class_number="10292" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 265">Advanced Water Treatment</title>
+            <notes> Offered in alternate years.</notes>
+            <prereq>Recommended: Engineering Sciences 165</prereq>
+            <description>Advanced Water Treatment will give students detailed instruction in emerging technologies for municipal wastewater treatment, industrial wastewater treatment, wastewater reclamation and reuse, desalination, and groundwater remediation. The course will begin by introducing wastewater quality, effluent water quality endpoints, and conventional treatment methodologies. The theoretical focus of the course will be on the fundamental biology, chemistry, and physics of processes including nanofiltration, reverse osmosis, membrane bioreactors, denitrification and phosphate removal, ozonolysis, UV photolysis, photocatalysis, and sonolysis. We will also discuss wastewater-to-energy processes including microbial fuel cells, anaerobic digestion, and electrochemical waste-to-hydrogen.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e182044a1310" role="1" seniority_sort="1">
+                <display_name>Chad Vecitis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16543" school_id="fas" section="240" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>Reason has been routinely championed as the epitome of human achievement and framed as profoundly at odds with emotion. For much of the 20th century, scientists had even characterized emotion as unimportant. However, after the past 30 years of research, we now understand emotion to be a crucial factor in human behavior, including reasoning. This class will focus on the science of emotion. In Unit 1, we&amp;rsquo;ll explore what emotion is as we read several scientists&amp;rsquo; divergent theories, including Joseph LeDoux and Antonio Damasio, who disagree on whether love is an emotion. To help us evaluate their conclusions, we will consider a crucial theory offered by Paul Ekman, whose research on facial expressions of emotion was largely responsible for the modern field of emotion science. In Unit 2, we&amp;rsquo;ll explore the conundrum that emotions are at the heart of individual&amp;mdash;and thus seemingly subjective&amp;mdash;experience and yet have so many elements that seem to be universal among humans of all cultures. We&amp;rsquo;ll read sources that outline the &amp;ldquo;laws of emotion&amp;rdquo; that differentiate between emotion and feelings, and that present interesting data on emotion in children living in poverty. Our final unit will take up the matter of how cognition and emotion interact and give students an opportunity to research one of many perplexing questions in this subfield of emotion science: What, for example, is the role of emotion in decision-making? How does emotion interact with learning or moral judgments? How does emotion operate in adolescence or in various pathologies?  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="Sever 110 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e197488a1310" role="1" seniority_sort="1">
+                <display_name>Adrienne Tierney</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

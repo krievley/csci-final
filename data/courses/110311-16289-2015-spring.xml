@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110311" class_number="16289" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 173R">Creative Music: Critical Practice Studio</title>
+            <notes> Between December 22 and January 12, each student should submit a recording, up to fifteen minutes in</notes>
+            <description>This course is an intensive, research-oriented workshop environment for advanced improviser-composers. Open to both undergraduate and graduate students. Through critical listening, readings, term papers, and collaborative musical projects, students will engage with a range of contemporary musical perspectives and practices. Graduate students are welcome.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60142a1310" role="1" seniority_sort="1">
+                <display_name>Vijay Iyer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

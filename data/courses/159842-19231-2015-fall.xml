@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159842" class_number="19231" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MODGRK BA">Intermediate Modern Greek: Culture and Civilization</title>
+            <notes> Part one of a two part series.</notes>
+            <prereq>Recommended: An elementary knowledge of modern Greek equivalent to that of Modern Greek Aa and Ab.</prereq>
+            <description>Aims at further development of skills in speaking, comprehension, reading, and writing. Selected readings in prose (literary and journalistic), poetry, folksongs, modern music, and theater serve as an introduction to aspects of modern Greek literature and culture. The course is conducted in Greek and focuses on topics selected by the instructor and the students in the first term. Grammar is reviewed in the context of readings. Instruction is supplemented by online instruction.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="MODGRK">Modern Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

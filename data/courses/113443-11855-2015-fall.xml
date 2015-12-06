@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113443" class_number="11855" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 98R">Tutorial - Junior Year</title>
+            <notes>Hours to be arranged.   Nicholas Watson and members of the Department  Limited to honors concentrators.</notes>
+            <description>Supervised small group tutorial in the study of literature in English.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e58143a1310" role="1" seniority_sort="1">
+                <display_name>Ju Yon Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

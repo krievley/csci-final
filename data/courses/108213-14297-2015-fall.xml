@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108213" class_number="14297" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SHBT 201">Biology of the Inner Ear</title>
+            <exam_group>FAS16_A</exam_group>
+            <prereq>Recommended: Introductory neurobiology recommended</prereq>
+            <description>Normal biology, biophysics, physiology and morphology of the inner ear, its sensory innervation and efferent control systems, and the mechanisms underlying sensorineural hearing loss and balance disorders. Material is presented through lectures, laboratory exercises and discussions of the primary literature.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:29:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18940a1310" role="1" seniority_sort="1">
+                <display_name>M. Liberman</display_name>
+            </person>
+            <person id="d1e21284a1310" role="2" seniority_sort="2">
+                <display_name>Stephane Maison</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

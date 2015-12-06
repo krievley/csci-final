@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160976" class_number="18673" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TIBET 204">Readings in Tibetan Narrative Literature</title>
+            <prereq>Recommended: Tibetan 101a, Tibetan 101b, Tibetan 102a, and Tibetan 102b, or the equivalent.</prereq>
+            <description>In this class we will read Nyang ral&amp;#39;s (d.1192)&amp;nbsp; so-called Zangs gling ma biography of the Indo-Tibetan thaumaturge Padmasambhava (ca. 800) and use several&amp;nbsp; recently discovered recensions through which this work has been transmitted. Special attention will be paid on interpreting the different readings that the manuscript dossier elicits.&amp;nbsp;</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="TIBET">Tibetan</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="1 Bow St 317 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e29454a1310" role="1" seniority_sort="1">
+                <display_name>Leonard W. J. van der Kuijp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

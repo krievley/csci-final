@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120681" class_number="15039" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CULTBLF 40">Popular Culture and Modern China</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief or Aesthetic and Interpretive Understanding, but not both.</notes>
+            <description>This course examines ``popular culture'' as a modern, transnational phenomenon and explores its manifestation in Chinese communities (in People's Republic of China, Taiwan, Hong Kong, Southeast Asia and North America) and beyond. From pulp fiction to film, from ``Yellow Music'' to ``Model Theater'', from animations to internet games, the course looks into how China became modern by participating in the global circulation of media forms, and how China helps in her own way enrich the theory and practice of ``popular culture''.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e29642a1310" role="1" seniority_sort="1">
+                <display_name>David Der-Wei Wang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

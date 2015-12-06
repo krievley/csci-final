@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107600" class_number="10230" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APMTH 221">Advanced Optimization</title>
+            <notes> Offered jointly with the Business School as 4460.</notes>
+            <prereq>Recommended: Applied Mathematics 21b or Mathematics 21b (linear algebra) and Applied Mathematics 121 or equivalent or permission of instructor. Comfort with programming.</prereq>
+            <description>This is a graduate level course on optimization which provides a foundation for applications such as statistical machine learning, signal processing, finance, and approximation algorithms. The course will cover fundamental concepts in optimization theory, modeling, and algorithmic techniques for solving large-scale optimization problems. Topics include elements of convex analysis, linear programming, Lagrangian duality, optimality conditions, and discrete and combinatorial optimization. Exercises and the class project will involve developing and implementing optimization algorithms.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e14577a1310" role="1" seniority_sort="1">
+                <display_name>Yaron Singer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

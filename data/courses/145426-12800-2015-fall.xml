@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145426" class_number="12800" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH CNFR">Creative Nonfiction: Workshop</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+            <description>Whether in essay, memoir or reportage, creative nonfiction employs many of the same literary techniques as fiction: narrative structure, character development, scene-setting, extended dialogue, emphasis on voice and point of view. In addition to workshopping student writing, we discuss examples of the genre by writers such as Virginia Woolf, William Maxwell, Joan Didion, and John McPhee. Assignments include two 10-15 page narratives, an extensive revision, and typed critiques of classmates' work.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="18:59:00" location="Barker 018 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e289942a1310" role="1" seniority_sort="1">
+                <display_name>Darcy Frey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

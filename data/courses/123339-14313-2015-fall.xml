@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123339" class_number="14313" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1600">Grounding the Global: Anthropological Approaches</title>
+            <exam_group>FAS14_D</exam_group>
+            <description>What is the value of anthropology for understanding today&amp;rsquo;s world? This course illustrates the importance of an anthropological perspective for engaging with a wide range of pressing global issues such as bilingualism, water and the environment, visual media, and health epidemics. Over the semester, students will grapple with what it means to &amp;quot;ground the global&amp;quot; through an emphasis on everyday experience, cultural particularity, subject formation, and collective action.&amp;nbsp;</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="Tozzer 203 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47680a1310" role="1" seniority_sort="1">
+                <display_name>Steven C. Caton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

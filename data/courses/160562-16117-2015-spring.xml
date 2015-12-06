@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160562" class_number="16117" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 252X">Re-evaluating the Sacred Image in the Renaissance</title>
+            <description>Recent art historical debates concerning the definition of the Renaissance have addressed a wide range of issues&amp;mdash;from chronological to geographical to methodological.&amp;nbsp; New questions of a globalized Renaissance have been posed alongside calls for a more broadly conceived notion what constitutes art and artistic culture.&amp;nbsp; Perhaps one of the most deeply entrenched concepts of the previous era that has come under intense scrutiny is the notion of the Renaissance as the moment during which, as Hans Beling phrased it, &amp;ldquo;the holy image could not escape its metamorphosis into a work of art.&amp;rdquo;&amp;nbsp; This course will examine previous and current formulations of the sacred image in the Renaissance, focusing primarily, though not exclusively, on works, theories, and historiography pertaining to the Italian peninsula.&amp;nbsp;</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e201527a1310" role="1" seniority_sort="1">
+                <display_name>Jessica Maratsos</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

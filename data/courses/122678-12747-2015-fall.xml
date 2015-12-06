@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122678" class_number="12747" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ESPP 90J">Environmental Crises, Climate Change, and Population Flight</title>
+            <exam_group>FAS14_F</exam_group>
+            <description>War, disaster, drought, or famine force people to flee their land. Climate change is contributing to many of these factors. The humanitarian consequences of population flight, including loss of place and livelihood, are filled with complexity, relating to the extent and permanence of environmental destruction wrought by these crises, people's attachment to their homes and ecosystems, the circumstances of departure, the destinations of refuge, and the possibilities for return. These issues will be examined through case studies and review of literature on forced migration and calamity.</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:29:00" location="Geological Museum 310 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e235753a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Leaning</display_name>
+            </person>
+            <person id="d1e41359a1310" role="2" seniority_sort="2">
+                <display_name>James Mccarthy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

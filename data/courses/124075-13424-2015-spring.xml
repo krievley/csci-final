@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124075" class_number="13424" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="LING 301">Reading or Special Topics Course</title>
+            <notes>Members of the Department and others listed under Linguistics 300.  </notes>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e28402a1310" role="1" seniority_sort="1">
+                <display_name>C.-T. James Huang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

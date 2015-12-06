@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144952" class_number="12818" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 123">Introduction to Fluid Mechanics and Transport Processes</title>
+            <prereq>Recommended: Applied Mathematics 21a,b or Mathematics 21a,b.</prereq>
+            <description>Dimensional analysis. Basic elements of steady and unsteady thermal conduction and mass diffusion. Statics and dynamics of fluids. Buoyancy-stability and hydrostatics. Laminar viscous flows, potential flows, origin of lift, and basic aspects of boundary layers. Navier-Stokes and continuity equations. Applications in aerodynamics, chemical, environmental, and mechanical engineering, and physics.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e15830a1310" role="1" seniority_sort="1">
+                <display_name>Shmuel Rubinstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

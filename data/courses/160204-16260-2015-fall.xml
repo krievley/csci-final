@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160204" class_number="16260" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 34F">The Folklore of Gaelic Scotland</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes> No knowledge of Scottish Gaelic is required for this course.  The seminar will also include 'an end-of-term 'ceilidh", a traditional social gathering often involving song, dance, and/or storytelling.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course explores the &amp;lsquo;treasure house&amp;rsquo; of Gaelic folklore recorded in the Highlands of Scotland since the nineteenth century. The international controversy over Macpherson&amp;rsquo;s &amp;#39;Ossian&amp;#39; poems in the 1760s prompted interest in the Scottish Gaelic folklore from which they were adapted. Folklorists have since documented a wealth of orally recorded material, including tales of ancient heroes (e.g. Finn McCool) and beliefs in malevolent fairies, seal-people, dangerous water-horses, the evil eye and second sight. As we explore these fascinating topics, we will take into account international scholarly approaches to folklore.&amp;nbsp;</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:29:00" location="Warren 201 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63330a1310" role="1" seniority_sort="1">
+                <display_name>Natasha Sumner</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

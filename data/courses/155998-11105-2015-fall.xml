@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="155998" class_number="11105" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 2471">Christian Ethics, Persuasion, and Power I</title>
+            <exam_group>FAS02_B</exam_group>
+            <notes>Tu., 12&amp;#8211;2 and an hour to be arranged.   Offered jointly with the Divinity School as 2393.</notes>
+            <description>Early Christians wrote their ethical teaching not only in response to existing religious law or rite, but in competition with philosophical programs for soul-shaping. The religious traditions and the philosophic schools alike wanted to discipline bodily actions and passions, but even more to elicit certain roles or characters. This course reads some ancient philosophical examples of ethical persuasion before turning to early and medieval Christian texts that want to surpass them in power to shape lives.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="Andover 102 (HDS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e52865a1310" role="1" seniority_sort="1">
+                <display_name>Mark Jordan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

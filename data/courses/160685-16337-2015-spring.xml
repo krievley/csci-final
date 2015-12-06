@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160685" class_number="16337" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1554">Social Synchrony: On the Same Wavelength</title>
+            <prereq>Recommended: SLS 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15</prereq>
+            <description>Everyone longs for deep connection with others. But is connection more than a feeling? Common expressions describe social connection as being &amp;quot;on the same wavelength&amp;quot;, &amp;quot;marching to the same beat&amp;quot;, or becoming &amp;quot;one&amp;quot; with another person. This course will examine the ways in which these expressions are grounded in biological truth. We will cover topics such as: how do we synchronize our brains and bodies with others in our social environment, and what do these concordances reveal about the quality of our relationships? We will also examine how rapport can be reverse-engineered by manipulating synchrony in surprisingly simple ways.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e269316a1310" role="1" seniority_sort="1">
+                <display_name>Olivia Kang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

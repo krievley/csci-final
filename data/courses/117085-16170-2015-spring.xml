@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117085" class_number="16170" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="CHNSE 163">Business Chinese</title>
+            <notes> Conducted in Chinese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students.</notes>
+            <prereq>Recommended: At least three years of modern Chinese or equivalent (with permission of instructor).</prereq>
+            <description>Designed for students interested in international business or for students who intend to work or travel for business in Chinese-speaking communities (including China, Taiwan, Hong Kong, and Singapore), or for students who desire to improve their Chinese language proficiency. An introduction to business and economic climates, practices and customs of these communities. Students learn specialized business and economic vocabulary and the principles of business correspondence.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSE">Chinese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e83704a1310" role="1" seniority_sort="1">
+                <display_name>Haibo Hu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

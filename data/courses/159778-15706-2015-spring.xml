@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159778" class_number="15706" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 137">New Waves</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  No previous studio experience necessary. Useful for beginning students in visual art and film/video as well as more advanced practitioners.
+
+Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>This studio course invites students to create projects using new genres media such as film, video, installation, performance, actions, time, protest, and other nontraditional processes. Projects using materials such as printmaking and sculpture are also encouraged. We will develop individual projects through discussions, arguments, visiting artists, and field trips. A history of conceptual and performance art from 1950-present will be traced. The goal is to emphasize the development of artistic ideas by broadening and challenging students&amp;rsquo; investigations.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="17:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e206207a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Bornstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

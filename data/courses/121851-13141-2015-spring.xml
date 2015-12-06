@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121851" class_number="13141" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 271X">The Origins of Modernity: The "New" 18th Century</title>
+            <description>Issues include: art and the public sphere; the birth of the critic; high &amp; low; interiors and interiority; intimacy; artistic identity; sexuality, sexual difference, and gender; the discourse of race. Emphasis on new research and methodologies.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e171031a1310" role="1" seniority_sort="1">
+                <display_name>Ewa Lajer-Burcharth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

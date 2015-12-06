@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114862" class_number="14786" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2055">Early Medieval History, Archaeology and Archaeoscience: Seminar</title>
+            <exam_group>FAS13_E</exam_group>
+            <prereq>Recommended: Latin, with either German or French, is required. Normally History 2050 and or MS 101.</prereq>
+            <description>Joint philological analysis of Latin texts, archaeological and scientific evidence illuminating the fall of Rome and the origins of medieval Europe, culminating in a research paper.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Robinson 205 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38417a1310" role="1" seniority_sort="1">
+                <display_name>Michael McCormick</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123775" class_number="15652" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1732">The Origins of Modern Wars</title>
+            <notes>IR_subfield  This course, when taken for a letter grade, meets the Core area requirement for Historical Study A.</notes>
+            <description>This course explores the causes of war. It examines the different theories that have been devised to explain organized violence between states (or groups seeking to control a state), and evaluates these competing theories by exploring several major conflicts of the past 100 years: World War I, World War II, the Cold War, the Arab-Israeli conflict, and the recent wars in the Persian Gulf. The course also considers the phenomenon of ethnic conflict, the implications of nuclear weapons and the question of whether large-scale war is becoming "obsolescent."</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e492088a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Walt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110371" class_number="11016" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1000">Growth, Technology, Inequality, and Evolution</title>
+            <notes>Instructor to be determined  </notes>
+            <prereq>Recommended: For Economics concentrators: Economics 10a. For others: Ec 10a or completion of General Education EMR requirement or equivalent.</prereq>
+            <description>An economist and a humanist, together with professors from the natural sciences, analyze familiar conceptual and policy-relevant issues from viewpoints of their respective disciplines. For example, how do we measure inequality, and at what point does it become problematic (and how do we know)? How then should it be addressed (e.g., tax code, minimum wage)? What are the best policies to confront job losses from technology? What does sustainable growth mean? The goal is not merely to examine four intertwined issues "growth, technology, inequality, and evolution" but also to understand the distinct concerns and methods of the humanities, social sciences, and natural sciences.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e60620a1310" role="1" seniority_sort="1">
+                <display_name>Benjamin Friedman</display_name>
+            </person>
+            <person id="d1e42770a1310" role="2" seniority_sort="2">
+                <display_name>James Engell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

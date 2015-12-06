@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122031" class_number="19296" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN 61">Advanced Grammar and Reading</title>
+            <notes> Conducted in German. Not open to auditors.</notes>
+            <description>	Prerequisite to true fluency in German. Advanced language instruction through systematic study of the rules of grammar, their nuances, and their exceptions. Application of this knowledge through the meticulous reading and parsing of selections from sophisticated texts (Goethe, Kant, Kleist, Heine, Kafka), as well as an entire Nietzsche essay and Thomas Mann story, prepares students for courses and any work requiring advanced German reading comprehension..</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

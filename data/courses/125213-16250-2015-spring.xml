@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125213" class_number="16250" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 51B">Theory Ib</title>
+            <notes> Music 51b or its equivalent is required of all concentrators. Students planning to concentrate in Music are encouraged to take the course in their freshman year. Concentrators should plan to meet this requirement by no later than the end of the sophomore year. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.</notes>
+            <prereq>Recommended: Music 51a.</prereq>
+            <description>Continuation of the principles in Music 51a. Course engages advanced topics in harmony, counterpoint, rhythm, timbre and form. Includes regular practical exercises in model composition, analysis, ear-training, keyboard skills and musicianship.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e196127a1310" role="1" seniority_sort="1">
+                <display_name>Richard Beaudoin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

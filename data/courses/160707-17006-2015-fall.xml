@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160707" class_number="17006" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 295V">Scientific Biographies</title>
+            <exam_group>FAS06_F</exam_group>
+            <notes> Open to advanced undergraduates with permission of instructor.</notes>
+            <description>Scientific Biography is a genre with a history. A history, in fact, that can teach us a lot about how our view of science and knowledge and truth and art have changed over time, ever since the Greeks. In this course, we will be reading biographies of scientists from different fields - physics, mathematics, biology, geology, astronomy, medicine &amp;ndash; and different historical times, closely examining both the art and craft of biography, as well as its changing historical contexts. Some of the characters we will meet include Pythagoras, Descartes, Galileo, Darwin, Einstein, Marie and Pierre Curie, Barbara McClintock, and George Price. Using literature, plays, film, and art - we will see how biographies of scientists have evolved, and continue to change dramatically, and why that&amp;rsquo;s meaningful and important. But the course will also deal with biographies of a different kind &amp;ndash; of ideas, objects, diseases, even equations. Here we&amp;rsquo;ll encounter, among others, Lonesome George the Galapagos turtle, E=mc2, H2O, and cancer. Using literary, philosophical, scientific, and historical analysis, we&amp;rsquo;ll ask how the evolution of the genre of scientific biography can be used as a prism to understand broad developments in the sciences themselves, as well as in the history of science as a discipline.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="Science Ctr 359 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e214148a1310" role="1" seniority_sort="1">
+                <display_name>Oren Harman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

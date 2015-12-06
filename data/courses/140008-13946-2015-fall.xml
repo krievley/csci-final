@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="140008" class_number="13946" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 50">Introduction to Electrical Engineering</title>
+            <exam_group>FAS14_D</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for either Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.</notes>
+            <prereq>Recommended: Enthusiasm, curiosity and desire to build things! Previous engineering or programming experience is NOT needed. The amount of high school physics required is minimal, and is limited to basic concepts only.</prereq>
+            <description>The main course objectives are to introduce students to the exciting and powerful world of electrical engineering and to explain how gadgets that we use every day actually work. After taking ES 50, you will be able to leverage the power of electricity to build systems that sense, control and program the physical world around you. Examples include intelligent and autonomous systems (robots), audio amplifiers (e.g. guitar amp), interactive art installations, light-shows, mind-controlled machines, and so on.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="Northwest Bldg B103 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e92103a1310" role="1" seniority_sort="1">
+                <display_name>Gu-Yeon Wei</display_name>
+            </person>
+            <person id="d1e15291a1310" role="2" seniority_sort="2">
+                <display_name>Christopher Lombardo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159972" class_number="15151" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 99B">Tutorial - Senior Year</title>
+            <notes>	Hours to be arranged.  	&amp;nbsp;  	Taught by Thomas Cummins and members of the Department.  Required of honors candidates in History of Art and Architecture. Permission of the Head Tutor required.</notes>
+            <description>In the fall term, HAA 99 includes several group tutorial meetings with the senior honors adviser, where assignments are aimed at facilitating the writing of a senior honors thesis; spring term consists of independent writing, under the direction of the individual thesis adviser.&amp;nbsp;Part two of a two part series.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e171077a1310" role="1" seniority_sort="1">
+                <display_name>Thomas Cummins</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

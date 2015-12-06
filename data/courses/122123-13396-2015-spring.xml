@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122123" class_number="13396" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 21Q">Biological Impostors: Mimicry and Camouflage in Nature</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Plants and animals imitate one another and their surroundings to escape notice and avoid predators. This seminar explores the evolution of mimicry and camouflage using case studies that reveal the range of visual, behavioral, acoustical, and chemical means by which this deception is accomplished.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e131700a1310" role="1" seniority_sort="1">
+                <display_name>Michael Canfield</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

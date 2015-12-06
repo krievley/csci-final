@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126520" class_number="14092" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPOL 303QC">Introduction to Social Policy Research</title>
+            <notes>Hours to be arranged   This course may be taken only for quarter credit.</notes>
+            <prereq>Recommended: Limited to first-year PhD students in Social Policy.</prereq>
+            <description>Required of and limited to first-year PhD students in Social Policy. Explores current issues in Social Policy research based on the Multidisciplinary Program in Inequality &amp; Social Policy Seminar Series.</description>
+            <department code="SPOL">Social Policy</department>
+            <course_group code="SPOL">Social Policy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160592" class_number="16214" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1043">Political Theory of Civil-Military Relations</title>
+            <notes>theory_subfield  </notes>
+            <description>Who shall guard the guardians?&amp;nbsp; This course examines a series of answers to this question within the history of political thought and contemporary political science.&amp;nbsp; We will explore the difference between soldiers and civilians, consider how variations in political regime and economic development shape relations between military and society, and examine recent &amp;ldquo;crises&amp;rdquo; in U.S. civil-military relations.&amp;nbsp; Readings include Plato, Plutarch, Shakespeare, Machiavelli, Harrington, Huntington, and Feaver.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

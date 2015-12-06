@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159813" class_number="14880" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 3005B">Research Workshop in International Relations</title>
+            <description>Research workshop for advanced graduate students working on dissertation proposals in international relations. Part two of a two part series.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>8</credits>
+        </catalog_info>
+    </course>
+</courses>

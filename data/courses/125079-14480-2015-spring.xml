@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125079" class_number="14480" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 144">Model Theory</title>
+            <prereq>Recommended: Knowledge of the material in Mathematics 123.</prereq>
+            <description>An introduction to model theory with applications to fields and groups. First order languages, structures, and definable sets. Compactness, completeness, and back-and-forth constructions. Quantifier elimination for algebraically closed, differentially closed, and real closed fields. Omitting types, prime extensions, existence and uniqueness of the differential closure, saturation, and homogeneity. Forking, independence, and rank.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e208553a1310" role="1" seniority_sort="1">
+                <display_name>William Boney</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

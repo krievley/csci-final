@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160185" class_number="15436" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 164">Video, Performance, Narrative, Text, Actions</title>
+            <exam_group>FAS13_C</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  At least one VES studio course or permission of the instructor.
+
+Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>This studio course uses new genres media as a springboard for mixing time-based and object-based concerns. During the semester we will work with&amp;nbsp;both ephemeral and physical materials, creating artworks that blend performance, sculpture and drawing. Projects exploring poetry, literature, intermedia and emerging art forms are also invited. Works by artists such as VALIE EXPORT and Bruce Nauman will be introduced as we discuss topics as intention, subject matter, and autobiography.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="17:59:00" location="Carpenter 2nd Fl (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e206207a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Bornstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

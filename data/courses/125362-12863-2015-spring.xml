@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125362" class_number="12863" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GENETIC 390QC">Advanced Experimental Methods: Experimental Approaches in Genetic Analysis</title>
+            <notes>January 2016 dates TBA.  This is an intensive January course. Priority will be given to first year graduate students. Students must first contact the faculty for enrollment approval prior to registration for the course. Meeting Dates/Times: Approximately 8:30 am-4:00 pm each day for 10 days.</notes>
+            <prereq>Recommended: Students must also enroll in, or have taken, Genetics 201.</prereq>
+            <description>A survey of major themes in genetics combined with exposure to various experimental techniques, technologies, and model systems. Combines lectures and hands-on laboratory activities emphasizing experimental methods, hypothesis generation and testing, and data analysis.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="15:59:00" location="" start_time="08:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e89789a1310" role="1" seniority_sort="1">
+                <display_name>Fred Winston</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

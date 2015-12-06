@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118509" class_number="12126" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHYSICS 285B">Modern Atomic and Optical Physics II</title>
+            <exam_group>FAS18_F</exam_group>
+            <notes>M., W., 12-1:30   </notes>
+            <prereq>Recommended: A course in electromagnetic theory (Physics 232a or equivalent); one half-course in intermediate or advanced quantum mechanics.</prereq>
+            <description>Introduction to quantum optics and modern atomic physics. The basic concepts and theoretical tools will be introduced. Topics will include coherence phenomena, non-classical states of light and matter, atom cooling and trapping and atom optics. The second of a two-term subject sequence that provides the foundations for contemporary research.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:29:00" location="Jefferson 256 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e91878a1310" role="1" seniority_sort="1">
+                <display_name>Mikhail Lukin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159755" class_number="14886" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 51">Religious Liberty: Contested American Stories</title>
+            <exam_group>FAS04_A</exam_group>
+            <description>This course considers the long history of the United States&amp;#39; engagement with the ideal of religious liberty. From the Puritans&amp;#39; conception of liberty as the freedom to hold correct beliefs, through Native American efforts to preserve sacred practices, to the current debates over the philosophical impossibility of true religious equality and over the &amp;quot;religious freedom restoration acts&amp;quot; emerging in various states, the course will move across the full sweep of American history on the topic. It examines both the structural relationship of church and state - at the federal and local levels - as well as more diffuse cultural attitudes. It combines scholarly literature, primary sources and students&amp;#39; original research.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Robinson 107 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e141624a1310" role="1" seniority_sort="1">
+                <display_name>David Holland</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

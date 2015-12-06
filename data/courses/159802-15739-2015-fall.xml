@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159802" class_number="15739" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 213">Statistical Inference II</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes> Formerly Stat 211b</notes>
+            <prereq>Recommended: Stat 210, 211, 212( stat 210b)</prereq>
+            <description>Stat 213 will build upon Stat 211 and give some tools to study and validate statistical methods (asymptotic statistics, well-specified and mis-specified models, model comparison, cross-validation, bootstrap). These concepts will be discussed in the context of advanced statistical models: non-parametric regression, regularized regression, latent variable and hidden Markov models. Numerical methods required to put such models into practice will be discussed.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Science Ctr 705 (FAS)" start_time="14:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e35954a1310" role="1" seniority_sort="1">
+                <display_name>Pierre Jacob</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

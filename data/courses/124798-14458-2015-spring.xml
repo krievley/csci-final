@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124798" class_number="14458" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AESTHINT 60">Literature and Art in an Era of Crisis and Oppression: Modernism in Eastern Europe</title>
+            <notes> All texts can be read in English translation.</notes>
+            <description>The course will examine seminal literary works (with forays into film and art) from Eastern Europe in the first half of the 20th century with special attention to their response to convention, censorship and totalitarian strictures as well as &amp;quot;high modernist&amp;quot; experimentation and a &amp;quot;low modernist&amp;quot; focus on popular genres and a new poetics of trash. Focus on Kafka, Zamiatin, Bulgakov, Capek, Nabokov, Platonov, Witkacy, Schulz, Gombrowicz, Vertov, Dovzhenko and others.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e61598a1310" role="1" seniority_sort="1">
+                <display_name>George Grabowicz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

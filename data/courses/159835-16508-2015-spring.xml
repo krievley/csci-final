@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159835" class_number="16508" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 32R">Autobiography and Black Freedom Struggles</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Introduces the main traditions of African American political thought and the history of the black fight for justice through the genre of autobiography. Students will discover how an influential set of black individuals, both men and women, came to political consciousness and participated in the collective struggle for justice in the United States. Close attention will be paid to African Americans&amp;#39; engagement with and contributions to the political traditions of liberalism, conservatism, socialism, black nationalism, and feminism.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e64348a1310" role="1" seniority_sort="1">
+                <display_name>Tommie Shelby</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

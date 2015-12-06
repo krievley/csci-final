@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108223" class_number="10785" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SHBT 204">Speech Communication</title>
+            <notes> Offered jointly with MIT course HST.710. Classes to be held at MIT.</notes>
+            <prereq>Recommended: Background equivalent to MIT HST.714.</prereq>
+            <description>Survey of human speech communication. Acoustic theory of speech production; physiologic and acoustic descriptions of phonetic features, prosody, voice and speech perception and speech motor control. Applications to recognition, synthesis and speech disorders.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:29:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e24473a1310" role="1" seniority_sort="1">
+                <display_name>Satrajit Ghosh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

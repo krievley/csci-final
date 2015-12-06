@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110441" class_number="11084" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HUMAN 10B">A Humanities Colloquium:  From Shakespeare to Kieslowski</title>
+            <notes>The course will be lotteried by application process, administered at the first meeting, on Tuesday, January 26. See the course website for more details.  Weekly two-hour sections in this course are led by the professors. The course is designed for freshmen and sophomores interested in further work in the Humanities, but all students are welcome. Freshmen who have been recommended for Expos 20 may take the full year of Hum 10a/b for Expos credit.  This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding. This course, when taken for a letter grade together with Humanities 10a, meets the General Education requirements for both Aesthetic and Interpretive Understanding and Culture and Belief. The course may not be taken Pass/Fail, and auditors are not permitted.</notes>
+            <description>2,500 years of essential works alongside current art events. Hum 10b includes works by Montaigne, Shakespeare, Franklin, Goethe, Austen, Wagner, Nietzsche, Freud, Joyce, Arendt, and Kieslowski. All sections are led by professors. Join the conversation. Part two of a two part series.</description>
+            <department code="HUM">Humanities</department>
+            <course_group code="HUMAN">Humanities</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e59776a1310" role="1" seniority_sort="1">
+                <display_name>Amanda Claybaugh</display_name>
+            </person>
+            <person id="d1e71417a1310" role="2" seniority_sort="2">
+                <display_name>Richard Moran</display_name>
+            </person>
+            <person id="d1e57912a1310" role="2" seniority_sort="3">
+                <display_name>Stephen Osadetz</display_name>
+            </person>
+            <person id="d1e57359a1310" role="2" seniority_sort="4">
+                <display_name>Leah Whittington</display_name>
+            </person>
+            <person id="d1e164621a1310" role="2" seniority_sort="5">
+                <display_name>James Doyle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

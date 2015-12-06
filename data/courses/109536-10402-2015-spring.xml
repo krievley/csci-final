@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109536" class_number="10402" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1513">Harvard's History and Evolving Religious Identity</title>
+            <notes>Additional hour to be arranged.  Offered jointly with the Divinity School as 2297.</notes>
+            <description>An examination of the intellectual and institutional history of the University that leads students through a chronological exploration of key events and significant presidents. Among themes to be considered are European antecedents, developments in faculty, changes in student life, curricular alterations, as well as the maturation of the built environment. Significant attention is paid to the evolution of the religious context of the school, which was a vital component of the University's identity for several centuries.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="11:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e324182a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Shoemaker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

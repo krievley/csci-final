@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112654" class_number="15226" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 157">From Type to Self in the Middle Ages</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes>In the event that a Monday or Wednesday class is cancelled, the class will be heald on Friday at the same time as the regular class.  This course counts for the Romance Studies track in the Department of Romance Languages and Literatures.</notes>
+            <description>It has been argued that the poetic &amp;quot;I&amp;quot; in premodern literatures is not a vehicle for self-representation, but an archetype of the human. The course will examine this thesis against the rise of autobiographical writing in medieval and early modern Europe. Readings include spiritual autobiographies (Augustine, Kempe, Teresa of &amp;Aacute;vila), letter collections, maqama literature, troubadour lyric, Hispano-Jewish poetry, pilgrimage narratives, medieval allegories, Dante and the picaresque novel. Theoretical perspectives by Spitzer, Lejeune, Zumthor and DeCerteau.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="Dana Palmer 102 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42725a1310" role="1" seniority_sort="1">
+                <display_name>Luis Giron Negron</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

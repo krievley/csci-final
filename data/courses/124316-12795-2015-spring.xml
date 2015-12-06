@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124316" class_number="12795" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 320">Directed Study</title>
+            <notes>Members of the Department  </notes>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

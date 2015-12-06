@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126710" class_number="14239" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AFRAMER 142">Hiphop and Don't Stop: Global Hiphop</title>
+            <description>Hiphop is a global phenomenon that influences social life far beyond the music and entertainment industries. Yet beyond descriptions and critiques of its mass appeal, few have considered hip-hop's development of standards and evaluations across all artistic areas and culture. Moreover, the consequences of an audience trained in the changing standards of hip-hop and charged with upholding them, has not been thoroughly explored. This course provides a critical examination of hip-hop in the US and its role as a cultural, political and artistic resource for youth. It will explore the artistic, social, cultural, linguistic and political implications of hip-hop. It is taught from the perspective of cultural and linguistic anthropology and media studies. Each year the course will include a special topic with guest lecturers. Topics include: gender and sexuality, spirituality, health, psychology, philosophy, education, politics, art, nationalism, etc.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e75353a1310" role="1" seniority_sort="1">
+                <display_name>Marcyliena Morgan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

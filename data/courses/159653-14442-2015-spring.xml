@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159653" class_number="14442" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RUSS BB">Intermediate Russian II</title>
+            <prereq>Recommended: Russian Ba or Russian Bta, or placement into Bb/Btb.</prereq>
+            <description>Part two of a two part intermediate course in modern Russian language and culture for students with previous study of the language. Further development of vocabulary and oral expression within a comprehensive review of Russian grammar. All four major communicative skills (speaking, listening comprehension, reading, writing) are stressed as students learn to use the language both as a means of communication and as a tool for reading and research. Systematic study of word formation and other strategies are taught to help free students from excessive dependence on the dictionary and develop confidence in reading. Vocabulary is thematically organized to include such topics as self and family, education, work, human relationships, politics, and national attitudes and is reinforced through film and the reading of classical and contemporary fiction and history. Practice in the etiquette of common social situations (sociolinguistic competence). Computer exercises on selected topics. Any full course in Russian at the B-level (Russian Ba-Bb, Russian Bta-Btb, or Intensive Russian Bab) will prepare students for continued study of Russian at the advanced level (Russian 101) and for study or travel abroad in Russian-speaking countries.Please note that this course will also meet for two additional hours of speaking practice to be arranged the first week of classes. See&amp;nbsp;language course notes on our website&amp;nbsp;for information about sectioning, pass/fail, satisfactory/unsatisfactory, auditing, and language track information.&amp;nbsp;</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e115611a1310" role="1" seniority_sort="1">
+                <display_name>Veronika Egorova</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

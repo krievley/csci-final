@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160407" class_number="15567" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="WOMGEN 1470">Risk and Intimacy</title>
+            <description>How do individuals negotiate the pleasures and perils of intimate life? How are the individual decisions we make in our most personal relationships affected by the world around us? To what extent is our ability to feel and express affection, trust other people, and to maintain curiosity about and empathy for the experiences of those who differ from us impacted by structural inequalities and the constraints of culture? In this class we will examine the relationships between of ideas of risk and vulnerability and the ways individual people come to know, understand, depend on, cooperate with, protect, love, engage in sexual relations with, grieve and mourn other people. We will begin by examining these questions from a macro-structural level, with readings by Elizabeth Povinelli, Michael Warner, Judith Butler and Samuel Delaney on the relationship of governance to love and empathy, and Avery Gordon, Saidiya Hartman and Alice Goffman on the impacts of institutional violence on intimate relationships. We will then look at the ways different contemporary sexual communities manage emotional and bodily risk, with readings on BDSM by Leopold von Sacher-Masoc, Stacy Newmahr and Margot Weiss and readings on HIV/AIDS and gay male sexual subjectivity by David Halperin, Leo Bersani, Tim Dean and Michael Bronski. We will read texts on queer forms of intimacy like friendship, chosen families and nonmonogamous erotic attachments by Michel Foucault, Jamie Heckert and Dossie Easton. Finally, we will read a collection of first-person fiction and nonfiction accounts of navigating vulnerability and interpersonal intimacy in the digital age. Students will write a series of short reflection and reading response papers over the course of the semester and engage in a collaborative process of working to form an intellectually and interpersonally intimate learning environment with their peers.</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e79376a1310" role="1" seniority_sort="1">
+                <display_name>Tey Meadow</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

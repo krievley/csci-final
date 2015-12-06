@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123540" class_number="15294" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1052">History and Freedom in German Idealism</title>
+            <notes>theory_subfield  </notes>
+            <description>The high period of German Idealism (from 1781, the date of the publication of Kant's Critique of Pure Reason, to the death of Hegel in 1831) is one of the most revolutionary in the history of philosophy. We shall study the period using the central ideas of history and freedom as our guide and trace how modern ideas regarding freedom, the self, and the historical character of knowledge have their origins in the Idealists' thought.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="CGIS Knafel K050 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e81372a1310" role="1" seniority_sort="1">
+                <display_name>Michael Rosen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

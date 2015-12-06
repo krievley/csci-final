@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128123" class_number="14141" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 48E">Health and Mental Health in Everyday Life</title>
+            <exam_group>FAS14_F</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course adopts interdisciplinary perspectives toward understanding how health and mental health problems and well-being are manifest, if and how common patterns are changing, and how circumstances and contexts impact outcomes. We examine similarities and differences based on gender, race/ethnicity and other personal and social characteristics. Topics include everyday stress, body image, eating disorders, depression, substance abuse, sexual activity and gender-based violence. Throughout, we traverse the boundary between health and illness in order to explore the role of individuals, their social support networks, and health care professionals in developing and guiding positive strategies for coping and healing.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Sever 112 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e212439a1310" role="1" seniority_sort="1">
+                <display_name>Mary Ruggie</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

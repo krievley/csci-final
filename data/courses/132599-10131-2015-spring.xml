@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="132599" class_number="10131" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 2670B">Decision Making and the Psychology of Possibility II</title>
+            <notes> Open to qualified undergraduates. The course requires permission of instructor. Interested students are encouraged to e-mail the instructor in advance at langer@wjh.harvard.edu.</notes>
+            <prereq>Recommended: Psychology 2670a and its prerequisites: Science of Living Systems 20 (or equivalent) and at least one foundational course from PSY 14, PSY 15, PSY 18, or Science of Living Systems 15 are required before enrolling in this course.</prereq>
+            <description>A deeper exploration into the theoretical and experimental issues pertaining to decision making and the psychology of possibility, raised in Psychology 2670a.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e58715a1310" role="1" seniority_sort="1">
+                <display_name>Ellen Langer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

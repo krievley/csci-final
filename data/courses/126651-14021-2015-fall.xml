@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126651" class_number="14021" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCAND 90R">Scandinavian Language Tutorial</title>
+            <notes>For instruction in languages that are not listed (for example, modern Icelandic or Faroese), please consult the Director of Undergraduate Studies for Scandinavian. Not open to auditors.   Maja Marsling Backvall and members of the Department  For instruction in languages that are not listed (for example, modern Icelandic or Faroese), please consult the Director of Undergraduate Studies for Scandinavian. Not open to auditors.</notes>
+            <description>Individualized study of a Scandinavian language at the elementary, intermediate and advanced levels. Contact hours with language coach. Emphasis on literacy. Any language not listed as a course is taught under this number.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="SCAND">Scandinavian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e50006a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Mitchell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

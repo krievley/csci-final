@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159744" class_number="14988" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 174A">Animals and Ethics: Proseminar</title>
+            <exam_group>FAS18_H</exam_group>
+            <notes>The course will be lotteried by application process, administered at the first meeting, on Wednesday, September 9. See the course website for more details.&amp;nbsp; The course is limited to an enrollment of 25 students.  This course, when taken for a letter grade, meets the General Education requirement for Ethical Reasoning.</notes>
+            <description>What, if anything, do we owe to the other animals, and why?&amp;nbsp; Do the other animals have a moral nature, and does it matter to how we treat them whether they do? What can we learn about human morality by thinking about animals?&amp;nbsp; Should or could animals have legal rights? We will consider some answers to these questions, including utilitarian and Kantian approaches and others.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="Barker 114 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e71279a1310" role="1" seniority_sort="1">
+                <display_name>Christine Korsgaard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

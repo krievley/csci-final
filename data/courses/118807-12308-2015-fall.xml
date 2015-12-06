@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118807" class_number="12308" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 24E">The Physics and Applied Physics Freshman Research Laboratory</title>
+            <exam_group>FAS13_D</exam_group>
+            <notes>This class will meet off-campus at the Rowlands Institute at Harvard. Transportation will be provided at no charge to students.  There will be interviews for selected students on August 26-27th. This class will meet off-campus at the Rowlands Institute at Harvard. Transportation will be provided at no charge to students.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Exposes students considering careers in science or engineering to environment of a modern research laboratory. Research teams construct, perform, analyze, and report on cutting-edge experiments in physical, engineering, and biological sciences. Projects provide insight into the mathematical, mechanical, electronic, chemical, computational, and organizational tools and skills that characterize modern experimental science. Past projects focused on atomic, nuclear, and solid state physics, materials science, dynamical systems, and biophysical science. Projects highlight both team and individual effort.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday Friday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e96689a1310" role="1" seniority_sort="1">
+                <display_name>Jene Golovchenko</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

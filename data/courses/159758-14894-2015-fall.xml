@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159758" class_number="14894" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 58">The Body in Christian Thought</title>
+            <exam_group>FAS01_A</exam_group>
+            <description>The course offers an introduction to Christian ideas about the body, by considering central teachings and areas of debate&amp;lsaquo;including understandings of creation, incarnation, healing, and resurrection. Texts include early Christian literatures, Patristic and medieval texts, Reformation theologies, as well as modern and contemporary authors. The course will help students understand the distinctiveness and diversity of Christian positions on these topics.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Sever 201 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63671a1310" role="1" seniority_sort="1">
+                <display_name>Mayra Rivera Rivera</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

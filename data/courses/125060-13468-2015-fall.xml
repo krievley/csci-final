@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125060" class_number="13468" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SPANSH 110">Hispanic Literature: The Middle Ages</title>
+            <exam_group>FAS18_A</exam_group>
+            <notes> Conducted in Spanish. Additional readings and alternate requirements for graduate students seeking to fulfill their General Exam in Medieval Spanish for Non-Specialists.</notes>
+            <description>Introduction to Old Spanish literature from origins through 15th century. Close reading of works in historical context, including: Cantar de M&amp;iacute;o Cid and La Celestina. Includes critical approaches and overarching themes in medieval Iberian literatures.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="SPANSH">Spanish</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="Boylston 335 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42725a1310" role="1" seniority_sort="1">
+                <display_name>Luis Giron Negron</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

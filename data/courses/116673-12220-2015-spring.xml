@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116673" class_number="12220" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 61M">Modern Stories about Paris</title>
+            <notes>Conducted in French. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Students may take no more than two courses at the 60 level. Not open to students who have already taken French 51.   Conducted in French. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Students may take no more than two courses at the 60 level. Not open to students who have already taken French 51.</notes>
+            <prereq>Recommended: French 50 or another French course at the 50 level; 751-780 on the SAT II or the Harvard placement test; or permission of course head.</prereq>
+            <description>This course examines contemporary narratives set in Paris. Students explore writers' and filmmakers' perceptions of Paris and analyze the different ways in which the Parisian experience is presented. By reading and viewing stories about Paris, students gain insights into methods of narration and integrate various techniques into their own writing and speaking. They also develop a sophisticated understanding of how the French language is evolving, especially in its spoken form.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e2417a1310" role="1" seniority_sort="1">
+                <display_name>Ericka Knudson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

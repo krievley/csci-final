@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118925" class_number="14221" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CHEM 30">Organic Chemistry</title>
+            <exam_group>FAS17_A</exam_group>
+            <notes> Chemistry 20 or equivalent.
+Chemistry 27 and 30 may both be taken for degree credit. See note for Chemistry 17.</notes>
+            <prereq>Recommended: See notes section</prereq>
+            <description>Continuation of Chemistry 20. Fundamental principles and advanced topics in organic chemistry. Carbonyl chemistry and pericyclic reactions are covered in particular detail, using principles of stereochemistry, stereoelectronic theory, and molecular orbital theory as a foundation. Students learn about strategies in multi-step organic synthesis and are given an introduction into organometallic chemistry. Laboratory: an introduction to organic chemistry laboratory techniques and experimental organic synthesis.</description>
+            <department code="CHEM">Chemistry</department>
+            <course_group code="CHEM">Chemistry</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="09:59:00" location="Mallinckrodt 023 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e264266a1310" role="1" seniority_sort="1">
+                <display_name>Jacob Sanders</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

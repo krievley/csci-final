@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124113" class_number="13352" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MBB 980A">Conscious States: Waking, Sleeping, and Dreaming</title>
+            <exam_group>FAS09_B</exam_group>
+            <notes>Preference to juniors in MBB tracks or MBB secondary field.  </notes>
+            <description>Focuses on waking, sleeping, and dreaming as examples of conscious states in both humans and animals. Original papers and Antonio Damasio's book (The Feeling of What Happens form the background for discussions of waking, sleeping, and dreaming from the perspectives of neurology, physiology, psychology, and cognitive neurosciences. Discusses various approaches to understanding the functions of sleep and wake (consciousness) and reviews several theories on the topic.</description>
+            <department code="MBB">Mind, Brain, and Behavior</department>
+            <course_group code="MBB">Mind, Brain, and Behavior</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="William James 950 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11881a1310" role="1" seniority_sort="1">
+                <display_name>Robert Stickgold</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

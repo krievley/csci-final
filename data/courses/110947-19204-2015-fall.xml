@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110947" class_number="19204" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MOD-HEB 120A">Intermediate Modern Hebrew I</title>
+            <exam_group>FAS07_D</exam_group>
+            <notes> Conducted primarily in Hebrew. Offered jointly with the Divinity School as 4040.</notes>
+            <prereq>Recommended: Modern Hebrew BA/BB sequence or passing of special departmental placement test.</prereq>
+            <description>The course reinforces and expands knowledge of linguistic and grammatical structures, with emphasis on further developing the four skills. Readings include selections from contemporary Israeli literature, print media, and internet publications. Readings and class discussions cover various facets of Israeli high and popular culture. Conducted primarily in Hebrew. Offered jointly with the Divinity School as 4040. Modern Hebrew B or passing of special departmental placement test.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="MOD-HEB">Modern Hebrew</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+    </course>
+</courses>

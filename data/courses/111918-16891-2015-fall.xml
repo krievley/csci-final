@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111918" class_number="16891" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ISLAMCIV 178">Muslim Societies in South Asia: Religion, Culture, and Identity</title>
+            <exam_group>FAS15_E</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for either Culture and Belief or Societies of the World, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past. Offered jointly with Divinity School as 3625.</notes>
+            <description>South Asia (India, Pakistan, and Bangladesh) is home to the largest concentration of Muslims in the world. This course introduces students to a variety of issues that have characterized the development and evolution of South Asian Muslim communities. While the course will briefly survey the historical development of Islamic and Muslim institutions in the region, its central focus will be the formation of identity - as expressed through language, literature, and the arts - among South Asian Muslim communities. The issues that influence these identities will be considered with regard to the constantly evolving religious and political contexts of South Asia. Special attention will be given to recent attempts to redefine Muslim religious identities through reform and revivalist movements as well as state policies of Islamization. We will look at the impact of these policies on issues such as the status of Muslim women, relations between Muslim and non-Muslims and the growth of sectarian tensions between Muslim groups. The course is appropriate for those who wish to acquire a bird's-eye view of the Islamic tradition in South Asia, as well as those interested in exploring some of the issues confronting Muslim populations in contemporary times.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Sever 106 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25336a1310" role="1" seniority_sort="1">
+                <display_name>Ali S. Asani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

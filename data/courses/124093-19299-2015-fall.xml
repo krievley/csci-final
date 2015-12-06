@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124093" class_number="19299" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN BAB">Beginning German (Intensive)</title>
+            <notes> May not be taken Pass/Fail. Not open to auditors.</notes>
+            <description>A complete first-year course in one term for students with no knowledge of German. Provides an introduction to German language and culture encompassing all four skills: speaking, listening, reading, and writing, as well as an introduction to the culture of the German-speaking countries. Class sessions emphasize the development of oral proficiency. Instruction is supplemented by literary and non-literary texts, videos, and Internet activities.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+        </catalog_info>
+    </course>
+</courses>

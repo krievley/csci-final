@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127519" class_number="14393" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 1432">Economics of European Integrations</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Writing requirement: A research paper is required. This course meets the concentration writing requirement.</notes>
+            <prereq>Recommended: Ec 10a and Ec 10b.</prereq>
+            <description>The aim of the course is to give students familiarity with a broad range of European policy issues: integration of markets (for goods, services, and labor), monetary union (ECB) and its consequences for fiscal policy, financial sector regulation as well as supervision. It is offered for students who would like to employ the tools they have learned in principles of economics and introductory micro and macro courses on real world cases. This implies to write and present a paper (mandatory writing requirement).</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Adolphus Busch LL1" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e40225a1310" role="1" seniority_sort="1">
+                <display_name>Johann-helmut Kotz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

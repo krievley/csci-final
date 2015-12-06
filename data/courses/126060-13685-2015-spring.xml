@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126060" class_number="13685" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 215">Introduction to Computational Biology and Bioinformatics</title>
+            <prereq>Recommended: Good quantitative skills, strong interest in biology, good programming skills in C/C++, Java, Perl or Python.</prereq>
+            <description>Meets with Statistics 115, but graduate students are required to do more coding, complete a research project and submit a written report during reading period in addition to completing all work assigned for Statistics 115.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e1162a1310" role="1" seniority_sort="1">
+                <display_name>Xiaole (Shirley) Liu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

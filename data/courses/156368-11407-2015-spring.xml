@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156368" class_number="11407" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 218">Advanced Semiclassical Methods for Quantum Mechanics</title>
+            <notes> Physics 218 is also offered as Chemistry 218. Only one of the two courses may be taken for credit.</notes>
+            <prereq>Recommended: Physics 151 and 143a, b or equivalent; Applied Math 201, 202 or equivalent.</prereq>
+            <description>Sound and music are integral parts of all human cultures, and play critical roles in communications and social interactions. In this course, we study the production, transmission, and perception of sound, with the aim of expanding communication, musical, and artistic horizons. The course&amp;nbsp; includes many class demos and hands on tools for students to explore. Psychoacoustics (the study of how we perceive sound) is a central theme of the course, providing a lens through which we can better understand the generation, propagation, and analysis of sound. Student-selected projects (with staff consultation) are an important part of the course.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e28720a1310" role="1" seniority_sort="1">
+                <display_name>Eric Heller</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

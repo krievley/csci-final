@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146620" class_number="14347" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 185">Genetic Conflict</title>
+            <description>Some genes cheat random inheritance to gain disproportionate representation in progeny. The results for organisms range from beneficial to strongly detrimental; some may even cause extinction. The evolution of selfish elements and their suppressors is a rich drama that unfolds in genomes with important implications for evolution, speciation, human and animal health, and agriculture. This course will explore the mechanisms by which genes or chromosomes cheat, and counterstrategies that evolve to thwart them.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

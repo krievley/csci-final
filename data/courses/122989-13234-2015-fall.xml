@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122989" class_number="13234" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 97">Tutorial I</title>
+            <exam_group>FAS06_A</exam_group>
+            <notes> Required of all concentrators, and for the secondary field in philosophy.  Phil 97 is not shopped.  Students who plan to take this course should submit their preferences to the Head Tutor's Office before the beginning of term.  Please consult the course web site for details and deadlines.</notes>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Emerson 310 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e44734a1310" role="1" seniority_sort="2">
+                <display_name>Bernhard Nickel</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

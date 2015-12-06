@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142998" class_number="14323" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APPHY 282">Solids: Structure and Defects</title>
+            <exam_group>FAS16_A</exam_group>
+            <notes> Intended for students in applied mechanics, materials science, condensed matter physics, and chemistry.</notes>
+            <description>Bonding, crystallography, diffraction, phase diagrams, microstructure, point defects, dislocations, and grain boundaries.</description>
+            <department code="APPHYS">Applied Physics</department>
+            <course_group code="APPHY">Applied Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="09:59:00" location="Pierce 209 (SEAS)" start_time="08:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e83561a1310" role="1" seniority_sort="1">
+                <display_name>Frans Spaepen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

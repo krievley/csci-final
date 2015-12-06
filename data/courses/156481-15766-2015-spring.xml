@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156481" class_number="15766" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 170">Images in Motion: Time and Space in Film and Literature</title>
+            <description>This course will is look at the universal language of images through masterpieces of film and literature, comparing films with works of literature that address similar topics, configuring them as temporal arts turned spatial through the use of a magical mechanism. How do verbal and visual images capture time on film and on the page? We will explore questions of memory and oblivion, war and peace, desire and loss, in films by Martin Scorcese, Andrei Tarkovsky, Wong Kar Wai, Volker SchlÃ¶ndorff, Michael Gondry, and others, and in works by Shakespeare, Tolstoy, Woolf, Calvino, and Pamuk.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e99046a1310" role="1" seniority_sort="1">
+                <display_name>Delia Ungureanu</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

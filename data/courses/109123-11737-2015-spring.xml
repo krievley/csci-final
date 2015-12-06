@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109123" class_number="11737" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HBTM 353">Mechanobiology and Developmental Control</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="HBTM">Human Biology and Translational Medicine</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e2600a1310" role="1" seniority_sort="1">
+                <display_name>Donald Ingber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

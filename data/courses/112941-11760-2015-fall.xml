@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112941" class_number="11760" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 300">Direction of Doctoral Dissertations</title>
+            <notes> Under special circumstances arrangements may be made for other instruction in guidance for doctoral dissertations.</notes>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e94588a1310" role="1" seniority_sort="1">
+                <display_name>Allan Brandt</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

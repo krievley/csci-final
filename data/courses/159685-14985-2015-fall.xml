@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159685" class_number="14985" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 105">Stoicism: Proseminar</title>
+            <exam_group>FAS14_F</exam_group>
+            <description>Stoicism was by far the most systematic and influential of the philosophical schools that arose in the &amp;lsquo;Hellenistic&amp;rsquo; period between the death of Aristotle (322 BCE) and the end of the Roman republic (31 BCE); its significance as a tradition in ancient philosophy is second only to that of Socrates, Plato and Aristotle, with which it is to some extent continuous. The writings of the Greek founders, starting with Zeno of Citium in the early third century BCE, now exist only in quotations and paraphrases in later authors, but Roman Stoicism is well attested in complete surviving works of Cicero, Seneca and others. A version of Stoic ethics became something of a default guide to life for generations of well-born Romans.In this course we will read the main surviving texts of Stoicism, and examine Stoic ideas under the three headings of physics/metaphysics, ethics and logic. The Stoics developed the first detailed and systematic account of nature that can be thought of as materialist, and the first such account of ethics based on the idea of natural law. They also made the first and perhaps only significant advances in logic between Aristotle and the Middle Ages.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="Emerson 307 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e164621a1310" role="1" seniority_sort="1">
+                <display_name>James Doyle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

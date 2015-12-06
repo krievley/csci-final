@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160005" class_number="15376" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 270U">Utopias and Dystopias: Graduate Seminar</title>
+            <notes>This course meets in conjunction with American Studies 201.  This course meets in conjunction with American Studies 201. Students may not enroll in Am Studies 201for credit.</notes>
+            <description>This interdisciplinary and transnational course examines the rich tradition of utopian and dystopian societies and literature from the Bible and classical antiquity to the present, with a particular focus on the United States.&amp;nbsp; We explore a wide variety of utopian societies, especially those inspired by religious belief, from communal and aesthetic experiments to conceptions of America as a utopia.&amp;nbsp; Readings range from scripture and fiction to philosophy, history, sociology, political documents, letters, autobiography, and film.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Robinson Warren Rm (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e57590a1310" role="1" seniority_sort="1">
+                <display_name>John Stauffer</display_name>
+            </person>
+            <person id="d1e64032a1310" role="1" seniority_sort="2">
+                <display_name>Dan McKanan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

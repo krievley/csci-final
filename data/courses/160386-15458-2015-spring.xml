@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160386" class_number="15458" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 3920B">Colloquium on Teaching Practices</title>
+            <description>Required of and open only to all third-year history department graduate students.&amp;nbsp; Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e38688a1310" role="1" seniority_sort="1">
+                <display_name>Alison Frank Johnson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

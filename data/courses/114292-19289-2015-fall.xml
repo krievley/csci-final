@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114292" class_number="19289" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="JAPAN 130A">Intermediate Japanese II</title>
+            <prereq>Recommended: Japanese 120b or equivalent.</prereq>
+            <description>Third-year intermediate advanced course. Development of skills in reading authentic materials from contemporary Japanese media and fiction and in aural comprehension of contemporary television news and drama with decreased reliance on pedagogical aids. Development of speaking and writing skills to an increasingly sophisticated level. Introduction of approximately 200 additional Chinese characters beyond those introduced in 120b.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPAN">Japanese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

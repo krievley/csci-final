@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117877" class_number="12330" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 204">Classical Social Theory</title>
+            <exam_group>FAS13_G</exam_group>
+            <notes> Required of and limited to first-year graduate students in Sociology.</notes>
+            <description>Introduction to the formative ideas and socio-intellectual contexts of 19th and early 20th century sociological theory. Course will explore social thought from the perspective provided by the problem of social order - and the roles different thinkers attributed to such factors as solidarity, power, and meaning as solutions to this problem. Consideration of the continuing significance of these ideas for contemporary social thought.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="William James 601 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e56697a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Desmond</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

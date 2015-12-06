@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156509" class_number="16025" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 190">The Horror Film and Beyond: The Possibilities of Horror</title>
+            <notes> This course has a mandatory weekly film screening on Mondays 1pm to 4pm.</notes>
+            <prereq>Recommended: No background in film theory or history necessary.</prereq>
+            <description>This course will approach the horror genre through its margins: cross-generic hybrids, slapstick comedies, surreal fantasies, art-house fare, etc. We will explore not simply the nature of horror and the horrific, but what filmmakers gain by engaging with the genre, and by tapping into its visceral appeal. How, and why, do filmmakers use (and perhaps abuse) the horror genre? This course includes a mandatory weekly film screening.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e280604a1310" role="1" seniority_sort="1">
+                <display_name>Adam Hart</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

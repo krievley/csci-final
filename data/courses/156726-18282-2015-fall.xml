@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156726" class_number="18282" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 256">Informal Robotics/New Paradigms for Design and Construction</title>
+            <exam_group>FAS14_F</exam_group>
+            <notes> This course does not count for concentration credit for SEAS undergraduate concentrators; this course does not count as a disciplinary course for SEAS Ph.D. students. Offered jointly with the Design School as SCI-06478 and will meet at GSD. For more information, see &lt;a href="http://www.gsd.harvard.edu/#/academics/courses/sci-06478-fall-2015.html"&gt;www.gsd.harvard.edu/#/academics/courses/sci-06478-fall-2015.html&lt;/a&gt;.  The first meeting of the course will be Tuesday 9/1 from 9am-12pm.</notes>
+            <prereq>Recommended: There are no strict prerequisites; however, those taking the class should have a strong interest in working at the intersection between technology and design. Some knowledge of mechanism design, use of CAD software, and/or exposure to electronics and controls are beneficial.</prereq>
+            <description>Today, robotic devices are being made from folded paper, carbon laminates or soft gels. Rather than assembled, they can be formed directly from 2D or 3D printer. These Informal robots are light, flexible, compliant, highly customized, and demonstrate programmable behavior that is closely coupled with material composition. Taught in collaboration with the Wyss Institute, the course will focus on techniques to create original robotic devices. Lectures will be organized along four primary topics: Kinematics, Fabrication, Controls and Applications. There will be assignments to produce test mechanisms and CAD models, followed by semester-long group projects.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63383a1310" role="1" seniority_sort="1">
+                <display_name>Chuck Hoberman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

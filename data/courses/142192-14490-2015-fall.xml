@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142192" class_number="14490" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 114">Vertebrate Viviparity</title>
+            <exam_group>FAS07_A</exam_group>
+            <prereq>Recommended: Life Sciences 1b or permission of instructor.</prereq>
+            <description>Viviparity has evolved many times in vertebrate phylogeny. The course reviews the diversity of parental care in vertebrates and explores the selective forces that have favored the evolution of live-bearing. The evidence for intergenerational conflicts is considered.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Museum of Comp Zool 101 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e110220a1310" role="1" seniority_sort="1">
+                <display_name>David Haig</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

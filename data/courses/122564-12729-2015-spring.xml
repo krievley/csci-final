@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122564" class_number="12729" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APMTH 50">Introduction to Applied Mathematics</title>
+            <prereq>Recommended: Mathematics 1b is a prerequisite, although it can be taken concurrently. Some limited concepts from Mathematics 21a / Applied Mathematics 21a will be used, but they can be learned during the course. The course provides an introduction to programming with a mathematical focus, and starts from the level of a complete beginner; in the past, some students have found Computer Science 50 helpful, although this is not required.</prereq>
+            <description>This course provides an introduction to the problems and issues of applied mathematics, focusing on areas where mathematical ideas have had a major impact on diverse fields of human inquiry. The course is organized around two-week topics drawn from a variety of fields, and involves reading classic mathematical papers in each topic. The course also provides an introduction to mathematical modeling and programming.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e67023a1310" role="1" seniority_sort="1">
+                <display_name>Christopher Rycroft</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

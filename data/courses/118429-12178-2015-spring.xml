@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118429" class_number="12178" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 118R">Dynamical Systems</title>
+            <prereq>Recommended: Mathematics 19a,b or 21a,b or Math 23a,b or Math 25a,b or Math 55a,b; or an equivalent background in mathematics.</prereq>
+            <description>Introduction to dynamical systems theory with a view toward applications. Topics include existence and uniqueness theorems for flows, qualitative study of equilibria and attractors, iterated maps, and bifurcation theory.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e215546a1310" role="1" seniority_sort="1">
+                <display_name>Fabian Haiden</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122813" class_number="12992" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPSCI 262">Introduction to Distributed Computing</title>
+            <prereq>Recommended: Computer Science 161 or permission of instructor.</prereq>
+            <description>An examination of the special problems associated with distributed computing such as partial failure, lack of global knowledge, asynchrony and coordination of time, and protocols that function in the face of these problems. Emphasis on both the theory that grounds thinking about these systems and in the ways to design and build such systems.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e215695a1310" role="1" seniority_sort="1">
+                <display_name>James Waldo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

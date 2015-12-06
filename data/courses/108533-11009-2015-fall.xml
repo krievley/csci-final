@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108533" class_number="11009" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1513">History of Modern Latin America</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Societies of the World. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>This course surveys Latin America from its 19th-century independence movements through the present day. How did the powerful legacies of European colonialism, and the neocolonial economic order that emerged to replace it, shape the Americas' new nations? Themes include nationalism and identity, revolution and counterrevolution, populism, state formation, race and ethnicity, gender and sexuality, social movements, the role of foreign powers, inequality and social class, dictatorship, democratization, and human rights.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Harvard Hall 202 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e27736a1310" role="1" seniority_sort="1">
+                <display_name>Kirsten Weld</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

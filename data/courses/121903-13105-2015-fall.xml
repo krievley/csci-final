@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121903" class_number="13105" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 31N">Beauty and Christianity</title>
+            <exam_group>FAS14_H</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Jesus has inspired great works of art, literature, and music, but Christians have not always agreed on the function of beauty. This seminar will consider Christian aesthetics, art (Italian Renaissance), and music (Bach, Messiaen, and spirituals), but the focus will be on literary works of St. Francis, Dante, Herbert, Donne, Hopkins, Hawthorne, Melville, C.S. Lewis, and O'Connor. The abiding question will be: In what ways does aesthetic form-- beauty-- enhance, qualify, complicate, or obscure the gospel?</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Sever 205 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e262270a1310" role="1" seniority_sort="1">
+                <display_name>Robert Kiely</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

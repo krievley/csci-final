@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124885" class_number="13463" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 42N">Comparative National Security of Middle Eastern Countries</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The course surveys the national security threats and opportunities facing the primary countries of the Middle East, from their perspective. Issues discussed include the domestic sources of national security considerations, including regime change and the impact of the Arab Spring, relations with regional and international players, military doctrine, foreign policy principles. The seminar is an interactive, "real world" exercise, in which students play the role of leaders in the countries of their choosing and write practical policy recommendations on current affairs.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

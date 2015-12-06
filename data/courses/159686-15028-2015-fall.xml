@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159686" class_number="15028" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PHIL 247A">Meanings as Species: Seminar</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>We will develop an analogy between linguistic entities (words, meanings) and biological entities (population lineages, species).&amp;nbsp; The goal is to give an account&amp;nbsp; that acknowledges&amp;nbsp; what is correct in Quine&amp;rsquo;s criticisms of analyticity and reference determinacy while giving the notion of meaning a descriptive and explanatory role.&amp;nbsp; Seminar participants need to have philosophical sophistication; they need not have extensive knowledge of the philosophy of language or the philosophy of biology.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Emerson 310 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e69824a1310" role="1" seniority_sort="1">
+                <display_name>Mark Richard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

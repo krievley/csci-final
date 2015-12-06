@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126974" class_number="16902" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HAA 271K">The Enemy: Law and the Human</title>
+            <description>The friend-foe distinction, particularly as understood by legal theorist Carl Schmitt, poses fundamental problems for law, politics, and culture.&amp;nbsp; This course studies Schmitt&amp;#39;s concept of the enemy in its historical context, in relation to alternative accounts (by St. Paul, Machiavelli, Hobbes, Madison, Nietzsche, Benjamin, Agamben, and others) and for its relevance to constitutional law and history of art).</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e22191a1310" role="1" seniority_sort="1">
+                <display_name>Joseph Koerner</display_name>
+            </person>
+            <person id="d1e131160a1310" role="1" seniority_sort="2">
+                <display_name>Noah Feldman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

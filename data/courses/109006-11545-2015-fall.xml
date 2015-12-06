@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109006" class_number="11545" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SHBT 300">Auditory neural coding laboratory</title>
+            <description>Research projects on the neural coding of sound and the neural basis of auditory perception, with emphasis on the mechanisms for listening in adverse environments comprising reverberation and competing sound sources.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e15430a1310" role="1" seniority_sort="1">
+                <display_name>Bertrand Delgutte</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

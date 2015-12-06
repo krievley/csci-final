@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110315" class_number="10971" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="DRB 331">Critical Analysis and Experimental Approaches in Developmental Biology</title>
+            <notes>January 2016 dates TBA.  This is an intensive January course. Open to first-year and second-year BBS students; Not repeatable for credit.</notes>
+            <description>This course will provide a survey of major topics and contemporary research in developmental and regenerative biology. Students will rotate in the laboratories of DRB faculty across the Harvard campuses and affiliated hospitals. Students engage with faculty and gain hands on experience in a variety of model systems, techniques and research areas. Each day of the course will consist of a lecture followed by hands-on laboratory activities and interactive discussions. Students will be required to complete the lab experience and the following assignments: lead two chalk-talk format paper presentations, and write one 5-6 page research proposal.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="DRB">Developmental and Regenerative Biology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday Saturday" end_time="17:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e206551a1310" role="1" seniority_sort="1">
+                <display_name>Paola Arlotta</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

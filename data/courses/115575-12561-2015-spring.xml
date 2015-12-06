@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115575" class_number="12561" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 3220">Developmental Studies: Seminar</title>
+            <notes>Elizabeth S. Spelke 3850 (fall term) and Susan E. Carey 4113 (spring term)  </notes>
+            <description>Research seminar open to graduate students conducting research in cognitive development.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="15:59:00" location="" start_time="14:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e85512a1310" role="1" seniority_sort="1">
+                <display_name>Susan Carey</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124134" class_number="14409" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 2010A">Economic Theory</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> Enrollment is limited to students in the Economics and Business Economics PhD programs.</notes>
+            <prereq>Recommended: Mathematics 116 or equivalent; can be taken concurrently.</prereq>
+            <description>Covers the theory of individual and group behavior. Topics include consumer theory, producer theory, behavior under uncertainty, externalities, monopolistic distortions, game theory, oligopolistic behavior, and asymmetric information.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Holden Chapel Classroom (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e60731a1310" role="1" seniority_sort="1">
+                <display_name>Edward Glaeser</display_name>
+            </person>
+            <person id="d1e96a1310" role="2" seniority_sort="2">
+                <display_name>Eric Maskin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

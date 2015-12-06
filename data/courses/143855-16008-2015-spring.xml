@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143855" class_number="16008" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="APPHY 295A">Introduction to Quantum Theory of Solids</title>
+            <notes> Applied Physics 295a is also offered as Physics 295a. Students may not take both for credit.</notes>
+            <prereq>Recommended: Applied Physics 195 or equivalent, and a graduate level quantum mechanics course similar to Physics 251a. (Physics 251b would be helpful and may be taken concurrently.)</prereq>
+            <description>Electrical, optical, thermal, magnetic, and mechanical properties of solids will be treated based on an atomic scale picture and using the independent electron approximation. Metals, semiconductors, and insulators will be covered, with possible special topics such as superconductivity.</description>
+            <department code="APPHYS">Applied Physics</department>
+            <course_group code="APPHY">Applied Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e17757a1310" role="1" seniority_sort="1">
+                <display_name>Efthimios Kaxiras</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

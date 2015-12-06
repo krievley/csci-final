@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114155" class_number="14874" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 159">Epistemology</title>
+            <notes>Friday meetings will be held at the discretion of the instructor.  </notes>
+            <description>An introduction to the theory of knowledge. Topics could include: the analysis of knowledge, the nature of the a priori, the regress problem, foundationalism vs. coherentism, internalism vs. externalism, naturalized epistemology, and skepticism.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e71694a1310" role="1" seniority_sort="1">
+                <display_name>Selim Berker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

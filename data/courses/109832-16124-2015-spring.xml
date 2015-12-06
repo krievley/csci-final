@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109832" class_number="16124" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 225">How to Read Drama: Theater History/Theories of Representation</title>
+            <notes> Conducted in French.</notes>
+            <description>Examines French drama from the early-modern stage to post-dramatic theater from literary, theoretical, historical, and visual culture perspectives. We read dramatic texts (16th-21st century), theories of performance, visual sources, treatises on acting.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e43415a1310" role="1" seniority_sort="1">
+                <display_name>Sylvaine Guyot</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

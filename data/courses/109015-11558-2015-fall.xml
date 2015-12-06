@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109015" class_number="11558" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SHBT 301QC">Speech and Hearing Laboratory Visits</title>
+            <description>Research on topics in theoretical, experimental, clinical, or translational aspects of Speech and Hearing Sciences arranged on an individual basis with a research supervisor.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Laboratory Research</course_type>
+            <credits>2</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e15430a1310" role="1" seniority_sort="1">
+                <display_name>Bertrand Delgutte</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

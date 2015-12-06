@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145863" class_number="13893" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 231">Adaptation</title>
+            <description>This discussion-based course covers the latest advances in the study of adaptation with a focus on controversial issues and integrative approaches. The course combines readings from recent primary literature with discussion with experts via video conferencing.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

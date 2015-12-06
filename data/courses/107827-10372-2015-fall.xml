@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107827" class_number="10372" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 910R">Supervised Reading and Research</title>
+            <notes>Hours to be arranged   Rebecca Toseland  Does not count for concentration credit and may not be taken Pass/Fail. Requires signatures of the faculty adviser and an Economics Department Lecturer/Advisor. Application available at the Economics Undergraduate Office at Littauer Center, North Yard.</notes>
+            <description>Supervised reading--by an economics faculty member--leading to a long term paper on a topic or topics not covered by regular courses.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e33618a1310" role="1" seniority_sort="1">
+                <display_name>Rebecca Toseland</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

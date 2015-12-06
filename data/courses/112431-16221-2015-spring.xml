@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112431" class_number="16221" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BPH 210">Pathophysiology of Human Disease</title>
+            <notes> Offered jointly with the Medical School as BPH 729.0 and with the School of Public Health as EH 208.</notes>
+            <prereq>Recommended: A college-level human physiology course.</prereq>
+            <description>Surveys major human disease problems in the cardiovascular, respiratory, hematopoietic, reproductive, and gastrointestinal systems. Emphasis on understanding the pathophysiologic basis of common disease manifestations and the pathogenesis of the disease process.</description>
+            <department code="BSPH">Biological Sciences in Public Health</department>
+            <course_group code="BPH">Biological Sciences in Public Health</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Friday" end_time="15:20:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e180318a1310" role="1" seniority_sort="1">
+                <display_name>Lester Kobzik</display_name>
+            </person>
+            <person id="d1e419884a1310" role="1" seniority_sort="2">
+                <display_name>Alexey Fedulov</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

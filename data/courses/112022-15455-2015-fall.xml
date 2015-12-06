@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112022" class_number="15455" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ASTRON 218">Radio Astronomy</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes> This course offered in alternate years.</notes>
+            <prereq>Prerequisite: Astronomy 200 OR Physics 153</prereq>
+            <description>Historical development; diffraction theory of antennas and interferometers; signal detection and measurement techniques. Thermal, synchrotron and spectral-line emission in the context of radio observations of the sun, planets, pulsars, masers, hydrogen clouds, molecular clouds, ionized regions, active galaxies, quasars, and the cosmic background. Observational projects and laboratory exercises carried out with the Submillimeter Array, Haystack Observatory and the CMB Laboratory.</description>
+            <department code="ASTR">Astronomy</department>
+            <course_group code="ASTRON">Astronomy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:29:00" location="Observatory A 101 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e192865a1310" role="1" seniority_sort="1">
+                <display_name>Lincoln Greenhill</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

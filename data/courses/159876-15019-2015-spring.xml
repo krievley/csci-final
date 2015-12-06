@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159876" class_number="15019" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ARABIC AB">Elementary Arabic</title>
+            <notes>If this 9am section is full, please register for section 005, also at 9am.  Offered jointly with the Divinity School as 4345.
+
+Not open to auditors. Cannot be taken pass/fail. Arabic AA/AB is an indivisible year-long course. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</notes>
+            <description>Introduces students to the phonology and script of classical/modern standard Arabic and covers the basic morphology and syntax of the written language. Emphasis on the development of the four skills (reading, speaking, listening, and writing). Samples of modern (contemporary) and classical styles of writing introduced into basic syllabus, and audio-visual material from the contemporary Arabic media. Required textbooks: (1)&amp;nbsp;Alif Baa&amp;nbsp;(with multimedia), 2nd edition. (2)&amp;nbsp;Al-Kitaab fii Ta&amp;#39;allum al-&amp;#39;Arabiyya:, Part I, 2nd edition. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ARABIC">Arabic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="09:59:00" location="" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e32587a1310" role="1" seniority_sort="1">
+                <display_name>Dalia Abo-Haggar</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

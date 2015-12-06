@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110807" class_number="15490" school_id="fas" section="003" term_code="spring">
+        <catalog_info>
+            <title short_title="ANE 330">Reading and Research in Biblical Studies</title>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ANE">Ancient Near East</course_group>
+            <course_type>Reading Course</course_type>
+            <credits>16</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e7799a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Teeter</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

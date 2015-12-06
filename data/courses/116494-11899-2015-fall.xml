@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116494" class_number="11899" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIND-URD 103AR">Advanced Hindi-Urdu</title>
+            <exam_group>FAS13_B</exam_group>
+            <notes> Not open to auditors.</notes>
+            <prereq>Recommended: Hindi-Urdu 102 or equivalent.</prereq>
+            <description>Continuation of Hindi-Urdu 102; covers topics in advanced grammar; designed to improve proficiency in speaking, listening, reading, and writing.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="HIND-URD">Hindi-Urdu</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Thursday" end_time="15:59:00" location="1 Bow St 330 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e23846a1310" role="1" seniority_sort="11">
+                <display_name>Richard Delacy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

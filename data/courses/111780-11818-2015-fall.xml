@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111780" class_number="11818" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 131">African American Literature from the Beginnings to the Harlem Renaissance</title>
+            <exam_group>FAS07_B</exam_group>
+            <description>Close readings of major writers in the context of cultural history. I) Literature and folk culture in the slavery period: Phillis Wheatley, Olaudah Equiano, Omar Ibn Said, Victor Sejour, Lydia Maria Child, Fredrick Douglass, Harriet Beecher Stowe, William Wells Brown, Frank Webb, Martin Robison Delany, and Harriet Jacobs. II) &amp;quot;Post-bellum, pre-Harlem&amp;quot;: Charles W. Chesnutt, Paul Laurence Dunbar, Pauline Hopkins, Du Bois, Booker T. Washington, and James Weldon Johnson. We examine diverse genres - from slave narratives, novels, and poems to plays, speeches, and song lyrics and end with Jean Toomer&amp;#39;s Cane.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Barker 230 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e55983a1310" role="1" seniority_sort="1">
+                <display_name>Jamaica Kincaid</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

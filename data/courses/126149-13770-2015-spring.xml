@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126149" class_number="13770" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SCIPHUNV 22">The Unity of Science: From the Big Bang to the Brontosaurus and Beyond</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Science of Living Systems, but not both.</notes>
+            <description>Science is like well-woven, ever-expanding fabric, designed to (un)cover Nature's secrets. This course emphasizes the strong connections between subfields of science, showing it as the never-ending and greatest detective story ever told, with evidence always the arbiter. These characteristics are exhibited in the semi-historical treatment of three themes: unveiling the universe, the earth and its fossils, and the story of life.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e106018a1310" role="1" seniority_sort="1">
+                <display_name>Irwin Shapiro</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

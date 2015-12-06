@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127206" class_number="13920" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HEB 1210">Research in Comparative Biomechanics: Seminar</title>
+            <notes> This course counts towards the research seminar requirement in Human Evolutionary Biology.</notes>
+            <prereq>Recommended: Life Sciences 2 required</prereq>
+            <description>Introduces students to experimental techniques used to investigate the structure and physiology of humans. Students undertake a supervised research project in the Skeletal Biology and Biomechanics Laboratory. Students meet to introduce their project, discuss their work and progress, and to present their final results. An extensive commitment of time in the laboratory is required. Grades are based on the work completed, the oral presentation, and a short research paper.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e113417a1310" role="1" seniority_sort="1">
+                <display_name>Daniel Lieberman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

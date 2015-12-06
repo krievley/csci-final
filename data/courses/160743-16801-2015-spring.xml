@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160743" class_number="16801" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH CDPR">Devotional Poetry</title>
+            <description>In this workshop we will focus on the devotional poetry of John Donne, George Herbert, Henry Vaughan, and GM Hopkins, looking first into certain texts of the Old Testament&amp;mdash;Psalms, Song of Solomon, Book of Job&amp;mdash;from which so much of devotional poetry extends. In conversation with these four poets, students can expect to build and execute their own plaintive lyric &amp;ldquo;I,&amp;rdquo; design new ecstatic/meditative soundscape, and plan and deliver the imagistic configurations that will best give them direct-line access to the God (or gods) of their own choice or invention.&amp;nbsp;As this a poetry workshop, all assignments will be creative.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e21702a1310" role="1" seniority_sort="1">
+                <display_name>Joshua Bell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

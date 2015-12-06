@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128115" class_number="14139" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 103">Grounds for Comparison</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>This seminar provides an introduction to literary studies in a global age. How do writers refract and transform the world around them, and the world beyond their borders? How do they celebrate or challenge their society's values and rethink their literary heritage? Writers in every culture have mobilized the resources of poetic language and literary form to delight and instruct their readers, while critics and theorists have sought to understand how writers achieve their effects. Through close reading of a range of compelling works, accompanied by major critical and theoretical statements, we will explore the relations of literature to society and theory to literature, focusing on a set of interconnected themes: travel and self-discovery, empires and their aftermath, and the politics of language and of cultural memory.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Dana Palmer 102 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42860a1310" role="1" seniority_sort="1">
+                <display_name>David Damrosch</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

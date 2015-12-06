@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107973" class_number="15599" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1155">Early Modern Europe, 1450-1789</title>
+            <description>This survey course explores European history from the end of the Middle Ages to the eighteenth century. Topics include the Renaissance in Southern and Northern Europe, the Reformation and the wars of religion, the rise of Absolutism, the Enlightenment, and the French Revolution. The course will introduce students to key figures (such as Machiavelli, Luther, Montaigne, Bacon, and Kant) as well as to topics in cultural and everyday history.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e222983a1310" role="1" seniority_sort="1">
+                <display_name>Michael Tworek</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

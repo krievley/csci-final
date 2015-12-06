@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109545" class_number="10413" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="TDM 151">Scenography Studio</title>
+            <notes>Sara Brown (Massachusetts Institute of Technology)  </notes>
+            <description>Theater designers use figures, space, objects, time and light to create environments that are integral to performance events. The potential for action and the integration with the performance as a whole is key to the design process. Like any artist, the designer needs to create visual studies to explore possibilities and communicate ideas. In Scenography Studio students will respond to architecture, photography, fiction, painting, sculpture, etc., to develop a series of performance design projects. In the course of developing these projects, students will gain skills in a variety of digital and manual media as well as study significant 20th and 21st century artists and theorists. Artists studied include but are not limited to - Robert Rauschenberg - John Cage - Sol LeWitt - Adolph Appia - Richard Serra - Alan Kaprow - Cindy Sherman - Italo Calvino - Bertolt Brecht.</description>
+            <department code="DRAM">Theater, Dance, and Media</department>
+            <course_group code="TDM">Theater, Dance, and Media</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e341042a1310" role="1" seniority_sort="1">
+                <display_name>Sara Brown</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

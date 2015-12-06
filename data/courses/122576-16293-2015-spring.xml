@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122576" class_number="16293" school_id="fas" section="001D" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSCI 3">Electromagnetism, Circuits, Waves, Optics, and Imaging</title>
+            <notes> This course is part of an integrated introduction to the physical sciences intended for students who plan to pursue a concentration in the life sciences and/or satisfy pre-medical requirements in Physics. May not ordinarily be taken for credit in addition to Physics 1b, 11b, or 15b. This course, when taken for a letter grade, meets the General Education requirement for Science of the Physical Universe or Empirical and Mathematical Reasoning, but not both.</notes>
+            <prereq>Recommended: Physical Sciences 2 (or Physics 1a or 11a), Mathematics 1b, or equivalent.</prereq>
+            <description>This course is an introduction to electromagnetism, digital information, waves, optics and sound. Topics covered include: electric and magnetic fields, electrical potential, circuits, simple digital circuits, wave propagation in various media, microscopy, sound and hearing. The course will draw upon a variety of applications to the biological sciences and will use real-world examples to illustrate many of the physical principles described. There are six laboratories.</description>
+            <department code="PSCI">Physical Sciences</department>
+            <course_group code="PHYSCI">Physical Sciences Physical Sciences Physical Sciences</course_group>
+            <course_type>Discussion</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

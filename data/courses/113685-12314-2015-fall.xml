@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113685" class_number="12314" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="TIBET 101A">Elementary Classical Tibetan</title>
+            <exam_group>FAS16_A</exam_group>
+            <description>An introductory course designed for students with no background in classical Tibetan. Students begin with the Tibetan script, its standard transliteration into Roman characters, and pronunciation before proceeding to the basics of Tibetan grammar. After mastering a foundational vocabulary, students begin translating simple Tibetan texts.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="TIBET">Tibetan</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="17:29:00" location="1 Bow St 317 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e29454a1310" role="1" seniority_sort="1">
+                <display_name>Leonard W. J. van der Kuijp</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

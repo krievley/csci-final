@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159910" class_number="15071" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 985LB">Research in Development and Health Economics</title>
+            <description>Workshop for seniors writing theses. Especially for topics in development or health economics, but open to all fields. Emphasis on choice of research topics, methodology, and data sources. Course requires written and oral presentations of work in progress leading toward completion of a major research paper or senior honors thesis. Part two of a two part series.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e10124a1310" role="1" seniority_sort="1">
+                <display_name>Kiran Gajwani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

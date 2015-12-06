@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116133" class_number="15462" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1640">Industrial Organization: Theory and Applications</title>
+            <notes> Students may not take both Economics 1640 and Economics 1641 for credit.</notes>
+            <prereq>Recommended: Economics 1010a1, 1010a2, or 1011a.</prereq>
+            <description>Theoretical and empirical analysis of contemporary topics in industrial organization.&amp;nbsp; Topics may include the determinants of market structure and equilibrium; price competition; collusion, horizontal and vertical relationships and mergers (with applications to antitrust policy); innovation and intellectual property rights; network externalities and platform (two-sided) markets; and issues in auctions and market design.Prerequisite: Ec1010a or 1011a</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e174257a1310" role="1" seniority_sort="1">
+                <display_name>Robin Lee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

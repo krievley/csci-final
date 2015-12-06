@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160564" class_number="16340" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 270V">Post WW-II Architecture and the 'Crisis in Culture'</title>
+            <exam_group>FAS13_E</exam_group>
+            <description>This seminar addresses the work of key figures of postwar architecture in relation to major philosophical and political themes of the period:&amp;nbsp;discourses on beauty and democracy, humanism&amp;nbsp;and monumentality, mass culture and camp, religion and technology, as well as the relationship between ancient civilizations and modern ideals.&amp;nbsp;Particular focus on the conflicted legacies of American&amp;nbsp;architects such as Bunshaft, Stone, and Johnson and&amp;nbsp;writings by Arendt and Scully, among others.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="16:59:00" location="Sackler Museum 119" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e161665a1310" role="1" seniority_sort="1">
+                <display_name>Jeffrey Lieber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

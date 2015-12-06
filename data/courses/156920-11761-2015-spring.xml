@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156920" class_number="11761" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1812">Cities of the Global South: Seminar</title>
+            <notes>W., 2&amp;#8211;4 with film screenings to be arranged   </notes>
+            <description>What do the sprawling cities of the global South tell us about the contemporary urban condition? How is urban space produced and experienced in an era of increased interconnectedness, but also of great inequality and instability? How does the view from the South change our understanding of urban forms and processes, especially when so much of the &amp;quot;South&amp;quot; seems to be located in the &amp;quot;North&amp;quot;? To address these questions we will explore urban lives and spaces across cities in Africa, Asia, Latin America, and the Middle East. The course will include works in anthropology, geography, urban studies, and documentary film.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

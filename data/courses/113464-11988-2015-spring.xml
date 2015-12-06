@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113464" class_number="11988" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH MB">Introduction to Functions and Calculus II</title>
+            <notes>Required first meeting: Monday, January 25, 8:30 am, Science Center A.  Spring Section Times: Section I: M., W., F., at 10; Section II: M. W., F., at 11; Section III: M., W., F., at 12 (with sufficient enrollment); and a twice weekly lab session to be arranged.  Brendan Kelly, Sarah Chisholm, and members of the Department  This is a lecture course taught in small sections. In addition, participation in two one-hour workshops is required each week. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning. This course, when taken together with Mathematics Ma, can be followed by Mathematics 1b.</notes>
+            <prereq>Prerequisite: Mathematics MA</prereq>
+            <description>Continued investigation of functions and differential calculus through modeling; an introduction to integration with applications; an introduction to differential equations. Solid preparation for Mathematics 1b.&amp;nbsp;&amp;nbsp;</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e367322a1310" role="1" seniority_sort="2">
+                <display_name>Sarah Chisholm</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

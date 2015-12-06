@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126632" class_number="15749" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN 146">The Ethics of Atheism: Marx, Nietzsche, Freud</title>
+            <notes> This course, when taken for a letter grade, meets the General Education requirement forCulture and Belief or Ethical Reasoning, but not both</notes>
+            <description>Examines the Western secular tradition through the work of three seminal figures whose critiques of religion -- in social and political theory, philosophy, and psychoanalysis and anthropology -- are motivated by ethical concerns. Introductory readings of Kant and Feuerbach ground analysis of Marx&amp;rsquo;s, Nietzsche&amp;rsquo;s, and Freud&amp;rsquo;s ethical atheism. Students do not develop or debate formulae for behavior, but rather become critically aware of ethical considerations that underlie actions and that are negotiated vis-&amp;agrave;-vis prevailing moral codes. Readings include (some selections and some complete works): Kant, Prefaces to Religion within the Limits of Reason Alone; Feuerbach, The Essence of Christianity; Marx, Critique of Hegel&amp;rsquo;s Philosophy in General, Introduction to Critique of Hegel&amp;rsquo;s Philosophy of Right, On the Jewish Question, Theses on Feuerbach, Communist Manifesto; Nietzsche, On Truth and Lie in the Extra-Moral Sense, The Gay Science, Beyond Good and Evil, On the Genealogy of Morals, The Antichrist; Freud, Three Essays on the Theory of Sexuality, Totem and Taboo, The Future of an Illusion. The course is conducted as a large seminar with preparatory section meetings the evening before the full seminar meeting.&amp;nbsp;</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e125357a1310" role="1" seniority_sort="1">
+                <display_name>Peter Burgard</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

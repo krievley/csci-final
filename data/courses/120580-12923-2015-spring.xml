@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120580" class_number="12923" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 2020">GIS &amp; Spatial Analysis In Archaeology</title>
+            <description>An introduction to the GIS and remote sensing methods used by archaeologists to document and analyze datasets at the regional scale. This class will involve the hands-on use of maps, aerial photography, satellite imagery, digital terrain models and GPS-based observations to frame and approach archaeological research questions. Labs will use sample datasets from a variety of regions but students will be responsible for assembling a GIS database for their own region of interest.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e346686a1310" role="1" seniority_sort="1">
+                <display_name>Jason Ur</display_name>
+            </person>
+            <person id="d1e144111a1310" role="1" seniority_sort="2">
+                <display_name>Robert Homsher</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

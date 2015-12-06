@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160326" class_number="15369" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1098">World Environmental History</title>
+            <description>This course examines world history from 1492 to the present, focusing on environmental shifts and their relationship to social, cultural, and political change. It explores the human interaction with the natural environment in all its complexities, including interactions with nonhuman animals, agriculture and engineered landscapes, contagions and colonial regimes, oceans and fisheries, and industrial pollution. In this course, nature becomes an agent and history becomes the ongoing story of the manner in which we shape the environment and the environment shapes us.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e36675a1310" role="1" seniority_sort="1">
+                <display_name>Brett Walker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

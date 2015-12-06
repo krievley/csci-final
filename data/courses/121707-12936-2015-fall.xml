@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121707" class_number="12936" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CELLBIO 226">Concepts in Development, Self-Renewal, and Repair</title>
+            <exam_group>FAS14_G</exam_group>
+            <notes> Offered jointly with the Medical School as CB 721.0. For more information visit: &lt;a href="http://www2.massgeneral.org/bbs/" target="_blank"&gt;Massachusetts General Hospital&lt;/a&gt; and select CB 226.</notes>
+            <prereq>Recommended: Upper division cell biology or equivalent.</prereq>
+            <description>Explores developmental mechanisms through the life cycle, contrasting pluripotency and cell fate restriction in embryos and adult tissues. In depth analysis of in vivo approaches, with emphasis on adult stem cells, tissue repair and self-renewal.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="CELLBIO">Cell Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e252662a1310" role="1" seniority_sort="1">
+                <display_name>Iain Drummond</display_name>
+            </person>
+            <person id="d1e5421a1310" role="1" seniority_sort="2">
+                <display_name>Amar Sahay</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

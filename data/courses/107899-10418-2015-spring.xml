@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="107899" class_number="10418" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 302">Teaching and Communicating Physics</title>
+            <notes>W., or Th., 4-6.   </notes>
+            <description>Hands-on, experienced-based course for graduate students on teaching and communicating physics, conducted through practice, observation, feedback, and discussion. Departmental rules for teaching fellows, section and laboratory teaching, office hours, assignments, grading, and difficult classroom situations.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="" start_time="16:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e86470a1310" role="1" seniority_sort="1">
+                <display_name>Jacob Barandes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

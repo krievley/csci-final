@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108515" class_number="16915" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 43W">History, Nationalism, and the World: the Case of Korea</title>
+            <exam_group>FAS13_E</exam_group>
+            <notes> All reading will be in English.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The colonialism and postcolonial division of Korea into North and South thrust the memory of past events into current political discussions as well as scholarly debates. This seminar investigates selected events in Korean history to map the interaction between historical writing and politics and to address questions such as why historians have emphasized certain periods and aspects of Korean history while ignoring others.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Yenching Library 213 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e20994a1310" role="1" seniority_sort="1">
+                <display_name>Sun Joo Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115238" class_number="19211" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GREEK 134">The Language of Homer</title>
+            <description>Essentials of Greek comparative and historical grammar, and a close reading of Iliad 1 and 3. Diachronic aspects of Homeric grammar and diction.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="GREEK">Greek</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

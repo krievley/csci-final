@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148252" class_number="14574" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 191">Physiological and Biochemical Adaptation</title>
+            <notes> One lab per week.</notes>
+            <prereq>Recommended: OEB 10 or CHEM 27 or permission of the instructor.</prereq>
+            <description>This course examines how microbes and animals have evolved to maintain function throughout the wide range of extant habitats. Emphasis is on physiological/biochemical evolution in response to environmental conditions, including climate change and life in extreme environments. As the first course in the "genomes to biomes" series, we will examine new approaches to interrogating organismal physiology in nature. Those interested can continue the "genomes to biomes" program via LS 100r.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e265617a1310" role="1" seniority_sort="1">
+                <display_name>Peter Girguis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

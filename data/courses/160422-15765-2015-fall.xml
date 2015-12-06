@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160422" class_number="15765" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HUMAN 54">The Urban Imagination</title>
+            <exam_group>FAS03_A</exam_group>
+            <notes>This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding.  </notes>
+            <description>Cities are one of humankind&amp;#39;s most richly complex inventions and can best be understood through both creative and critical thinking. Offered in connection with a Mellon-funded initiative in Architecture, Urbanism, and the Humanities, this course invites you to join an interdisciplinary investigation of the urban form and fabric, socio-cultural life, and artistic representation of five iconic cities &amp;mdash; Boston, Berlin, Moscow, Istanbul, and Mumbai. We will treat literature, film, and photography alongside cultural history, experiment with urban fieldwork, and use digital tools for mapping and curating virtual exhibitions.</description>
+            <department code="HUM">Humanities</department>
+            <course_group code="HUMAN">Humanities</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:29:00" location="Sever 303 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e218423a1310" role="1" seniority_sort="1">
+                <display_name>Julie A. Buckler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

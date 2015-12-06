@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143833" class_number="12874" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EASTD 140">Major Religious Texts of East Asia</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>This course aims at enabling students to read and analyze in depth major religious texts of East Asia, representing diverse traditions and genres. The course encourages students to take up their reading of texts not only as ways to acquire knowledge on Asian religious traditions, but as practice, labor, and play in which their ordinary way of understanding/experiencing the world and themselves will be challenged, reaffirmed, and renewed.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EASTD">East Asian Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:29:00" location="9 Kirkland Pl 101 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e35675a1310" role="1" seniority_sort="1">
+                <display_name>Ryuichi Abe</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

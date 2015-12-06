@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109972" class_number="10696" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRENCH 148C">Performing in French: A Production of a Modern Tragedy</title>
+            <prereq>Prerequisite: French 61c OR French 61g OR French 61h OR French 61m OR French 71a</prereq>
+            <description>This course focuses on the preparation of a student-led production of a contemporary French play, and concludes with a performance in French at the end of the semester. To react to the challenges we will face in staging a "modern tragedy", we will examine the diversity of tragic forms and motifs since the 17th century up to our days through the close readings of a given set of plays, as well as the main trends in the contemporary staging, through the viewing and discussion of video versions of recent productions.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

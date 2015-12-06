@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110641" class_number="14933" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG AD">Beginning Portuguese for Spanish Speakers II</title>
+            <notes> Conducted in Portuguese. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Not open to auditors. Section on-line on the Portuguese Ad website.</notes>
+            <prereq>Prerequisite: Portuguese Ac</prereq>
+            <description>A continuation of Portuguese Ac. By the end of the second term, students should be able to communicate easily with native speakers and be acquainted with basic elements of Luso-Brazilian culture.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e97122a1310" role="1" seniority_sort="1">
+                <display_name>Viviane Gontijo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

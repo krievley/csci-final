@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160373" class_number="15445" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1734">Ethics and War</title>
+            <notes>IR_subfield  </notes>
+            <description>What is the origin, character, and impact of ethical constraints on war?&amp;nbsp; The course will review major theoretical discussions of this subject in readings and lectures. Students will then engage in in-class debates on the ethical status of actions taken in war based on historical cases.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e86975a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Rosen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

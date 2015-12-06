@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125413" class_number="13077" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GENETIC 202">Human Genetics</title>
+            <prereq>Recommended: Genetics 201 (or permission of the instructor) and basic knowledge of probability and statistics. Familiarity with bioinformatics and computational tools will be useful, but tutorial assistance will be provided where necessary.</prereq>
+            <description>This course examines genetic principles and experimental approaches for addressing fundamental questions about human variation, history, health, and disease. Each session is comprised of a lecture followed by a class discussion.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="GENETIC">Genetics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e322881a1310" role="1" seniority_sort="1">
+                <display_name>Matthew Warman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

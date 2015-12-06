@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159632" class_number="14448" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MATH 273">Introduction to Semiclassical Analysis</title>
+            <description>Semiclassical analysis is a branch of the general theory of partial differential operators.&amp;nbsp; It is used, for example, to study qualitative properties of solutions of partial differential equations and spectral asymptotics like Weyl&amp;#39;s law.&amp;nbsp; We shall learn how to microlocalize in phase space and to use Hamiltonian dynamical systems in this space to study the partial differential equations problems. The beauty of the field lies in this interaction between analysis and geometry.&amp;nbsp; We will develop the basic setup of the theory and then give a guided tour through some of the applications in spectral asymptotics and quantum ergodicity.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e3448a1310" role="1" seniority_sort="1">
+                <display_name>Yaiza Canzani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

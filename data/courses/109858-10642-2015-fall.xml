@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109858" class_number="10642" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="PSY 2357R">Evolution of Human Cooperation: Research Seminar</title>
+            <exam_group>FAS15_E</exam_group>
+            <notes>For information about admission, contact rhoward@fas.harvard.edu  Open to graduate and undergraduate students working in the instructor's laboratory.</notes>
+            <description>Seminar on current research on the evolution of human cooperation and its cognitive basis. Includes readings, seminar discussion, and training in relevant research methodologies.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="11:59:00" location="William James 950 (FAS)" start_time="10:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e18202a1310" role="1" seniority_sort="1">
+                <display_name>Max Krasnow</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

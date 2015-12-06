@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109289" class_number="11882" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ECON 1620">Industry Structure, Strategy, and Public Policy</title>
+            <notes>F. M. Scherer (Kennedy School)  Jointly offered with the Kennedy School as BGP-201.</notes>
+            <description>Provides a systematic economic and historical framework for evaluating industrial policies such as agricultural crop price supports, international dumping and subsidy rules, energy policy, technology policy, competition policy (antitrust), public regulation, and corporate bailouts. It proceeds through a series of 10 industry case studies, in order: agriculture, crude petroleum, petroleum refining, steel, integrated circuits, computers, the Internet, automobiles, pharmaceuticals (domestic and international), and beer. Grading will be on the basis of two short policy papers and a final examination. A longer industry study can be substituted for the final exam.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

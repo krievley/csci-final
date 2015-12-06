@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160338" class_number="15379" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98PL">Empire and Colonialism in the Modern World</title>
+            <notes> This course will be lotteried.</notes>
+            <description>This class investigates the question of how empire and colonialism shaped the modern world. Drawing on global histories of empire as well as studies of the Americas, Africa, Asia, and the Middle East, the tutorial examines how law, culture, economy, and space became vehicles for imperial expansion and colonial control. Methodologically, the tutorial will take a broadly historical approach, attending to how both the concepts and practices of empire were transformed over time. Throughout, we will highlight the forms of resistance that developed in response to empire. We will also consider how resistance was conditioned by colonialism&amp;rsquo;s regimes of racial and cultural classification and analyze the enduring effects of this conditioning in the present.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

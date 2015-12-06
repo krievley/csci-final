@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156592" class_number="11557" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="KORLIT 110">Korean Literature: Texts and Contexts, 9th Century through the Early 20th Century</title>
+            <description>This lecture course introduces students to select representations of Korean literature through literary works and their contexts from the 9th through the early 20th centuries. Lectures will be on the socio-cultural, historical, political, and philosophical contexts within which the texts, their writers' lives, their customs, their worldviews were embedded. Readings include original texts in translation and parallel scholarly commentaries. Students will read diverse genres of writing including biographies, memorials, poetry, songs, letters, fictional prose, travelogues, memoirs, folklore, and p'ansori. Some of our literary texts may perfectly fit our understanding of what a literary text is supposed to be, while others will challenge us to expand the boundaries of what we define as literature. The course aims to uncover sensibilities that constituted what Koreans during this period perceived as literary and literature-like. Combining lectures and deep reading of the course materials for class discussions, the course also uses visual representations such as paintings, maps, and old books, and portrayals of traditional Korean literary practices in film and television. Those interested in East Asian literature, history, and society will find this course useful.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="KORLIT">Korean Literature</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e28355a1310" role="1" seniority_sort="1">
+                <display_name>Si Nae Park</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

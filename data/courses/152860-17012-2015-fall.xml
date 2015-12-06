@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="152860" class_number="17012" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EASTD 90R">East Asian Language Tutorials</title>
+            <description>Independent reading and research in an East Asian language.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="EASTD">East Asian Studies</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Wednesday" end_time="09:59:00" location="Vanserg 24B (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e10308a1310" role="1" seniority_sort="1">
+                <display_name>James Robson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

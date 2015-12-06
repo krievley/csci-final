@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159718" class_number="14856" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LING 149">Languages of the Caucasus</title>
+            <exam_group>FAS12_G</exam_group>
+            <prereq>Recommended: Linguistics 83 or Linguistics 101.</prereq>
+            <description>This course pursues two related goals: to introduce the students to the empirical complexity of languages of the Caucasus and to discuss theoretical analyses in phonology, morphology, and syntax motivated by these languages. The course involves a subsidiary field methods component, with students working with a native speaker in class, learning ways to elicit complex data from a little known language.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="12:29:00" location="Boylston 303 (FAS)" start_time="10:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e198246a1310" role="1" seniority_sort="1">
+                <display_name>Maria Polinsky</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

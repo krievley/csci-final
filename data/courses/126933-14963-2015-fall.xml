@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126933" class_number="14963" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH AA">Beginning French I: French Identity through Visual Media</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes> French Aa is an elementary French course for students with little or no knowledge of French. French Aa may count toward the language requirement. Open to students who have not previously studied French or who have scored below 300 on the Harvard placement exam. Students who have studied French for two years or more in secondary school must begin at French Ab or higher. May not be taken Pass/Fail. Not open to auditors. Graduate students at GSAS may take the course Sat/Unsat with permission of course head. Section on-line on the French Aa iSite. French Aa is taught by members of the Department.</notes>
+            <description>This elementary French course provides an introduction to French with emphasis on interpersonal communication and the interpretation and production of language in written and oral forms. Students engage in interactive communicative activities, both online and in the classroom, that provide rich exposure to the French and francophone language and culture. The course addresses the theme of identity through engagement in the discussion and interpretation of various French visual media including video, images, and film.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="10:59:00" location="Boylston 104 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e114899a1310" role="1" seniority_sort="1">
+                <display_name>Nicole Mills</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

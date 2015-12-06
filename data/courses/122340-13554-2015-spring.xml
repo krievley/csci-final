@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122340" class_number="13554" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 221">Drug Delivery</title>
+            <prereq>Recommended: Mathematics 21a,b or Applied Mathematics 21a,b, and Chemistry 5 or Life Sciences 1a.</prereq>
+            <description>Methods to deliver molecules to the human body. Physiological obstacles and engineering solutions. Characterization techniques for drug delivery synthesis and in vitro analysis. Case studies of current pharmaceutical products.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e245921a1310" role="1" seniority_sort="1">
+                <display_name>Sujata K. Bhatia</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

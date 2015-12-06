@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124914" class_number="15004" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="CLASPHIL 245">Archaic Greek Lyric: Poems on Papyrus</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>Explores the social and performative contexts, genres, and transmission of melic poetry from Alcman to Timotheus, with a focus on papyrus fragments.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLASPHIL">Classical Philology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Boylston 203 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e53233a1310" role="1" seniority_sort="1">
+                <display_name>Albert Henrichs</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

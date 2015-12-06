@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122850" class_number="16569" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 1008">Introduction to Geographical Information Systems</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes> No prerequisites.</notes>
+            <description>This course introduces Geographical Information Systems and their applications. GIS is a combination of software and hardware with capabilities for manipulating, analyzing and displaying spatially referenced information. The course will meet two times a week. Every week, there will be a lecture and discussion as well as a laboratory exercise where students will work with GIS software on the computer.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="CGIS South S050 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e235333a1310" role="1" seniority_sort="1">
+                <display_name>David Smith</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

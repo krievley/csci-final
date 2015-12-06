@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110067" class_number="10757" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ECON 980P">International Trade Policy</title>
+            <exam_group>FAS06_E</exam_group>
+            <prereq>Recommended: Ec 1010a and 1010b (or 1011a and 1011b), one of stats 100, 104 or 110, and Ec 1123 or 1126 (or concurrent enrollment in 1123 or 1126).</prereq>
+            <description>Provides a discussion of the economic impacts of international trade policies and the political economy of trade policy formation. The course will focus on analytical methods and therefore requires knowledge of calculus.</description>
+            <department code="ECON">Economics</department>
+            <course_group code="ECON">Economics</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:59:00" location="Littauer Ctr M15 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e6575a1310" role="1" seniority_sort="1">
+                <display_name>Elhanan Helpman</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

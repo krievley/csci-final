@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111192" class_number="10216" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ANTHRO 1060">Archaeological Science</title>
+            <notes>M., 7-10 pm   Meets at MIT.</notes>
+            <prereq>Recommended: One year of college-level chemistry or physics.</prereq>
+            <description>Focus on physical science and engineering methods and techniques used by archaeologists in the reconstruction of time, space, and human paleoecology, and analysis of archaeological materials. Topics include 14C dating, ice core and palynological analysis, stable isotope chemistry of paleodietary foodwebs, soil micromorphology and site formation, Pb isotope sourcing of metal artifacts, and microstructural and mechanical analyses of cementitious materials used in ancient monumental buildings.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e8787a1310" role="1" seniority_sort="1">
+                <display_name>Richard Meadow</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160608" class_number="16613" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ITAL 112">Italian Best-Sellers: Marco Polo to Calvino</title>
+            <exam_group>FAS13_G</exam_group>
+            <description>An introduction to Italian studies through a selection of works from the different fields of travel writing, political philosophy, melodrama, children fiction, comics, painting, design, literature and film. The course will showcase best-sellers that have provoked and sustained the interest of national and international audiences for centuries. Selections will include Marco Polo&amp;rsquo;s Il Milione, Machiavelli&amp;rsquo;s Il Principe, Verdi&amp;rsquo;s La Traviata, Collodi&amp;rsquo;s Pinocchio, and Calvino&amp;rsquo;s Citta invisibili. Reading in Italian and English. Discussion in Italian.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Sever 305 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e74142a1310" role="1" seniority_sort="1">
+                <display_name>Maria Grazia Lolla</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

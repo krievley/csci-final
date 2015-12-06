@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125958" class_number="15441" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 1118">Political Geographies of Violence</title>
+            <notes>comparative_subfield  </notes>
+            <description>Political geography explores relationships between politics and space. How does location, for example, influence how, where, and when political struggles unfold? What constitutes violence, and what framings (e.g., human security, structural violence) enhance understanding of its causes and effects? We will explore these questions through study of the political geographies of violence, understood from a variety of scales and locations: from local to transnational, embodied fears and small-scale acts to state-based conflicts.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e209987a1310" role="1" seniority_sort="1">
+                <display_name>Alison Mountz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

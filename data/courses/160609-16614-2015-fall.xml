@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160609" class_number="16614" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ITAL 142">The Italian Renaissance: Beauty, Power, Innovation</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes> English and Italian (all one-hour lectures are in English but students can choose to attend a section in Italian or one in English)</notes>
+            <description>Studies the century that changed the world and the invention of modern politics and art, science, pornography, fashion, good manners.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Boylston G07 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25963a1310" role="1" seniority_sort="1">
+                <display_name>Francesco Erspamer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

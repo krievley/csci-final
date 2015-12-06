@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160694" class_number="16359" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MUSIC 10B">Harvard-Radcliffe Orchestra</title>
+            <notes> The course is graded SAT/UNSAT based on attendance and participation. This course may be taken repeatedly, but to receive credit the course must be taken in the Fall and Spring semesters consecutively. A maximum of four semesters (two years) may be counted as credit towards the degree.</notes>
+            <description>This is an experiential learning course. The ensemble gives several concerts each year, sometimes joining with the chorus to perform large-scale works. Students are required to attend all rehearsals and certain special Saturday &amp;quot;retreats&amp;quot; announced in advance. Students are expected to practice the music outside the rehearsal time. Grades are based on attendance and participation.</description>
+            <department code="MUSC">Music</department>
+            <course_group code="MUSIC">Music</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Thursday" end_time="21:29:00" location="" start_time="19:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e12976a1310" role="1" seniority_sort="1">
+                <display_name>Federico Cortese</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

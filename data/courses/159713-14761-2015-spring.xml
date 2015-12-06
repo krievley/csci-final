@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159713" class_number="14761" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 44">Augustine's Confessions</title>
+            <description>The aim of this course is to introduce students to the Confessions of Augustine of Hippo, a Christian theologian of the 4th/5th c. This seminar will introduce students to the life of Augustine, but will focus on a close reading of the Confessions in English translation, attending to such questions as: what is a &amp;quot;confession&amp;quot; and how does it relate to autobiography?&amp;nbsp; Who is the &amp;quot;I&amp;quot; that speaks and the &amp;quot;you&amp;quot; to whom it speaks, and what is the condition of that speech? How are we best to understand this text, as a work of theology, philosophy, or literature (or is that division even helpful)?</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e55047a1310" role="1" seniority_sort="1">
+                <display_name>Charles Stang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

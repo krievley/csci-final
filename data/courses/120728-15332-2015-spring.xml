@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120728" class_number="15332" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="E-PSCI 74">Field Experiences in Earth and Planetary Sciences</title>
+            <notes> Field programs are selected individually by students with the advice and approval of the instructor.
+Students must notify the instructor and Academic Administrator of intention to enroll by Study Card Day of the preceding term.</notes>
+            <prereq>Recommended: EPS 21 or permission of instructor.</prereq>
+            <description>Attend a domestic or overseas geological field program of 3-6 weeks duration to learn methods of obtaining, synthesizing, and interpreting field observations.</description>
+            <department code="E&amp;PS">Earth and Planetary Sciences</department>
+            <course_group code="E-PSCI">Earth and Planetary Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e22789a1310" role="1" seniority_sort="1">
+                <display_name>Francis Macdonald</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

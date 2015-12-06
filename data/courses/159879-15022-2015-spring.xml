@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159879" class_number="15022" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 1978">The Politics of Vice in Colonial Southeast Asia</title>
+            <description>This course explores the politics and history of colonial Southeast Asia through the lens of vice, with special attention to issues of sex and drugs. Topics include imperial law and government, colonial capitalism, migration, public health, intimacy and family life, criminal economies, prostitution and drug trafficking.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e462936a1310" role="1" seniority_sort="1">
+                <display_name>Diana Kim</display_name>
+            </person>
+            <person id="d1e462939a1310" role="2" seniority_sort="2">
+                <display_name>Kirsty Walker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

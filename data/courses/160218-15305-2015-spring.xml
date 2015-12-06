@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160218" class_number="15305" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 105">Falling from the Grip of Grace: A Critical Reading of Contemporary Art and Exhibitions</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with instructor about enrollment procedure.  </notes>
+            <description>Using current exhibitions, programs and commissions at the Carpenter Center and elsewhere, this course will study the intersection among artists, institutions and audiences in making, presenting and experiencing contemporary art. It will combine both theory and practice as a means to analyze various approaches to curatorial practice and artistic production, specifically in relation to the changing roles of spectators.The course will include close reading and discussion of seminal texts and exhibitions from 1960 to the present moment.&amp;nbsp;</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

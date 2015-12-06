@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="128009" class_number="14113" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 94OF">Law and Politics in Multicultural Democracies</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>Examines the role of law in the governance of cultural diversity drawing on examples from the USA, Western Europe, India and Israel. Central themes at the intersection of law and politics will be explored, including: the impact of courts on rights protections, law's function as a venue of conflict resolution, and courts' relationship with other political institutions. Specific attention will be given to contemporary controversies such as Islamic veiling, abortion and same sex marriage.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="CGIS South S040 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e305903a1310" role="1" seniority_sort="1">
+                <display_name>Ofrit Liviatan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

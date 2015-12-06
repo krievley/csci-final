@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="146757" class_number="11654" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MICROBI 205">Mechanisms of Microbial Pathogenesis</title>
+            <exam_group>FAS16_A</exam_group>
+            <notes>Please note that there will be an additional fee for microscope rental.  Offered jointly with the Medical School as HT 040.</notes>
+            <prereq>Recommended: A background course in molecular biology is strongly encouraged.</prereq>
+            <description>The mechanisms of bacterial, mycoplasmal, fungal, and viral pathogenesis are covered. Topics are selected for intrinsic interest and cover the spectrum of pathophysiologic mechanisms of the infectious process. Emphasis on pathogenesis at the molecular level.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="MICROBI">Microbiology</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:29:00" location="" start_time="08:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47245a1310" role="1" seniority_sort="1">
+                <display_name>Clyde Crumpacker</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

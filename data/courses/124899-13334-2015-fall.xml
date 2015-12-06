@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124899" class_number="13334" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MCB 291">Genetics, Genomics and Evolutionary Biology</title>
+            <exam_group>FAS12_C</exam_group>
+            <notes>Seminar is held on Mondays and Wednesdays from 10:00 - 11:30, with a weekly section on Fridays from 10:00 - 12:00.  Required for first year graduate students in the Molecules, Cells and Organisms (MCO) Training Program.</notes>
+            <description>This course covers the fundamentals of classical genetics, molecular genetics, macro- and microevolution, phylogenetics, and developmental evolution. The emphasis is on major concepts and terminology, reading landmark primary literature, and acquainting students with research techniques.</description>
+            <department code="MCB">Molecular and Cellular Biology</department>
+            <course_group code="MCB">Molecular and Cellular Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:29:00" location="Biological Labs 2062/2064(FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e105883a1310" role="1" seniority_sort="1">
+                <display_name>Elena Kramer</display_name>
+            </person>
+            <person id="d1e153010a1310" role="1" seniority_sort="2">
+                <display_name>Susan Mango</display_name>
+            </person>
+            <person id="d1e153013a1310" role="1" seniority_sort="3">
+                <display_name>Alexander Meissner</display_name>
+            </person>
+            <person id="d1e138785a1310" role="1" seniority_sort="4">
+                <display_name>Jim Mallet</display_name>
+            </person>
+            <person id="d1e9841a1310" role="1" seniority_sort="5">
+                <display_name>John Rinn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

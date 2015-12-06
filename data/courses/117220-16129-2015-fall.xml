@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117220" class_number="16129" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="KOREAN 120A">Intermediate Korean</title>
+            <exam_group>FAS12_A</exam_group>
+            <notes>Classes meet five days a week, additional discussion sections to be arranged.  </notes>
+            <prereq>Recommended: Korean Bb or equivalent.</prereq>
+            <description>Continuation of elementary Korean to consolidate students' knowledge of the fundamental grammatical structures of Korean with an aim to increase their abilities to communicate using Korean in a wide range of daily-life transactional situations. After successful completion of second-year Korean, students are expected to handle most uncomplicated communicative tasks and social situations and read consistently with understanding of simple connected texts dealing with personal and social needs.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="KOREAN">Korean</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="10:59:00" location="Sever 305 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-17</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e96924a1310" role="1" seniority_sort="1">
+                <display_name>Joungmok Lee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

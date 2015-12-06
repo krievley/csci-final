@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111822" class_number="11963" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 153">Electrodynamics</title>
+            <prereq>Recommended: Physics 15a, b, and c, or written permission of the Head Tutor; Mathematics 21a, b or equivalent.</prereq>
+            <description>Aimed at advanced undergraduates. Emphasis on the properties and sources of the electromagnetic fields and on the wave aspects of the fields. Course starts with electrostatics and subsequently develops the Maxwell equations. Topics: electrostatics, dielectrics, magnetostatics, electrodynamics, radiation, wave propagation in various media, wave optics, diffraction and interference. A number of applications of electrodynamics and optics in modern physics are discussed.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="" start_time="09:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e91878a1310" role="1" seniority_sort="1">
+                <display_name>Mikhail Lukin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

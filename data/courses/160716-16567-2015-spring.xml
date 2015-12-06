@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160716" class_number="16567" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HLTHPOL 3015B">Second-Year Graduate Reading Course: Ethics</title>
+            <description>Student-led course reviews basic issues in ethics, political philosophy, and their bearing on health policy and is important preparation for the qualifying examinations. Part two of a two-part series.</description>
+            <department code="HPOL">Health Policy</department>
+            <course_group code="HLTHPOL">Health Policy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e177512a1310" role="1" seniority_sort="1">
+                <display_name>Norman Daniels</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

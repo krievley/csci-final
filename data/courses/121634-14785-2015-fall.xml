@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121634" class_number="14785" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2260">Central Europe: Seminar</title>
+            <exam_group>FAS15_E</exam_group>
+            <prereq>Recommended: Reading Knowledge of either German, Polish, Czech, or another Central European language.</prereq>
+            <description>Major themes include nationalism, communism, the `Polish question,' the `Jewish question,' the political and economic viability of the Habsburg Empire, cultural exchange and diplomatic relations between Austria, Germany and the Russian Empire/Soviet Union.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="14:59:00" location="Adolphus Busch 105" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e38688a1310" role="1" seniority_sort="1">
+                <display_name>Alison Frank Johnson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

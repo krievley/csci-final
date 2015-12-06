@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160646" class_number="16299" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1857">Psychotherapy: Science and Practice</title>
+            <prereq>Recommended: SLS 20 and at least one course from PSY 13, PSY 14, PSY 15, PSY 18, or SLS15</prereq>
+            <description>Would you pay someone to help you change? Millions of people do, every week. Psychotherapy is a healing art, a subject of scientific inquiry, and&amp;mdash;for many&amp;mdash;a business venture. In this course we will bring these strands together, focusing on how psychotherapy is practiced in the real world and how clinical science is used to test claims of success. We will examine competing models of therapy, evaluate their scientific status, and dig into case examples of each. We will also explore hot topics in the field, including whether all therapies have about the same effect&amp;nbsp; (the &amp;ldquo;dodo bird&amp;rdquo; hypothesis), whether internet-based therapies actually work, and how to get effective therapies to traumatized people in war-ravaged and low-resource countries.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e27271a1310" role="1" seniority_sort="1">
+                <display_name>John Weisz</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

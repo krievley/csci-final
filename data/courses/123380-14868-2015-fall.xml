@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123380" class_number="14868" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="VES 80">Loitering: Studio Course</title>
+            <exam_group>FAS15_A</exam_group>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure. 
+
+No previous studio experience necessary.</notes>
+            <description>You will hang out in the vicinity of culture and make things in response to it. This class is not thematic or linked to any particular discipline.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="Carpenter 5th Fl (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e237958a1310" role="1" seniority_sort="1">
+                <display_name>Stephen Prina</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

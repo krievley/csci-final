@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="132280" class_number="14873" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHIL 157">Philosophy of Action</title>
+            <description>An examination of the nature and understanding of intentional action.&amp;nbsp; Topics will include agency and causal explanation, the role of freedom and rationality in understanding action, the agent&amp;#39;s own perspective on her action, the scope and variety of actions themselves (mental, physical, social, institutional).&amp;nbsp; Readings will include Davidson, Anscombe, Frankfurt, Velleman and others.</description>
+            <department code="PHIL">Philosophy</department>
+            <course_group code="PHIL">Philosophy</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e71417a1310" role="1" seniority_sort="1">
+                <display_name>Richard Moran</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

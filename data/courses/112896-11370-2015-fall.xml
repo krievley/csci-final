@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112896" class_number="11370" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST-LIT 91R">Supervised Reading and Research</title>
+            <notes>History and Literature concentrators may arrange individually supervised reading and research courses; the permission of the Director of Studies is required for these courses.   Hours to be arranged.   Lauren Kaminsky and members of the Committee  History and Literature concentrators may arrange individually supervised reading and research courses; the permission of the Director of Studies is required for these courses.</notes>
+            <description>History and Literature concentrators may arrange individually supervised reading and research courses; the permission of the Director of Studies is required for these courses.</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114201" class_number="18305" school_id="fas" section="024" term_code="fall">
+        <catalog_info>
+            <title short_title="RELIGION 3002">Foreign Language Certification</title>
+            <notes> Limited to PhD candidates who receive written permission from the Committee's Director of PhD Studies.</notes>
+            <description>Reading and research conducted in a specific foreign language, normally French or German, to satisfy the modern language reading proficiency requirement for PhD students in the Study of Religion.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e38598a1310" role="1" seniority_sort="1">
+                <display_name>James Kloppenberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

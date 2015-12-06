@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="124127" class_number="14534" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCWORLD 25">Case Studies in Global Health: Biosocial Perspectives</title>
+            <exam_group>FAS01_A</exam_group>
+            <notes>This course will not be offered in Fall 2016.  Course counts as Social Anthropology.</notes>
+            <description>Examines, through lectures and case-based discussions, a collection of global health problems rooted in rapidly changing social structures that transcend national and other administrative boundaries. Students will explore case studies (addressing AIDS, tuberculosis, mental illness, and other topics) and a diverse literature (including epidemiology, anthropology, history, and clinical medicine), focusing on how a broad biosocial analysis might improve the delivery of services designed to lessen the burden of disease, especially among those living in poverty.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SOCWORLD">Societies of the World</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Lowell Hall Lecture Hall (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e11641a1310" role="1" seniority_sort="1">
+                <display_name>Arthur Kleinman</display_name>
+            </person>
+            <person id="d1e46335a1310" role="2" seniority_sort="2">
+                <display_name>Paul Farmer</display_name>
+            </person>
+            <person id="d1e318758a1310" role="2" seniority_sort="3">
+                <display_name>Anne Becker</display_name>
+            </person>
+            <person id="d1e318761a1310" role="2" seniority_sort="4">
+                <display_name>Salmaan Keshavjee</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

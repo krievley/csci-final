@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160424" class_number="15606" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 13F">Women and Work in the United States</title>
+            <description>Women have always worked. But the content, conditions, and location of their work have changed drastically, moving from farmhouses, plantations, and family workshops to factories, offices, and private homes. This course explores the causes and consequences &amp;ndash; social, cultural, political, and economic &amp;ndash; of this transformation. Drawing on primary and secondary sources, we ask: How has the concept of &amp;ldquo;work&amp;rdquo; been gendered? What forces pushed or pulled women into the workforce? How has American society resisted or accommodated the rising numbers of mothers working outside the home? How has women&amp;rsquo;s work been shaped by class, race, and ethnicity?</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e174914a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth More</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

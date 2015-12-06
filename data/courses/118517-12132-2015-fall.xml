@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118517" class_number="12132" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCIPHUNV 14">How to Build a Habitable Planet</title>
+            <exam_group>FAS07_A</exam_group>
+            <description>The story of Earth from the inception of the universe at the Big Bang to the revolution in planetary function and capability associated with the rise of human civilization. The aim of the course is to place human beings in a universal and planetary context, and to see the steps in planetary evolution as an essential perspective on how we relate to Earth today. Topics covered include the Big Bang, origin of the elements, formation of minerals, origin of the solar system, formation of planets, climate regulation, origin of life, co-evolution of ocean, atmosphere, solid earth and biosphere, development of plate tectonics, the modern Earth as an interconnected system, and the human era and its consequences for the planet. Current environmental problems can then be considered in a planetary context. Finally we consider whether Earth may be a microcosm reflecting laws of planetary evolution that may be common to a class of planets throughout the universe, or alternatively may be a low probability accident.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Science Ctr Hall E (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e151088a1310" role="1" seniority_sort="1">
+                <display_name>Charles Langmuir</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110266" class_number="15468" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 2562">American Revelations</title>
+            <description>This course considers a number of key historical episodes in which American religious figures claimed to receive divine revelation. From the ad hoc prophets (such as Anne Hutchinson and Tenskwatawa) to the scripture writers (such as Joseph Smith and Ellen White), from the African American organizers (including Nat Turner and Father Divine) to the advocates of natural revelation (including Theodore Parker and Margaret Fuller), this course examines the contexts, contents and implications of the claim that God still speaks to Americans. Drawing from such scholars as T.M. Luhrmann, Ann Taves, Leigh Schmidt and Rodney Stark, we read anthropological, sociological and&amp;mdash;especially&amp;mdash;historical efforts to understand what it has meant when an American declares she has had a revelation. Students will then try their hand at constructing an account of a revelatory episode of their choice in American history.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e141624a1310" role="1" seniority_sort="1">
+                <display_name>David Holland</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

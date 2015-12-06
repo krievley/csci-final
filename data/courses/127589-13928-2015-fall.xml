@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127589" class_number="13928" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 176">Introduction to MicroElectroMechanical System</title>
+            <exam_group>FAS05_C</exam_group>
+            <prereq>Recommended: Applied Physics 50a,b, Physical Sciences 12a,b, Physics 11a,b (no longer offered) or 15a,b; College Chemistry at the level of Life Sciences 1a and Physical Sciences 1.</prereq>
+            <description>This course introduces student to the rapidly emerging, multi-disciplinary and exciting field of MicroElectroMechanical Systems (MEMS). It teaches fundamentals of micro machining and Micro fabrication techniques, including planar thin-film process technologies, photolithography and soft-lithography techniques, deposition and etching techniques, and surface, bulk, and electroplating micro machining technologies.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="19:29:00" location="Pierce 301 (SEAS)" start_time="17:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e220952a1310" role="1" seniority_sort="1">
+                <display_name>Fawwaz Habbal</display_name>
+            </person>
+            <person id="d1e220955a1310" role="2" seniority_sort="2">
+                <display_name>Peter Stark</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

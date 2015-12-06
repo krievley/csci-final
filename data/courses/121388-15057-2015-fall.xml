@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="121388" class_number="15057" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GOV 2010">Strategies for Political Inquiry</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> Primarily for graduate students; may also be taken by undergraduates preparing for senior thesis research.</notes>
+            <description>Research design for causal inference in qualitative and quantitative studies. Topics covered include measurement, conceptualization, case studies, the relationship between large-n and small-n studies, process-tracing, surveys, field experiments, and natural experiments, with examples of their use in political science.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="CGIS Knafel K107 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e253833a1310" role="1" seniority_sort="1">
+                <display_name>Mauricio FernÃ¡ndez Duque</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

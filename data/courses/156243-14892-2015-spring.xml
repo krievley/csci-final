@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156243" class_number="14892" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOC-STD 98AB">Science and Democracy in Modern America</title>
+            <notes> This course will be lotteried.</notes>
+            <description>Science, in its many guises, is a crucial force in the modern world. How has its growing authority reshaped American democracy since the late nineteenth century? Our readings will address that question in theoretical and practical terms by exploring science's changing roles in academia, political ideology, social thought, popular culture, public education, state administration, and law, as well as its complex ties to religion, secularism, and technological innovation.</description>
+            <department code="SOST">Social Studies</department>
+            <course_group code="SOC-STD">Social Studies</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e38868a1310" role="1" seniority_sort="1">
+                <display_name>Andrew Jewett</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

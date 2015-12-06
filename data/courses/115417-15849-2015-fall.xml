@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115417" class_number="15849" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 44G">Public Policy Approaches to Global Climate Change</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> Open to Freshmen only.</notes>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Reviews what is known about greenhouse gas emissions' possible impact on climate. Explores possible impact of climate change on social and economic conditions over the next century. Investigates possible public policy responses to these developments, including actions both to adapt to and to mitigate climate change. What would be the costs of adaptation? Would an investment in mitigating the changes be worthwhile? Are there possibilities for international cooperation in dealing with the problem?</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="Sever 112 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e28166a1310" role="1" seniority_sort="1">
+                <display_name>Richard Cooper</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

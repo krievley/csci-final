@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122889" class_number="16980" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="COMPLIT 187R">Selected Topics in Poetics and Rhetoric: Seminar</title>
+            <notes> Knowledge of Greek not required.</notes>
+            <description>Comparative approaches to poetics and rhetoric. All readings for this course will be in English translations. Special arrangements for those who opt to read in the original languages. Selected texts include Aristotle's Poetics and Rhetoric.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e42545a1310" role="1" seniority_sort="1">
+                <display_name>Gregory Nagy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

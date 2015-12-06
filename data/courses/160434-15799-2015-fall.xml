@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160434" class_number="15799" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1401">Human Migration and US-Mexico Borderlands: Moral Dilemmas and Sacred Bundles</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes>Human Migration and US-Mexico Borderlands: Moral Dilemmas and Sacred Bundles in Comparative  </notes>
+            <description>Responding to one of the major political, economic and religious developments of our times, this seminar locates the immigration crisis of the Mexico-U.S. borderlands within the epic context of human migration in history and global perspectives. The first part of the seminar will read and critique a series of books and articles about human migration, Mexican migrations to the U.S. in the last 120 years and the enigma and fluidity of national borders. The seminar will then develop a comparative perspective on immigration by comparing Mexican migrations with migrations from a) Latin America to the U.S, b) the African American migration within the U.S. from south to north, c) contemporary migrations from Africa to countries of the European Union. Questions such as &amp;#39;what economic and political forces cause people to migrate?&amp;#39;, &amp;#39;do they migrate as individuals or families?&amp;#39;. &amp;#39;How do walls, fences and borders work and what do they mean?&amp;#39; and &amp;#39;what is immigration reform-anyway?&amp;#39; will be explored. We will examine the profound economic and moral dilemmas facing migrants, families, sending and receiving countries. The course uses Professor Carrasco&amp;#39;s concept of &amp;#39;sacred bundles&amp;#39; to explore the question &amp;#39;what cultural and religious resources help migrants survive the ordeal of migration and establish new identities?&amp;#39;</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Andover 102 (HDS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e47727a1310" role="1" seniority_sort="1">
+                <display_name>DavÃ­d L. Carrasco</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

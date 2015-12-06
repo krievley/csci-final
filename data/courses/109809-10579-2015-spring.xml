@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109809" class_number="10579" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 52">The Joy of Electronics - Part I</title>
+            <notes> Each lecture is followed by 2.5 hour lab.</notes>
+            <description>Introduction to designing circuits to solve real problems. Two lecture and two lab sessions a week blend instruction with hands-on lab work to emphasize understanding, building and testing circuits. The course incorporates useful design experiences from day one. Covered topics include amplication, feedback, impedance, stability, filtering, switching, digital logic, microcontrollers, and more. The class ends with an open ended project that challenges students to build on core concepts.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e7533a1310" role="1" seniority_sort="1">
+                <display_name>David Abrams</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="120305" class_number="14748" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="CHNSE BX">Elementary Chinese for Advanced Beginners</title>
+            <exam_group>FAS10_A</exam_group>
+            <notes>Classes meet five days a week, additional discussion sections to be arranged. 
+&amp;nbsp;  No auditors. May not be taken Pass/Fail. Students must pass a test in listening and speaking to take the course.</notes>
+            <description>For students with significant listening and speaking background. Introductory Modern Chinese language course, with emphasis on reading and writing. Covers in one term the equivalent of Chinese Ba and Bb.</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="CHNSE">Chinese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="12:59:00" location="Vanserg 28 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e268035a1310" role="1" seniority_sort="1">
+                <display_name>Emily Huang</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

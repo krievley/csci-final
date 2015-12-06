@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117540" class_number="17806" school_id="fas" section="013" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 398">Direction of Doctoral Dissertations</title>
+            <notes> Normally limited to students reading specifically in the field of a proposed doctoral dissertation. Open only by petition to the Department; petitions should be presented during the term preceding enrollment, and must be signed by the instructor with whom the reading is to be done. All applicants for admission should first confer with the Director of Graduate Studies.</notes>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Doctoral Dissertation</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e58143a1310" role="1" seniority_sort="1">
+                <display_name>Ju Yon Kim</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

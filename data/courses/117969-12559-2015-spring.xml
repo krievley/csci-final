@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117969" class_number="12559" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 23K">Insights from Narratives of Illness</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>A physician occupies a unique perch, regularly witnessing life's great mysteries; it is no wonder that narratives of illness have been of interest to both physician and non-physician writers. Examines and interrogates both literary and journalistic dimensions of medical writing from Tolstoy to Oliver Sacks as well as newspapers and periodicals. Studies not only mainstream medical journalists, but so called alternative medical writers such as Andrew Weil also. Work with different forms of medical writing.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="14:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

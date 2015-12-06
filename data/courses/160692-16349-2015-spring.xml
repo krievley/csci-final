@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160692" class_number="16349" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 1500">Decision Making and Negotiation</title>
+            <prereq>Recommended: SLS 20 and PSY 15. May not be taken by students who have taken PSY 2650.</prereq>
+            <description>Decision-Making and NegotiationPeople make decisions and negotiate with others from a young age; however, most know little about the strategy and the psychology that lie beneath these sophisticated behaviors. This class is designed to look &amp;lsquo;under the hood&amp;rsquo; at the cognitive processes at play when we make decisions and negotiate with others. We will discuss original research articles and use simulated class exercises to gain a better understanding of how the human mind makes choices and persuades others.</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e199661a1310" role="1" seniority_sort="1">
+                <display_name>Christine Looser</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

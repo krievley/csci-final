@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125823" class_number="13664" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MICROBI 210">Microbial Sciences: Chemistry, Ecology, and Evolution</title>
+            <notes> Also offered as Organismic and Evolutionary Biology 290.</notes>
+            <prereq>Recommended: For advanced undergraduates, Life Sciences 1a and 1b are required, or permission of instructor. MCB 52 is recommended.</prereq>
+            <description>This is an interdisciplinary graduate-level and advanced undergraduate-level course in which students explore topics in molecular microbiology, microbial diversity, and microbially-mediated geochemistry in depth. This course will be taught by faculty from the Microbial Sciences Initiative. Topics include the origins of life, biogeochemical cycles, microbial diversity, and ecology.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="MICROBI">Microbiology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Friday" end_time="11:45:00" location="" start_time="08:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e310146a1310" role="1" seniority_sort="1">
+                <display_name>Michael Gilmore</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

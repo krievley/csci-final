@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160332" class_number="19320" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 192">The Empire Strikes Back: Science Fiction, Religion, and Society</title>
+            <description>	From the seventeenth century to today, science fiction has reflected the aspirations of scientific innovation and anticipated new discoveries. It has reflected rhetorical practices by which science melds present contexts with futurism, extrapolation, and promissory logics. Authors have engaged with ethical problems, fears about innovations gone awry, and pessimism about the prospects of technological development, all while critiquing views on gender, race, and sexuality, and subverting colonial ambitions while engaging postcolonial aspirations. At the same time, science fiction has engaged religious and spiritual views, both interacting with religious imaginaries and engaging with the role of religion in society and in relation to science.	&amp;nbsp;	In this course, we trace science fiction through history. We analyze how it has understood science and technology, war and colonialism, sex, race and gender, health and disease. We investigate how it has interacted with religion and influenced social and cultural attitudes. We will read major works in science fiction and understand how they live with and within us. Topics include: time travel, utopias and dystopias, race, gender, and sexuality, religion and culture, embodiment and disembodiment, posthumanism). In addition to novels and short stories, lectures will incorporate film, television, graphic novels, music videos, and other science fictional subgenres.	&amp;nbsp;	The course will be accompanied by a film series of major science fiction films and guest speakers (film series attendance is optional).	&amp;nbsp;</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

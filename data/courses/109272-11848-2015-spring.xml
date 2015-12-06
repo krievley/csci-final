@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109272" class_number="11848" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 95R">Startup R &amp; D</title>
+            <notes> Enrollment limited; permission of instructor required.</notes>
+            <description>Students do field-based work in entrepreneurship to develop their existing startup and explore new ideas and opportunities for startup design. The course is for students seeking innovation experience as a founder of a startup. Students may work individually; teams are preferred. Requires self-directed, independent work and active outreach to mentors, customers, and partners for guidance and feedback in addition to that provided by the instructor. Students will share their work regularly and engage in a peer-to-peer feedback forum. The coursework is customized to the needs of each student and their startup role and includes development of product, technology, market, business, organization and leadership.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e10074a1310" role="1" seniority_sort="1">
+                <display_name>Paul Bottino</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

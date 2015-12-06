@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144341" class_number="12787" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ISLAMCIV 241R">Approaches to Studying Indo-Muslim Culture and South Asian Islam</title>
+            <notes> Open to undergraduates with a background in Islamic or South Asian studies.</notes>
+            <prereq>Recommended: Introductory coursework on Islam, Islamic Civilizations 178 (formerly Religion 1820), or equivalent.</prereq>
+            <description>A seminar for graduate students focusing on current scholarship on Islamic civilization in South Asia.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e25336a1310" role="1" seniority_sort="1">
+                <display_name>Ali S. Asani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

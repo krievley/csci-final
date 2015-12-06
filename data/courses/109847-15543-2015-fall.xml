@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109847" class_number="15543" school_id="fas" section="L01" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 149V">Explaining Epidemics</title>
+            <exam_group>FAS08_J</exam_group>
+            <description>Outbreaks of epidemic disease have played a role in shaping human societies from the beginning of recorded history, transforming demographic patterns, social practices, and cultural expectations. Although they take fewer lives than the diseases we encounter every day, epidemics possess an extraordinary hold over our collective imagination. This course seeks to understand why. Through an analysis of outbreaks ranging from the Black Death to Avian Flu, we will explore the place of epidemic disease in human history, taking into account how those living in different times and places have responded when epidemics have appeared.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="13:59:00" location="Emerson 101 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e1712a1310" role="1" seniority_sort="1">
+                <display_name>Sean O'Donnell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="153995" class_number="19802" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="XJFK API111">Microeconomic Theory I</title>
+            <department code="NODEPT"/>
+            <course_group code="XJFK"/>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

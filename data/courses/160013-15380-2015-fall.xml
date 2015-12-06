@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160013" class_number="15380" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SLAVIC 198">Czech Literary Culture after World War II: Conference Course</title>
+            <exam_group>FAS03_C</exam_group>
+            <notes> All readings in English. A separate weekly section for students with advanced reading knowledge of Czech will consider poetry and prose in the original.</notes>
+            <description>Czech literature and film from the Nazi occupation through the Communist period to the Velvet Revolution, with a focus on Hrabal, Havel, and Kundera, as well as directors of the Czech New Wave, including Forman and NÄmec. We will pay special attention to intersections of politics and literature, including censorship, samizdat, and forms of underground culture and dissent.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="SLAVIC">Slavic</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Barker 373 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e135870a1310" role="1" seniority_sort="1">
+                <display_name>Jonathan Bolton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

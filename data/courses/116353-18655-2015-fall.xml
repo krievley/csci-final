@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="18655" school_id="fas" section="249" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>Horror, madness, monstrosity, death, disease, terror, evil, and weird sexuality: these preoccupations, according to a recent critic, have animated Gothic fiction ever since it emerged in the mid-1700s. We will contemplate these preoccupations as we examine a range of Gothic texts from eighteenth-century Gothic fragments to stories by Edgar Allan Poe and Isabel Allende. And we will ask these questions about those texts: What makes Gothic fiction &amp;ldquo;Gothic&amp;rdquo;? How do we account for its immense popularity? Why have high-minded readers and writers always tended to scorn it? (What are they so worried about?) And what have modern Gothic writers and readers made of the genre they&amp;rsquo;ve inherited? We&amp;rsquo;ll develop a working definition of the Gothic in our first segment, which will take a group of short stories&amp;mdash;of various centuries and nations&amp;mdash;as its primary texts. Next, we&amp;rsquo;ll read Jane Austen&amp;rsquo;s Gothic spoof, Northanger Abbey, in the context of both the popular fiction Austen parodies and the heated eighteenth-century debates about what young women should read. Our third segment will focus on Edgar Allan Poe and his tales of paranoia, insanity, and incest. This segment will extend the course&amp;rsquo;s focus from the Gothic mansion (and the Gothic monster) to the Gothic mind.  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="Sever 105 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e174809a1310" role="1" seniority_sort="1">
+                <display_name>Patricia Bellanca</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

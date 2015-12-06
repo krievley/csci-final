@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159797" class_number="15997" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 32F">German Literature and Philosophy</title>
+            <exam_group>FAS03_B</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>In this seminar students are introduced to exemplary works of philosophy and literature in the German tradition across 200 years of revolutions, wars, and social crises. Focus is on the significance of human life, desire, and knowledge, on the limits of abstraction and the infinite nuances of individual love, passion and anxiety. Participants will acquire skills in literary interpretation and philosophical argumentation, while becoming intimately familiar with shifting historical, social and cultural contexts. Above all, the seminar will teach students how to formulate innovative, probing, and fruitful questions, and thereby impart a capacity to engage critically with masterful texts.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="Robinson 207 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42680a1310" role="1" seniority_sort="1">
+                <display_name>John T. Hamilton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160596" class_number="16575" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 61B">From Comic Books to Graphic Novels: Representations of Francophone Identities</title>
+            <exam_group>FAS07_B</exam_group>
+            <notes> Note: Conducted in French. Not open to auditors. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Students may take no more than two courses at the 60 level.
+Prerequisite: French 50 or another French course at the 50 level; 751-780 on the SAT II or the Harvard placement test; or permission of course head.</notes>
+            <description>A French language, culture, and literature course designed to introduce students to the format of bande dessin&amp;eacute;e and roman graphique in the Francophone world.&amp;nbsp; Using contemporary Francophone comics, graphic novels, and blogs bandes dessin&amp;eacute;es, students will explore the history of the genre, from the 1960s to the present, and study its social and cultural functions as representations of national identity, social satires, and new expressions of post-colonial and feminist discourses. Students will participate in a range of written and oral activities, culminating in a presentation of their own graphic story, which they will have drafted throughout the course of the semester.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Sever 215 (FAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e26226a1310" role="1" seniority_sort="1">
+                <display_name>Aurelie Chevant</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

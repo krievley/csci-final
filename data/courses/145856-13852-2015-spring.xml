@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145856" class_number="13852" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH CWFR">Introductory Fiction: Workshop</title>
+            <notes> Admission based on submitted samples of writing. For information on specific application requirements, please see the English Department's Creative Writing web page.</notes>
+            <description>In this introductory fiction workshop you will practice and discuss many phases of the writing process--note taking, drafting, revising and offering feedback--so that you can continue to develop your own process and discipline.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Workshop</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="13:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e381170a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Gilmore</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

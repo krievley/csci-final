@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160237" class_number="15690" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 34H">Is Knowledge Power?</title>
+            <exam_group>FAS09_B</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>The aphorism &amp;ldquo;knowledge is power&amp;rdquo; evokes menacing images, such as state surveillance or corporate ownership of personal information, and hopeful images, such as curing disease or controlling personal destiny.&amp;nbsp; We hear contradictory messages that the internet and other new information tools are either freeing us or enslaving us. &amp;nbsp;What then is the relation between knowledge and power? This course will examine this question through close study of three historical cases, each rich with source material and analytic accounts.&amp;nbsp; In the final section of the course, students will select and analyze current issues that raise unresolved problems of knowledge and power.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="17:59:00" location="Boylston G02 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-16</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e39094a1310" role="1" seniority_sort="1">
+                <display_name>Julie Reuben</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125635" class_number="14650" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 1660">The Brhadaranyaka Upanisad with Sankara's Commentary</title>
+            <notes> Offered jointly with the Divinity School as 3928.</notes>
+            <prereq>Recommended: No language or course prerequisites, but students who know Sanskrit will be encouraged to make use of their expertise. It is part of a series, but not necessary to have taken prior seminars.</prereq>
+            <description>This seminar is for students interested in the study of primary Indian/Hindu texts, read in translation and in the context of a comparative dynamic of reading across the boundaries of traditions. The Brhadaranyaka Upanisad, Sankara's commentary on it (plus excerpts from Suresvara's Vartikas), will be read (in English) along with short examples from Christian theological/commentarial literature.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="16:29:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e54955a1310" role="1" seniority_sort="1">
+                <display_name>Francis Clooney</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

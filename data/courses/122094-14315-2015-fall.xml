@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122094" class_number="14315" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="APMTH 104">Series Expansions and Complex Analysis</title>
+            <exam_group>FAS08_A</exam_group>
+            <prereq>Recommended: Applied Mathematics 21a and 21b, or Mathematics 21a and 21b.</prereq>
+            <description>Introduces fundamental concepts for solving real-world problems and emphasizes their applications through examples from the physical and social sciences. Topics: series expansions and their convergence; complex functions, mappings, differentiation, integration, residues, Taylor and McLaurin expansions; wave (Fourier) and wavelet expansions and transformations, and their uses in signal and image analysis and solving differential equations.</description>
+            <department code="APMA">Applied Mathematics</department>
+            <course_group code="APMTH">Applied Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="Northwest Bldg B108 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e244174a1310" role="1" seniority_sort="1">
+                <display_name>Nitin Upadhyaya</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

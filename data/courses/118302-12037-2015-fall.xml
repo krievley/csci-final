@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="118302" class_number="12037" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="MATH 116">Real Analysis, Convexity, and Optimization</title>
+            <exam_group>FAS08_A</exam_group>
+            <prereq>Recommended: Mathematics 23a,b or 25a,b or 55a,b; or Mathematics 21a,b plus at least one other more advanced course in mathematics; or an equivalent background in mathematics.</prereq>
+            <description>Develops the theory of convex sets, normed infinite-dimensional vector spaces, and convex functionals and applies it as a unifying principle to a variety of optimization problems such as resource allocation, production planning, and optimal control. Topics include Hilbert space, dual spaces, the Hahn-Banach theorem, the Riesz representation theorem, calculus of variations, and Fenchel duality. Students will be expected to understand and invent proofs of theorems in real and functional analysis.</description>
+            <department code="MATH">Mathematics</department>
+            <course_group code="MATH">Mathematics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="13:59:00" location="Science Ctr 222 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e53654a1310" role="1" seniority_sort="1">
+                <display_name>Paul Bamberg</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

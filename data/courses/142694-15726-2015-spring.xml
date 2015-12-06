@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="142694" class_number="15726" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="MEDVLSTD 117">English Legal History, 600-1600</title>
+            <notes> Offered concurrently at the Law School as Law 42200A-1.</notes>
+            <description>An introduction to the legal and constitutional history of England from the Anglo Saxons to the end of the Tudor period, essentially 600 &amp;ndash; 1600, including the development of private (e.g., contract, torts, property) and public law (e.g., criminal and constitutional law).&amp;nbsp; No previous background in English legal history is assumed.</description>
+            <department code="MDST">Medieval Studies</department>
+            <course_group code="MEDVLSTD">Medieval Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e183967a1310" role="1" seniority_sort="1">
+                <display_name>Elizabeth Kamali</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

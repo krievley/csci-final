@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160634" class_number="16271" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 304HFB">The Extended 18th Century: Doctoral Conference</title>
+            <notes> Required of graduate students working, or intending to work, on the Restoration, 18th century, or Romanticism (the periods 1660$1830), and who have been admitted to candidacy for the PhD. Open to other students working on topics in Restoration and 18th-century literature.</notes>
+            <description>Focuses on dissertations, dissertations in progress, and research topics of mutual interest. Students must complete both parts of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

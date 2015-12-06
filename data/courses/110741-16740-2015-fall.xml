@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110741" class_number="16740" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HEB 1418">Endocrinology and Behavior: Research Seminar</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes>This course includes a mandatory two-hour laboratory section per week. Students will be given the option to choose either Monday or Wednesday afternoon for their laboratory section.  Preference given to Human Evolutionary Biology concentrators. Lab safety training required (after enrollment).
+
+This course counts towards the research seminar requirement in HEB.</notes>
+            <prereq>Recommended: Human Evolutionary Biology 1310 or Life Sciences 2 or with permission of instructor.</prereq>
+            <description>An introduction to laboratory techniques and research design in behavioral endocrinology. Students conduct pilot research projects.</description>
+            <department code="HEB">Human Evolutionary Biology</department>
+            <course_group code="HEB">Human Evolutionary Biology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Peabody Museum 56C" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e65661a1310" role="1" seniority_sort="1">
+                <display_name>Susan Lipson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119855" class_number="13050" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BIOSTAT 251">Statistical Inference II</title>
+            <notes>Weekly 90-minute lab.  Offered jointly with the School of Public Health as BIO251.</notes>
+            <prereq>Prerequisite: Biostatistics 250</prereq>
+            <description>Advanced topics in statistical inference. Limit theorems, multivariate delta method, properties of maximum likelihood estimators, saddle point approximations, asymptotic relative efficiency, robust and rank-based procedures, resampling methods, nonparametric curve estimation.</description>
+            <department code="BIST">Biostatistics</department>
+            <course_group code="BIOSTAT">Biostatistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:20:00" location="" start_time="13:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e253580a1310" role="1" seniority_sort="1">
+                <display_name>Tianxi Cai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

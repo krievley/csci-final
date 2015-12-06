@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156063" class_number="11156" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENGLISH 102H">Introduction to Old English: Reading Anglo-Saxon Landscapes</title>
+            <exam_group>FAS02_A</exam_group>
+            <notes> Students who complete both English 102 and 103 with honors grades will fulfill the College language requirement and the English Department's Foreign Literature requirement.</notes>
+            <description>A basic introduction to Old English, with special attention to literary landscapes and seascapes. After an overview of Old English grammar, we will translate excerpts that describe the lushness of paradise, the terrors of hell, the desolateness of Roman ruins, and the icy loneliness of the sea. We will also consider what these representations of the landscape can teach us about how the Anglo-Saxons connected with the natural world.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Barker 211 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e138031a1310" role="1" seniority_sort="1">
+                <display_name>Joey McMullen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

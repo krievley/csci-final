@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148122" class_number="12514" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="OEB 106">Plant Development and Differentiation</title>
+            <exam_group>FAS15_A</exam_group>
+            <prereq>Recommended: Life Sciences 1b and OEB 52 (formerly OEB 124) or permission of the instructor.</prereq>
+            <description>A comprehensive lecture course on the developmental biology of plants from fertilization through all phases of vegetative and reproductive growth. Material includes both morphological and genetic studies. Although the main focus of the course is angiosperms, examples are drawn from other lineages of land plants as well. Additional topics include control of cell division and elongation, signal transduction, and hormone response.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="Biological Labs 1075/1077(FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e105883a1310" role="1" seniority_sort="1">
+                <display_name>Elena Kramer</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

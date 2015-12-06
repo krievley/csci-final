@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="135718" class_number="14839" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="GERMAN 200">Dragons, Knights, Popes, and Whores - Medieval German for Absolute Beginners</title>
+            <exam_group>FAS06_F</exam_group>
+            <description>	Diving into &amp;quot;The Real Game of Thrones&amp;quot;, students will find out about medieval tales and history by the study of medieval German texts. We work closely with a range of primary sources (poetical, religious, scientific, historiographical, etc.), translating and analyzing them as well as discussing their cultural context. This course brings together historical linguistics, grammar, manuscript studies, literature, and culture and serves as a fundamental grounding for further readings in Middle High German. A workshop with medieval manuscripts at the Houghton Library is part of the course. This is a pre-requisite course for the Philosophical Mysticism class offered by the same professor in Spring Term 2016.&amp;nbsp;</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="17:59:00" location="Barker 359 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e125311a1310" role="1" seniority_sort="1">
+                <display_name>Racha Kirakosian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

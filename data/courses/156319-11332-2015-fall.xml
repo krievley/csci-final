@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156319" class_number="11332" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ISLAMCIV 217">The Construction of Gendered Spheres in Islamic Law: Ritual, Family, Kinship, Court Procedures</title>
+            <exam_group>FAS05_D</exam_group>
+            <notes> Offered jointly with the Divinity School as 3486.</notes>
+            <description>From the eighth century on, the construction of gendered spheres in the fiqh assigns to women the capacity to dominate and control certain spheres, such as the sphere of reproduction, the education of children through the first years of their life, some schools of law also assign only to women the right to report to courts and the outer world on acts and persons they have seen in the gendered spheres dominated by women. The seminar will try to establish a full list of such gendered spheres under feminine control. The reasons by which such gendered spheres are justified by the jurists are many: the women's intimacy has to be protected against the intrusion of the male gaze and touching that may stir the man's and the woman's sexual desire for each other. The seminar will discuss the growing list of reasons for additional veiling and seclusion in the writings of different schools of Sunni law. At the same time, an inverse development also takes place. The number of exceptional situations that require the uncovering of free (and slave) women in the presence of male strangers is constantly growing. Such situations as medical therapy or identification before a court require and justify the unveiling of women in the presence of strangers. As a result, a particular categorie of of women of high standing is developed who are exempt from these exceptions. We will try to follow the development of the casuistry on veiling and unveiling and to find a satisfying explanation for the many contradictions that characterize the arguments for veiling as developed in the legal literature of the classical period. Such an effort to come to terms with the notions of the legal development of veiling from the eighth to the nineteenth century will also allow us to understand better the fundamental change that has taken place in the functions attributed to veiling over the last 50 years.</description>
+            <department code="NELC">Near Eastern Languages and Civilizations</department>
+            <course_group code="ISLAMCIV">Islamic Civilizations</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="Andover 117 - Pfeiffer (HDS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e25472a1310" role="1" seniority_sort="1">
+                <display_name>Baber Johansen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

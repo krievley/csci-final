@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="144180" class_number="16260" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 125">Molecular Ecology and Evolution</title>
+            <notes> Weekly computer laboratories will introduce the use of the internet and computational software in DNA sequence alignment and phylogenetic and population genetic analysis.</notes>
+            <prereq>Recommended: Life Sciences 1b, OEB 10, OEB 53 or MCB 52.</prereq>
+            <description>A survey of theory and applications of DNA technologies to the study of evolutionary, ecological and behavioral processes in natural populations. Topics to be covered will span a variety of hierarchical levels, timescales, and taxonomic groups, and will include the evolution of genes, genomes and proteins; the neutral theory of molecular evolution and molecular clocks; population genomics and phylogenetic principles of speciation and phylogeography; metagenomics of microbial communities; relatedness and behavioral ecology; molecular ecology of infectious disease; and conservation genetics.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

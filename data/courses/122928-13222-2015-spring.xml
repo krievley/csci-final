@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="122928" class_number="13222" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="RELIGION 91R">Supervised Reading and Research</title>
+            <notes> May not be taken Pass/Fail. Normally open only to concentrators. Permission by Director of Undergraduate Studies required.</notes>
+            <description>Study of special topics in the history and comparative study of religion on an individual or small-group basis.</description>
+            <department code="RELG">Religion, Comparative Study of</department>
+            <course_group code="RELIGION">Religion</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e170393a1310" role="1" seniority_sort="1">
+                <display_name>Courtney Lamberth</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

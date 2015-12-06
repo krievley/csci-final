@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="143433" class_number="15734" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENG-SCI 154">Electronic Devices and Circuits</title>
+            <prereq>Recommended: Familiarity with differential equations and Fourier analysis (Applied Mathematics 21b or Mathematics 21b), familiarity with basic electricity (Applied Physics 50b, Physical Sciences 12b, Physics 11b (no longer offered), or 15b).</prereq>
+            <description>Design of electronic circuits (including integrated circuits) using semiconductor transistors. Topics: the physics of electrical conduction; the physics of semiconductors; bipolar transistors; field effect transistors; single- and multi-stage amplifiers; operational amplifiers; frequency responses and stability; feedback circuits; the physics of noise; self-sustained oscillators; phase-locked loops.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e92103a1310" role="1" seniority_sort="1">
+                <display_name>Gu-Yeon Wei</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

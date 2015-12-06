@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="114190" class_number="11991" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SCIPHUNV 21">Stellar Understanding of the Cosmos</title>
+            <exam_group>FAS08_I</exam_group>
+            <notes>If student interest exceeds the course limit, a random lottery will be conducted. To enter the lottery, you must add the course to the Study Card and explicitly request enrollment permission when prompted. Instructor permission will be granted to only those admitted by the lottery; all students will be notified of their results.  See the course website for more details.   </notes>
+            <description>Direct measurements of the stars and Sun with telescopes at the Science Center to learn how we can understand our solar system, Galaxy and the distant Universe from stars, the basic building blocks and markers of cosmic evolution. In small sections, students conduct both visual and computer-assisted telescope observations to measure key properties of stars and formulate their own cosmic understanding from simple physical laws. Solar observations are done in class on clear days; stellar observations use the 16in computer-controlled Clay Telescope on the Science Center rooftop in weekly 1hour evening sections, which include data analysis and discussion of lecture and readings.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="SCIPHUNV">Science of the Physical Universe</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Science Ctr 804 (FAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e86417a1310" role="1" seniority_sort="1">
+                <display_name>Jonathan Grindlay</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

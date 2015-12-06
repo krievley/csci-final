@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156541" class_number="11517" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PORTUG 123B">Portuguese Literary Studies II</title>
+            <notes> Discussions will be in Portuguese or in English, depending on class composition.</notes>
+            <prereq>Recommended: Excellent reading knowledge of Portuguese.</prereq>
+            <description>A continuation of Portuguese 123a, with an emphaasis on the nineteenth century and modernity.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="PORTUG">Portuguese</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

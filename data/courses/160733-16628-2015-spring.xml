@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160733" class_number="16628" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST-LIT 90CC">Boundaries, Borders, Bodies</title>
+            <description>Border geographies and urban boundaries delimit the terms of identity, reinforcing the notion of the city-state with material conditions and force. Such demarcations throw light on basic understandings of inclusion and exclusion, and how &amp;ldquo;us&amp;rdquo; and &amp;ldquo;them&amp;rdquo; are defined along the course of time. They are often in subtle or outright conflict with concurrent notions of selfhood, property, freedom, and mobility associated with modern life. The course traces along zones of passage that limit, regulate, and control mobility (including frontiers, enclosures, walls, barbed wire, among others) and theories of the distribution of the sensible (including security, circulation, mobility, flow, etc.).</description>
+            <department code="HLIT">History and Literature</department>
+            <course_group code="HIST-LIT">History and Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e465711a1310" role="1" seniority_sort="1">
+                <display_name>Maryam Monalisa Gharavi</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

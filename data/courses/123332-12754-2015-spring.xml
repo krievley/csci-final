@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123332" class_number="12754" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPC-CONC 96R">Senior Projects</title>
+            <notes>Deborah Foster and members of the Committee  Designed for seniors in their final term completing their senior project to meet the Basic (rather than Honors) requirements for concentration. May be repeated with the permission of the Director of Undergraduate Studies and the Faculty Adviser. Students must secure the written approval of the faculty member with whom they wish to study and the signature of the Faculty Adviser and the Director of Undergraduate Studies of Special Concentrations.</notes>
+            <department code="SPCN">Special Concentrations</department>
+            <course_group code="SPC-CONC">Special Concentrations</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

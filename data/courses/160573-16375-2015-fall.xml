@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160573" class_number="16375" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 1042">History of U.S. Imperialism, 1600-1900</title>
+            <exam_group>FAS18_A</exam_group>
+            <notes> Instructor:  Holger Droessler</notes>
+            <description>In three turbulent centuries, a small European outpost in a world of indigenous peoples grew into the most powerful nation-state in North America. The emergence of the United States as a global power, stretching from the Atlantic across a vast continent to the Pacific, had momentous consequences for millions of people far beyond its national borders. This lecture course explores the history of U.S. imperialism to 1900 from a global and bottom-up perspective. Among the course&amp;rsquo;s major themes are indigenous politics, Atlantic slavery, capitalism, migration, and imperialism in the Pacific.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="Sever 202 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e160422a1310" role="1" seniority_sort="1">
+                <display_name>Holger Droessler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

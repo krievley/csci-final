@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125325" class_number="12761" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 110">Science, Engineering, and the Community</title>
+            <exam_group>FAS06_E</exam_group>
+            <notes> Offered in alternate years.</notes>
+            <prereq>Recommended: Interest in science, engineering, learning, and outreach.</prereq>
+            <description>Activity-based course for beginning/intermediate science and engineering undergraduates. Combines readings and discussions on techniques for learning science and engineering design with implementation in an 8th grade science class in Cambridge. Students work directly with the 8th graders to guide how they learn. Students apply what they discover to improve their own understanding of college-level science and engineering.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="19:29:00" location="Maxwell Dworkin 221 (SEAS)" start_time="17:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e254659a1310" role="1" seniority_sort="1">
+                <display_name>Vinothan Manoharan</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

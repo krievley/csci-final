@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="126244" class_number="13696" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SOCIOL 98WB">Race, Poverty, and Justice</title>
+            <exam_group>FAS18_H</exam_group>
+            <prereq>Prerequisite: Sociology 97 AND Sociology Concentrators.</prereq>
+            <description>Race, Poverty and Justice surveys some of the key topics in urban sociology, focusing on major social problems in American cities. With particular attention to factors associated with crime, such as poverty, race, education, gender and unemployment, the course draws from different academic, media and narrative sources. Our focus on urban communities of concentrated poverty is intended to challenge students to think about policy solutions to complex problems. How do we respond to under-resourced schools, violence, joblessness, drug addiction and incarceration? Our methodological focus will be on qualitative data collection that includes ethnography and interviews. The last three weeks of the semester will be reserved for students to present original research projects designed to address the problems discussed in class. Questions for consideration: In what ways do various political, economic and religious ideologies shape our understandings of race? What kinds of practices lead us out of poverty? How do we understand justice? An optional visit to at least one Massachusetts state jail/prison will be incorporated into the curriculum.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="13:59:00" location="William James 501 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e311435a1310" role="1" seniority_sort="1">
+                <display_name>Kaia Stern</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

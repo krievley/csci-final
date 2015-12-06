@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125227" class_number="13612" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 40">Public Speaking Practicum</title>
+            <notes>Expos 40 is an elective within the Writing Program, and focuses on developing and strengthening the skills necessary for successful public speaking. Students learn strategies for impromptu speaking, preparing and delivering presentations, formulating and organizing persuasive arguments, cultivating critical thinking, engaging with an audience, using the voice and body, and building confidence in oral expression. Admission is by application. Limited to 30 students.  For all questions related to Expos 40, please contact Margie Zohn at margie@zohncoaching.com.  See the &lt;a href="http://writingprogram.fas.harvard.edu"&gt;Writing Program&lt;/a&gt; for admission information.</notes>
+            <description>This course develops and strengthens the skills necessary for successful public speaking. Students learn strategies for preparing and delivering presentations, formulating and organizing persuasive arguments, impromptu speaking, cultivating critical thinking, engaging with an audience, using the voice and body, and building confidence in oral expression. Students who successfully complete this course are eligible to apply to work as Peer Speaking Tutors.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="16:59:00" location="Sever 214 (FAS)" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e285441a1310" role="1" seniority_sort="1">
+                <display_name>Marjorie Zohn</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

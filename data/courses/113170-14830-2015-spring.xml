@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113170" class_number="14830" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="EMREAS 13">Analyzing Politics</title>
+            <description>A commonsensical survey of rational theories of politics comprised of: (1) individual choice, (2) group choice, (3) collective action, and (4) institutions. The underlying theme is that politics may be described and understood as rational, goal-seeking behavior by citizens, politicians, bureaucrats, and interest groups in various settings. Students are encouraged to think deeply about current events, history, and public life generally, as well as to analyze the politics of private life--in families, clubs, firms, churches, universities, even Harvard Houses--since private politics, like public politics, may be understood in terms of rational behavior. Instruction is by lecture, small-group section interactions, and experiments.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="EMREAS">Empirical and Mathematical Reasoning</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e83281a1310" role="1" seniority_sort="1">
+                <display_name>Kenneth Shepsle</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

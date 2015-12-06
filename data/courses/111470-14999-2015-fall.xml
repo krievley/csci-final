@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111470" class_number="14999" school_id="fas" section="1" term_code="fall">
+        <catalog_info>
+            <title short_title="LATIN 110">Neronian Literature</title>
+            <exam_group>FAS07_A</exam_group>
+            <description>Course focuses on literature of the reign of Nero (emperor 54-68 CE). We aim to read and interpret texts by the Younger Seneca, Lucan, and Petronius, and to place them in literary and historical context.</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="LATIN">Latin</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Boylston 237 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e52057a1310" role="1" seniority_sort="1">
+                <display_name>R.J. Tarrant</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

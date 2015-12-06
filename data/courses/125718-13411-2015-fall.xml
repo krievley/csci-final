@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125718" class_number="13411" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 43M">Psychology of Religion</title>
+            <exam_group>FAS13_E</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course addresses some of the fundamental issues of the nature of the self, issues which appear at the intersection of religion and psychology: Where do we turn for ultimate meaning? What happens when individuals undergo some sort of crisis and radically change their belief system or how they engage with the world? How do we face death? The course will focus on the ways in which both individuals and cultures create frameworks of meaning. The readings explore philosophical, psychological, and literary perspectives on these issues and questions and include works by Freud, Dostoevsky, William James, Flannery O&amp;#39;Connor, Malcolm X, and others.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="17:29:00" location="Sever 205 (FAS)" start_time="15:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e129990a1310" role="1" seniority_sort="1">
+                <display_name>Jon Boyd</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

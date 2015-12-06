@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160582" class_number="16793" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPLIT 243BA">Professing Literature 2</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes> It is open to all Harvard graduate students and is required of second-year Ph.D. students in Comparative Literature.</notes>
+            <description>This course focuses on professional development and preparation for academic careers in literature and related fields as well as positions outside academe. It is open to all Harvard graduate students and is required of second-year Ph.D. students in Comparative Literature.&amp;nbsp;Part one of a two-part series. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="CPLT">Comparative Literature</department>
+            <course_group code="COMPLIT">Comparative Literature</course_group>
+            <course_type>Seminar</course_type>
+            <credits>0</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="19:59:00" location="Dana Palmer 102 (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e9111a1310" role="1" seniority_sort="1">
+                <display_name>Karen Thornber</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

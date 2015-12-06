@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159563" class_number="14779" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HIST 2638">Readings in Modern Chinese History: Proseminar</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>This Pro-Seminar will examine developments in the field of modern Chinese history, with a particular focus on the twentieth century. Our principal goal is to gain some familiarity with the historical debates and methodological approaches that have given shaped to the field. Readings will aim to achieve a balance between classics in the field and contemporary scholarship. Topics covered include empire and semi-colonialism, rebellion and revolution, nationalism, civil society and public sphere, economic development, war, science and technology, foreign relations, and foreign relations.&amp;nbsp;This Pro-Seminar is particularly recommended for students planning an examination field in modern Chinese history. Reading knowledge of Chinese is recommended but not a required; students must have some prior coursework in Chinese history.</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="CGIS Knafel K108 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e19328a1310" role="1" seniority_sort="1">
+                <display_name>Arunabh Ghosh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

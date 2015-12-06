@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113972" class_number="18537" school_id="fas" section="003" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 98ZA">Junior Tutorial in Social Anthropology</title>
+            <exam_group>FAS03_C</exam_group>
+            <description>Junior tutorials in Social Anthropology explore critical theoretical issues related to a single ethnographic region (eg. South Asia, Africa, Latin America). The issues and areas change from year to year, but the purpose remains the same: to give students a chance to grapple with advanced readings and to experience the ways that ideas and theories can be applied and critically analyzed in ethnographic studies.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="Tozzer 416 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e91743a1310" role="1" seniority_sort="1">
+                <display_name>Ramyar Rossoukh</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160510" class_number="16002" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="JAPNHIST 203">Women, Court, and the Japanese Monarchy: 600-1400</title>
+            <exam_group>FAS14_H</exam_group>
+            <notes> This course will be taught by Sachiko Kawai, EALC College Fellow.</notes>
+            <description>Historians call the late Heian and early Kamakura period &amp;ldquo;a time of the governance by the retired monarchs&amp;rdquo; (insei), thereby emphasizing the political influence of retired male royals. This master narrative, however, suggests that early medieval Japan was steadily becoming a more patriarchal and male-dominant society. This obscures a more complex explanation of court politics and power relations. This storyline also dismisses the fact that royal women received a title of nyoin, which was the female equivalent to a retired male monarch. In this course, we will examine premodern Japanese kinship and kingship by exploring the history of royal women and supporters of the court, including female attendants, warriors, and local estate officials. Likewise, we will investigate how Heian and Kamakura court women managed to access power and pursued their own political, cultural, and religious goals although they were limited in obtaining official government posts. Throughout the course we will also think about how studies of the Japanese court and monarchy have been echoed in questions asked by scholars of other regions and times.&amp;nbsp;</description>
+            <department code="EALC">East Asian Languages and Civilizations</department>
+            <course_group code="JAPNHIST">Japanese History</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="16:59:00" location="Sever 101 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e166784a1310" role="1" seniority_sort="1">
+                <display_name>Sachiko Kawai</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123710" class_number="12967" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="LING 250">Old Church Slavonic</title>
+            <exam_group>FAS02_A</exam_group>
+            <description>History of the first Slavic literary language, its role in Slavic civilization; phonology, morphology, syntax, and vocabulary of Old Church Slavonic; reading from canonical texts.</description>
+            <department code="LING">Linguistics</department>
+            <course_group code="LING">Linguistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="Barker 373 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e234820a1310" role="1" seniority_sort="1">
+                <display_name>Michael Flier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

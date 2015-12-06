@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="119803" class_number="15103" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2782">State Failure and Civil War</title>
+            <description>The study of modern works on civil wars, terrorism, and state failure.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e73173a1310" role="1" seniority_sort="1">
+                <display_name>Robert Bates</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

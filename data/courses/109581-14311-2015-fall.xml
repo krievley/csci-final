@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109581" class_number="14311" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ANTHRO 1040">Origins of the Food We Eat</title>
+            <exam_group>FAS07_A</exam_group>
+            <notes> Given in alternate years.</notes>
+            <description>The most significant lifestyle revolution in the human past was the change from hunting and gathering to agriculture and pastoralism. That shift in the subsistence base has facilitated, and has been facilitated by, increasing populations and a restructuring of social and economic relations over the past 10,000 years. Focusing on key geographic areas and transformative time periods, we discuss how this process began by focusing on the domestication of what have become the staples and major condiments of modern diets around the world. We also consider the spread and adoption of domestic plants and animals across the Eastern and Western Hemispheres as well as the globalization of food that began at the end of the 15th century CE with the Columbian Exchange.To study the processes of domestication and subsequent exploitation of domestic plants and animals requires a multi-disciplinary approach. Thus we sample contributions from a wide range of fields including archaeology, anthropology, history, linguistics, botany, zoology, genetics, biogeochemistry, climatology, geomorphology, oceanography, demography, and nutritional science. Fundamental, however, are archaeological excavations, which provide the material remains necessary for specialized analyses as well as the temporal and social contexts needed for their interpretation.The course is discussion-based, with background material, concepts, and topics introduced by the instructor. Geographical focus is on West, South, and East Asia, Mesoamerica, and the Andean region, with other areas (Europe, Central Asia, Africa, New Guinea, Oceania, Amazonia, and North America) touched upon for specific foods. Readings are in the primary and secondary literature, focusing on key plants, animals, analytical methods, and interpretative debates. Evaluation is based on completing readings and two short written assignments each week and participating in class discussions. Graduate students are required to submit a short tightly focused research paper.</description>
+            <department code="ANTH">Anthropology</department>
+            <course_group code="ANTHRO">Anthropology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday Friday" end_time="11:59:00" location="Tozzer 102 (FAS)" start_time="11:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e8787a1310" role="1" seniority_sort="1">
+                <display_name>Richard Meadow</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

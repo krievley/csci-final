@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110763" class_number="10603" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ENGLISH 91R">Supervised Reading and Research</title>
+            <notes>Hours to be arranged   Nicholas Watson and members of the Department  A graded course. May not be taken more than twice and only once for concentration.</notes>
+            <description>Individual instruction in subjects of special interest that cannot be studied in regular courses.</description>
+            <department code="ENGL">English</department>
+            <course_group code="ENGLISH">English</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e42770a1310" role="1" seniority_sort="1">
+                <display_name>James Engell</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

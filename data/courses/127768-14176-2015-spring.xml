@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127768" class_number="14176" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="STAT 98">Tutorial - Junior Year</title>
+            <notes>David P. Harrington (FAS/Public Health) and Viktoriia Liublinska  </notes>
+            <description>Introduction to reading, writing, presenting, and research in statistics. Students will learn to formulate and approach a research question, critically review papers that make use of statistics, and clearly communicate statistical ideas and arguments orally and in writing. Limited to junior concentrators in statistics.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Junior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e36224a1310" role="1" seniority_sort="1">
+                <display_name>David P. Harrington</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

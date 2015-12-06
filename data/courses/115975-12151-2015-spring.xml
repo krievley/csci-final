@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115975" class_number="12151" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 330">Gene Expression in the Brain and Motivated Behavior</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e125923a1310" role="1" seniority_sort="1">
+                <display_name>William Carlezon</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

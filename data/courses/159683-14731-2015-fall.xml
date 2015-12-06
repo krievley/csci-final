@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159683" class_number="14731" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="HAA 192M">Early African Art (to 1750)</title>
+            <exam_group>FAS08_G</exam_group>
+            <description>This course explores key art historical and architectural traditions in Africa from earliest man to the eigteenth century.</description>
+            <department code="HAA">History of Art and Architecture</department>
+            <course_group code="HAA">History of Art and Architecture</course_group>
+            <course_type>Proseminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="14:59:00" location="Sackler Museum 406" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e73038a1310" role="1" seniority_sort="1">
+                <display_name>Suzanne Blier</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

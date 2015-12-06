@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="123714" class_number="12971" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="STAT 240">Matched Sampling and Study Design</title>
+            <prereq>Recommended: Statistics 110, Statistics 111, and Statistics 139.</prereq>
+            <description>This course provides an accessible introduction to the study of matched sampling and other design techniques in any field (e.g., economics, education, epidemiology, medicine, political science, etc.) conducting empirical research to evaluate the causal effects of interventions.</description>
+            <department code="STAT">Statistics</department>
+            <course_group code="STAT">Statistics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="11:29:00" location="Science Ctr 705 (FAS)" start_time="09:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e36404a1310" role="1" seniority_sort="1">
+                <display_name>Tirthankar Dasgupta</display_name>
+            </person>
+            <person id="d1e21753a1310" role="1" seniority_sort="2">
+                <display_name>Donald Rubin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

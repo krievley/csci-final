@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160233" class_number="15315" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 196D">The Documentary in Latin America</title>
+            <notes>This course has mandatory weekly film screenings on Wednesdays from 4pm to 6pm.  This course has a mandatory weekly film screening on Wednesdays from 4pm to 6pm.</notes>
+            <description>Documentary film production has been part of Latin American cinema since its origins. Non-fiction filmmaking was an essential component for two of the region&amp;rsquo;s most important film movements, Brazil&amp;rsquo;s Cinema Novo and the New Cuban Cinema. Currently, the Latin American documentary is enjoying a period of extraordinary vitality and international acclaim. This course traces the development of the form from the 1960s onwards, paying special attention to the interaction of the documentary with shifting notions of politics.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e213502a1310" role="1" seniority_sort="1">
+                <display_name>Richard Pena</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

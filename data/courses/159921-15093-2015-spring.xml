@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159921" class_number="15093" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ESPP 99B">Tutorial - Senior Year</title>
+            <notes>Paul Moorcroft and Members of the Committee. Hours to be arranged.  </notes>
+            <description>Research and writing of the senior thesis under faculty direction. Senior honors candidates must take at least one term of this course while writing a thesis. The signature of the faculty adviser is required. Part two of a two part series.</description>
+            <department code="ESPP">Environmental Science and Public Policy</department>
+            <course_group code="ESPP">Environmental Science and Public Policy</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

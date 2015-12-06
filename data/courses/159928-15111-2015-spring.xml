@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159928" class_number="15111" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 111">Creativity and Innovation in Social Context</title>
+            <notes> Instructor: Larissa Buchholz</notes>
+            <description>This course explores an intriguing problem in sociological analysis: the production of new ideas and practices as well as the reputations of their creators: How do social contexts affect creative output and inventions? How do professional communities determine when ideas are original, instead of misguided and infeasible? How does this compare across the arts, the economy, or the sciences? Specifically, the goals of the course are threefold: First, to acquaint students with key approaches on the subject in cultural sociology, economic &amp;amp; organizational sociology, and the sociology of knowledge. Second, to discuss and deepen our understanding of what is specific about a sociological approach in comparison to other disciplines (e.g. psychology or economics), and thus to train the &amp;quot;sociological imagination.&amp;quot; Third, to equip students with broader skills for their own future academic and professional work. The course will involve brief lectures, student presentations, discussions, and a field trip. In addition, occasional guest presentations by Harvard scholars working in this field will enliven our discussion with interdisciplinary case studies.&amp;nbsp;</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="16:59:00" location="" start_time="15:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+    </course>
+</courses>

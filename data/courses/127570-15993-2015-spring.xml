@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="127570" class_number="15993" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="FRSEMR 23E">The Scientific Method: A Roadmap to Knowledge</title>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>This course is designed to provide a working knowledge of the scientific method, thereby fostering development of fundamental skills in logic and experimental design. The various forms of reasoning (inductive, abductive, deductive) will be discussed in context of the practice of science. Through critical analysis of historical and contemporary scientific reports, students will gain an understanding of creating appropriate hypotheses, of controlled experimentation, and of the breadth and limits of conclusions drawn from experimental data.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e392637a1310" role="1" seniority_sort="1">
+                <display_name>Robert Sackstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

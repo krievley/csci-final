@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160722" class_number="17442" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="SAS 230">Environmental History of South Asia</title>
+            <exam_group>FAS14_H</exam_group>
+            <description>This seminar explores approaches to the environmental history of modern South Asia. It is designed for graduate students preparing examination fields in Modern and Contemporary South Asian Studies and in South Asian History; it might also be of interest as a comparative perspective for those specializing in the environmental history of other parts of the world. Topics and readings will be tailored to students&amp;rsquo; individual interests, but are likely to include: changing human interactions with the natural environment; the role of colonial and post-colonial states in environmental transformation; and the development of Indian environmental law and regulation.</description>
+            <department code="SAST">South Asian Studies</department>
+            <course_group code="SAS">South Asian Studies</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="1 Bow St 317 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e16980a1310" role="1" seniority_sort="1">
+                <display_name>Sunil Amrith</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

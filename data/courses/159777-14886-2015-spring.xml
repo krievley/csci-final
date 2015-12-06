@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159777" class_number="14886" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 67R">Persuasive Projections: Film, Video, and Moving-Image Installation</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  No previous studio experience necessary. Useful for beginning students in visual art and film/video as well as more advanced practitioners.
+
+Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>An introductory course in video and film art including forms of installation that incorporate the moving image. All types of media will be part of the class&amp;rsquo;s expanding brainstorm: daytime television and YouTube videos will be considered, as well as screenings of filmmakers and artists such as Michael Snow, Mike Kelley and Joan Jonas. In addition to individual projects, students will produce, write, direct, and/or perform in a collaborative video work, practicing techniques of lighting, camera, editing, and sound.&amp;nbsp;</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e206207a1310" role="1" seniority_sort="1">
+                <display_name>Jennifer Bornstein</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160191" class_number="15441" school_id="fas" section="01" term_code="fall">
+        <catalog_info>
+            <title short_title="HISTSCI 194V">Brave New Worlds: Imagining the Futures of Science</title>
+            <exam_group>FAS05_D</exam_group>
+            <description>Writers, filmmakers, and artists have often used speculative fiction to comment on new knowledge about the natural world, and to think about how that knowledge might affect humanity&amp;rsquo;s future. Some works of art express hope that science and technology will improve the human condition; others express anxiety about the consequences of scientific findings and technological developments. This seminar examines science fiction (broadly defined) in its historical context and considers how specific works both reflected and shaped changing beliefs about science and its role in society. Students will analyze works of fiction alongside scholarly literature about developments in the history of science. Topics will include poems and treatises about &amp;ldquo;new worlds&amp;rdquo; written during the Scientific Revolution, fables from Victorian Britain that drew on Charles Darwin&amp;rsquo;s theory of evolution, fiction and films about radioactivity and nuclear war, and science fiction about gender and fertility written during and after the women&amp;rsquo;s movement.</description>
+            <department code="HSCI">History of Science</department>
+            <course_group code="HISTSCI">History of Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="17:59:00" location="Science Ctr 252 (FAS)" start_time="16:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e8735a1310" role="1" seniority_sort="1">
+                <display_name>Melinda Baldwin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

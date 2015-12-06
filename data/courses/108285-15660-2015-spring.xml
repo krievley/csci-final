@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108285" class_number="15660" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 63">Topics and Resources in Political Theory</title>
+            <description>This course introduces students to some of the methodological approaches in contemporary political theory-philosophical and historical-by looking at analyses of the "just war." We then turn to other topics reflecting the individual interests of students who enroll. Designed to help participants to make the transition from being critical readers of political thought to being independent contributors to debate, the course will be especially useful for those considering writing a political theory thesis.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e81372a1310" role="1" seniority_sort="1">
+                <display_name>Michael Rosen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

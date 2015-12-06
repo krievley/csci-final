@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159637" class_number="15177" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HLTHPOL 3040B">Research Seminar in Health Policy</title>
+            <description>Students in the third year and above present dissertation research in progress. Part two of a two-part series.</description>
+            <department code="HPOL">Health Policy</department>
+            <course_group code="HLTHPOL">Health Policy</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>2</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="10:29:00" location="" start_time="09:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e85007a1310" role="1" seniority_sort="1">
+                <display_name>Laura Hatfield</display_name>
+            </person>
+            <person id="d1e85010a1310" role="2" seniority_sort="2">
+                <display_name>Anupam Jena</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

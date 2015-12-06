@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108261" class_number="10820" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 30G">Digging Up the Past: Harvard and Egyptian Archaeology</title>
+            <exam_group>FAS15_D</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Explores the spectacular history and discoveries of the 40-year Harvard-MFA (Museum of Fine Arts, Boston) Expedition to 23 sites in Egypt and Nubia (1905-1947). Topics include the early development of responsible archaeological method, famous finds and explorers, Western colonialism/imperialism in Egypt, early Harvard and MFA history, archival research, and the current debate on repatriation of artifacts. Field trips to museum collections, and exciting new digital technologies (such as 3D Giza Pyramids in Harvard's Visualization Center) applied to early 20th century archaeology.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="14:59:00" location="Art Museums 0600" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-19</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e24584a1310" role="1" seniority_sort="1">
+                <display_name>Peter Der Manuelian</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148097" class_number="11997" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="NEUROBIO 204">Neurophysiology of Central Circuits</title>
+            <notes> Offered jointly with the Medical School as NB 721.0.</notes>
+            <prereq>Recommended: Neuro 200 / HST 130 or permission of instructor</prereq>
+            <description>This course introduces major themes and fundamental concepts underlying current research in systems neuroscience. Each week covers a different theme, and draws on research from different sensorimotor modalities and model organisms.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="NEUROBIO">Neurobiology Neurobiology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="11:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e33242a1310" role="1" seniority_sort="1">
+                <display_name>Richard Born</display_name>
+            </person>
+            <person id="d1e239a1310" role="2" seniority_sort="2">
+                <display_name>Mark Andermann</display_name>
+            </person>
+            <person id="d1e22741a1310" role="2" seniority_sort="3">
+                <display_name>Michael Do</display_name>
+            </person>
+            <person id="d1e13894a1310" role="2" seniority_sort="4">
+                <display_name>Christopher Harvey</display_name>
+            </person>
+            <person id="d1e101233a1310" role="2" seniority_sort="5">
+                <display_name>Margaret Livingstone</display_name>
+            </person>
+            <person id="d1e258497a1310" role="2" seniority_sort="6">
+                <display_name>Rachel Wilson</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

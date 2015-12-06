@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116233" class_number="14967" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="ITAL 40">Advanced Oral Expression and Performance</title>
+            <notes> Conducted in Italian. May not be taken Pass/Fail, but may be taken Sat/Unsat by GSAS students. Appropriate for concentrators electing the Italian Studies or Romance Studies track. Not open to auditors.
+
+This course is taught by members of the Department.</notes>
+            <prereq>Recommended: A score of 681-720 on the SAT II or the Harvard Placement Test; Italian 30, 35 or 36; equivalent preparation; or permission of course head.</prereq>
+            <description>Ciak, si parla! Students develop oral expression and communication skills through the close reading of texts that are meant for performance, such as plays, film scripts, poetry, and music. Variation in diction and presentation techniques culminates in the adaptation and production of one or more of these texts for a public performance at the end of the term. Consult course website for current semester topics.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="ITAL">Italian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e13153a1310" role="1" seniority_sort="1">
+                <display_name>Elvira G. DiFabio</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

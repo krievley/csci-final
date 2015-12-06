@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="109928" class_number="10665" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="HIST 97C">"What is the History of History?"</title>
+            <description>Everything has a history, and the discipline of history has a particularly long and broad one. In this section we'll focus on ideas about how and why to study history and on the practices of historical research and writing as they have varied across different cultural contexts. In selected case studies we will consider who wrote and who read history, and how historians answered questions that we also ask ourselves today. E.g. What features are essential to a good historical account? Does the study of history teach moral lessons? How does history interact with memory?</description>
+            <department code="HIST">History</department>
+            <course_group code="HIST">History</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e41044a1310" role="1" seniority_sort="1">
+                <display_name>Ann Blair</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

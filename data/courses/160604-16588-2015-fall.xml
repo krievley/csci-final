@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160604" class_number="16588" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRENCH 182">French, Francophone, and Postcolonial Studies</title>
+            <exam_group>FAS05_C</exam_group>
+            <notes>This course is jointly offered with Wellesley College and will take place on the Wellesley campus.&amp;nbsp; Please contact the department with questions regarding transportation.  </notes>
+            <description>This course examines texts that foreground pressing concerns of the postcolonial world: in Africa, the Creole islands of the Caribbean and Indian Ocean, Europe and South Asia. Close attention will be paid to the relationship of a colonial culture to that of the metropolis, the functioning of minority and majority languages, and the narrative techniques that make these differences manifest in fictional and theoretical writing. The course includes discussion of postcolonial theory and its many debates.</description>
+            <department code="ROML">Romance Languages and Literatures</department>
+            <course_group code="FRENCH">French</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="20:29:00" location="" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e43325a1310" role="1" seniority_sort="1">
+                <display_name>Francoise Lionnet</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

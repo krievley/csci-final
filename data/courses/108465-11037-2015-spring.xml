@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108465" class_number="11037" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PHYSICS 143A">Quantum Mechanics I</title>
+            <prereq>Recommended: Linear algebra including matrix diagonalization; Physics 15c or written permission of the Head Tutor.</prereq>
+            <description>Introduction to nonrelativistic quantum mechanics: uncertainty relations; Schr&amp;ouml;dinger equation; Dirac notation; matrix mechanics; one-dimensional problems including particle in box, tunneling, and harmonic oscillator; angular momentum, hydrogen atom, spin, Pauli principle; time-independent perturbation theory; scattering.</description>
+            <department code="PHYS">Physics</department>
+            <course_group code="PHYSICS">Physics</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e45782a1310" role="1" seniority_sort="1">
+                <display_name>Gerald Gabrielse</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

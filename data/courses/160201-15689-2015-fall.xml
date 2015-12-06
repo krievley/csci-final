@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160201" class_number="15689" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="FRSEMR 23D">Ireneo Funes and Big Data</title>
+            <exam_group>FAS06_E</exam_group>
+            <prereq>Course open to Freshman Students Only</prereq>
+            <description>Ireneo Funes, the protagonist of the fantasy story &amp;ldquo;Funes the Memorious&amp;rdquo;, had an absolutely amazing memory. Funes was capable of memorizing the tiniest detail of every single day, yet he was incapable of making sense of it. The statistician and historian Stephen Stigler called Funes &amp;ldquo;Big Data without Statistics&amp;rdquo;. Using Stigler&amp;rsquo;s &amp;ldquo;Seven Pillars of Statistical Wisdom&amp;rdquo; (2015, Harvard University Press) as the primary reading, we will explore seven statistical principles and insights that are crucial in preventing ourselves from becoming the Funes of the 21st century. This seminar is particularly suited for those whose happiness lies in understanding the philosophical underpinnings of quantitative thinking under uncertainty.</description>
+            <department code="FRSP">Freshman Seminars</department>
+            <course_group code="FRSEMR">Freshman Seminar</course_group>
+            <course_type>Freshman Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday" end_time="20:29:00" location="Science Ctr 706 (FAS)" start_time="18:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-14</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e36089a1310" role="1" seniority_sort="1">
+                <display_name>Xiao-Li Meng</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

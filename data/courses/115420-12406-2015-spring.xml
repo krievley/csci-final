@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="115420" class_number="12406" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="PSY 3070">Clinical Assessment and Treatment Practicum</title>
+            <notes>Hours to be arranged.   TBD and members of the clinical faculty.  Limited to graduate students in clinical psychology.</notes>
+            <description>Faculty interview psychiatric inpatients to demonstrate establishing treatment alliances, gathering histories, and initial assessment. Group discussion will consider how theoretical principles are applied to clinical work. 	</description>
+            <department code="PSYC">Psychology</department>
+            <course_group code="PSY">Psychology</course_group>
+            <course_type>Reading and Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

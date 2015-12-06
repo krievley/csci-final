@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159856" class_number="16409" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SPC-CONC 99B">Tutorial - Senior Year</title>
+            <notes> Ordinarily taken with 99A by honors seniors as a course series. With the consent of the Faculty Adviser and the Director of Undergraduate Studies of Special Concentrations, students may enroll in either 99A or 99B alone.</notes>
+            <description>Part two of a two part series.</description>
+            <department code="SPCN">Special Concentrations</department>
+            <course_group code="SPC-CONC">Special Concentrations</course_group>
+            <course_type>Senior Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

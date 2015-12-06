@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108218" class_number="10778" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SHBT 203">Anatomy of Speech and Hearing</title>
+            <notes>January 2016 dates TBA.  This an intensive January Course. Offered jointly with MIT as HST 718. Classes to be held at the Harvard Medical School campus (HMS)</notes>
+            <prereq>Recommended: Introductory biology or equivalent and permission of the course director.</prereq>
+            <description>This course covers anatomy of the head and neck, with cadaver dissection, stressing structures important in speech and hearing. Lecture topics also include basic neuroanatomy, imaging, surgery, and cancer of head and neck.</description>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="SHBT">Speech and Hearing Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="10:29:00" location="" start_time="09:30:00"/>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday Friday" end_time="13:29:00" location="" start_time="10:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e344274a1310" role="1" seniority_sort="1">
+                <display_name>Barbara Fullerton</display_name>
+            </person>
+            <person id="d1e344277a1310" role="2" seniority_sort="2">
+                <display_name>James Heaton</display_name>
+            </person>
+            <person id="d1e344280a1310" role="2" seniority_sort="3">
+                <display_name>James Kobler</display_name>
+            </person>
+            <person id="d1e344274a1310" role="1" seniority_sort="1">
+                <display_name>Barbara Fullerton</display_name>
+            </person>
+            <person id="d1e344277a1310" role="2" seniority_sort="2">
+                <display_name>James Heaton</display_name>
+            </person>
+            <person id="d1e344280a1310" role="2" seniority_sort="3">
+                <display_name>James Kobler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

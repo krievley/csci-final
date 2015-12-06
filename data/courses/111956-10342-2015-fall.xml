@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="111956" class_number="10342" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="WELSH 226R">Readings in Middle Welsh Prose</title>
+            <exam_group>FAS03_D</exam_group>
+            <description>An exploration of the enormous variety of medieval Welsh prose literature: selections from tales and romances, chronicles, laws, and lore.</description>
+            <department code="CELT">Celtic Languages and Literatures</department>
+            <course_group code="WELSH">Welsh</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Thursday" end_time="15:59:00" location="Warren 201 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e63327a1310" role="1" seniority_sort="1">
+                <display_name>Catherine McKenna</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

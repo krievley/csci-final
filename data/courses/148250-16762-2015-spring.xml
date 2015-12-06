@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148250" class_number="16762" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 54">Biology of the Fungi</title>
+            <notes> There is a weekly laboratory, and several afternoon field trips are required (dates to be announced).</notes>
+            <prereq>Recommended: Life Sciences 1a and 1b or permission of instructor.</prereq>
+            <description>This course explores the fascinating diversity of the kingdom fungi, including evolution, ecology and morphology. All of the major groups of fungi, from smuts to molds, will be included. Students use a variety of techniques to learn about these organisms and their activities.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="14:29:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e42950a1310" role="1" seniority_sort="1">
+                <display_name>Donald Pfister</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

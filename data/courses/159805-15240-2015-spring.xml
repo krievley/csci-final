@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="159805" class_number="15240" school_id="fas" section="002" term_code="spring">
+        <catalog_info>
+            <title short_title="GERMAN AB">Beginning German</title>
+            <description>An introduction to German language and culture designed for students with little or no knowledge of the language. Encompasses all four skills: speaking, listening, reading, and writing. Class sessions emphasize the development of oral proficiency. Instruction is supplemented by literary and non-literary texts, videos, and Internet activities. Students must complete both terms of this course (parts A and B) within the same academic year in order to receive credit.</description>
+            <department code="GERM">Germanic Languages and Literatures</department>
+            <course_group code="GERMAN">German</course_group>
+            <course_type>Lecture</course_type>
+            <credits>8</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Tuesday Wednesday Thursday" end_time="10:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e172264a1310" role="1" seniority_sort="1">
+                <display_name>Lisa Parkes</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

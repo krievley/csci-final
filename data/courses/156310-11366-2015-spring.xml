@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="156310" class_number="11366" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="CLS-STDY 152">The Construction of Gender and Sexuality in Ancient Greece</title>
+            <description>This course will explore ancient Greek ideologies of gender difference and sexuality, including the mythical "origins" of gender, legal definitions of marriage and adultery, the gendering of space, the portrayal of women on the tragic stage, gender-bending and cross-dressing in comedy, medical models of sex and childbirth, and the links between pederasty and pedagogy. With the help of some important modern discussions about the construction of gender, sexuality, and identity, we will try to assess the ways in which sexual practices and male and female identities were imagined, formed, reinforced, and institutionalized during the archaic and classical periods (roughly 800-300 BCE).</description>
+            <department code="CLAS">Classics</department>
+            <course_group code="CLS-STDY">Classical Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="" start_time="12:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e27028a1310" role="1" seniority_sort="1">
+                <display_name>Naomi Weiss</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

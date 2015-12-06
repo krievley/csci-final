@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="160236" class_number="15333" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 11BR">Paper Always Talks a Lot : Drawing as Object:</title>
+            <notes>Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.</notes>
+            <description>This drawing based studio course will foreground the surface and structure on which drawing can be made. Playing within conventions and expected boundaries, drawing becomes a noun, an object, a finished artwork. Focus is on gaining visual understanding and intentional skill in order to have control over the merging of form and content in ones work. Students will create a portfolio investigating personal interests based on concepts covered in class following each topic and assignment. We will draw a lot!&amp;nbsp;&amp;nbsp;</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e200110a1310" role="1" seniority_sort="1">
+                <display_name>Katarina Burin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

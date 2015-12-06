@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113501" class_number="11966" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="CULTBLF 22">The Ancient Greek Hero</title>
+            <exam_group>FAS18_F</exam_group>
+            <notes> This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>This course takes a close look at the human condition, as viewed through the lens of classical Greek civilization (and some modern comparanda).The readings, all in English translation, are the Homeric Iliad and Odyssey, seven tragedies (Aeschylus' Oresteia Trilogy, Sophocles' two Oedipus dramas, and Euripides' Hippolytus and The Bacchic Women), and two dialogues of Plato (the Apology and the Phaedo, both centering on the last days of Socrates); also, selections from the dialogue On Heroes by an eminent thinker in the "second sophistic" movement, Philostratus.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="CULTBLF">Culture and Belief</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="12:59:00" location="CGIS South S010 (FAS)" start_time="12:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-21</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e42545a1310" role="1" seniority_sort="1">
+                <display_name>Gregory Nagy</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

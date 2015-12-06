@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113516" class_number="16179" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="VES 150B">Kinochemical Reactions: Studio Course</title>
+            <notes>&amp;nbsp;  Interested students must attend first meeting of class during shopping week to speak with teaching staff about course enrollment procedure.  Students seeking to enroll should come to the first class meeting with a developed short narrative screenplay.</notes>
+            <prereq>Recommended: VES 150ar or two courses in video production, one of which must be VES 60x or VES 59.</prereq>
+            <description>This course is essentially the continuation of 150ar. Students will re-write, produce, and direct the scripts that were developed during the fall term. Emphasis will be given to directing actors, spatial reconnaissance of shooting locations, production design, sound design, and re-making/re-mapping through editing. Completed films (edited, mixed, color graded) are required by the end of the term. Collaboration between students, and crew rotation is a must. Occasional in-class workshops by film professionals and artists.</description>
+            <department code="VES">Visual and Environmental Studies</department>
+            <course_group code="VES">Visual and Environmental Studies</course_group>
+            <course_type>Studio</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="15:59:00" location="" start_time="13:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e33910a1310" role="1" seniority_sort="1">
+                <display_name>Guy Maddin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

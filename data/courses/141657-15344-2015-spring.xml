@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="141657" class_number="15344" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="SOCIOL 112">Men, Women, and Work</title>
+            <description>Why do men and women tend to cluster into different occupations? Why do they earn different wages? Is there a certain path that all countries follow as they become more economically prosperous, or do issues concerning men&amp;#39;s and women&amp;#39;s work differ dramatically across countries because of cultural reasons? This course provides an overview of key issues and perspectives in the study of men, women, and work in contemporary society. May be counted for introductory concentration requirement, if letter-graded.</description>
+            <department code="SOCL">Sociology</department>
+            <course_group code="SOCIOL">Sociology</course_group>
+            <course_type>Conference Course</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="11:29:00" location="" start_time="10:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e78915a1310" role="1" seniority_sort="1">
+                <display_name>Mary Brinton</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

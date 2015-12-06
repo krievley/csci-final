@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125096" class_number="16363" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="ENG-SCI 164">Environmental Chemistry</title>
+            <exam_group>FAS08_J</exam_group>
+            <notes> Cannot be taken for credit by students who have already taken ENG-SCI 264.</notes>
+            <prereq>Recommended: Physical Sciences 1 or permission of the instructor.</prereq>
+            <description>Basic concepts, principles, and applications of environmental chemistry for students in Earth and environmental sciences. We will investigate a variety of chemistry topics relevant for environmental systems, including water chemistry, acids and bases, redox reactions, precipitation/dissolution, sorption, gas solubility, and aqueous and atmospheric reaction rates and mechanisms. The principal goal is to explore and apply the fundamental principles of chemical thermodynamics and kinetics to understand Earth processes and solve complex environmental problems.</description>
+            <department code="ENGSCI">Engineering Sciences</department>
+            <course_group code="ENG-SCI">Engineering Sciences</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:29:00" location="Maxwell Dworkin 223 (SEAS)" start_time="13:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-15</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e291868a1310" role="1" seniority_sort="1">
+                <display_name>Karena A. McKinney</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

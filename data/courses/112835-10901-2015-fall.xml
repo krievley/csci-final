@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="112835" class_number="10901" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="RUSS 102R">Advanced Russian: Introduction to the Language of Social Sciences and the Media</title>
+            <exam_group>FAS03_C</exam_group>
+            <prereq>Recommended: Russian 101, placement, or permission of instructor.</prereq>
+            <description>Introduction to the language of Russian newspapers, journals, and historical writing. Basic vocabulary for such areas as current events, including politics, history, economics, military issues, society, and the environment. Systematic study of word formation and other strategies are taught to help free students from excessive dependence on the dictionary and develop confidence in reading. Intended for students who desire a professional level of reading proficiency in the social sciences. Intensive work on morphology and supplementary work on oral comprehension.</description>
+            <department code="SLAV">Slavic Languages and Literatures</department>
+            <course_group code="RUSS">Russian</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="15:59:00" location="CGIS South S001 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e175757a1310" role="1" seniority_sort="1">
+                <display_name>Oksana Willis</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

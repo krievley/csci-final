@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="148193" class_number="13441" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="IMMUN 392">Dendritic Cells and the Initiation of Immune Reponses; Genetic Analysis using Genome-Wide Mammalian</title>
+            <department code="MDSC">Medical Sciences</department>
+            <course_group code="IMMUN">Immunology</course_group>
+            <course_type>Thesis Research</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e269407a1310" role="1" seniority_sort="1">
+                <display_name>Nir Hacohen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="117918" class_number="20248" school_id="fas" section="002" term_code="fall">
+        <catalog_info>
+            <title short_title="WOMGEN 91R">Body Capital: Sex Work and the Global Economy</title>
+            <description>This seminar explores research and debates around sex work in the global economy.&amp;nbsp; Topical intersections include technology; travel; urbanization and displacement; representation and testimony; ethics and the law; and the economization of intimacy, race, gender, class, and more.&amp;nbsp; Seminar readings and discussions, guided by students&amp;rsquo; interests, will culminate in the crafting, work-shopping, and presentation of research papers</description>
+            <department code="WMGS">Women, Gender, and Sexuality</department>
+            <course_group code="WOMGEN">Women, Gender, and Sexuality</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e27788a1310" role="1" seniority_sort="1">
+                <display_name>Caroline Light</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

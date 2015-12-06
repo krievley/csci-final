@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="108926" class_number="11493" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="BE 91R">Supervised Reading and Research</title>
+            <notes> Normally open to candidates accepted for work on a specific topic by a member of the teaching staff of the School of Engineering and Applied Sciences. Normally may not be taken for more than two terms; may be counted for concentration in Biomedical Engineering if taken for graded credit. Applicants should file a project sheet before study cards are filed. Project sheets may be obtained from the Student Affairs Office, Pierce Hall 110.</notes>
+            <description>Guided reading and research.</description>
+            <department code="BME">Biomedical Engineering</department>
+            <course_group code="BE">Biomedical Engineering</course_group>
+            <course_type>Tutorial</course_type>
+            <credits>4</credits>
+        </catalog_info>
+        <staff>
+            <person id="d1e254614a1310" role="1" seniority_sort="1">
+                <display_name>Robert D. Howe</display_name>
+            </person>
+            <person id="d1e245921a1310" role="1" seniority_sort="2">
+                <display_name>Sujata K. Bhatia</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

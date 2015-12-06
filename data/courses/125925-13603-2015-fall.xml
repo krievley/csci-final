@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125925" class_number="13603" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="AFRAMER 16">Sociology of the Black Community</title>
+            <exam_group>FAS01_D</exam_group>
+            <description>This course examines issues of race, class, gender, and identity in the Afro-American community. Topics of special emphasis include the contemporary situation of the black family, class stratification and the conditions and prospects of the modern black middle class, black feminist thought, black educational performance, and the dynamics of race. Our objective is to arrive at a deeper sociological analysis and appreciation of the changing life experiences awaiting African Americans.</description>
+            <department code="AAAS">African and African American Studies</department>
+            <course_group code="AFRAMER">African and African American Studies</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday" end_time="11:59:00" location="Barker 230 (FAS)" start_time="10:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-11</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e80849a1310" role="1" seniority_sort="1">
+                <display_name>Lawrence Bobo</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="116353" class_number="16528" school_id="fas" section="225" term_code="fall">
+        <catalog_info>
+            <title short_title="EXPOS 20">Expository Writing 20</title>
+            <exam_group>FAS13_A</exam_group>
+            <notes>Riding broomsticks and dancing in the woods at night, witches are often imagined to be outside society. But in these representations may be keys to understanding social norms, norms that get articulated through the witch&amp;rsquo;s very violation of them. In this seminar, we ask what discourses about witches tell us about the societies that produce them. We begin by examining anthropologists&amp;rsquo; depictions of witchcraft among people who come to find magic believable: how do we understand the seemingly irrational idea that magic is real? Closely considering evidence from classic ethnographic accounts, we critically examine other scholars&amp;rsquo; answers to questions such as this one by thinking across competing approaches to the study of magic. Next, we analyze the film  Harry Potter and the Chamber of Secrets  and the television sitcom  Bewitched , bringing these pop-cultural phenomena into conversation with Mary Douglas&amp;rsquo;s treatise on  Purity and Danger  and Pierre Bourdieu&amp;rsquo;s critique of  Masculine Domination . These theories help us examine, for example, how fictional representations of witches speak to political struggles over class and gender. For the research paper, each student chooses an example of witchcraft on which to conduct independent research. Sample topics include fairy tales, the Salem witch trials, neo-paganism, and the Broadway musical  Wicked . What will unite our diverse inquiries is a common interest in the social significance of this seemingly marginal figure: the witch.  Students must pass one term of Expository Writing 20 to meet the College's Expository Writing requirement.</notes>
+            <description>An intensive seminar that aims to improve each student&amp;rsquo;s ability to discover and reason about evidence through the medium of essays. Each section focuses on a particular theme or topic, described on the Expos Website. All sections give students practice in formulating questions, analyzing both primary and secondary sources and properly acknowledging them, supporting arguments with strong and detailed evidence, and shaping clear, lively essays. All sections emphasize revision.</description>
+            <department code="EXPO">Expository Writing</department>
+            <course_group code="EXPOS">Expository Writing</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Monday Wednesday" end_time="14:59:00" location="Memorial Hall 028 (FAS)" start_time="14:00:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-18</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e171522a1310" role="1" seniority_sort="1">
+                <display_name>Richard Martin</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="110818" class_number="10895" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="GOV 2105">Comparative Politics: Field Seminar</title>
+            <notes> Preference given to FAS Government graduate students.</notes>
+            <description>Surveys topics in comparative politics (both the developed and the developing world), including the rise of the modern state; institutions of government; interest mediation; democracy and authoritarianism; revolution; political parties; mass and elite political behavior; political economy.</description>
+            <department code="GOVM">Government</department>
+            <course_group code="GOV">Government</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Wednesday" end_time="15:59:00" location="" start_time="14:00:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e73173a1310" role="1" seniority_sort="1">
+                <display_name>Robert Bates</display_name>
+            </person>
+            <person id="d1e84581a1310" role="1" seniority_sort="2">
+                <display_name>Torben Iversen</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

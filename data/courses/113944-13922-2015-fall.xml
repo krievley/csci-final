@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="113944" class_number="13922" school_id="fas" section="001" term_code="fall">
+        <catalog_info>
+            <title short_title="COMPSCI 283">Computer Vision</title>
+            <exam_group>FAS04_A</exam_group>
+            <notes> Offered jointly with the Design School as SCI-06275.</notes>
+            <description>Vision as an ill-posed inverse problem: image formation, two-dimensional signal processing; feature analysis; image segmentation; color, texture, and shading; multiple-view geometry; object and scene recognition; and applications.</description>
+            <department code="CS">Computer Science</department>
+            <course_group code="COMPSCI">Computer Science</course_group>
+            <course_type>Seminar</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="Maxwell Dworkin G125 (SEAS)" start_time="11:30:00"/>
+            </meeting_schedule>
+            <exam_date>2015-12-12</exam_date>
+        </catalog_info>
+        <staff>
+            <person id="d1e15288a1310" role="1" seniority_sort="1">
+                <display_name>Todd Zickler</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>

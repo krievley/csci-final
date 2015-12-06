@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="145864" class_number="13922" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="OEB 141">Biogeography</title>
+            <prereq>Recommended: Two following courses: Life Sciences 1b, OEB 10, OEB 51, OEB 52, OEB 53, OEB 54, OEB 55, OEB 181, or permission of the instructor.</prereq>
+            <description>Biogeography aims to explain distributions of organisms through historical and ecological factors. This course will focus on the history of biogeographic research, developments in the area of historical biogeography, and on ecological processes that affect distributions of whole clades. Topics include plate tectonics and earth history, vicariance and dispersal, areas of endemism, phylogenetic niche conservatism, latitudinal gradients in species richness, and the theory of island biogeography. Software for biogeographical analysis will be discussed and evaluated.</description>
+            <department code="BIOE">Organismic and Evolutionary Biology</department>
+            <course_group code="OEB">Organismic and Evolutionary Biology</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+        </catalog_info>
+    </course>
+</courses>

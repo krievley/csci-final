@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course academic_year="2015" course_id="125190" class_number="14846" school_id="fas" section="001" term_code="spring">
+        <catalog_info>
+            <title short_title="AESTHINT 54">For the Love of God and His Prophet: Religion, Literature, and the Arts in Muslim Cultures</title>
+            <notes> No prior knowledge of Islam required. You do not need to be "artistically" talented to do well in this course -- just willing to think "out of the box." Offered jointly with the Divinity School as 3627. This course, when taken for a letter grade, meets the General Education requirement for Aesthetic and Interpretive Understanding or Culture and Belief, but not both. This course fulfills the requirement that one of the eight General Education courses also engage substantially with Study of the Past.</notes>
+            <description>The course surveys the literary and artistic dimensions of the devotional life of the world's Muslim communities, focusing on the role of literature and the arts (poetry, music, architecture, calligraphy, etc.) as expressions of piety and socio-political critique. An important aim of the course is to explore the relationships between religion, literature, and the arts in a variety of historical and cultural contexts in the Middle East, sub-Saharan Africa, South Asia, Europe, and America.</description>
+            <department code="GENED">General Education</department>
+            <course_group code="AESTHINT">Aesthetic and Interpretive Understanding</course_group>
+            <course_type>Lecture</course_type>
+            <credits>4</credits>
+            <meeting_schedule>
+                <meeting days_of_week="Tuesday Thursday" end_time="12:59:00" location="" start_time="11:30:00"/>
+            </meeting_schedule>
+        </catalog_info>
+        <staff>
+            <person id="d1e25336a1310" role="1" seniority_sort="1">
+                <display_name>Ali S. Asani</display_name>
+            </person>
+        </staff>
+    </course>
+</courses>
