@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="html" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
@@ -97,7 +98,8 @@
                             <tr>
                                 <td>
                                     <strong>
-                                        <a href="courses?course={encode-for-uri(@course_id)}">
+                                        <!-- Adding reference to course id and class number to browse to class details from terms page -->
+                                        <a href="courses?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}">
                                             <xsl:value-of select="catalog_info/title/text()"/>
                                         </a>
                                     </strong>
@@ -126,7 +128,7 @@
                             <tr>
                                 <td>
                                     <strong>
-                                        <a href="courses?course={encode-for-uri(@course_id)}">
+                                        <a href="courses?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}">
                                             <xsl:value-of select="catalog_info/title/text()"/>
                                         </a>
                                     </strong>
