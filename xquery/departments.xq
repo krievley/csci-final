@@ -1,5 +1,6 @@
 xquery version "3.0" encoding "UTF-8";
 
+
 declare variable $col_path := request:get-attribute('collection_path');
 declare variable $col := collection($col_path);
 declare variable $query := request:get-parameter('list','department');
@@ -44,6 +45,23 @@ then
             $course
     }
 </terms>
+
+else if($query = 'schedule')
+then
+<schedule>
+    {
+    for $day in distinct-values($col/courses/course/catalog_info/meeting_schedule/meeting/@days_of_week)
+    for $start in distinct-values($col/courses/course/catalog_info/meeting_schedule/meeting/@start_time)
+    for $end in distinct-values($col/courses/course/catalog_info/meeting_schedule/meeting/@end_time)
+(:    order by $course/@days_of_week:)
+        return 
+            <meeting>
+                <day>{$day}</day>
+                <start>{$start}</start>
+                <end>{$end}</end>
+            </meeting>
+    }
+</schedule>
     
 else
     <departments></departments>

@@ -3,11 +3,26 @@ xquery version "3.0" encoding "UTF-8";
 declare variable $col_path := request:get-attribute('collection_path');
 declare variable $col := collection($col_path);
 declare variable $id := request:get-parameter('id','*');
+declare variable $code := request:get-parameter('course','');
+declare variable $classnum := request:get-parameter('classnum','');
 
-<result>
+(:<result>:)
+(:    {   :)
+(:        for $course in $col/courses/course:)
+(:        where $course/@course_id eq $id:)
+(:        return $course:)
+(:    }:)
+(:</result>:)
+
+if ($code != "" and $classnum != "")
+then
+<course>
     {   
         for $course in $col/courses/course
-        where $course/@course_id eq $id
+        where $course/@course_id eq $code and $course/@class_number eq $classnum
         return $course
     }
-</result>
+</course>
+
+else
+    <none></none>

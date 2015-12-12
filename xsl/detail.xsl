@@ -15,8 +15,8 @@
             <body>
                 <div class="container-fluid">
                     <h1>Harvard University<br/>Faculty of Arts and Sciences</h1>
-                    <xsl:call-template name="breadcrumb"/>
-                    <xsl:apply-templates/>
+                    <!-- Applying Course Template -->
+                    <xsl:apply-templates select="course"/>
                 </div><!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
                     <xsl:text/>
@@ -27,127 +27,110 @@
             </body>
         </html>
     </xsl:template>
-    <xsl:template match="result">
-        <xsl:for-each select="course">
-            <div class="col-md-12" style="padding-bottom:20px;padding-top:20px;border-bottom:1px solid #f5f5f5;">
-                <div class="row">
-                    <div class="col-md-2">
-                        <strong>Title</strong>
-                    </div>
-                    <div class="col-md-10">
-                        <xsl:value-of select="catalog_info/title"/>
-                        <xsl:text> - </xsl:text>
-                        <xsl:value-of select="catalog_info/title/@short_title"/>
-                    </div>
-                </div>
-                <xsl:if test="catalog_info/exam_group != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Exam Group</strong>
-                        </div>
-                        <div class="col-md-10">
-                            <xsl:value-of select="catalog_info/exam_group"/>
-                        </div>
-                    </div>
-                </xsl:if>
-                <xsl:if test="catalog_info/description != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Description</strong>
-                        </div>
-                        <div class="col-md-10">
-                            <xsl:value-of select="catalog_info/description"/>
-                        </div>
-                    </div>
-                </xsl:if>
-                <xsl:if test="catalog_info/department/@code != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Department Code</strong>
-                        </div>
-                        <div class="col-md-10">
-                            <xsl:value-of select="catalog_info/department/@code"/>
-                        </div>
-                    </div>
-                </xsl:if>
-                <xsl:if test="catalog_info/department != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Department</strong>
-                        </div>
-                        <div class="col-md-10">
-                            <xsl:value-of select="catalog_info/department"/>
-                        </div>
-                    </div>
-                </xsl:if>
-                <xsl:if test="catalog_info/course_type != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Course Type</strong>
-                        </div>
-                        <div class="col-md-10">
-                            <xsl:value-of select="catalog_info/course_type"/>
-                        </div>
-                    </div>
-                </xsl:if>
-                <xsl:if test="catalog_info/credits != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Credits</strong>
-                        </div>
-                        <div class="col-md-10">
-                            <xsl:value-of select="catalog_info/credits"/>
-                        </div>
-                    </div>
-                </xsl:if>
-                <xsl:if test="catalog_info/meeting_schedule != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Meeting Schedule</strong>
-                        </div>
-                        <div class="col-md-10">
-                            <xsl:value-of select="catalog_info/meeting_schedule/meeting/@days_of_week"/>
-                            <xsl:text> </xsl:text>
-                            <xsl:value-of select="catalog_info/meeting_schedule/meeting/@start_time"/>
-                            <xsl:text> - </xsl:text>
-                            <xsl:value-of select="catalog_info/meeting_schedule/meeting/@end_time"/>
-                        </div>
-                    </div>
-                </xsl:if>
-                <xsl:if test="catalog_info/meeting_schedule/meeting/@location != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Location</strong>
-                        </div>
-                        <div class="col-md-10">
-                            <xsl:value-of select="catalog_info/meeting_schedule/meeting/@location"/>
-                        </div>
-                    </div>
-                </xsl:if>
-                <xsl:if test="catalog_info/exam_date != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Exam Date</strong>
-                        </div>
-                        <div class="col-md-10">
-                            <xsl:value-of select="catalog_info/exam_date"/>
-                        </div>
-                    </div>
-                </xsl:if>
-                <xsl:if test="person/display_name != ''">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <strong>Teacher Name</strong>
-                        </div>
-                        <xsl:for-each select="staff">
-                            <div class="col-md-10">
-                                <xsl:value-of select="person/display_name"/>
-                            </div>
+
+    <!-- Setting up Course detailed view -->
+    <xsl:template match="course">
+    
+    <!-- Calling breadcrumb on Course -->
+        <xsl:call-template name="breadcrumb"/>
+    
+    <!-- Selecting Course Title -->
+        <h2>
+            <xsl:value-of select="course/catalog_info/title"/>
+        </h2>
+        <table class="table">
+        <!-- Selecting multiple course values for display in detailed course information page -->
+            <tbody>
+                <tr>
+                    <td>Course ID:</td>
+                    <td>
+                        <xsl:value-of select="course/@course_id"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Class Number:</td>
+                    <td>
+                        <xsl:value-of select="course/@class_number"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Academic Year:</td>
+                    <td>
+                        <xsl:value-of select="course/@academic_year"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Class Type:</td>
+                    <td>
+                        <xsl:value-of select="course/catalog_info/course_type"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Department:</td>
+                    <td>
+                        <xsl:value-of select="course/catalog_info/department"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Credits:</td>
+                    <td>
+                        <xsl:value-of select="course/catalog_info/credits"/>
+                    </td>
+                </tr>
+                <tr>
+                                    <!-- Selecting Staff members - also using XSL Sorting on seniority -->
+                    <td>Staff:</td>
+                    <td>
+                        <xsl:for-each select="course/staff/person">
+                            <xsl:sort select="course/staff/person/@seniority_sort"/>
+                            <xsl:value-of select="display_name"/>
                         </xsl:for-each>
-                    </div>
-                </xsl:if>
-            </div>
-        </xsl:for-each>
+                    </td>
+                </tr>
+                <tr>
+                                    <!-- displaying meeting schedule/information -->
+                    <table class="table">
+                        <tr>
+                            <th>Meeting Information</th>
+                        </tr>
+                        <tr>
+                                            <!-- Testing whether meeting information is available or not -->
+                            <xsl:choose>
+                                                <!-- Testing existance of meeting node -->
+                                <xsl:when test="course/catalog_info/meeting_schedule">
+                                    <td>Start Time: <xsl:value-of select="course/catalog_info/meeting_schedule/meeting/@start_time"/>
+                                    </td>
+                                    <td>End Time: <xsl:value-of select="course/catalog_info/meeting_schedule/meeting/@end_time"/>
+                                    </td>
+                                    <td>Location: <xsl:value-of select="course/catalog_info/meeting_schedule/meeting/@location"/>
+                                    </td>
+                                    <td>Days of the Week: <xsl:value-of select="course/catalog_info/meeting_schedule/meeting/@days_of_week"/>
+                                    </td>
+                                </xsl:when>
+                                                <!-- if node isn't present, echo friendly message -->
+                                <xsl:otherwise>
+                                    <td>Unfortunately no Meeting Information is available at this time.</td>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </tr>
+                    </table>
+                </tr>
+                                
+                                <!-- Displaying Course Description -->
+                <tr>
+                    <table class="table">
+                        <tr>
+                            <th>Class Description</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                <xsl:value-of select="course/catalog_info/description"/>
+                            </td>
+                        </tr>
+                    </table>
+                </tr>
+            </tbody>
+        </table>
     </xsl:template>
     <xsl:template name="breadcrumb">
         <ol class="breadcrumb">

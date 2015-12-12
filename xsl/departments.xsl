@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="html" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
@@ -38,6 +37,9 @@
                                     <li>
                                         <a href="?list=term">Term</a>
                                     </li>
+                                    <li>
+                                        <a href="?list=schedule">Schedule</a>
+                                    </li>
                                 </ul>
                                 <form class="navbar-form navbar-left" role="search">
                                     <div class="form-group">
@@ -53,6 +55,7 @@
                     <xsl:apply-templates select="departments"/>
                     <xsl:apply-templates select="instructors"/>
                     <xsl:apply-templates select="terms"/>
+                    <xsl:apply-templates select="schedule"/>
                 </div>
             </body>
         </html>
@@ -99,7 +102,7 @@
                                 <td>
                                     <strong>
                                         <!-- Adding reference to course id and class number to browse to class details from terms page -->
-                                        <a href="courses?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}">
+                                        <a href="detail?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}">
                                             <xsl:value-of select="catalog_info/title/text()"/>
                                         </a>
                                     </strong>
@@ -145,6 +148,23 @@
                 </table>
             </div>
         </div>
+    </xsl:template>
+    <xsl:template match="schedule">
+        <ul class="list-group">
+            <xsl:for-each select="*">
+                <li class="list-group-item">
+                    <strong>
+                        <a href="#">
+                            <xsl:value-of select="day"/>
+                            <xsl:text> </xsl:text>
+                            <xsl:value-of select="start"/>
+                            <xsl:text> - </xsl:text>
+                            <xsl:value-of select="end"/>
+                        </a>
+                    </strong>
+                </li>
+            </xsl:for-each>
+        </ul>
     </xsl:template>
     <xsl:template match="text()"/>
 </xsl:stylesheet>
