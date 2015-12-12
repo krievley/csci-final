@@ -54,8 +54,11 @@ else
                 <set-attribute
                     name="exist.prefix"
                     value="{$exist:prefix}"/>
+                <set-attribute 
+                    name="xslt.querystring" 
+                    value="{request:get-query-string()}"/>
             </forward>
-             <view>
+            <view>
                 <forward
                     servlet="XSLTServlet">
                     <set-attribute
@@ -134,10 +137,45 @@ else
                     <set-attribute
                         name="xslt.stylesheet"
                         value="{concat($exist:root, $exist:controller, "/xsl/courses.xsl")}"/>
-                    <set-attribute 
-                        name="xslt.querystring" 
-                        value="{request:get-query-string()}"/>
-                </forward> 
+                </forward>
+            </view>
+        </dispatch>
+
+else
+    if ($exist:resource eq 'detail') then
+        <dispatch
+            xmlns="http://exist.sourceforge.net/NS/exist">
+            <forward
+                url="{$exist:controller}/xquery/detail.xq">
+                <set-attribute
+                    name="collection_path"
+                    value="{$collection_path}"/>
+                <set-attribute
+                    name="exist.root"
+                    value="{$exist:root}"/>
+                <set-attribute
+                    name="exist.path"
+                    value="{$exist:path}"/>
+                <set-attribute
+                    name="exist.resource"
+                    value="{$exist:resource}"/>
+                <set-attribute
+                    name="exist.controller"
+                    value="{$exist:controller}"/>
+                <set-attribute
+                    name="exist.prefix"
+                    value="{$exist:prefix}"/>
+                <set-attribute 
+                    name="xslt.querystring" 
+                    value="{request:get-query-string()}"/>
+            </forward>
+            <view>
+                <forward
+                    servlet="XSLTServlet">
+                    <set-attribute
+                        name="xslt.stylesheet"
+                        value="{concat($exist:root, $exist:controller, "/xsl/detail.xsl")}"/>
+                </forward>
             </view>
         </dispatch>
            

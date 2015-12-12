@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="xar" name="cscie18-assignment2">
+<project default="xar" name="cscie18-assignment5">
     <xmlproperty file="expath-pkg.xml"/>
     <property name="project.version" value="${package(version)}"/>
-    <property name="project.app" value="cscie18-assignment2"/>
+    <property name="project.app" value="cscie18-assignment5"/>
     <property name="build.dir" value="build"/>
     <target name="xar">
         <mkdir dir="${build.dir}"/>
