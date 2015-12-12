@@ -6,8 +6,6 @@ declare variable $dept := request:get-parameter('department','*');
 declare variable $instructor := request:get-parameter('instructor','*');
 declare variable $course_id := request:get-parameter('id','*');
 
-(:if($dept != ""):)
-(:then:)
 <result>
     {   
         for $course in $col/courses/course
@@ -18,16 +16,3 @@ declare variable $course_id := request:get-parameter('id','*');
         return $course
     }
 </result>
-(::)
-(:else if ($code != "" and $classnum != ""):)
-(:then:)
-(:<course>:)
-(:    {   :)
-(:        for $course in $col/courses/course:)
-(:        where $course/@course_id eq $code and $course/@class_number eq $classnum:)
-(:        return $course:)
-(:    }:)
-(:</course>:)
-(::)
-(:else:)
-(:    <none></none>:)
