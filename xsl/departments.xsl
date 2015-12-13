@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="html" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
@@ -16,8 +17,7 @@
                 <div class="container-fluid">
                     <h1>Harvard University<br/>Faculty of Arts and Sciences</h1>
                     <nav class="navbar navbar-default">
-                        <div class="container-fluid">
-                            <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="container-fluid"><!-- Brand and toggle get grouped for better mobile display -->
                             <div class="navbar-header">
                                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                                     <span class="sr-only">Toggle navigation</span>
@@ -100,8 +100,7 @@
                         <xsl:for-each select="course[@term_code = 'fall']">
                             <tr>
                                 <td>
-                                    <strong>
-                                        <!-- Adding reference to course id and class number to browse to class details from terms page -->
+                                    <strong><!-- Adding reference to course id and class number to browse to class details from terms page -->
                                         <a href="detail?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}">
                                             <xsl:value-of select="catalog_info/title/text()"/>
                                         </a>
@@ -156,7 +155,7 @@
                     <strong>
                         <a href="#">
                             <xsl:value-of select="day"/>
-                            <xsl:text> </xsl:text>
+                            <xsl:text/>
                             <xsl:value-of select="start"/>
                             <xsl:text> - </xsl:text>
                             <xsl:value-of select="end"/>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="html" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
@@ -14,8 +15,7 @@
             </head>
             <body>
                 <div class="container-fluid">
-                    <h1>Harvard University<br/>Faculty of Arts and Sciences</h1>
-                    <!-- Applying Course Template -->
+                    <h1>Harvard University<br/>Faculty of Arts and Sciences</h1><!-- Applying Course Template -->
                     <xsl:apply-templates select="course"/>
                 </div><!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
@@ -26,20 +26,13 @@
                 </script>
             </body>
         </html>
-    </xsl:template>
-
-    <!-- Setting up Course detailed view -->
-    <xsl:template match="course">
-    
-    <!-- Calling breadcrumb on Course -->
-        <xsl:call-template name="breadcrumb"/>
-    
-    <!-- Selecting Course Title -->
+    </xsl:template><!-- Setting up Course detailed view -->
+    <xsl:template match="course"><!-- Calling breadcrumb on Course -->
+        <xsl:call-template name="breadcrumb"/><!-- Selecting Course Title -->
         <h2>
             <xsl:value-of select="course/catalog_info/title"/>
         </h2>
-        <table class="table">
-        <!-- Selecting multiple course values for display in detailed course information page -->
+        <table class="table"><!-- Selecting multiple course values for display in detailed course information page -->
             <tbody>
                 <tr>
                     <td>Course ID:</td>
@@ -77,8 +70,7 @@
                         <xsl:value-of select="course/catalog_info/credits"/>
                     </td>
                 </tr>
-                <tr>
-                                    <!-- Selecting Staff members - also using XSL Sorting on seniority -->
+                <tr><!-- Selecting Staff members - also using XSL Sorting on seniority -->
                     <td>Staff:</td>
                     <td>
                         <xsl:for-each select="course/staff/person">
@@ -87,16 +79,13 @@
                         </xsl:for-each>
                     </td>
                 </tr>
-                <tr>
-                                    <!-- displaying meeting schedule/information -->
+                <tr><!-- displaying meeting schedule/information -->
                     <table class="table">
                         <tr>
                             <th>Meeting Information</th>
                         </tr>
-                        <tr>
-                                            <!-- Testing whether meeting information is available or not -->
-                            <xsl:choose>
-                                                <!-- Testing existance of meeting node -->
+                        <tr><!-- Testing whether meeting information is available or not -->
+                            <xsl:choose><!-- Testing existance of meeting node -->
                                 <xsl:when test="course/catalog_info/meeting_schedule">
                                     <td>Start Time: <xsl:value-of select="course/catalog_info/meeting_schedule/meeting/@start_time"/>
                                     </td>
@@ -106,17 +95,14 @@
                                     </td>
                                     <td>Days of the Week: <xsl:value-of select="course/catalog_info/meeting_schedule/meeting/@days_of_week"/>
                                     </td>
-                                </xsl:when>
-                                                <!-- if node isn't present, echo friendly message -->
+                                </xsl:when><!-- if node isn't present, echo friendly message -->
                                 <xsl:otherwise>
                                     <td>Unfortunately no Meeting Information is available at this time.</td>
                                 </xsl:otherwise>
                             </xsl:choose>
                         </tr>
                     </table>
-                </tr>
-                                
-                                <!-- Displaying Course Description -->
+                </tr><!-- Displaying Course Description -->
                 <tr>
                     <table class="table">
                         <tr>

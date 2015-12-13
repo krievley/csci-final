@@ -180,6 +180,70 @@ else
         </dispatch>
            
  (: everything is passed through :)          
+ 
+ (: Added by LEO - PDF Logic :) 
+ else
+    if ($exist:resource eq 'pdf') then
+        <dispatch
+            xmlns="http://exist.sourceforge.net/NS/exist">
+            <forward
+                url="{$exist:controller}/xquery/pdf.xq">
+                <set-attribute
+                    name="collection_path"
+                    value="{$collection_path}"/>
+                <set-attribute
+                    name="exist.root"
+                    value="{$exist:root}"/>
+                <set-attribute
+                    name="exist.path"
+                    value="{$exist:path}"/>
+                <set-attribute
+                    name="exist.resource"
+                    value="{$exist:resource}"/>
+                <set-attribute
+                    name="exist.controller"
+                    value="{$exist:controller}"/>
+                <set-attribute
+                    name="exist.prefix"
+                    value="{$exist:prefix}"/>
+                <set-attribute 
+                    name="xslt.querystring" 
+                    value="{request:get-query-string()}"/>
+            </forward>
+        </dispatch>
+        
+(: Added by LEO - PDF Logic :) 
+
+else
+    if ($exist:resource eq 'leo') then
+        <dispatch
+            xmlns="http://exist.sourceforge.net/NS/exist">
+            <forward
+                url="{$exist:controller}/xquery/leo.xq">
+                <set-attribute
+                    name="collection_path"
+                    value="{$collection_path}"/>
+                <set-attribute
+                    name="exist.root"
+                    value="{$exist:root}"/>
+                <set-attribute
+                    name="exist.path"
+                    value="{$exist:path}"/>
+                <set-attribute
+                    name="exist.resource"
+                    value="{$exist:resource}"/>
+                <set-attribute
+                    name="exist.controller"
+                    value="{$exist:controller}"/>
+                <set-attribute
+                    name="exist.prefix"
+                    value="{$exist:prefix}"/>
+                <set-attribute 
+                    name="xslt.querystring" 
+                    value="{request:get-query-string()}"/>
+            </forward>
+        </dispatch>
+
 else
     <dispatch
         xmlns="http://exist.sourceforge.net/NS/exist">

@@ -1,0 +1,37 @@
+xquery version "3.0" encoding "UTF-8";
+
+    let $col_path := request:get-attribute('collection_path')
+    let $col := collection($col_path)
+    let $code := '159795'
+    let $classnum := '14851'
+
+    return
+    <test1>
+        <colpath>
+            {
+                $col_path
+            }
+        </colpath>
+        <col>
+            {
+            '-------------------------'
+            }
+        </col>
+        <code>
+            {
+                $code
+            }
+        </code>
+        <num>
+            {   
+                $classnum 
+            }
+        </num>
+        <course>
+            {
+            for $course in $col/courses/course
+            where ($course/@course_id eq $code and $course/@class_number eq $classnum)
+            return $course
+            }
+        </course>
+    </test1>
