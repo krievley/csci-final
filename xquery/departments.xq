@@ -49,16 +49,15 @@ else if($query = 'schedule')
 then
 <schedule>
     {
-    for $day in distinct-values($col/courses/course/catalog_info/meeting_schedule/meeting/@days_of_week)
-    for $start in distinct-values($col/courses/course/catalog_info/meeting_schedule/meeting/@start_time)
-    for $end in distinct-values($col/courses/course/catalog_info/meeting_schedule/meeting/@end_time)
+    for $meeting in $col/courses/course/catalog_info/meeting_schedule/meeting
+    let $order := ("Monday", "Monday Wednesday", "Monday Friday", "Monday Wednesday Friday", "Tuesday", "Tuesday Thursday", "Tuesday Thursday Friday", "Tuesday Wednesday", "Tuesday Friday", "Wednesday", "Wednesday Thursday", "Wednesday Friday", "Thursday", "Friday", "Saturday", "Monday Tuesday", "Monday Tuesday Wednesday", "Monday Tuesday Wednesday Thursday", "Monday Tuesday Wednesday Friday", "Monday Tuesday Thursday Friday", "Monday Tuesday Wednesday Thursday Friday", "Monday Tuesday Wednesday Thursday Friday Saturday", "Monday Wednesday Thursday", "Monday Wednesday Thursday Friday", "Monday Thursday")
+    order by 
+        index-of($order, $meeting/@days_of_week),
+        $meeting/@start_time,
+        $meeting/@end_time
     
-        return 
-            <meeting>
-                <day>{$day}</day>
-                <start>{$start}</start>
-                <end>{$end}</end>
-            </meeting>
+    return 
+        $meeting
     }
 </schedule>
 

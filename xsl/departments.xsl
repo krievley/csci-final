@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="html" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
@@ -130,7 +129,7 @@
                             <tr>
                                 <td>
                                     <strong>
-                                        <a href="courses?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}">
+                                        <a href="detail?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}">
                                             <xsl:value-of select="catalog_info/title/text()"/>
                                         </a>
                                     </strong>
@@ -151,17 +150,19 @@
     <xsl:template match="schedule">
         <ul class="list-group">
             <xsl:for-each select="*">
-                <li class="list-group-item">
-                    <strong>
-                        <a href="#">
-                            <xsl:value-of select="day"/>
-                            <xsl:text/>
-                            <xsl:value-of select="start"/>
-                            <xsl:text> - </xsl:text>
-                            <xsl:value-of select="end"/>
-                        </a>
-                    </strong>
-                </li>
+                <xsl:if test="not(@start_time=preceding-sibling::*[1]/@start_time)">
+                    <li class="list-group-item">
+                        <strong>
+                            <a href="courses?days={encode-for-uri(@days_of_week)}&amp;start={@start_time}&amp;end={@end_time}">
+                                <xsl:value-of select="@days_of_week"/>
+                                <xsl:text>  </xsl:text>
+                                <xsl:value-of select="@start_time"/>
+                                <xsl:text> - </xsl:text>
+                                <xsl:value-of select="@end_time"/>
+                            </a>
+                        </strong>
+                    </li>
+                </xsl:if>
             </xsl:for-each>
         </ul>
     </xsl:template>
