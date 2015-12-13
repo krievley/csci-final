@@ -50,7 +50,7 @@
                                 </ul>
                                 <form class="navbar-form navbar-left" action="courses" method="GET">
                                     <div class="form-group">
-                                        <input name="q" type="text" class="form-control" placeholder="Search by title..."/>
+                                        <input name="q" type="text" class="form-control" placeholder="Search..."/>
                                     </div>
                                     <button type="submit" class="btn btn-default">
                                         <span class="glyphicon glyphicon-search"/>

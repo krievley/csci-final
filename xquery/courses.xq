@@ -16,6 +16,7 @@ then
     {   
         for $course in $col/courses/course
         where (matches($course/catalog_info/title, $search, 'i') or $search = '*')
+        or (matches($course/catalog_info/description, $search, 'i') or $search = '*')
         order by $course/catalog_info/title
         return $course
     }
