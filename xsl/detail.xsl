@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="html" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
@@ -15,7 +14,9 @@
             </head>
             <body>
                 <div class="container-fluid">
-                    <h1>Harvard University<br/>Faculty of Arts and Sciences</h1><!-- Applying Course Template -->
+                    <div>
+                        <img class="img-responsive" style="padding:25px;" src="http://www.people.fas.harvard.edu/~gillum/harvard_fas_logo.jpg" alt="Harvard FAS" title="Harvard FAS"/>
+                    </div>
                     <xsl:apply-templates select="course"/>
                 </div><!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">

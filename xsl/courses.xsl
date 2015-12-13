@@ -15,7 +15,9 @@
             </head>
             <body>
                 <div class="container-fluid">
-                    <h1>Harvard University<br/>Faculty of Arts and Sciences</h1>
+                    <div>
+                        <img class="img-responsive" style="padding:25px;" src="http://www.people.fas.harvard.edu/~gillum/harvard_fas_logo.jpg" alt="Harvard FAS" title="Harvard FAS"/>
+                    </div>
                     <xsl:call-template name="breadcrumb"/>
                     <table class="table table-bordered datatable">
                         <thead>
