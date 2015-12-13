@@ -8,6 +8,7 @@ declare variable $course_id := request:get-parameter('id','*');
 declare variable $days := request:get-parameter('days','*');
 declare variable $start := request:get-parameter('start','*');
 declare variable $end := request:get-parameter('end','*');
+declare variable $search := request:get-parameter('q','*');
 
 <result>
     {   
@@ -18,6 +19,7 @@ declare variable $end := request:get-parameter('end','*');
         and ($course/catalog_info/meeting_schedule/meeting/@days_of_week eq $days or $days = '*')
         and ($course/catalog_info/meeting_schedule/meeting/@start_time eq $start or $start = '*')
         and ($course/catalog_info/meeting_schedule/meeting/@end_time eq $end or $end = '*')
+        and (matches($course/catalog_info/title, $search, 'i') or $search = '*')
         order by $course/catalog_info/title
         return $course
     }
