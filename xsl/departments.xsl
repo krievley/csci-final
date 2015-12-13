@@ -11,21 +11,27 @@
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"/>
+                <link rel="stylesheet" href="https://cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css"/>
             </head>
             <body>
                 <div class="container-fluid">
                     <h1>Harvard University<br/>Faculty of Arts and Sciences</h1>
                     <nav class="navbar navbar-default">
-                        <div class="container-fluid"><!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="container-fluid">
                             <div class="navbar-header">
-                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <span class="icon-bar"/>
-                                    <span class="icon-bar"/>
-                                    <span class="icon-bar"/>
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                    <span class="icon-bar">
+                                        <xsl:comment>Bar</xsl:comment>
+                                    </span>
+                                    <span class="icon-bar">
+                                        <xsl:comment>Bar</xsl:comment>
+                                    </span>
+                                    <span class="icon-bar">
+                                        <xsl:comment>Bar</xsl:comment>
+                                    </span>
                                 </button>
                             </div>
-                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <div class="collapse navbar-collapse" id="myNavbar">
                                 <ul class="nav navbar-nav">
                                     <li>
                                         <a href="?list=department">Departments</a>
@@ -56,40 +62,70 @@
                     <xsl:apply-templates select="terms"/>
                     <xsl:apply-templates select="schedule"/>
                 </div>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
+                    <xsl:text>javascript here</xsl:text>
+                </script><!-- Include all compiled plugins (below), or include individual files as needed -->
+                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
+                    <xsl:text>javascript here</xsl:text>
+                </script>
+                <script src="https://cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js">
+                    <xsl:text>javascript here</xsl:text>
+                </script>
+                <script type="text/javascript">
+                    //<xsl:comment>
+                        $(function() {
+                            $('.datatable').DataTable();
+                        } );
+                    //</xsl:comment>
+                </script>
             </body>
         </html>
     </xsl:template>
     <xsl:template match="departments">
-        <ul class="list-group">
-            <xsl:for-each select="*">
-                <li class="list-group-item">
-                    <strong>
-                        <a href="courses?department={encode-for-uri(@code)}">
-                            <xsl:value-of select="text()"/>
-                        </a>
-                    </strong>
-                </li>
-            </xsl:for-each>
-        </ul>
+        <table class="table table-bordered table-hover datatable">
+            <thead>
+                <th>Department Names</th>
+            </thead>
+            <tbody>
+                <xsl:for-each select="*">
+                    <tr>
+                        <td>
+                            <strong>
+                                <a href="courses?department={encode-for-uri(@code)}">
+                                    <xsl:value-of select="text()"/>
+                                </a>
+                            </strong>
+                        </td>
+                    </tr>
+                </xsl:for-each>
+            </tbody>
+        </table>
     </xsl:template>
     <xsl:template match="instructors">
-        <ul class="list-group">
-            <xsl:for-each select="*">
-                <li class="list-group-item">
-                    <strong>
-                        <a href="courses?instructor={@code}">
-                            <xsl:value-of select="text()"/>
-                        </a>
-                    </strong>
-                </li>
-            </xsl:for-each>
-        </ul>
+        <table class="table table-bordered table-hover datatable">
+            <thead>
+                <th>Instructor Names</th>
+            </thead>
+            <tbody>
+                <xsl:for-each select="*">
+                    <tr>
+                        <td>
+                            <strong>
+                                <a href="courses?instructor={@code}">
+                                    <xsl:value-of select="text()"/>
+                                </a>
+                            </strong>
+                        </td>
+                    </tr>
+                </xsl:for-each>
+            </tbody>
+        </table>
     </xsl:template>
     <xsl:template match="terms">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <h3>Fall Term</h3>
-                <table class="table table-bordered table-hover">
+                <table class="table table-bordered table-hover datatable">
                     <thead>
                         <th>Title</th>
                         <th>Class #</th>
@@ -116,9 +152,9 @@
                     </tbody>
                 </table>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <h3>Spring Term</h3>
-                <table class="table table-bordered table-hover">
+                <table class="table table-bordered table-hover datatable">
                     <thead>
                         <th>Title</th>
                         <th>Class #</th>
@@ -148,23 +184,30 @@
         </div>
     </xsl:template>
     <xsl:template match="schedule">
-        <ul class="list-group">
-            <xsl:for-each select="*">
-                <xsl:if test="not(@start_time=preceding-sibling::*[1]/@start_time)">
-                    <li class="list-group-item">
-                        <strong>
-                            <a href="courses?days={encode-for-uri(@days_of_week)}&amp;start={@start_time}&amp;end={@end_time}">
-                                <xsl:value-of select="@days_of_week"/>
-                                <xsl:text>  </xsl:text>
-                                <xsl:value-of select="@start_time"/>
-                                <xsl:text> - </xsl:text>
-                                <xsl:value-of select="@end_time"/>
-                            </a>
-                        </strong>
-                    </li>
-                </xsl:if>
-            </xsl:for-each>
-        </ul>
+        <table class="table table-bordered table-hover datatable">
+            <thead>
+                <th>Meeting Schedules</th>
+            </thead>
+            <tbody>
+                <xsl:for-each select="*">
+                    <xsl:if test="not(@start_time=preceding-sibling::*[1]/@start_time)">
+                        <tr>
+                            <td>
+                                <strong>
+                                    <a href="courses?days={encode-for-uri(@days_of_week)}&amp;start={@start_time}&amp;end={@end_time}">
+                                        <xsl:value-of select="@days_of_week"/>
+                                        <xsl:text>  </xsl:text>
+                                        <xsl:value-of select="@start_time"/>
+                                        <xsl:text> - </xsl:text>
+                                        <xsl:value-of select="@end_time"/>
+                                    </a>
+                                </strong>
+                            </td>
+                        </tr>
+                    </xsl:if>
+                </xsl:for-each>
+            </tbody>
+        </table>
     </xsl:template>
     <xsl:template match="text()"/>
 </xsl:stylesheet>

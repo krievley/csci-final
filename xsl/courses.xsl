@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="html" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
@@ -12,12 +11,13 @@
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"/>
+                <link rel="stylesheet" href="https://cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css"/>
             </head>
             <body>
                 <div class="container-fluid">
                     <h1>Harvard University<br/>Faculty of Arts and Sciences</h1>
                     <xsl:call-template name="breadcrumb"/>
-                    <table class="table table-bordered">
+                    <table class="table table-bordered datatable">
                         <thead>
                             <th>Title</th>
                             <th>Course Group</th>
@@ -29,12 +29,22 @@
                             <xsl:apply-templates/>
                         </tbody>
                     </table>
-                </div><!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+                </div>
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
-                    <xsl:text/>
+                    <xsl:text>javascript here</xsl:text>
                 </script><!-- Include all compiled plugins (below), or include individual files as needed -->
                 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
-                    <xsl:text/>
+                    <xsl:text>javascript here</xsl:text>
+                </script>
+                <script src="https://cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js">
+                    <xsl:text>javascript here</xsl:text>
+                </script>
+                <script type="text/javascript">
+                    //<xsl:comment>
+                        $(function() {
+                            $('.datatable').DataTable();
+                        } );
+                    //</xsl:comment>
                 </script>
             </body>
         </html>
