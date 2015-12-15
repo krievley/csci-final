@@ -5,6 +5,7 @@ declare variable $col := collection($col_path);
 declare variable $id := request:get-parameter('id','*');
 declare variable $code := request:get-parameter('course','');
 declare variable $classnum := request:get-parameter('classnum','');
+declare variable $term := request:get-parameter('term','');
 
 (:<result>:)
 (:    {   :)
@@ -19,7 +20,9 @@ then
 <course>
     {   
         for $course in $col/courses/course
-        where $course/@course_id eq $code and $course/@class_number eq $classnum
+        where $course/@course_id eq $code 
+        and $course/@class_number eq $classnum
+        and $course/@term_code eq $term
         return $course
     }
 </course>

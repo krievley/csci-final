@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0">
     <xsl:output method="xml" indent="yes"/><!-- matching on top level object - document - to set all configuration options and call xslt for content --><!-- Setting up styling attributes for PDF document -->
     <xsl:attribute-set name="tableheader">
@@ -82,106 +81,123 @@
                     <fo:block xsl:use-attribute-sets="coursetitle" margin-top="0.2in">
                         <xsl:value-of select="course/course/catalog_info/title"/>
                     </fo:block><!-- Starting Table with Course Detail Information -->
-                    <fo:table border-style="solid" border-width="0.5pt" border-color="#dddddd" table-layout="fixed" width="100%">
-                        <fo:table-column column-width="2.125in"/>
-                        <fo:table-column/>
-                        <fo:table-body>
-                            <fo:table-row>
-                                <fo:table-cell>
-                                    <fo:block>Course ID </fo:block>
-                                </fo:table-cell>
-                                <fo:table-cell>
+                    <fo:block margin-bottom="0.5in">
+                        <fo:table border-style="solid" border-width="0.5pt" border-color="#dddddd" table-layout="fixed" width="100%">
+                            <fo:table-column column-width="2.125in"/>
+                            <fo:table-column/>
+                            <fo:table-body>
+                                <fo:table-row>
+                                    <fo:table-cell>
+                                        <fo:block>Course ID </fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block>
+                                            <xsl:value-of select="course/course/@course_id"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                                <fo:table-row>
+                                    <fo:table-cell>
+                                        <fo:block>Class Number </fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block>
+                                            <xsl:value-of select="course/course/@class_number"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                                <fo:table-row>
+                                    <fo:table-cell>
+                                        <fo:block>Academic Year </fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block>
+                                            <xsl:value-of select="course/course/@academic_year"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                                <fo:table-row>
+                                    <fo:table-cell>
+                                        <fo:block>Course Type </fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block>
+                                            <xsl:value-of select="course/course/catalog_info/course_type"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                                <fo:table-row>
+                                    <fo:table-cell>
+                                        <fo:block>Department </fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block>
+                                            <xsl:value-of select="course/course/catalog_info/department"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                                <fo:table-row>
+                                    <fo:table-cell>
+                                        <fo:block>Credits </fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block>
+                                            <xsl:value-of select="course/course/catalog_info/credits"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                                <fo:table-row>
+                                    <fo:table-cell>
+                                        <fo:block>Staff </fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block><!-- selecting staff and ordering by Seniority -->
+                                            <xsl:for-each select="course/course/staff/person">
+                                                <xsl:sort select="course/course/staff/person/@seniority_sort"/>
+                                                <xsl:value-of select="display_name"/>
+                                            </xsl:for-each>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                            </fo:table-body>
+                        </fo:table>
+                    </fo:block><!-- Starting block with Meeting Information -->
+                    <fo:block margin-bottom="0.5in">
+                        <fo:block font-size="15pt">Meeting Information</fo:block>
+                        <fo:block><!-- Testing whether meeting information is available or not -->
+                            <xsl:choose><!-- Testing existance of meeting node -->
+                                <xsl:when test="course/course/catalog_info/meeting_schedule">
+                                    <fo:block>Start Time: <xsl:value-of select="course/course/catalog_info/meeting_schedule/meeting/@start_time"/>
+                                    </fo:block>
+                                    <fo:block>End Time: <xsl:value-of select="course/course/catalog_info/meeting_schedule/meeting/@end_time"/>
+                                    </fo:block>
+                                    <fo:block>Location: <xsl:value-of select="course/course/catalog_info/meeting_schedule/meeting/@location"/>
+                                    </fo:block>
+                                    <fo:block>Days of the Week: <xsl:value-of select="course/course/catalog_info/meeting_schedule/meeting/@days_of_week"/>
+                                    </fo:block>
+                                </xsl:when><!-- if node isn't present, echo friendly message -->
+                                <xsl:otherwise>
+                                    <fo:block>Unfortunately no Meeting Information is available at this time.</fo:block>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </fo:block>
+                    </fo:block><!-- Starting Block with Course Description -->
+                    <fo:block margin-bottom="0.5in">
+                        <fo:block font-size="15pt">Course Description</fo:block>
+                        <fo:block>
+                            <xsl:choose><!-- Testing existance of meeting node -->
+                                <xsl:when test="course/course/catalog_info/description">
                                     <fo:block>
-                                        <xsl:value-of select="course/course/@course_id"/>
+                                        <xsl:value-of select="course/course/catalog_info/description"/>
                                     </fo:block>
-                                </fo:table-cell>
-                            </fo:table-row>
-                            <fo:table-row>
-                                <fo:table-cell>
-                                    <fo:block>Class Number </fo:block>
-                                </fo:table-cell>
-                                <fo:table-cell>
+                                </xsl:when>
+                                <xsl:otherwise>
                                     <fo:block>
-                                        <xsl:value-of select="course/course/@class_number"/>
+                                        Unfortunately no Description is available at this time.
                                     </fo:block>
-                                </fo:table-cell>
-                            </fo:table-row>
-                            <fo:table-row>
-                                <fo:table-cell>
-                                    <fo:block>Academic Year </fo:block>
-                                </fo:table-cell>
-                                <fo:table-cell>
-                                    <fo:block>
-                                        <xsl:value-of select="course/course/@academic_year"/>
-                                    </fo:block>
-                                </fo:table-cell>
-                            </fo:table-row>
-                            <fo:table-row>
-                                <fo:table-cell>
-                                    <fo:block>Course Type </fo:block>
-                                </fo:table-cell>
-                                <fo:table-cell>
-                                    <fo:block>
-                                        <xsl:value-of select="course/course/catalog_info/course_type"/>
-                                    </fo:block>
-                                </fo:table-cell>
-                            </fo:table-row>
-                            <fo:table-row>
-                                <fo:table-cell>
-                                    <fo:block>Department </fo:block>
-                                </fo:table-cell>
-                                <fo:table-cell>
-                                    <fo:block>
-                                        <xsl:value-of select="course/course/catalog_info/department"/>
-                                    </fo:block>
-                                </fo:table-cell>
-                            </fo:table-row>
-                            <fo:table-row>
-                                <fo:table-cell>
-                                    <fo:block>Credits </fo:block>
-                                </fo:table-cell>
-                                <fo:table-cell>
-                                    <fo:block>
-                                        <xsl:value-of select="course/course/catalog_info/credits"/>
-                                    </fo:block>
-                                </fo:table-cell>
-                            </fo:table-row>
-                            <fo:table-row>
-                                <fo:table-cell>
-                                    <fo:block>Staff </fo:block>
-                                </fo:table-cell>
-                                <fo:table-cell>
-                                    <fo:block><!-- selecting staff and ordering by Seniority -->
-                                        <xsl:for-each select="course/course/staff/person">
-                                            <xsl:sort select="course/course/staff/person/@seniority_sort"/>
-                                            <xsl:value-of select="display_name"/>
-                                        </xsl:for-each>
-                                    </fo:block>
-                                </fo:table-cell>
-                            </fo:table-row>
-                        </fo:table-body>
-                    </fo:table><!-- Starting block with Meeting Information -->
-                    <fo:block margin-top="0.5in" font-size="15pt">Meeting Information</fo:block>
-                    <fo:block><!-- Testing whether meeting information is available or not -->
-                        <xsl:choose><!-- Testing existance of meeting node -->
-                            <xsl:when test="course/course/catalog_info/meeting_schedule">
-                                <fo:block>Start Time: <xsl:value-of select="course/course/catalog_info/meeting_schedule/meeting/@start_time"/>
-                                </fo:block>
-                                <fo:block>End Time: <xsl:value-of select="course/course/catalog_info/meeting_schedule/meeting/@end_time"/>
-                                </fo:block>
-                                <fo:block>Location: <xsl:value-of select="course/course/catalog_info/meeting_schedule/meeting/@location"/>
-                                </fo:block>
-                                <fo:block>Days of the Week: <xsl:value-of select="course/course/catalog_info/meeting_schedule/meeting/@days_of_week"/>
-                                </fo:block>
-                            </xsl:when><!-- if node isn't present, echo friendly message -->
-                            <xsl:otherwise>
-                                <fo:block>Unfortunately no Meeting Information is available at this time.</fo:block>
-                            </xsl:otherwise>
-                        </xsl:choose>
-                    </fo:block><!-- Starting Block with Meeting Description -->
-                    <fo:block margin-top="0.5in" font-size="15pt">Course Description</fo:block>
-                    <fo:block>
-                        <xsl:value-of select="course/course/catalog_info/description"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </fo:block>
                     </fo:block><!-- give empty block at end a known id go get total page numbers -->
                     <fo:block id="EndOfDoc"/>
                 </fo:flow>

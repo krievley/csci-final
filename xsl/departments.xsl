@@ -138,7 +138,7 @@
                             <tr>
                                 <td>
                                     <strong><!-- Adding reference to course id and class number to browse to class details from terms page -->
-                                        <a href="detail?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}">
+                                        <a href="detail?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}&amp;term={encode-for-uri(@term_code)}">
                                             <xsl:value-of select="catalog_info/title/text()"/>
                                         </a>
                                     </strong>
@@ -167,7 +167,7 @@
                             <tr>
                                 <td>
                                     <strong>
-                                        <a href="detail?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}">
+                                        <a href="detail?course={encode-for-uri(@course_id)}&amp;classnum={encode-for-uri(@class_number)}&amp;term={encode-for-uri(@term_code)}">
                                             <xsl:value-of select="catalog_info/title/text()"/>
                                         </a>
                                     </strong>
@@ -198,7 +198,7 @@
                                 <strong>
                                     <a href="courses?days={encode-for-uri(@days_of_week)}&amp;start={@start_time}&amp;end={@end_time}">
                                         <xsl:value-of select="@days_of_week"/>
-                                        <xsl:text>  </xsl:text>
+                                        <xsl:text/>
                                         <xsl:value-of select="@start_time"/>
                                         <xsl:text> - </xsl:text>
                                         <xsl:value-of select="@end_time"/>

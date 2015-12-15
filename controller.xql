@@ -212,7 +212,7 @@ else
             </forward>
         </dispatch>
         
-(: Added by LEO - PDF Logic :) 
+(: Added by LEO - TEST Logic :) 
 
 else
     if ($exist:resource eq 'leo') then

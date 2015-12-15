@@ -35,4 +35,13 @@ else
         order by $course/catalog_info/title
         return $course
     }
+    
+(: Added by LEO - extending XQ Logic to include passed instructor name into XML so that I can reference it for page data :)
+<instructorname>
+{ if ($instructor != '*') 
+    then $instructor
+    else ()
+}
+</instructorname>    
+
 </result>

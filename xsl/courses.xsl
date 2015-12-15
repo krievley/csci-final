@@ -6,7 +6,7 @@
                 <meta charset="utf-8"/>
                 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-                <title>CSCI E-18, Assignment 2</title>
+                <title>CSCI E-18, Final Assignment</title>
                 <xsl:comment>Bootstrap</xsl:comment>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
@@ -18,7 +18,16 @@
                     <div>
                         <img class="img-responsive" style="padding:25px;" src="http://www.people.fas.harvard.edu/~gillum/harvard_fas_logo.jpg" alt="Harvard FAS" title="Harvard FAS"/>
                     </div>
-                    <xsl:call-template name="breadcrumb"/>
+                    <xsl:call-template name="breadcrumb"/><!-- if we are displaying instructor, show name in title - if not - don't show anything -->
+                    <xsl:if test="result/instructorname != ''"><!-- referencing instructor name as a semi-title - grabbed value from passed parameter to XQ file -->
+                        <h2>
+                            <xsl:value-of select="result/instructorname"/>
+                        </h2>
+                        <div style="position:absolute; right:0; top:0; font-size:8pt; width:230px">
+                            <a href="pdf?instructor={encode-for-uri(result/instructorname)}">View the following page in PDF format: <img src="xsl/pdf.png" alt="View PDF Version"/>
+                            </a>
+                        </div>
+                    </xsl:if>
                     <table class="table table-bordered datatable">
                         <thead>
                             <th>Title</th>
@@ -42,11 +51,9 @@
                     <xsl:text>javascript here</xsl:text>
                 </script>
                 <script type="text/javascript">
-                    //<xsl:comment>
                         $(function() {
                             $('.datatable').DataTable();
                         } );
-                    //</xsl:comment>
                 </script>
             </body>
         </html>
@@ -55,7 +62,7 @@
         <xsl:for-each select="course">
             <tr>
                 <td>
-                    <a href="detail?course={@course_id}&amp;classnum={@class_number}">
+                    <a href="detail?course={@course_id}&amp;classnum={@class_number}&amp;term={@term_code}">
                         <xsl:value-of select="catalog_info/title"/>
                     </a>
                 </td>
